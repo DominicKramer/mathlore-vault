@@ -1,0 +1,15 @@
+[A \proper.subset B]
+Represents:
+assuming:
+. 'A, B is \set'
+that:
+. 'A \subset B'
+. 'A \neq B'
+Metadata:
+. written: "A& \subsetneq B&"
+. reference:
+  . source: "@AATA"
+    page: "4"
+    offset: "18"
+. id: "5e05ac2cb664bf5c95806092"
+

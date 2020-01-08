@@ -1,0 +1,32 @@
+[\group]
+Defines: G := (X, *, e)
+assuming:
+. 'X is \set'
+. '* is \binary.operator:on{X}'
+means:
+. for: a, b, c
+  where:
+  . 'a, b, c \in X'
+  then:
+  . '(a * b) * c = a * (b * c)'
+. 'e \in X'
+. for: a
+  where:
+  . 'x \in X'
+  then:
+  . 'a * e = e * a = a'
+. for: a
+  where:
+  . 'a \in X'
+  then:
+  . exists: b
+    suchThat:
+    . 'b \in X'
+    . 'a * b = b * a = e'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "34"
+    offset: "48"
+. id: "5e05ac2ab664bf5c95806063"
+

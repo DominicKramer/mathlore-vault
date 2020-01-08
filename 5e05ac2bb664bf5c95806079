@@ -1,0 +1,39 @@
+[\order.relation:on{F := (X, +, *, 0, 1)}]
+Defines: <
+assuming:
+. 'F is \field'
+means:
+. '< is \binary.operation:on{X}'
+. '< is \transitive.relation:on{X}'
+. for: a, b
+  where:
+  . 'a, b \in X'
+  then:
+  . or:
+    . 'a = b'
+    . 'a < b'
+    . 'b < a'
+. for: a, b, c
+  where:
+  . 'a, b, c \in X'
+  then:
+  . if:
+    . 'a < b'
+    then:
+    . 'a + c < b + c'
+. for: a, b, c
+  where:
+  . 'a, b, c \in X'
+  . '0 < c'
+  then:
+  . if:
+    . 'a < b'
+    then:
+    . 'a * c < b * c'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e05ac2bb664bf5c95806079"
+

@@ -1,0 +1,14 @@
+[\invertible.matrix]
+Defines: M
+means:
+. 'M is \matrix'
+. exists: A
+  suchThat:
+  . 'M * A = \identity.matrix'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "35"
+    offset: "49"
+. id: "5e05ac2ab664bf5c95806068"
+

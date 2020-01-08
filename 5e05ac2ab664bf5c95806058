@@ -1,0 +1,19 @@
+[\injective.function:on{A}to{B}]
+Defines: f
+means:
+. 'f is \function:on{A}to{B}'
+. for: a1, a2
+  where:
+  . 'a1, a2 \in A'
+  then:
+  . if:
+    . 'a1 \neq a2'
+    then:
+    . 'f(a1) \neq f(a2)'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "8"
+    offset: "22"
+. id: "5e05ac2ab664bf5c95806058"
+

@@ -1,0 +1,13 @@
+[\permutation:of{S}]
+Defines: f
+assuming:
+. 'S is \set'
+means:
+. 'f is \bijective \function:on{S}to{S}'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "9"
+    offset: "23"
+. id: "5e05ac2ab664bf5c9580605b"
+

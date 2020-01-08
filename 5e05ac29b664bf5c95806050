@@ -1,0 +1,16 @@
+[A \intersect B]
+Defines: C := {c}
+assuming:
+. 'A, B is \set'
+means:
+. 'C is \set'
+. 'c \in A'
+. 'c \in B'
+Metadata:
+. written: "A& \cap B&"
+. reference:
+  . source: "@AATA"
+    page: "4"
+    offset: "18"
+. id: "5e05ac29b664bf5c95806050"
+

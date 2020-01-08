@@ -1,0 +1,17 @@
+[\division.with.identity.ring]
+Defines: R := (X, +, *, 0, 1)
+means:
+. 'R is \ring'
+. for: x
+  where:
+  . 'x \in X'
+  . 'x \neq 0'
+  then:
+  . 'x is \ring.unit:in{R}'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "200"
+    offset: "214"
+. id: "5e05ac2bb664bf5c95806076"
+

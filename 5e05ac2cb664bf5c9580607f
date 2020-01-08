@@ -1,0 +1,10 @@
+[a < b]
+Defines: <
+means:
+. if:
+  . 'a, b is \real'
+  then:
+  . '< := \real.order'
+Metadata:
+. id: "5e05ac2cb664bf5c9580607f"
+

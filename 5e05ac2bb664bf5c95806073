@@ -1,0 +1,16 @@
+[\commutative.ring]
+Defines: R := (X, +, *, 0)
+means:
+. 'R is \ring'
+. for: x, y
+  where:
+  . 'x, y \in X'
+  then:
+  . 'x*y = y*x'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "199"
+    offset: "213"
+. id: "5e05ac2bb664bf5c95806073"
+

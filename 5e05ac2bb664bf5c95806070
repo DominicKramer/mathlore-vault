@@ -1,0 +1,10 @@
+[\nonempty.set]
+Defines: X
+means:
+. 'X is \set'
+. exists: x
+  suchThat:
+  . 'x \in X'
+Metadata:
+. id: "5e05ac2bb664bf5c95806070"
+

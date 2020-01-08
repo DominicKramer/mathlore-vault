@@ -1,0 +1,11 @@
+[x \notin X]
+Represents:
+assuming:
+. 'X is \set'
+that:
+. not:
+  . 'x \in X'
+Metadata:
+. written: "x& \notin X&"
+. id: "5e05ac2cb664bf5c95806093"
+

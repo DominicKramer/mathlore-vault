@@ -1,0 +1,13 @@
+[\infinite.set]
+Defines: X
+means:
+. 'X is \set'
+. not:
+  . 'X is \finite \set'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "36"
+    offset: "50"
+. id: "5e05ac2bb664bf5c9580606b"
+

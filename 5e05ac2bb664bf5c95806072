@@ -1,0 +1,16 @@
+[\with.unity.ring]
+Defines: R := (X, +, *, 0, 1)
+means:
+. 'R is \ring'
+. for: x
+  where:
+  . 'x \in X'
+  then:
+  . '1*x = x*1 = x'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "199"
+    offset: "213"
+. id: "5e05ac2bb664bf5c95806072"
+

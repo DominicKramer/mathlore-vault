@@ -1,0 +1,9 @@
+[\set.cardinality:of{X}]
+Defines: n
+assuming:
+. 'X is \set'
+means:
+. "$n&$ is the number of elements in $X&$"
+Metadata:
+. id: "5e05ac2bb664bf5c9580606c"
+

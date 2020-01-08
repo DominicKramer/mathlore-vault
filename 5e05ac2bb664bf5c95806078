@@ -1,0 +1,22 @@
+[\transitive.relation:on{X}]
+Defines: <
+assuming:
+. 'X is \set'
+means:
+. '< is \binary.operation:on{X}'
+. for: a, b, c
+  where:
+  . 'a, b, c \in X'
+  then:
+  . if:
+    . 'a < b'
+    . 'b < c'
+    then:
+    . 'a < c'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e05ac2bb664bf5c95806078"
+

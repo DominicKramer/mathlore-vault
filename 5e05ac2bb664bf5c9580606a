@@ -1,0 +1,12 @@
+[\finite.set]
+Defines: X
+means:
+. 'X is \set'
+. "$X&$ has a finite number of elements"
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "36"
+    offset: "50"
+. id: "5e05ac2bb664bf5c9580606a"
+

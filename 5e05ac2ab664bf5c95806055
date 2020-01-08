@@ -1,0 +1,18 @@
+[\function.domain:of{f}]
+Defines: X
+assuming:
+. for: A, B
+  where:
+  . 'A, B is \set'
+  then:
+  . 'f is \function:on{A}to{B}'
+means:
+. 'X := A'
+Metadata:
+. written: "\textrm{Dom}(f&)"
+. reference:
+  . source: "@AATA"
+    page: "7"
+    offset: "21"
+. id: "5e05ac2ab664bf5c95806055"
+

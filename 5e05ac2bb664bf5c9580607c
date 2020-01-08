@@ -1,0 +1,16 @@
+[\reals]
+Defines: R
+means:
+. for: Rb := (X, +, *, 0, 1, <)
+  where:
+  . 'Rb is \real.field'
+  then:
+  . 'R := X'
+Metadata:
+. written: "\mathbb{R}"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e05ac2bb664bf5c9580607c"
+

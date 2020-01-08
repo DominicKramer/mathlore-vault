@@ -1,0 +1,12 @@
+[\field]
+Defines: F := (X, +, *, 0, 1)
+means:
+. '(X, +, *, 0) is \commutative \ring'
+. '(X, +, *, 0, 1) is \division \with.identity.ring'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "200"
+    offset: "214"
+. id: "5e05ac2bb664bf5c95806077"
+

@@ -1,0 +1,16 @@
+[\abelian.group]
+Defines: G := (X, *, e)
+means:
+. 'G is \group'
+. for: a, b
+  where:
+  . 'a, b \in X'
+  then:
+  . 'a * b = b * a'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "34"
+    offset: "48"
+. id: "5e05ac2ab664bf5c95806064"
+

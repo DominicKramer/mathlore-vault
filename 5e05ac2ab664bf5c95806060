@@ -1,0 +1,9 @@
+[\positive.integer]
+Defines: n
+means:
+. 'n is \integer'
+. 'n > 0'
+Metadata:
+. written: "\mathbb{Z}^+"
+. id: "5e05ac2ab664bf5c95806060"
+

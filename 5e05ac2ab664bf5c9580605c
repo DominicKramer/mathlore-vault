@@ -1,0 +1,17 @@
+[\identity.function:on{A}]
+Defines: f(x)
+assuming:
+. 'A \in \set'
+means:
+. 'f is \function:on{A}to{A}'
+. for: x
+  then:
+  . 'f(x) = x'
+Metadata:
+. written: "\textrm{Id}"
+. reference:
+  . source: "@AATA"
+    page: "10"
+    offset: "24"
+. id: "5e05ac2ab664bf5c9580605c"
+

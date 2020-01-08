@@ -1,0 +1,11 @@
+[\real.field]
+Defines: R := (X, +, *, 0, 1, <)
+means:
+. 'R is \ordered.field'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e05ac2bb664bf5c9580607b"
+

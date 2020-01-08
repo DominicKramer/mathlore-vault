@@ -1,0 +1,22 @@
+[\integral.domain]
+Defines: R := (X, +, *, 0, 1)
+means:
+. '(X, +, *, 0) is \commutative \ring'
+. '(X, +, *, 0, 1) is \with.unity \ring'
+. for: x, y
+  where:
+  . 'x, y \in X'
+  then:
+  . if:
+    . 'x*y = 0'
+    then:
+    . or:
+      . 'x = 0'
+      . 'y = 0'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "200"
+    offset: "214"
+. id: "5e05ac2bb664bf5c95806074"
+

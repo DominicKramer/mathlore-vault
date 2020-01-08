@@ -1,0 +1,19 @@
+[\real.bounded.sequence]
+Defines: S
+means:
+. exists: a, b
+  suchThat:
+  . 'S is \real.bounded.above.sequence:by{b}'
+  . 'S is \real.bounded.below.sequence:by{a}'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "181"
+    offset: "190"
+    content: "Definition: A sequence $\{s_n\}$ is bounded above if there
+              is a real number $b$ such that $$ s_n\le b , $$ bounded
+              below if there is a real number $a$ such that $$ s_n\ge a ,
+              $$ or bounded if there is a real number $r$ such that $$
+              |s_n|\le r . $$"
+. id: "5e05ac2cb664bf5c9580608d"
+

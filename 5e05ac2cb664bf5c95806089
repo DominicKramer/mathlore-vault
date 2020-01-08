@@ -1,0 +1,21 @@
+[\real.bounded.below.sequence:by{a}]
+Defines: S(n)
+assuming:
+. 'a is \real'
+means:
+. 'S is \sequence'
+. for: n
+  then:
+  . 'S(n) >= a'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "181"
+    offset: "190"
+    content: "Definition: A sequence $\{s_n\}$ is bounded above if there
+              is a real number $b$ such that $$ s_n\le b , $$ bounded
+              below if there is a real number $a$ such that $$ s_n\ge a ,
+              $$ or bounded if there is a real number $r$ such that $$
+              |s_n|\le r . $$"
+. id: "5e05ac2cb664bf5c95806089"
+

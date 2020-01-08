@@ -1,0 +1,16 @@
+[\empty.set]
+Defines: E
+means:
+. 'E is \set'
+. not:
+  . exists: x
+    suchThat:
+    . 'x \in E'
+Metadata:
+. written: "\emptyset"
+. reference:
+  . source: "@AATA"
+    page: "4"
+    offset: "18"
+. id: "5e05ac29b664bf5c9580604e"
+

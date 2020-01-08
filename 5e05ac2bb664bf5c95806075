@@ -1,0 +1,17 @@
+[\ring.unit:in{R := (X, +, *, 0, 1)}]
+Defines: u
+assuming:
+. 'R is \with.identity.ring'
+means:
+. 'u \neq 0'
+. exists: b
+  suchThat:
+  . 'b is \unique'
+  . 'u*b = b*u = 1'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "200"
+    offset: "214"
+. id: "5e05ac2bb664bf5c95806075"
+

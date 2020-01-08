@@ -1,0 +1,11 @@
+[\real.order]
+Defines: op
+means:
+. for: R := (X, +, *, 0, 1, <)
+  where:
+  . 'R is \real.field'
+  then:
+  . 'op := <'
+Metadata:
+. id: "5e05ac2bb664bf5c9580607e"
+

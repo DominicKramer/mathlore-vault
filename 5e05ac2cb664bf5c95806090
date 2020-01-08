@@ -1,0 +1,18 @@
+[A \subset B]
+Represents:
+assuming:
+. 'A, B is \set'
+that:
+. for: a
+  where:
+  . 'a \in A'
+  then:
+  . 'a \in B'
+Metadata:
+. written: "A& \subset B&"
+. reference:
+  . source: "@AATA"
+    page: "4"
+    offset: "18"
+. id: "5e05ac2cb664bf5c95806090"
+

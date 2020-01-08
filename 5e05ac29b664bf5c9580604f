@@ -1,0 +1,17 @@
+[A \union B]
+Defines: C := {c}
+assuming:
+. 'A, B is \set'
+means:
+. 'C is \set'
+. or:
+  . 'c \in A'
+  . 'c \in B'
+Metadata:
+. written: "A& \cup B&"
+. reference:
+  . source: "@AATA"
+    page: "4"
+    offset: "18"
+. id: "5e05ac29b664bf5c9580604f"
+

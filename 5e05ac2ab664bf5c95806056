@@ -1,0 +1,13 @@
+[\function.range:of{f}]
+Defines: X
+assuming:
+. 'f is \function'
+means:
+. 'X = \set[x]{f(x)}{f \in \function.domain:of{f}}'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "7"
+    offset: "21"
+. id: "5e05ac2ab664bf5c95806056"
+

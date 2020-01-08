@@ -1,0 +1,18 @@
+[\surjective.function:on{A}to{B}]
+Defines: f
+means:
+. 'f is \function:on{A}to{B}'
+. for: b
+  where:
+  . 'b \in B'
+  then:
+  . exists: a
+    suchThat:
+    . 'f(a) = b'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "8"
+    offset: "22"
+. id: "5e05ac2ab664bf5c95806057"
+

@@ -1,0 +1,9 @@
+[\set[x...]{form...}{condition}...]
+Defines: A := {a...}
+means:
+. 'a... := form...'
+. 'condition...'
+Metadata:
+. written: "\left \{ form{<?,?>}& \: : \: condition{<?\:and\:?>}& \right \}"
+. id: "5e07a7be0fa6157d55509a7e"
+

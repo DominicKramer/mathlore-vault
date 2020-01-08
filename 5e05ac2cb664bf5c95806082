@@ -1,0 +1,11 @@
+[a \gt b]
+Defines: gt
+means:
+. 'gt := >'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e05ac2cb664bf5c95806082"
+

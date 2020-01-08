@@ -1,0 +1,13 @@
+[\disjoint.set]
+Defines: (A, B)
+assuming:
+. 'A, B is \set'
+means:
+. '(A \intersect B) = \empty.set'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "5"
+    offset: "19"
+. id: "5e05ac29b664bf5c95806051"
+

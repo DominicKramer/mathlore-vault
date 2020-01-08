@@ -1,0 +1,10 @@
+[A * B]
+Defines: *
+means:
+. if:
+  . 'A, B is \matrix'
+  then:
+  . 'A * B is \matrix'
+Metadata:
+. id: "5e05ac2ab664bf5c95806067"
+

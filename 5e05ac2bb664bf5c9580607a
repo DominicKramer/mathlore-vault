@@ -1,0 +1,16 @@
+[\ordered.field]
+Defines: (X, +, *, 0, 1, <)
+means:
+. for: F
+  where:
+  . 'F := (X, +, *, 0, 1)'
+  then:
+  . 'F is \field'
+  . '< is \order.relation:on{F}'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e05ac2bb664bf5c9580607a"
+

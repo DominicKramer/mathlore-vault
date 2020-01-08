@@ -1,0 +1,9 @@
+[\real.open.interval]
+Defines: I
+means:
+. exists: a, b
+  suchThat:
+  . 'I is \real.open.interval:on{a, b}'
+Metadata:
+. id: "5e05ac2cb664bf5c95806086"
+

@@ -1,0 +1,18 @@
+[\identity.matrix{n}]
+Defines: M(i, j)
+assuming:
+. 'i, j is \positive \integer'
+means:
+. 'M is \matrix'
+. if:
+  . 'i \neq j'
+  then:
+  . 'M(i, j) = 0'
+. 'M(i, i) = 1'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "35"
+    offset: "49"
+. id: "5e05ac2ab664bf5c95806066"
+

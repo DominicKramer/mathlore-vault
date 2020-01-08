@@ -1,0 +1,14 @@
+[a \in X]
+Represents:
+assuming:
+. 'X is \set'
+that:
+. "$a&$ is an element of $X&$"
+Metadata:
+. written: "a& \in X&"
+. reference:
+  . source: "@AATA"
+    page: "4"
+    offset: "18"
+. id: "5e05ac2cb664bf5c9580608f"
+

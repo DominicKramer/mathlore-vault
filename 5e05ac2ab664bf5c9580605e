@@ -1,0 +1,35 @@
+[\equivalence.relation:on{X}]
+Defines: R := {a, b}
+assuming:
+. 'X is \set'
+means:
+. 'R \subset (X \set.cartesian.product X)'
+. for: x
+  where:
+  . 'x \in X'
+  then:
+  . '(x, x) \in R'
+. for: x, y
+  where:
+  . 'x, y \in X'
+  then:
+  . if:
+    . '(x, y) \in R'
+    then:
+    . '(y, x) \in R'
+. for: x, y, z
+  where:
+  . 'x, y, z \in X'
+  then:
+  . if:
+    . '(x, y) \in R'
+    . '(y, z) \in R'
+    then:
+    . '(x, z) \in R'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "11"
+    offset: "25"
+. id: "5e05ac2ab664bf5c9580605e"
+

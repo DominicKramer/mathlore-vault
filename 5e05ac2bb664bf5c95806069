@@ -1,0 +1,16 @@
+[\general.linear.group{n}:over{F}]
+Defines: X
+assuming:
+. or:
+  . 'F = \reals'
+  . 'F = \complexes'
+. 'n is \integer'
+means:
+. 'X = \set[M]{M}{M is \invertible.matrix}'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "35"
+    offset: "49"
+. id: "5e05ac2bb664bf5c95806069"
+

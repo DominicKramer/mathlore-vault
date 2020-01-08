@@ -1,0 +1,15 @@
+[\complement:of{A}in{U}]
+Defines: X := {x}
+assuming:
+. 'A, U is \set'
+means:
+. 'x \in U'
+. 'x \notin A'
+Metadata:
+. written: "A&^{C}"
+. reference:
+  . source: "@AATA"
+    page: "5"
+    offset: "19"
+. id: "5e05ac29b664bf5c95806052"
+

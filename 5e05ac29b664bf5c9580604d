@@ -1,0 +1,11 @@
+[\set]
+Defines: X
+means:
+. "$X&$ is well defined collection of objects"
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "3"
+    offset: "17"
+. id: "5e05ac29b664bf5c9580604d"
+

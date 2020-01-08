@@ -1,0 +1,13 @@
+[x \binary.operation:on{G} y]
+Defines: *
+assuming:
+. 'G is \set'
+means:
+. '* is \function:on{G \set.cartesian.product G}to{G}'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "33"
+    offset: "47"
+. id: "5e05ac2ab664bf5c95806062"
+

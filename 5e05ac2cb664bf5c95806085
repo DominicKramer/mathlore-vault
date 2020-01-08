@@ -1,0 +1,9 @@
+[\real.open.interval:on{a, b}]
+Defines: I
+assuming:
+. 'a, b is \real'
+means:
+. 'I := \set[x]{x}{x > a}{x < b}'
+Metadata:
+. id: "5e05ac2cb664bf5c95806085"
+

@@ -1,0 +1,21 @@
+[\real.dense.set]
+Defines: D
+means:
+. 'D is \set'
+. for: I
+  where:
+  . 'I is \real.open.interval'
+  then:
+  . exists: x
+    suchThat:
+    . 'x \in I'
+    . 'x \in D'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "5"
+    offset: "14"
+    content: "Definition: A set $D$ is dense in the reals if every open
+              interval $(a,b)$ contains a member of $D$."
+. id: "5e05ac2cb664bf5c95806087"
+
