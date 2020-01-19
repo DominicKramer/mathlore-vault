@@ -1,0 +1,12 @@
+ProtoResult:
+. "Suppose that $a_n>0\ (n\ge k)$ and $$ 
+   \lim_{n\to\infty}\frac{a_{n+1}}{ a_n}=L. $$ -1em Then (a) 
+   $\sum a_n<\infty$ if $L<1$ (b) $\sum a_n=\infty$ if $L>1$ 
+   The test is inconclusive if $L=1$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "212"
+    offset: "221"
+. id: "5e23b2357be8017205ed454d"
+

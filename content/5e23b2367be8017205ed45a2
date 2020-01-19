@@ -1,0 +1,13 @@
+ProtoResult:
+. "Suppose that $f$ is defined in a neighborhood of 
+   $\mathbf{X}_0$ in $\R^n$ and $f_{x_1}(\mathbf{X}_0)$ 
+   $f_{x_2}(\mathbf{X}_{0})$ $\dots$, $f_{x_n}(\mathbf{X}_{0})$
+   exist. Let $\mathbf{X}_0$ be a local extreme point of $f$ 
+   Then $ f_{x_i}(\mathbf{X}_0)=0, 1\le i\le n. $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "338"
+    offset: "347"
+. id: "5e23b2367be8017205ed45a2"
+

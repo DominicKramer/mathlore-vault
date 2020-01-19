@@ -1,0 +1,10 @@
+ProtoResult:
+. "If a sequence $\{u_n\}$ in a metric space $(A,\rho)$ is 
+   convergent, then it is a Cauchy sequence."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "527"
+    offset: "536"
+. id: "5e23b2367be8017205ed45e1"
+

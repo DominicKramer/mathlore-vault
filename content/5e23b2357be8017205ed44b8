@@ -1,0 +1,13 @@
+ProtoDefines:
+. "If $\rho$ and $\sigma$ are both metrics on a set $A$, then 
+   $\rho$ and $\sigma$ are equivalent \hskip-.2em if there are 
+   positive constants $\alpha$ and $\beta$ such that $ 
+   \alpha\le\frac{\rho(x,y)}{\sigma(x,y)}\le\beta x,y\in A x\ne
+   y. $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "530"
+    offset: "539"
+. id: "5e23b2357be8017205ed44b8"
+

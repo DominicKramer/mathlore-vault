@@ -1,0 +1,15 @@
+ProtoResult:
+. "Suppose that for $n$ sufficiently large (that is, for $n 
+   \ge N$) the terms of $\sum_{n=k}^\infty a_n$ satisfy some 
+   condition that implies convergence of an infinite series. 
+   Then $\sum_{n=k}^\infty a_n$ converges. Similarly, suppose 
+   that for $n$ sufficiently large the terms $\sum_{n=k}^\infty
+   a_n$ satisfy some condition that implies divergence of an 
+   infinite series. Then $\sum_{n=k}^\infty a_n$ diverges."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "203"
+    offset: "212"
+. id: "5e23b2357be8017205ed4577"
+

@@ -1,0 +1,19 @@
+ProtoResult:
+. "[Taylor's Theorem for Functions of $\mathbf n$ Variables] 
+   Suppose \\that $f$ and its partial derivatives of order $\le
+   k$ are differentiable at $\mathbf{X}_0$ and $\mathbf{X}$ in 
+   $\R^n$ and on the line segment $L$ connecting them. Then $ 
+   f(\mathbf{X})=\sum_{r=0}^k\frac{1}{ r!} 
+   (d^{(r)}_{\mathbf{X}_0}f) 
+   (\mathbf{X}-\mathbf{X})+\frac{1}{(k+1)!} 
+   (d^{(k+1)}_{\widetilde{\mathbf{X}}} 
+   f)(\mathbf{X}-{\mathbf{X}_0}) $ for some 
+   $\widetilde{\mathbf{X}}$ on $L$ distinct from $\mathbf{X}_0$
+   and $\mathbf{X}$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "354"
+    offset: "363"
+. id: "5e23b2367be8017205ed45a5"
+

@@ -1,0 +1,14 @@
+ProtoResult:
+. "Suppose that $a_n>0$ for large $n$ Let $$ 
+   M=\limsup_{n\to\infty} n (\frac{a_{n+1}}{ a_n}- 1 ) 
+   m=\liminf_{n\to\infty} n (\frac{a_{n+1}}{ a_n}-1 ). $$ Then 
+   (a) $\sum a_n<\infty$ if $M<-1$ (b) $\sum a_n=\infty$ if 
+   $m>-1$ The test is inconclusive if $m\le-1\le M$"
+Metadata:
+. name: "Raabe's Test"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "212"
+    offset: "221"
+. id: "5e23b2357be8017205ed452a"
+

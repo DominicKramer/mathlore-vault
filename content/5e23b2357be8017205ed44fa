@@ -1,0 +1,10 @@
+ProtoResult:
+. "If $f$ is integrable on $[a,b]$ then so is $|f|$, and $ 
+   |\int_a^b f(x) dx |\le\int_a^b |f(x)| dx. $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "137"
+    offset: "146"
+. id: "5e23b2357be8017205ed44fa"
+

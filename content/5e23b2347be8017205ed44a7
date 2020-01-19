@@ -1,0 +1,17 @@
+ProtoDefines:
+. "A coordinate rectangle $R$ in $\R^n$ is the Cartesian 
+   product of $n$ closed intervals; that is, $$ 
+   R=[a_1,b_1]\times [a_2,b_2]\times\cdots\times [a_n,b_n]. $$ 
+   The content of $R$ is $$ V(R)=(b_1-a_1)(b_2-a_2)\cdots 
+   (b_n-a_n). $$ The numbers $b_1-a_1$, $b_2-a_2$, $\dots$, 
+   $b_n-a_n$ are the edge lengths of $R$. If they are equal, 
+   then $R$ is a coordinate cube. If $a_r=b_r$ for some $r$, 
+   then $V(R)=0$ and we say that $R$ is degenerate; otherwise, 
+   $R$ is nondegenerate."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "437"
+    offset: "446"
+. id: "5e23b2347be8017205ed44a7"
+

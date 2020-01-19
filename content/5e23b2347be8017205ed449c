@@ -1,0 +1,13 @@
+ProtoDefines:
+. "If $D_f$ is unbounded, we say that $$ 
+   \lim_{|\mathbf{X}|\to\infty} f(\mathbf{X})=L $$ if for every
+   $\epsilon>0$, there is a number $R$ such that $$ 
+   |f(\mathbf{X})-L|<\epsilon \ |\mathbf{X}|\ge R \mathbf{X}\in
+   D_f. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "309"
+    offset: "318"
+. id: "5e23b2347be8017205ed449c"
+

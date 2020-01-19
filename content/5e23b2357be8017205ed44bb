@@ -1,0 +1,13 @@
+ProtoDefines:
+. "A set $T$ is totally bounded if for every $\epsilon>0$ 
+   there is a finite set $T_\epsilon$ with the following 
+   property: if $t\in T$, there is an $s\in T_\epsilon$ such 
+   that $\rho(s,t)<\epsilon$. We say that $T_\epsilon$ is a 
+   finite $\epsilon$-net for $T$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "539"
+    offset: "548"
+. id: "5e23b2357be8017205ed44bb"
+

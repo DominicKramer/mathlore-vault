@@ -1,0 +1,12 @@
+ProtoResult:
+. "A sequence $\{\mathbf{X}_r\}$ in $\R^n$ converges if and 
+   only if for each $\epsilon>0$ there is an integer $K$ such 
+   that $$ |\mathbf{X}_r-\mathbf{X}_s|<\epsilon r,s\ge K. $$"
+Metadata:
+. name: "Cauchy's Convergence Criterion"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "294"
+    offset: "303"
+. id: "5e23b2367be8017205ed457b"
+

@@ -1,0 +1,11 @@
+ProtoResult:
+. "If $\{s_n\}$ is a sequence of real numbers, then $ 
+   \lim_{n\to\infty} s_n=s $ if and only if $ 
+   \limsup_{n\to\infty}s_n=\liminf_{n\to\infty} s_n=s. $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "189"
+    offset: "198"
+. id: "5e23b2357be8017205ed4519"
+

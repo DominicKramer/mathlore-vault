@@ -1,0 +1,15 @@
+ProtoDefines:
+. "The length of the vector $\mathbf{X}=(x_1,x_2, $\dots$, 
+   x_n)$ is $$ |\mathbf{X}|=(x^2_1+x^2_2+\cdots+x^2_n)^{1/2}. 
+   $$ The distance between points $\mathbf{X$ and\/} 
+   $\mathbf{Y}$ is $|\mathbf{X}-\mathbf{Y}|$; in particular, 
+   $|\mathbf{X}|$ is the distance between $\mathbf{X}$ and the 
+   origin. If $|\mathbf{X}|=1$, then $\mathbf{X}$ is a unit 
+   vector."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "283"
+    offset: "292"
+. id: "5e23b2347be8017205ed4492"
+

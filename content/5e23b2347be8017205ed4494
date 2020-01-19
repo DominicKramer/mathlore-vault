@@ -1,0 +1,20 @@
+ProtoDefines:
+. "Suppose that $\mathbf{X}_0$ and $\mathbf{U}$ are in $\R^n$ 
+   and $\mathbf{U}\ne\mathbf{0}$. Then the line through 
+   $\mathbf{X}_0$ in the direction of $\mathbf{U}$ is the set 
+   of all points in $\R^n$ of the form $$ 
+   \mathbf{X}=\mathbf{X}_0+t\mathbf{U}, -\infty<t<\infty. $$ A 
+   set of points of the form $$ 
+   \mathbf{X}=\mathbf{X}_0+t\mathbf{U}, t_1\le t\le t_2, $$ is 
+   called a line segment. In particular, the line segment from 
+   $\mathbf{X}_0$ to $\mathbf{X}_1$ is the set of points of the
+   form $$ 
+   \mathbf{X}=\mathbf{X}_0+t(\mathbf{X}_1-\mathbf{X}_0)=t\mathbf{X}_1+(1-t)\mathbf{X}_0,
+   0\le t\le1. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "291"
+    offset: "300"
+. id: "5e23b2347be8017205ed4494"
+

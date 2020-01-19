@@ -1,0 +1,16 @@
+ProtoDefines:
+. "Suppose that $f$ is bounded on a bounded subset of $S$ of 
+   $\R^n$, and let $ f_S(\mathbf{X})= \{ 
+   f(\mathbf{X}),&\mathbf{X}\in S,\\[2\jot] 
+   0,&\mathbf{X}\not\in S. . $ Let $R$ be a rectangle 
+   containing $S$. Then the integral of $f$ over $S$ is defined
+   to be $$ \int_S f(\mathbf{X}) d\mathbf{X}=\int_R 
+   f_S(\mathbf{X}) d\mathbf{X} $$ if $\int_R f_S(\mathbf{X}) 
+   d\mathbf{X}$ exists."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "454"
+    offset: "463"
+. id: "5e23b2347be8017205ed44ab"
+

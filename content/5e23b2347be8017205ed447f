@@ -1,0 +1,12 @@
+ProtoDefines:
+. "If $f$ is locally integrable on $[a,b)$, we define $ 
+   \int_a^b f(x) dx= \lim_{c\to b-}\int_a^c f(x) dx $ if the 
+   limit exists (finite). To include the case where $b=\infty$,
+   we adopt the convention that $\infty-=\infty$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "155"
+    offset: "164"
+. id: "5e23b2347be8017205ed447f"
+

@@ -1,0 +1,19 @@
+ProtoResult:
+. "Let $$ 
+   \overline{\mathbf{X}}=(\overline{x}_1,\overline{x}_2, 
+   $\dots$,\overline{x}_n) \mathbf{X}_r=(x_{1r}, x_{2r}, 
+   $\dots$, x_{nr}), r\ge1. $$ Then 
+   $\lim_{r\to\infty}\mathbf{X}_r=\overline{\mathbf{X}}$ if and
+   only if $$ \lim_{r\to\infty}x_{ir}=\overline{x}_i, 1\le i\le
+   n; $$ that is, a sequence $\{\mathbf{X}_r\}$ of points in 
+   $\R^n$ converges to a limit $\overline{\mathbf{X}}$ if and 
+   only if the sequences of components of $\{\mathbf{X}_r\}$ 
+   converge to the respective components of 
+   $\overline{\mathbf{X}}$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "294"
+    offset: "303"
+. id: "5e23b2357be8017205ed4575"
+

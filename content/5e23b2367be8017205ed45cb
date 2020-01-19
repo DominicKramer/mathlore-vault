@@ -1,0 +1,12 @@
+ProtoResult:
+. "If $f$ and $g$ are integrable on $S$ and $f(\mathbf{X})\le 
+   g(\mathbf{X})$ for $\mathbf{X}$ in $S$ then $$ \int_S 
+   f(\mathbf{X}) d\mathbf{X}\le\int_S g(\mathbf{X}) 
+   d\mathbf{X}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "457"
+    offset: "466"
+. id: "5e23b2367be8017205ed45cb"
+

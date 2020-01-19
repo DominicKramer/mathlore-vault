@@ -1,0 +1,11 @@
+ProtoResult:
+. "Every bounded infinite set of real numbers has at least one
+   limit point."
+Metadata:
+. name: "Bolzano-Weierstrass Theorem"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "26"
+    offset: "35"
+. id: "5e23b2357be8017205ed44cd"
+

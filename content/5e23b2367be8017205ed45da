@@ -1,0 +1,17 @@
+ProtoResult:
+. "Suppose that $\mathbf{G}: \E^n\to \R^n$ is continuously 
+   differentiable on a bounded open set $N$ containing the 
+   compact Jordan measurable set $S$ and regular on $S^0$ 
+   Suppose also that $\mathbf{G}(S)$ is Jordan measurable, $f$ 
+   is continuous on $\mathbf{G}(S)$ and $G(C)$ is Jordan 
+   measurable for every cube $C\subset N$. Then $ 
+   \int_{\mathbf{G}(S)} f(\mathbf{X}) d\mathbf{X}= \int_S 
+   f(\mathbf{G}(\mathbf{Y})) |J\mathbf{G}(\mathbf{Y})| 
+   d\mathbf{Y}. $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "506"
+    offset: "515"
+. id: "5e23b2367be8017205ed45da"
+

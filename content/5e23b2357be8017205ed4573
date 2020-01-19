@@ -1,0 +1,11 @@
+ProtoResult:
+. "If $w_f(x)<\epsilon$ for $a\le x \le b$ then there is a 
+   $\delta>0$ such that $W_f[a_1,b_1]\le\epsilon$ provided that
+   $[a_1,b_1]\subset [a,b]$ and $b_1-a_1<\delta$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "176"
+    offset: "185"
+. id: "5e23b2357be8017205ed4573"
+

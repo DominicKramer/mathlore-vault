@@ -1,0 +1,10 @@
+ProtoResult:
+. "If $f$ is continuous on a set $T$ then $f$ is uniformly 
+   continuous on any finite closed interval contained in $T$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "68"
+    offset: "77"
+. id: "5e23b2357be8017205ed4544"
+

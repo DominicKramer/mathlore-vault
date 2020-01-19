@@ -1,0 +1,11 @@
+ProtoResult:
+. "If $f$ and $g$ are integrable on $[a,b]$ and $f(x)\le g(x)$
+   for $a\le x\le b$ then $ \int_a^b f(x) dx\le\int_a^b g(x) 
+   dx. $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "137"
+    offset: "146"
+. id: "5e23b2357be8017205ed44f9"
+

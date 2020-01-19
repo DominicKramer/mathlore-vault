@@ -1,0 +1,15 @@
+ProtoDefines:
+. "A transformation $\mathbf{F}: \R^n\to \R^n$ is regular on 
+   an open set $S$ if $\mathbf{F}$ is one-to-one and 
+   continuously differentiable on $S$, and 
+   $J\mathbf{F}(\mathbf{X})\ne0$ if $\mathbf{X}\in S$. We will 
+   also say that $\mathbf{F}$ is regular on an arbitrary set 
+   $S$ if $\mathbf{F}$ is regular on an open set containing 
+   $S$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "406"
+    offset: "415"
+. id: "5e23b2347be8017205ed44a6"
+

@@ -1,0 +1,15 @@
+ProtoDefines:
+. "A metric space is a nonempty set $A$ together with a 
+   real-valued function $\rho$ defined on $A\times A$ such that
+   if $u$, $v$, and $w$ are arbitrary members of $A$, then (a) 
+   $\rho(u,v)\ge 0$, with equality if and only if $u=v$; (b) 
+   $\rho(u,v)=\rho(v,u)$; (c) 
+   $\rho(u,v)\le\rho(u,w)+\rho(w,v)$. We say that $\rho$ is a 
+   metric on $A$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "518"
+    offset: "527"
+. id: "5e23b2347be8017205ed44af"
+

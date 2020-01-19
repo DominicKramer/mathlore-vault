@@ -1,0 +1,11 @@
+ProtoDefines:
+. "If $\mathbf{A}=[a_{ij}]$ is an $n \times n$ matrix, then $$
+   \max\left { \sum_{j=1}^n |a_{ij}|}{1\le i\le n \right } $$ 
+   is the infinity norm of $A$ denoted by $\|A\|_\infty$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "500"
+    offset: "509"
+. id: "5e23b2347be8017205ed44ae"
+

@@ -1,0 +1,12 @@
+ProtoResult:
+. "Every sequence $\{s_n\}$ of real numbers has a unique limit
+   superior, $\overline{s}$ and a unique limit inferior, 
+   $\underline{s}$, in the extended reals, and $ 
+   \underline{s}\le \overline{s}. $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "188"
+    offset: "197"
+. id: "5e23b2357be8017205ed4518"
+

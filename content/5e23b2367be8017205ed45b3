@@ -1,0 +1,11 @@
+ProtoResult:
+. "If $A_1$ $A_2$ $\dots$, $A_k$ are nonsingular $n\times n$ 
+   matrices, then so is $A_1A_2\cdots A_k$ and $$ (A_1A_2\cdots
+   A_k)^{-1}=A_k^{-1}A_{k-1}^{-1}\cdots A_1^{-1}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "376"
+    offset: "385"
+. id: "5e23b2367be8017205ed45b3"
+

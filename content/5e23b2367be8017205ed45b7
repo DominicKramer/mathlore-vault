@@ -1,0 +1,14 @@
+ProtoResult:
+. "Let $\mathbf{F}=(f_1,f_2, $\dots$,f_m):\R^n\to\R^m$ and 
+   suppose that the partial derivatives $ \frac{\partial 
+   f_i}{\partial x_j}, 1\le i\le m, 1\le j\le n, $ exist on a 
+   neighborhood of $\mathbf{X}_0$ and are continuous at 
+   $\mathbf{X}_0$ Then $\mathbf{F}$ is differentiable at 
+   $\mathbf{X}_0$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "386"
+    offset: "395"
+. id: "5e23b2367be8017205ed45b7"
+

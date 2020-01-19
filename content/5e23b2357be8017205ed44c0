@@ -1,0 +1,12 @@
+ProtoDefines:
+. "If $f:(A,\rho)\to (A,\rho)$ is defined on all of $A$ and 
+   there is a constant $\alpha$ in $(0,1)$ such that $ 
+   \rho(f(u),f(v))\le\alpha\rho(u,v) (u,v)\in A\times A, $ then
+   $f$ is a contraction of $(A,\rho)$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "545"
+    offset: "554"
+. id: "5e23b2357be8017205ed44c0"
+

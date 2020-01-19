@@ -1,0 +1,20 @@
+ProtoDefines:
+. "Let $S$ be a subset of ${\mathcal R}$. Then (a) $x_0$ is a 
+   limit point of $S$ if every deleted neighborhood of $x_0$ 
+   contains a point of~$S$. (b) $x_0$ is a boundary point of 
+   $S$ if every neighborhood of $x_0$ contains at least one 
+   point in $S$ and one not in $S$. The set of boundary points 
+   of $S$ is the boundary of $S$, denoted by $\partial S$. The 
+   closure of $S$, denoted by $\overline{S}$, is 
+   $\overline{S}=S\cup \partial S$. (c) $x_0$ is an isolated 
+   point of $S$ if $x_0\in S$ and there is a neighborhood of 
+   $x_0$ that contains no other point of $S$. (d) $x_0$ is 
+   exterior to $S$ if $x_0$ is in the interior of $S^c$. The 
+   collection of such points is the exterior of $S$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "23"
+    offset: "32"
+. id: "5e23b2347be8017205ed446e"
+

@@ -1,0 +1,20 @@
+ProtoResult:
+. "Let $I_1$ $I_2$ $\dots$, $I_n$ be closed intervals and 
+   suppose that $f$ is integrable on $R=I_1\times 
+   I_2\times\cdots\times I_n$ Suppose that there is an integer 
+   $p$ in $\{1,2, $\dots$,n-1\}$ such that $$ 
+   F_p(x_{p+1},x_{p+2}, $\dots$,x_n)=\int_{I_1\times 
+   I_2\times\cdots\times I_p} f(x_1,x_2, $\dots$,x_n) 
+   d(x_1,x_2, $\dots$,x_p) $$ exists for each 
+   $(x_{p+1},x_{p+2}, $\dots$,x_n)$ in $I_{p+1}\times 
+   I_{p+2}\times\cdots\times I_n$ Then $$ \int_{I_{p+1}\times 
+   I_{p+2}\times\cdots\times I_n} F_p(x_{p+1}, x_{p+2}, 
+   $\dots$,x_n) d(x_{p+1},x_{p+2}, $\dots$,x_n) $$ exists and 
+   equals $\int_R f(\mathbf{X}) d\mathbf{X}$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "469"
+    offset: "478"
+. id: "5e23b2367be8017205ed45d1"
+

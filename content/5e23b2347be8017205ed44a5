@@ -1,0 +1,15 @@
+ProtoDefines:
+. "Let $\mathbf{A}=[a_{ij}]$ be an $n\times n$ matrix, with 
+   $n\ge2$ The cofactor of an entry $a_{ij}$ is $$ 
+   c_{ij}=(-1)^{i+j}\det(\mathbf{A}_{ij}), $$ where 
+   $\mathbf{A}_{ij}$ is the $(n-1)\times(n-1)$ matrix obtained 
+   by deleting the $i$th row and $j$th column of $\mathbf{A}$ 
+   The adjoint of $\mathbf{A}$ denoted by $\adj(\mathbf{A})$ is
+   the $n\times n$ matrix whose $(i,j)$th entry is $c_{ji}$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "371"
+    offset: "380"
+. id: "5e23b2347be8017205ed44a5"
+

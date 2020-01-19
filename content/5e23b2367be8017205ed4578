@@ -1,0 +1,13 @@
+ProtoResult:
+. "If $g$ and $h$ are defined on $S$ then $$ 
+   \|g+h\|_S\ar\le\|g\|_S+\|h\|_S\\ and\\ 
+   \|gh\|_S\ar\le\|g\|_S\|h\|_S. $$ Moroever, if either $g$ or 
+   $h$ is bounded on $S$ then $$ \|g-h\|_S\ge 
+   |\|g\|_S-\|h\|_S\| |. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "237"
+    offset: "246"
+. id: "5e23b2367be8017205ed4578"
+

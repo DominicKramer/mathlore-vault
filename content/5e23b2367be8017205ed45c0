@@ -1,0 +1,12 @@
+ProtoResult:
+. "If $f$ is integrable on a rectangle $R$ then $$ 
+   \underline{\int_R} f(\mathbf{X}) d\mathbf{X}= 
+   \overline{\int_R} f(\mathbf{X}) d\mathbf{X} =\int_R 
+   f(\mathbf{X}) d\mathbf{X}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "447"
+    offset: "456"
+. id: "5e23b2367be8017205ed45c0"
+

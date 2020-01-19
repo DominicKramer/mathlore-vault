@@ -1,0 +1,12 @@
+ProtoResult:
+. "If $f^{(n)}(x_0)$ exists, then $ 
+   f(x)=\sum_{r=0}^n\frac{f^{(r)}(x_0)}{ r!} 
+   (x-x_0)^r+E_n(x)(x-x_0)^n, $ where $$ \lim_{x\to x_0} 
+   E_n(x)=E_n(x_0)=0. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "103"
+    offset: "112"
+. id: "5e23b2357be8017205ed456d"
+

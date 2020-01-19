@@ -1,0 +1,16 @@
+ProtoResult:
+. "A power series $$ f(x)=\sum^\infty_{n=0} a_n(x-x_0)^n $$ 
+   with positive radius of convergence $R$ is continuous and 
+   differentiable in its interval of convergence, and its 
+   derivative can be obtained by differentiating term by term$$
+   that is, $ f'(x)=\sum^\infty_{n=1} na_n(x-x_0)^{n-1}, $ 
+   which can also be written as $ 
+   f'(x)=\sum^\infty_{n=0}(n+1)a_{n+1} (x-x_0)^n. $ This series
+   also has radius of convergence $R$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "262"
+    offset: "271"
+. id: "5e23b2357be8017205ed4561"
+

@@ -1,0 +1,18 @@
+ProtoDefines:
+. "The numbers $\overline{s}$ and $\underline{s}$ defined in 
+   Theorem 4.1.9} are called the limit superior and limit 
+   inferior, respectively, of $\{s_n\}$, and denoted by $$ 
+   \overline{s}=\limsup_{n\to\infty} s_n 
+   \underline{s}=\liminf_{n\to\infty} s_n. $$ We also define $$
+   \limsup_{n\to\infty}s_n\ar= \infty $ is not bounded 
+   above},\\ \limsup_{n\to\infty}s_n\ar=-\infty \lim_{n\to 
+   \infty}s_n=-\infty,\\ \liminf_{n\to\infty} s_n\ar=-\infty $ 
+   is not bounded below},\\ and[2\jot] \liminf_{n\to\infty} 
+   s_n\ar= \infty \lim_{n\to\infty} s_n=\infty. \end{eqnarray*"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "188"
+    offset: "197"
+. id: "5e23b2347be8017205ed4488"
+

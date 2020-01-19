@@ -1,0 +1,10 @@
+ProtoResult:
+. "If $f$ is continuous on a compact set $T$ then $f$ is 
+   uniformly continuous on $T$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "545"
+    offset: "554"
+. id: "5e23b2357be8017205ed453d"
+

@@ -1,0 +1,15 @@
+ProtoResult:
+. "Suppose that $\mathbf{F}:\R^n\to\R^m$ is continuously 
+   differentiable on a neighborhood $N$ of $\mathbf{X}_0$ Then,
+   for every $\epsilon>0$ there is a $\delta>0$ such that $ 
+   |\mathbf{F}(\mathbf{X})-\mathbf{F}(\mathbf{Y})|< 
+   (\|\mathbf{F}'(\mathbf{X}_{0})\| +\epsilon) 
+   |\mathbf{X}-\mathbf{Y}| \mathbf{A},\mathbf{Y}\in B_\delta 
+   (\mathbf{X}_0). $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "386"
+    offset: "395"
+. id: "5e23b2367be8017205ed4581"
+

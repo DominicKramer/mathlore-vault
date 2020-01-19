@@ -1,0 +1,7 @@
+ProtoResult:
+. "If $a$ and $b$ are any two real numbers, then $ 
+   |a-b|\ge\big||a|-|b|\big| $ and $ |a+b|\ge\big||a|-|b|\big|.
+   $"
+Metadata:
+. id: "5e23b2357be8017205ed4541"
+

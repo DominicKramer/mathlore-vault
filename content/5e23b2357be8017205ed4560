@@ -1,0 +1,11 @@
+ProtoResult:
+. "The radius of convergence of $\sum a_n(x-x_0)^n$ is given 
+   by $$ \frac{1}{ R}=\lim_{n\to\infty} |\frac{a_{n+1}}{a_n} | 
+   $$ if the limit exists in the extended reals."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "261"
+    offset: "270"
+. id: "5e23b2357be8017205ed4560"
+

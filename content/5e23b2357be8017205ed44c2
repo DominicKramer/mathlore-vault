@@ -1,0 +1,13 @@
+ProtoResult:
+. "If a nonempty set $S$ of real numbers is bounded above, 
+   then $\sup S$ is the unique real number $\beta$ such that 
+   (a) $x\le\beta$ for all $x$ in $S$ (b) if $\epsilon>0$ (no 
+   matter how small), there is an $x_0$ in $S$ such that $x_0> 
+   \beta-\epsilon$ }"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "3"
+    offset: "12"
+. id: "5e23b2357be8017205ed44c2"
+

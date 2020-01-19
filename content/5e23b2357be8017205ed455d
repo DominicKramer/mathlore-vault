@@ -1,0 +1,13 @@
+ProtoResult:
+. "Under the assumptions of Theorem~$\ref{thmtype:5.4.3}$ $ 
+   \frac{\partial h(\mathbf{U}_0)}{\partial u_i}=\sum_{j=1}^n 
+   \frac{\partial f(\mathbf{X}_0) }{\partial x_j} 
+   \frac{\partial g_j(\mathbf{U}_0)}{\partial u_i}, 1\le i \le 
+   m. $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "346"
+    offset: "355"
+. id: "5e23b2357be8017205ed455d"
+

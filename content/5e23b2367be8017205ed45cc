@@ -1,0 +1,11 @@
+ProtoResult:
+. "If $f$ is integrable on $S$ then so is $|f|$ and $$ |\int_S
+   f(\mathbf{X}) d\mathbf{X} |\le\int_S |f(\mathbf{X})| 
+   d\mathbf{X}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "457"
+    offset: "466"
+. id: "5e23b2367be8017205ed45cc"
+

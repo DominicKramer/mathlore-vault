@@ -1,0 +1,10 @@
+ProtoResult:
+. "If $(A,\rho)$ is complete and $T$ is closed and totally 
+   bounded, then $T$ is compact."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "540"
+    offset: "549"
+. id: "5e23b2357be8017205ed4532"
+

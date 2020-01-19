@@ -1,0 +1,13 @@
+ProtoDefines:
+. "The vector sum of $$ \mathbf{X}=(x_1,x_2, $\dots$,x_n) 
+   \mathbf{Y}= (y_1,y_2, $\dots$,y_n) $$ is $ 
+   \mathbf{X}+\mathbf{Y}=(x_1+y_1,x_2+y_2, $\dots$,x_n+y_n). $ 
+   If $a$ is a real number, the scalar multiple of $\mathbf{X$ 
+   by\/} $a$ is $ a\mathbf{X}=(ax_1,ax_2, $\dots$,ax_n). $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "282"
+    offset: "291"
+. id: "5e23b2347be8017205ed4491"
+

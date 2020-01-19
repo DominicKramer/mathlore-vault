@@ -1,0 +1,17 @@
+ProtoDefines:
+. "If $x_0$ is a real number and $\epsilon>0$, then the open 
+   interval $(x_0-\epsilon, x_0+\epsilon)$ is an 
+   $\epsilon$-neighborhood of $x_0$. If a set $S$ contains an 
+   $\epsilon$-neighborhood of $x_0$, then $S$ is a neighborhood
+   of $x_0$, and $x_0$ is an interior point of $S$ . The set of
+   interior points of $S$ is the interior of $S$, denoted by 
+   $S^0$. If every point of $S$ is an interior point (that is, 
+   $S^0=S$), then $S$ is open. A set $S$ is closed if $S^c$ is 
+   open."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "21"
+    offset: "30"
+. id: "5e23b2347be8017205ed446d"
+

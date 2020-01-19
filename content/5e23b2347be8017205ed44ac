@@ -1,0 +1,13 @@
+ProtoDefines:
+. "If $S$ is a bounded subset of $\R^n$ and the integral 
+   $\int_S d\mathbf{X}$ (with integrand $f\equiv1$) exists, we 
+   call $\int_S d\mathbf{X}$ the content (also, area if $n=2$ 
+   or volume if $n=3$) of $S$, and denote it by $V(S)$; thus, 
+   $$ V(S)=\int_S d\mathbf{X}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "455"
+    offset: "464"
+. id: "5e23b2347be8017205ed44ac"
+

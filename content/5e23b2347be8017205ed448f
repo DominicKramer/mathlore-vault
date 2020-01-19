@@ -1,0 +1,15 @@
+ProtoDefines:
+. "If $\{f_j\}^\infty_k$ is a sequence of real-valued 
+   functions defined on a set $D$ of reals, then 
+   $\sum_{j=k}^\infty f_j$ is an infinite series (or simply a 
+   series) of functions on $D$. The partial sums of, 
+   $\sum_{j=k}^\infty f_j$ are defined by $$ F_n=\sum^n_{j=k} 
+   f_j, n\ge k. $$ If $\{F_n\}^\infty_k$ converges pointwise to
+   a function $F$ on a subset $S$ of $D$, we say that 
+   $\sum_{j=k}^\infty f_j$ converges pointwise to the sum $F$ 
+   on $S$, and write $$ F=\sum_{j=k}^\infty f_j, x\in S. $$ If 
+   $\{F_n\}$ converges uniformly to $F$ on $S$, we say that 
+   $\sum_{j=k}^\infty f_j$ converges uniformly to $F$ on~$S$."
+Metadata:
+. id: "5e23b2347be8017205ed448f"
+

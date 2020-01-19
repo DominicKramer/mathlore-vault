@@ -1,0 +1,11 @@
+ProtoResult:
+. "(a) The union of open sets is open. (b) The intersection of
+   closed sets is closed. These statements apply to arbitrary 
+   collections, finite or infinite, of open and closed sets."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "22"
+    offset: "31"
+. id: "5e23b2357be8017205ed44ca"
+

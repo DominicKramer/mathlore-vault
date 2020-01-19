@@ -1,0 +1,12 @@
+ProtoResult:
+. "If $\sum_{n=k}^\infty f_n$ converges uniformly to $F$ on 
+   $S$ and each $f_n$ is continuous at a point $x_0$ in $S$ 
+   then so is $F$ Similar statements hold for continuity from 
+   the right and left."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "252"
+    offset: "261"
+. id: "5e23b2357be8017205ed4553"
+

@@ -1,0 +1,16 @@
+ProtoResult:
+. "Let $ \lim_{n\to\infty} s_n=s \lim_{n\to\infty} t_n=t, $ 
+   where $s$ and $t$ are finite. Then $ \lim_{n\to\infty} 
+   (cs_n)=cs $ if $c$ is a constant$$ $$ 
+   \lim_{n\to\infty}(s_n+t_n)\ar=s+t,\\ 
+   \lim_{n\to\infty}(s_n-t_n)\ar=s-t, \\ 
+   \lim_{n\to\infty}(s_nt_n)\ar=st,\\ and \\ 
+   \lim_{n\to\infty}\frac{s_n}{ t_n}\ar=\frac{s}{ t} $$ if 
+   $t_n$ is nonzero for all $n$ and $t\ne0$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "184"
+    offset: "193"
+. id: "5e23b2357be8017205ed4516"
+

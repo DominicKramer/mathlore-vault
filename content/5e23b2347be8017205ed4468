@@ -1,0 +1,11 @@
+ProtoResult:
+. "A subset $T$ of a metric $A$ is compact if and only if 
+   every infinite sequence $\{t_n\}$ of members of $T$ has a 
+   subsequence that converges to a member of $T$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "538"
+    offset: "547"
+. id: "5e23b2347be8017205ed4468"
+

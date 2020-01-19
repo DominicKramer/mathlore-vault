@@ -1,0 +1,14 @@
+ProtoDefines:
+. "A subset $T$ of $C[a,b]$ is uniformly bounded if there is a
+   constant $M$ such that $ |f(x)|\le M a\le x\le b f\in T. $ A
+   subset $T$ of $C[a,b]$ is equicontinuous if for each 
+   $\epsilon>0$ there is a $\delta>0$ such that $ 
+   |f(x_1)-f(x_2)|\le \epsilon x_1,x_2\in [a,b], 
+   |x_1-x_2|<\delta, f\in T. $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "540"
+    offset: "549"
+. id: "5e23b2357be8017205ed44bc"
+

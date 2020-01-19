@@ -1,0 +1,12 @@
+ProtoResult:
+. "If $\mathbf{X}\in\R^n$ and $p_2>p_1\ge1$ then $ 
+   \|\mathbf{X}\|_{p_2}\le\|\mathbf{X}\|_{p_1}; $ moreover, $ 
+   \lim_{p\to\infty}\|\mathbf{X}\|_{p}=\max\left { |x_i|}{1\le 
+   i\le n \right }. $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "523"
+    offset: "532"
+. id: "5e23b2367be8017205ed45dd"
+

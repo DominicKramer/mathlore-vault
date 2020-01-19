@@ -1,0 +1,15 @@
+ProtoResult:
+. "Suppose that $\sum_{n=1}^\infty a_n$ is conditionally 
+   convergent and $\mu$ and $\nu$ are arbitrarily given in the 
+   extended reals, with $\mu\le\nu$ Then the terms of 
+   $\sum_{n=1}^\infty a_n$ can be rearranged to form a series 
+   $\sum_{n=1}^\infty b_n$ with partial sums $$ 
+   B_n=b_1+b_2+\cdots+b_n, n\ge1, $$ such that $ 
+   \limsup_{n\to\infty}B_n=\nu \liminf_{n\to\infty}B_n=\mu. $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "222"
+    offset: "231"
+. id: "5e23b2357be8017205ed4533"
+

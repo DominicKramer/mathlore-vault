@@ -1,0 +1,11 @@
+ProtoResult:
+. "If $\mathbf{G}:\E^n arrow \R^n$ is regular on a cube $C$ in
+   $\R^n$ then $ V(\mathbf{G}(C))\le\int_C |JG(\mathbf{Y})| 
+   d\mathbf{Y}. $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "501"
+    offset: "510"
+. id: "5e23b2367be8017205ed4595"
+

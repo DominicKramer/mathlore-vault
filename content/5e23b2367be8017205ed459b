@@ -1,0 +1,18 @@
+ProtoResult:
+. "If $f_{x_i} (\mathbf{X})$ and $g_{x_i} (\mathbf{X})$ exist,
+   then $$ \frac{\partial (f+g)(\mathbf{X})}{\partial 
+   x_i}\ar=f_{x_i}(\mathbf{X})+ g_{x_i}(\mathbf{X}),\\ 
+   \frac{\partial (fg)(\mathbf{X})}{\partial 
+   x_i}\ar=f_{x_i}(\mathbf{X}) 
+   g(\mathbf{X})+f(\mathbf{X})g_{x_i} (\mathbf{X}), $$ and, if 
+   $g(\mathbf{X})\ne0$ $$ \frac{\partial 
+   (f/g)(\mathbf{X})}{\partial x_i}=\frac{g(\mathbf{X})f_{x_i} 
+   (\mathbf{X})- 
+   f(\mathbf{X})g_{x_i}(\mathbf{X})}{[g(\mathbf{X})]^2}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "321"
+    offset: "330"
+. id: "5e23b2367be8017205ed459b"
+

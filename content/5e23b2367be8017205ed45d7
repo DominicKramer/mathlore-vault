@@ -1,0 +1,11 @@
+ProtoResult:
+. "Suppose that $\mathbf{G}:\R^n\to \R^n$ is regular on a 
+   compact Jordan measurable set $S$ Then $\mathbf{G}(S)$ is 
+   compact and Jordan measurable."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "492"
+    offset: "501"
+. id: "5e23b2367be8017205ed45d7"
+

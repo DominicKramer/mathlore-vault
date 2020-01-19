@@ -1,0 +1,20 @@
+ProtoDefines:
+. "A function $f$ is continuous on an open interval $(a,b)$ if
+   it is continuous at every point in $(a,b)$. If, in addition,
+   $$ f(b-)=f(b)\\ or \\ f(a+)=f(a) $$ then $f$ is continuous 
+   on $(a,b]$ or $[a,b)$, respectively. If $f$ is continuous on
+   $(a,b)$ and and both hold, then $f$ is continuous on 
+   $[a,b]$. More generally, if $S$ is a subset of $D_f$ 
+   consisting of finitely or infinitely many disjoint 
+   intervals, then $f$ is continuous on $S$ if $f$ is 
+   continuous on every interval in $S$. (Henceforth, in 
+   connection with functions of one variable, whenever we say 
+   ``$f$ is continuous on $S$'' we mean that $S$ is a set of 
+   this kind.)"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "55"
+    offset: "64"
+. id: "5e23b2347be8017205ed4476"
+

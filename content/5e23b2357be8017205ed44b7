@@ -1,0 +1,10 @@
+ProtoDefines:
+. "A metric space $(A,\rho)$ is complete if every Cauchy 
+   sequence in $A$ has a limit."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "527"
+    offset: "536"
+. id: "5e23b2357be8017205ed44b7"
+

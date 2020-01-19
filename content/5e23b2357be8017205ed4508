@@ -1,0 +1,14 @@
+ProtoResult:
+. "If $f$ is nonnegative and locally integrable on $[a,b)$ 
+   then $\int_a^b f(x) dx$ converges if the function $$ 
+   F(x)=\int_a^x f(t) dt $$ is bounded on $[a,b)$, and 
+   $\int_a^b f(x) dx=\infty$ if it is not. These are the only 
+   possibilities, and $$ \int_a^b f(t) dt=\sup_{a\le x<b}F(x) 
+   $$ in either case."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "159"
+    offset: "168"
+. id: "5e23b2357be8017205ed4508"
+

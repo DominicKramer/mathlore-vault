@@ -1,0 +1,16 @@
+ProtoDefines:
+. "Let $f$ be defined on $[a,b]$. We say that $f$ is Riemann 
+   integrable on $[a,b]$ if there is a number $L$ with the 
+   following property: For every $\epsilon>0$, there is a 
+   $\delta>0$ such that $$ |\sigma-L |<\epsilon $$ if $\sigma$ 
+   is any Riemann sum of $f$ over a partition $P$ of $[a,b]$ 
+   such that $\|P\|<\delta$. In this case, we say that $L$ is 
+   the Riemann integral of $f$ over $[a,b]$, and write $$ 
+   \int_a^b f(x) dx=L. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "114"
+    offset: "123"
+. id: "5e23b2347be8017205ed447c"
+

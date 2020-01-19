@@ -1,0 +1,13 @@
+ProtoResult:
+. "Suppose that $\{F_n\}$ converges pointwise to $F$ and each 
+   $F_n$ is integrable on $[a,b]$ (a) If the convergence is 
+   uniform, then $F$ is integrable on $[a,b]$ and $ $ holds. 
+   (b) If the sequence $\{\|F_n\|_{[a,b]}\}$ is bounded and $F$
+   is integrable on $[a,b]$ then $ $ holds."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "244"
+    offset: "253"
+. id: "5e23b2357be8017205ed4547"
+

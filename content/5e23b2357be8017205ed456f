@@ -1,0 +1,13 @@
+ProtoResult:
+. "If $f$ is bounded on $[a,b]$ and $\epsilon>0$ there is a 
+   $\delta>0$ such that $ \overline{\int_a^b}f(x) dx\le 
+   S(P)<\overline{\int_a^b}f(x) dx+\epsilon $ and $$ 
+   \underline{\int_a^b} f(x) dx\ge s(P)>\underline{\int_a^b} 
+   f(x) dx-\epsilon $$ if $\|P\|<\delta$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "131"
+    offset: "140"
+. id: "5e23b2357be8017205ed456f"
+

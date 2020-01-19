@@ -1,0 +1,17 @@
+ProtoResult:
+. "Suppose that $f$ $f_x$ and $f_y$ are differentiable in a 
+   neigborhood of a critical point $\mathbf{X}_0=(x_0,y_0)$ of 
+   $f$ and $f_{xx}$ $f_{yy}$ and $f_{xy}$ are continuous at 
+   $(x_0,y_0)$ Let $$ 
+   D=f_{xx}(x_0,y_0)f_{xy}(x_0,y_0)-f^2_{xy}(x_0,y_0). $$ Then 
+   (a) $(x_0,y_0)$ is a local extreme point of $f$ if $D>0$ 
+   $(x_0,y_0)$ is a local minimum point if $f_{xx}(x_0,y_0)>0$,
+   or a local maximum point if $f_{xx}(x_0,y_0)<0$ (b) 
+   $(x_0,y_0)$ is not a local extreme point of $f$ if $D<0$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "360"
+    offset: "369"
+. id: "5e23b2357be8017205ed455f"
+

@@ -1,0 +1,15 @@
+ProtoDefines:
+. "If $\{a_n\}_k^\infty$ is an infinite sequence of real 
+   numbers, the symbol $$ \sum_{n=k}^\infty a_n $$ is an 
+   infinite series, and $a_n$ is the $n$th term of the series. 
+   We say that $\sum_{n=k}^\infty a_n$ converges to the ^\infty
+   a_n= -\infty. $$ A divergent infinite series that does not 
+   diverge to $\pm\infty$ is said to oscillate, or be 
+   oscillatory."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "200"
+    offset: "209"
+. id: "5e23b2347be8017205ed448a"
+

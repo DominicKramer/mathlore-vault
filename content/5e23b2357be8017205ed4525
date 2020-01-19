@@ -1,0 +1,12 @@
+ProtoResult:
+. "Suppose that $ 0\le a_n\le b_n, n\ge k. $ Then (a) $\sum 
+   a_n<\infty$ if $\sum b_n<\infty$. (b) $\sum b_n=\infty$ if 
+   $\sum a_n=\infty$"
+Metadata:
+. name: "The Comparison Test"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "206"
+    offset: "215"
+. id: "5e23b2357be8017205ed4525"
+

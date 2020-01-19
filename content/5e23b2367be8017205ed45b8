@@ -1,0 +1,21 @@
+ProtoResult:
+. "Suppose that $\mathbf{F}: \R^n\to\R^m$ is differentiable at
+   $\mathbf{X}_0$ $\mathbf{G}:\R^k\to\R^n$ is differentiable at
+   $\mathbf{U}_0$ and $\mathbf{X}_0=\mathbf{G}(\mathbf{U}_0)$ 
+   Then the composite function 
+   $\mathbf{H}=\mathbf{F}\circ\mathbf{G}:\R^k\to\R^m$ defined 
+   by $$ 
+   \mathbf{H}(\mathbf{U})=\mathbf{F}(\mathbf{G}(\mathbf{U})), 
+   $$ is differentiable at $\mathbf{U}_0$ Moreover, $ 
+   \mathbf{H}'(\mathbf{U}_0)=\mathbf{F}'(\mathbf{G}(\mathbf{U}_0))
+   \mathbf{G}'(\mathbf{U}_0) $ and $ 
+   d_{\mathbf{U}_0}\mathbf{H}=d_{\mathbf{X}_0}\mathbf{F}\circ 
+   d_{\mathbf{U}_0}\mathbf{G}, $ where $\circ$ denotes 
+   composition."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "389"
+    offset: "398"
+. id: "5e23b2367be8017205ed45b8"
+

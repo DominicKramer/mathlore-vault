@@ -1,0 +1,10 @@
+ProtoResult:
+. "If $(A,N)$ is a normed vector space, then $ 
+   \rho(x,y)=N(x-y) $ is a metric on $A$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "520"
+    offset: "529"
+. id: "5e23b2367be8017205ed45db"
+

@@ -1,0 +1,14 @@
+ProtoResult:
+. "If $f$ is bounded on $[a,x_0)$ then $\alpha=\liminf_{x\to 
+   x_0-}f(x)$ exists and is the unique real number with the 
+   following properties: (a) If $\epsilon>0$ there is an $a_1$ 
+   in $[a,x_0)$ such that $$ f(x)>\alpha-\epsilon a_1\le x<x_0.
+   $$ (b) If $\epsilon>0$ and $a_1$ is in $[a,x_0)$ then $$ 
+   f(\overline x)<\alpha+\epsilon \overline x\in[a_1,x_0). $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "48"
+    offset: "57"
+. id: "5e23b2357be8017205ed44d3"
+

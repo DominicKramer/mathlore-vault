@@ -1,0 +1,11 @@
+ProtoResult:
+. "If $ \lim_{n\to\infty}s_n=s (-\infty\le s\le\infty), $ then
+   $ \lim_{k\to\infty} s_{n_k}=s $ for every subsequence 
+   $\{s_{n_k}\}$ of $\{s_n\}$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "196"
+    offset: "205"
+. id: "5e23b2357be8017205ed451c"
+

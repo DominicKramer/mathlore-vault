@@ -1,0 +1,20 @@
+ProtoResult:
+. "For a vector-valued function $\mathbf{G}$ $$ 
+   \lim_{\mathbf{U}\to\mathbf{U}_0}\mathbf{G}(\mathbf{U})=\mathbf{L}
+   $$ if and only if for each $\epsilon>0$ there is a 
+   $\delta>0$ such that $$ 
+   |\mathbf{G}(\mathbf{U})-\mathbf{L}|<\epsilon 
+   0<|\mathbf{U}-\mathbf{U}_0|<\delta \mathbf{U}\in 
+   D_{\mathbf{G}}. $$ Similarly, $\mathbf{G}$ is continuous at 
+   $\mathbf{U}_0$ if and only if for each $\epsilon> 0$ there 
+   is a $\delta>0$ such that $$ 
+   |\mathbf{G}(\mathbf{U})-\mathbf{G}(\mathbf{U}_0)|<\epsilon 
+   |\mathbf{U}-\mathbf{U}_0|<\delta \mathbf{U}\in 
+   D_{\mathbf{G}}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "313"
+    offset: "322"
+. id: "5e23b2367be8017205ed4589"
+

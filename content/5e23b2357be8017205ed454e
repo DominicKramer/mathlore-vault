@@ -1,0 +1,11 @@
+ProtoResult:
+. "The series $\sum f_n$ converges uniformly on $S$ if $ 
+   \|f_n\|_S\le M_n, n\ge k, $ where $\sum M_n<\infty$"
+Metadata:
+. name: "Weierstrass's Test"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "248"
+    offset: "257"
+. id: "5e23b2357be8017205ed454e"
+

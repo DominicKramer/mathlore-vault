@@ -1,0 +1,15 @@
+ProtoResult:
+. "Suppose that $\sum_{n=k}^\infty a_n=A$ where $-\infty \le 
+   A\le\infty$ Let $\{n_j\}_1^\infty$ be an increasing sequence
+   of integers, with $n_1\ge k$. Define $$ 
+   b_1\ar=a_k+\cdots+a_{n_1},\\ 
+   b_2\ar=a_{{n_1}+1}+\cdots+a_{n_2},\\ &\vdots\\ 
+   b_r\ar=a_{n_{r-1}+1}+\cdots+a_{n_r}. $$ Then $$ 
+   \sum_{j=1}^\infty b_{n_j}=A. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "220"
+    offset: "229"
+. id: "5e23b2357be8017205ed452e"
+

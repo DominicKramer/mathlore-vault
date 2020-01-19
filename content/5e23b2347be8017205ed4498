@@ -1,0 +1,15 @@
+ProtoDefines:
+. "A subset $S$ of $\R^n$ is connected if it is impossible to 
+   represent $S$ as the union of two disjoint nonempty sets 
+   such that neither contains a limit point of the other; that 
+   is, if $S$ cannot be expressed as $S=A\cup B$, where $ 
+   A\ne\emptyset, B\ne\emptyset, \overline{A}\cap B= \emptyset,
+   A\cap\overline{B}=\emptyset. $ If $S$ can be expressed in 
+   this way, then $S$ is disconnected."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "297"
+    offset: "306"
+. id: "5e23b2347be8017205ed4498"
+

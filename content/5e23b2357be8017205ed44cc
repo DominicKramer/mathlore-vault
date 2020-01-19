@@ -1,0 +1,13 @@
+ProtoResult:
+. "If ${\mathcal H}$ is an open covering of a closed and 
+   bounded subset $S$ of the real line, then $S$ has an open 
+   covering $\widetilde{\mathcal H}$ consisting of finitely 
+   many open sets belonging to ${\mathcal H}$"
+Metadata:
+. name: "Heine-Borel Theorem"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "25"
+    offset: "34"
+. id: "5e23b2357be8017205ed44cc"
+

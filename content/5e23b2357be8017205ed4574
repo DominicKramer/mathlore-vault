@@ -1,0 +1,20 @@
+ProtoResult:
+. "If $\mathbf{X}$ $\mathbf{Y}$ and $\mathbf{Z}$ are members 
+   of $\R^n$ and $a$ is a scalar, then (a) $|a\mathbf{X}|=|a| 
+   |\mathbf{X}|$ (b) $|\mathbf{X}|\ge0$ with equality if and 
+   only if $\mathbf{X}= \mathbf{0}$ (c) 
+   $|\mathbf{X}-\mathbf{Y}|\ge0$ with equality if and only if 
+   $\mathbf{X}=\mathbf{Y}$ (d) 
+   $\mathbf{X}\cdot\mathbf{Y}=\mathbf{Y}\cdot\mathbf{X}$ (e) 
+   $\mathbf{X}\cdot 
+   (\mathbf{Y}+\mathbf{Z})=\mathbf{X}\cdot\mathbf{Y}+ 
+   \mathbf{X}\cdot\mathbf{Z}$ (f) 
+   $(c\mathbf{X})\cdot\mathbf{Y}=\mathbf{X}\cdot (c\mathbf{Y})=
+   c(\mathbf{X}\cdot\mathbf{Y})$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "289"
+    offset: "298"
+. id: "5e23b2357be8017205ed4574"
+

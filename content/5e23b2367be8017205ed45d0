@@ -1,0 +1,13 @@
+ProtoResult:
+. "Suppose that $f$ is integrable on $R= [a,b]\times [c,d]$ 
+   and $$ F(y)=\int_a^b f(x,y) dx $$ exists for each $y$ in 
+   $[c,d]$ Then $F$ is integrable on $[c,d]$ and $ \int_c^d 
+   F(y) dy=\int_R f(x,y) d(x,y); $ that is, $ \int_c^d 
+   dy\int_a^b f(x,y) dx=\int_R f(x,y) d(x,y). $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "465"
+    offset: "474"
+. id: "5e23b2367be8017205ed45d0"
+

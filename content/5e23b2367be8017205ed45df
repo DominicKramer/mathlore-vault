@@ -1,0 +1,10 @@
+ProtoResult:
+. "A set is closed if and only if it contains all its limit 
+   points."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "526"
+    offset: "535"
+. id: "5e23b2367be8017205ed45df"
+

@@ -1,0 +1,12 @@
+ProtoResult:
+. "If $\{F_n\}$ converges uniformly to $F$ on $S$ and each 
+   $F_n$ is continuous at a point $x_0$ in $S$ then so is $F$. 
+   Similar statements hold for continuity from the right and 
+   left."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "244"
+    offset: "253"
+. id: "5e23b2357be8017205ed4543"
+

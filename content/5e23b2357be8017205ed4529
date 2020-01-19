@@ -1,0 +1,11 @@
+ProtoResult:
+. "Suppose that $a_n>0$ for $n\ge k$ Then , $ then the test is
+   inconclusive$$ that is, $\sum a_n$ may converge or diverge."
+Metadata:
+. name: "The Ratio Test"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "210"
+    offset: "219"
+. id: "5e23b2357be8017205ed4529"
+

@@ -1,0 +1,30 @@
+ProtoResult:
+. "A transformation $\mathbf{F}=(f_1,f_2, $\dots$,f_m)$ 
+   defined in a neighborhood of $\mathbf{X}_0\in\R^n$ is 
+   differentiable at $\mathbf{X}_0$ if and only if there is a 
+   constant $m\times n$ matrix $\mathbf{A}$ such that $ 
+   \lim_{\mathbf{X}\to\mathbf{X}_0} \frac{ 
+   \mathbf{F}(\mathbf{X})-\mathbf{F}(\mathbf{X}_0)-\mathbf{A} 
+   (\mathbf{X}-\mathbf{X}_0)} 
+   {|\mathbf{X}-\mathbf{X}_0|}=\mathbf{0}. $ If $ $ holds, then
+   $\mathbf{A}$ is given uniquely by $ \mathbf{A}= 
+   [\frac{\partial f_i(\mathbf{X}_0)}{\partial x_j} ]= [ 
+   \dst{\frac{\partial f_1(\mathbf{X}_0)}{\partial x_1}}& 
+   \dst{\frac{\partial f_1(\mathbf{X}_0)}{\partial 
+   x_2}}&\cdots& \dst{\frac{\partial 
+   f_1(\mathbf{X}_0)}{\partial x_n}}\\ [3\jot] 
+   \dst{\frac{\partial f_2(\mathbf{X}_0)}{\partial x_1}}& 
+   \dst{\frac{\partial f_2(\mathbf{X}_0)}{\partial x_2}}& 
+   \cdots&\dst{\frac{\partial f_2(\mathbf{X}_0)}{\partial 
+   x_n}}\\ \vdots&\vdots&\ddots&\vdots\\ \dst{\frac{\partial 
+   f_m(\mathbf{X}_0)}{\partial x_1}}& \dst{\frac{\partial 
+   f_m(\mathbf{X}_0)}{\partial x _2}}& 
+   \cdots&\dst{\frac{\partial f_m(\mathbf{X}_0)}{\partial x_n}}
+   ]. $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "380"
+    offset: "389"
+. id: "5e23b2367be8017205ed45b5"
+

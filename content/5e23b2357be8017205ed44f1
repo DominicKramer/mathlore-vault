@@ -1,0 +1,11 @@
+ProtoResult:
+. "If $f$ is bounded on $[a,b]$ and $ \underline{\int_a^b} 
+   f(x) dx=\overline{\int_a^b}f(x) dx=L, $ then $f$ is 
+   integrable on $[a,b]$ and $ \int_a^b f(x) dx=L. $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "132"
+    offset: "141"
+. id: "5e23b2357be8017205ed44f1"
+

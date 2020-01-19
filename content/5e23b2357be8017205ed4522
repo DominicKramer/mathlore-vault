@@ -1,0 +1,15 @@
+ProtoResult:
+. "Let $$ \sum_{n=k}^\infty a_n=A \sum_{n=k}^\infty b_n=B, $$ 
+   where $A$ and $B$ are finite. Then $$ \sum_{n=k}^\infty 
+   (ca_n)=cA $$ if $c$ is a constant, $$ \sum_{n=k}^\infty 
+   (a_n+b_n)=A+B, $$ and $$ \sum_{n=k}^\infty (a_n-b_n)=A-B. $$
+   These relations also hold if one or both of $A$ and $B$ is 
+   infinite, provided that the right sides are not 
+   indeterminate."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "202"
+    offset: "211"
+. id: "5e23b2357be8017205ed4522"
+

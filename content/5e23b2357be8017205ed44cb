@@ -1,0 +1,10 @@
+ProtoResult:
+. "A set $S$ is closed if and only if no point of $S^c$ is a 
+   limit point of~$S$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "24"
+    offset: "33"
+. id: "5e23b2357be8017205ed44cb"
+

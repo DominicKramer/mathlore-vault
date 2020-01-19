@@ -1,0 +1,11 @@
+ProtoResult:
+. "If $f$ is bounded on $[a,b]$ then $f$ is integrable on 
+   $[a,b]$ if and only if for each $\epsilon>0$ there is a 
+   partition $P$ of $[a,b]$ for which $ S(P)-s(P)<\epsilon. $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "133"
+    offset: "142"
+. id: "5e23b2357be8017205ed44f3"
+

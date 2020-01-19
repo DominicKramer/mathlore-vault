@@ -1,0 +1,14 @@
+ProtoDefines:
+. "A transformation $\mathbf{L}: \R^n \to \R^m$ defined on all
+   of $\R^n$ is linear if $$ 
+   \mathbf{L}(\mathbf{X}+\mathbf{Y})=\mathbf{L}(\mathbf{X})+\mathbf{L}(\mathbf{Y})
+   $$ for all $\mathbf{X}$ and $\mathbf{Y}$ in $\R^n$ and $$ 
+   \mathbf{L}(a\mathbf{X})=a\mathbf{L}(\mathbf{X}) $$ for all 
+   $\mathbf{X}$ in $\R^n$ and real numbers $a$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "362"
+    offset: "371"
+. id: "5e23b2347be8017205ed44a2"
+

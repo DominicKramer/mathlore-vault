@@ -1,0 +1,11 @@
+ProtoResult:
+. "If $f^{(n)}(x_0)$ exists for some integer $n\ge1$ and $T_n$
+   is the $n$th Taylor polynomial of $f$ about $x_0$ then $ 
+   \lim_{x\to x_0}\frac{f(x)-T_n(x)}{(x-x_0)^n}=0. $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "102"
+    offset: "111"
+. id: "5e23b2357be8017205ed44e9"
+

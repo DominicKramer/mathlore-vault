@@ -1,0 +1,13 @@
+ProtoResult:
+. "Suppose that ${\mathcal F}$ is an infinite uniformly 
+   bounded and equicontinuous family of functions on $[a,b]$ 
+   Then there is a sequence $\{f_n\}$ in ${\mathcal F}$ that 
+   converges uniformly to a continuous function on $[a,b]$"
+Metadata:
+. name: "Ascoli-Arzela Theorem"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "542"
+    offset: "551"
+. id: "5e23b2357be8017205ed4537"
+

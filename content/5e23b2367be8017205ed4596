@@ -1,0 +1,13 @@
+ProtoResult:
+. "Suppose that $S$ is Jordan measurable and $\epsilon$ 
+   $\rho>0$ Then there are cubes $C_1$ $C_2$ $\dots$, $C_r$ in 
+   $S$ with edge lengths $<\rho$ such that $C_j\subset S$ $1\le
+   j\le r$ $C_i^0\cap C_j^0=\emptyset$ if $i\ne j$ and $ 
+   V(S)\le\sum_{j=1}^r V(C_j)+\epsilon. $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "502"
+    offset: "511"
+. id: "5e23b2367be8017205ed4596"
+

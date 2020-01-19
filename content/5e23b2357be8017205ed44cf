@@ -1,0 +1,13 @@
+ProtoResult:
+. "If $ \lim_{x\to x_0} f(x)=L_1 \lim_{x\to x_0} g(x)= L_2, $ 
+   then $$ \lim_{x\to x_0} (f+g)(x)\ar= L_1+L_2,\\ \lim_{x\to 
+   x_0} (f-g)(x)\ar= L_1-L_2,\\ \lim_{x\to x_0} (fg)(x)\ar= 
+   L_1L_2,\\ and, if $L_2\ne0$,\\ \lim_{x\to x_0} (\frac{f}{g} 
+   )(x)\ar= \frac{L_1}{ L_2}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "35"
+    offset: "44"
+. id: "5e23b2357be8017205ed44cf"
+

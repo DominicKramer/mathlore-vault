@@ -1,0 +1,12 @@
+ProtoResult:
+. "If $\{F_n\}$ converges uniformly to $F$ on $S$ then 
+   $\{F_n\}$ converges pointwise to $F$ on $S$ The converse is 
+   false$$ that is, pointwise convergence does not imply 
+   uniform convergence."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "239"
+    offset: "248"
+. id: "5e23b2357be8017205ed453e"
+

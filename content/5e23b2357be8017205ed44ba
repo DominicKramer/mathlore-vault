@@ -1,0 +1,9 @@
+ProtoDefines:
+. "A set $T$ is compact if it has the Heine-Borel property."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "536"
+    offset: "545"
+. id: "5e23b2357be8017205ed44ba"
+

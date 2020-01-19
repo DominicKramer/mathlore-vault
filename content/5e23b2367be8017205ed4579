@@ -1,0 +1,13 @@
+ProtoResult:
+. "If $\mathbf{X}$ and $\mathbf{Y}$ are any two vectors in 
+   $\R^n$ then $ |\mathbf{X}\cdot\mathbf{Y}|\le |\mathbf{X}| 
+   |\mathbf{Y}|, $ with equality if and only if one of the 
+   vectors is a scalar multiple of the other."
+Metadata:
+. name: "Schwarz's Inequality"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "285"
+    offset: "294"
+. id: "5e23b2367be8017205ed4579"
+

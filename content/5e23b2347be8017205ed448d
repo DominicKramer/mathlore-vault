@@ -1,0 +1,13 @@
+ProtoDefines:
+. "Suppose that $\{F_n\}$ is a sequence of functions on $D$ 
+   and the sequence of values $\{F_n(x)\}$ converges for each 
+   $x$ in some subset $S$ of $D$. Then we say that $\{F_n\}$ 
+   converges pointwise on $S$ to the limit function $F$, 
+   defined by $$ F(x)=\lim_{n\to\infty}F_n(x), x\in S. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "235"
+    offset: "244"
+. id: "5e23b2347be8017205ed448d"
+

@@ -1,0 +1,12 @@
+ProtoResult:
+. "If $\{s_n\}$ is monotonic and has a subsequence 
+   $\{s_{n_k}\}$ such that $$ \lim_{k\to\infty} s_{n_k}=s 
+   (-\infty\le s\le\infty), $$ then $$ \lim_{n\to\infty} s_n=s.
+   $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "196"
+    offset: "205"
+. id: "5e23b2357be8017205ed451b"
+

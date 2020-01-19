@@ -1,0 +1,12 @@
+ProtoResult:
+. "Let $f$ be defined on $[a,b]$ Then $f$ is continuous at 
+   $x_0$ in $[a,b]$ if and only if $w_f(x_0)=0$ (Continuity at 
+   $a$ or $b$ means continuity from the right or left, 
+   respectively.)"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "176"
+    offset: "185"
+. id: "5e23b2357be8017205ed4510"
+

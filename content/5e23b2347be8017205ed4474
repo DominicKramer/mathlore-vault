@@ -1,0 +1,17 @@
+ProtoDefines:
+. "Suppose that $f$ is bounded on $[a,x_0)$, where $x_0$ may 
+   be finite or $\infty$. For $a\le x<x_0$, define $$ 
+   S_f(x;x_0)\ar= \sup_{x\le t<x_0}f(t)\\and\\ I_f(x;x_0)\ar= 
+   \inf_{x\le t<x_0}f(t). $$ Then the left limit superior of 
+   $f$ at $x_0$ is defined to be $$ \limsup_{x\to x_0-} 
+   f(x)=\lim_{x\to x_0-}S_f(x;x_0), $$ and the left limit 
+   inferior of $f$ at $x_0$ is defined to be $$ \liminf_{x\to 
+   x_0-}f(x)=\lim_{x\to x_0-}I_f(x;x_0). $$ (If $x_0=\infty$, 
+   we define $x_0-=\infty$.)"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "47"
+    offset: "56"
+. id: "5e23b2347be8017205ed4474"
+

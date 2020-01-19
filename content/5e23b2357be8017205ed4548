@@ -1,0 +1,16 @@
+ProtoResult:
+. "Suppose that $F'_n$ is continuous on $[a,b]$ for all 
+   $n\ge1$ and $\{F'_n\}$ converges uniformly on $[a,b]$ 
+   Suppose also that $\{F_n(x_0)\}$ converges for some $x_0$ in
+   $[a,b]$ Then $\{F_n\}$ converges uniformly on $[a,b]$ to a 
+   differentiable limit function $F$ and $ 
+   F'(x)=\lim_{n\to\infty}F'_n(x), a<x<b, $ while $ 
+   F'_+(a)=\lim_{n\to\infty}F'_n(a+) F'_-(b)= 
+   \lim_{n\to\infty}F'_n(b-). $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "245"
+    offset: "254"
+. id: "5e23b2357be8017205ed4548"
+

@@ -1,0 +1,15 @@
+ProtoDefines:
+. "A function $f$ is differentiable at $$ 
+   \mathbf{X}_0=(x_{10},x_{20}, $\dots$,x_{n0})) $$ if 
+   $\mathbf{X}_0\in D_f^0$ and there are constants $m_1$, 
+   $m_2$, $\dots$, $m_n$ such that $ 
+   \lim_{\mathbf{X}\to\mathbf{X}_0} 
+   \frac{f(\mathbf{X})-f(\mathbf{X}_0)- \dst{\sum^n_{i=1}} m_i 
+   (x_i-x_{i0})}{ |\mathbf{X}-\mathbf{X}_0|}=0. $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "326"
+    offset: "335"
+. id: "5e23b2347be8017205ed449f"
+

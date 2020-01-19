@@ -1,0 +1,14 @@
+ProtoDefines:
+. "The Cauchy product of $\sum_{n=0^\infty a_n$ and\/} 
+   $\sum_{n=0}^\infty b_n$ is $\sum_{n=0}^\infty c_n$, where $ 
+   c_n=a_0b_n+a_1b_{n-1}+\cdots+a_{n-1}b_1+a_nb_0. $ Thus, 
+   $c_n$ is the sum of all products $a_ib_j$, where $i\ge0$, 
+   $j\ge0$, and $i+j=n$; thus, $ c_n=\sum_{r=0}^n 
+   a_rb_{n-r}=\sum_{r=0}^n b_ra_{n-r}. $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "226"
+    offset: "235"
+. id: "5e23b2347be8017205ed448c"
+

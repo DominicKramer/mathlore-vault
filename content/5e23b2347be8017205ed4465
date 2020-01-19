@@ -1,0 +1,10 @@
+ProtoResult:
+. "Any two norms $N_1$ and $N_2$ on $\R^n$ induce equivalent 
+   metrics on~$\R^n$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "530"
+    offset: "539"
+. id: "5e23b2347be8017205ed4465"
+

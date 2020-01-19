@@ -1,0 +1,19 @@
+ProtoDefines:
+. "(a) We say that $f(x)$ approaches the left-hand limit $L$ 
+   as $x$ approaches $x_0$ from the left, and write $$ 
+   \lim_{x\to x_0-} f(x)=L, $$ if $f$ is defined on some open 
+   interval $(a,x_0)$ and, for each $\epsilon>0$, there is a 
+   $\delta>0$ such that $$ |f(x)-L|<\epsilon x_0-\delta<x<x_0. 
+   $$ (b) We say that $f(x)$ approaches the right-hand limit 
+   $L$ as $x$ approaches $x_0$ from the right, and write $$ 
+   \lim_{x\to x_0+} f(x)=L, $$ if $f$ is defined on some open 
+   interval $(x_0,b)$ and, for each $\epsilon>0$, there is a 
+   $\delta>0$ such that $$ |f(x)-L|<\epsilon x_0<x<x_0+\delta. 
+   $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "38"
+    offset: "47"
+. id: "5e23b2347be8017205ed4471"
+

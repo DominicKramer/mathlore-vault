@@ -1,0 +1,16 @@
+ProtoResult:
+. "(a) If $\{s_n\}$ is bounded above and does not diverge to 
+   $-\infty$ then there is a unique real number $\overline{s}$ 
+   such that, if $\epsilon>0$ $ s_n<\overline{s}+\epsilon $ and
+   $ s_n>\overline{s}-\epsilon . $ (b) If $\{s_n\}$ is bounded 
+   below and does not diverge to $\infty$ then there is a 
+   unique real number $\underline{s}$ such that, if $\epsilon 
+   >0$ $ s_n>\underline{s}-\epsilon $ and $ 
+   s_n<\underline{s}+\epsilon . $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "187"
+    offset: "196"
+. id: "5e23b2357be8017205ed4517"
+

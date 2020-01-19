@@ -1,0 +1,13 @@
+ProtoResult:
+. "Let $f$ be bounded on $[a,b]$, and let $P$ be a partition 
+   of $[a,b]$ Then (a) The upper sum $S(P)$ of $f$ over $P$ is 
+   the supremum of the set of all Riemann sums of $f$ over $P$ 
+   (b) The lower sum $s(P)$ of $f$ over $P$ is the infimum of 
+   the set of all Riemann sums of $f$ over $P$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "122"
+    offset: "131"
+. id: "5e23b2357be8017205ed44ee"
+

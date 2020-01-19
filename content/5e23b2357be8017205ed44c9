@@ -1,0 +1,14 @@
+ProtoResult:
+. "Let $n_0$ be any integer (positive, negative, or zero). Let
+   $P_{n_0}$ $P_{n_0+1}, $$\dots$, $P_n$ $\dots$\ be 
+   propositions, one for each integer $n\ge n_0$ such that (a) 
+   $P_{n_0}$ is true (b) for $n\ge n_0$ $P_{n+1}$ is true if 
+   $P_{n_0}$ $P_{n_0+1}, $$\dots$, $P_n$ are all true. Then 
+   $P_n$ is true for $n\ge n_0$ }"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "13"
+    offset: "22"
+. id: "5e23b2357be8017205ed44c9"
+

@@ -1,0 +1,12 @@
+ProtoResult:
+. "If $f$ is continuous on $$ R=[a_1,b_1]\times 
+   [a_2,b_2]\times\cdots\times [a_n,b_n], $$ then $\int_R 
+   f(\mathbf{X}) d\mathbf{X}$ can be evaluated by iterated 
+   integrals in any of the $n!$ ways indicated in $ $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "474"
+    offset: "483"
+. id: "5e23b2367be8017205ed45d3"
+

@@ -1,0 +1,17 @@
+ProtoResult:
+. "If $f$ is differentiable at $\mathbf{X}_0=(x_{10},x_{20}, 
+   $\dots$,x_{n0})$ then $f_{x_1}(\mathbf{X}_0)$ 
+   $f_{x_2}(\mathbf{X}_{0})$ $\dots$, $f_{x_n}(\mathbf{X}_0)$ 
+   exist and the constants $m_1$ $m_2$ $\dots$, $m_n$ in $ $ 
+   are given by $ m_i=f_{x_i}(\mathbf{X}_0), 1\le i\le n; $ 
+   that is, $$ \lim_{\mathbf{X}\to\mathbf{X}_0} 
+   \frac{f(\mathbf{X})-f(\mathbf{X}_0)- \dst{\sum^n_{i=1}} 
+   f_{x_i}(\mathbf{X}_0) (x_i-x_{i0})} { 
+   |\mathbf{X}-\mathbf{X}_0|}=0. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "327"
+    offset: "336"
+. id: "5e23b2367be8017205ed459e"
+

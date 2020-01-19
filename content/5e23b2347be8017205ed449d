@@ -1,0 +1,12 @@
+ProtoDefines:
+. "If $\mathbf{X}_0$ is in $D_f$ and is a limit point of 
+   $D_f$, then we say that $f$ is continuous at 
+   $\mathbf{X_0$\/} if $$ \lim_{\mathbf{X}\to\mathbf{X}_0} 
+   f(\mathbf{X})=f(\mathbf{X}_0). $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "311"
+    offset: "320"
+. id: "5e23b2347be8017205ed449d"
+

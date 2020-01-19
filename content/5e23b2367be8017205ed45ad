@@ -1,0 +1,12 @@
+ProtoResult:
+. "If $\mathbf{A}$ and $\mathbf{B}$ are $n\times n$ matrices, 
+   then $$ 
+   \det(\mathbf{A}\mathbf{B})=\det(\mathbf{A})\det(\mathbf{B}).
+   $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "371"
+    offset: "380"
+. id: "5e23b2367be8017205ed45ad"
+

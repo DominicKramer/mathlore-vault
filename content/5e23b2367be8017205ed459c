@@ -1,0 +1,12 @@
+ProtoResult:
+. "Suppose that $f$ $f_x$ $f_y$ and $f_{xy}$ exist on a 
+   neighborhood $N$ of $(x_0,y_0)$ and $f_{xy}$ is continuous 
+   at $(x_0,y_0)$ Then $f_{yx}(x_0,y_0)$ exists, and $ 
+   f_{yx}(x_0,y_0)=f_{xy}(x_0,y_0). $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "323"
+    offset: "332"
+. id: "5e23b2367be8017205ed459c"
+

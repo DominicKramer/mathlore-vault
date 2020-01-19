@@ -1,0 +1,12 @@
+ProtoResult:
+. "$ converges uniformly on a set $S$ if and only if for each 
+   $\epsilon>0$ there is an integer $N$ such that $ 
+   \|F_n-F_m\|_S<\epsilon n, m\ge N. $"
+Metadata:
+. name: "Cauchy's Uniform Convergence Criterion"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "240"
+    offset: "249"
+. id: "5e23b2357be8017205ed453f"
+

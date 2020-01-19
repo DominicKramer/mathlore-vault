@@ -1,0 +1,12 @@
+ProtoResult:
+. "The system $ $ has a solution $\mathbf{X}$ for any given 
+   $\mathbf{Y}$ if and only if $\mathbf{A}$ is nonsingular. In 
+   this case, the solution is unique and is given by 
+   $\mathbf{X}=\mathbf{A}^{-1}\mathbf{Y}$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "374"
+    offset: "383"
+. id: "5e23b2367be8017205ed45b0"
+

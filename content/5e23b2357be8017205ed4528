@@ -1,0 +1,11 @@
+ProtoResult:
+. "Suppose that $a_n>0$ $b_n>0$ and $ \frac{a_{n+1}}{ a_n}\le 
+   \frac{b_{n+1}}{ b_n}. $ Then (a) $\sum a_n<\infty$ if $\sum 
+   b_n<\infty$ (b) $\sum b_n=\infty$ if $\sum a_n=\infty$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "210"
+    offset: "219"
+. id: "5e23b2357be8017205ed4528"
+

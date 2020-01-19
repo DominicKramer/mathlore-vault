@@ -1,0 +1,11 @@
+ProtoResult:
+. "The rational numbers are dense in the reals that is, if $a$
+   and $b$ are real numbers with $a<b$ there is a rational 
+   number $p/q$ such that $a<p/q<b$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "5"
+    offset: "14"
+. id: "5e23b2357be8017205ed44c4"
+

@@ -1,0 +1,13 @@
+ProtoResult:
+. "If $P=\{a_{n_i}\}_1^\infty$ and $Q= \{a_{m_j}\}_1^\infty$ 
+   are respectively the subsequences of all positive and 
+   negative terms in a conditionally convergent series $\sum 
+   a_n$ then $ \sum_{i=1}^\infty a_{n_i}=\infty 
+   \sum_{j=1}^\infty a_{m_j}=-\infty. $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "222"
+    offset: "231"
+. id: "5e23b2357be8017205ed4530"
+

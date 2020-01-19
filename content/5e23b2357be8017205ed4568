@@ -1,0 +1,14 @@
+ProtoResult:
+. "Suppose that $f$ is infinitely differentiable on an 
+   interval $I$ and $ \lim_{n\to\infty}\frac{r^n}{ 
+   n!}\|f^{(n)}\|_I=0. $ Then, if $x_0\in I^0$ the Taylor 
+   series $$ \sum^\infty_{n=0}\frac{f^{(n)}(x_0)}{ n!} 
+   (x-x_0)^n $$ converges uniformly to $f$ on $$ I_r=I\cap 
+   [x_0-r,x_0+r]. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "267"
+    offset: "276"
+. id: "5e23b2357be8017205ed4568"
+

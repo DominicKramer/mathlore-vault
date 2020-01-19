@@ -1,0 +1,14 @@
+ProtoResult:
+. "If $f$ is integrable on $[a,b]$ and $a\le c\le b$ then 
+   $F(x)=\int_c^x f(t) dt$ is differentiable at any point $x_0$
+   in $(a,b)$ where $f$ is continuous, with $F'(x_0)=f(x_0)$ If
+   $f$ is continuous from the right at $a$ then $F_+'(a)=f(a)$.
+   If $f$ is continuous from the left at $b$ then 
+   $F_-'(b)=f(b)$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "144"
+    offset: "153"
+. id: "5e23b2357be8017205ed4500"
+

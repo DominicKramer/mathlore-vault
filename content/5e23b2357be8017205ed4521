@@ -1,0 +1,9 @@
+ProtoResult:
+. "The sum of a convergent series is unique."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "202"
+    offset: "211"
+. id: "5e23b2357be8017205ed4521"
+
