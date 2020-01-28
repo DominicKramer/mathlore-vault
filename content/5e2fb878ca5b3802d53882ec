@@ -1,0 +1,12 @@
+ProtoResult:
+. "If $x\in\mathbf{R}$ and $n\in\mathbf{N}$, then there is a 
+   fraction $\displaystyle\frac{a}{b}$ in lowest terms such 
+   that $0<b\leq n$ and $$ | x - \frac{a}{b} | \leq 
+   \frac{1}{b(n+1)}$$"
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "119"
+    offset: "126"
+. id: "5e2fb878ca5b3802d53882ec"
+

@@ -1,0 +1,17 @@
+ProtoResult:
+. "{\bf (Law of Large Numbers)} Let $X_1$, $X_2$, $\dots$, 
+   $X_n$ be an independent trials process with a continuous 
+   density function $f$, finite expected value $\mu$, and 
+   finite variance $\sigma^2$. Let $S_n = X_1 + X_2 +\cdots+ 
+   X_n$ be the sum of the $X_i$. Then for any real number 
+   $\epsilon > 0$ we have $$ \lim_{n \to \infty} P ( | \frac 
+   {S_n}n - \mu | \geq \epsilon ) = 0\ , $$ or equivalently, $$
+   \lim_{n \to \infty} P ( | \frac {S_n}n - \mu | < \epsilon ) 
+   = 1\ . $$"
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "318"
+    offset: "328"
+. id: "5e2fc0a764735772ef984c7c"
+

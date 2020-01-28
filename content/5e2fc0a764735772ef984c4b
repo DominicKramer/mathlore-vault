@@ -1,0 +1,17 @@
+ProtoResult:
+. "Let $X$ be a random variable with sample space $\Omega$. If
+   $F_1$, $F_2$, $\dots$, $F_r$ are events such that $F_i \cap 
+   F_j = \emptyset$ for $i \ne j$ and $\Omega = \cup_j F_j$, 
+   then $$ E(X) = \sum_j E(X|F_j) P(F_j)\ . $$ .2in {\bf 
+   Proof.\ } We have $$ \sum_j E(X|F_j) P(F_j) & = & \sum_j 
+   \sum_k x_k P(X = x_k|F_j) P(F_j) \\ & = & \sum_j \sum_k x_k 
+   P(X = x_k { and} F_j { occurs}) \\ & = & \sum_k \sum_j x_k 
+   P(X = x_k { and} F_j { occurs}) \\ & = & \sum_k x_k P(X = 
+   x_k) \\ & = & E(X)\ . $$"
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "241"
+    offset: "251"
+. id: "5e2fc0a764735772ef984c4b"
+

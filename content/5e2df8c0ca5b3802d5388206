@@ -1,0 +1,14 @@
+ProtoResult:
+. "Let $H$ be a subgroup of a group $G$ and suppose that $g_1,
+   g_2 \in G$. The following conditions are equivalent. 
+   \begin{enumerate} \item \it $g_1 H = g_2 H$; \item \it $H 
+   g_1^{-1} = H g_2^{-1}$; \item \it $g_1 H \subseteq g_2 H$; 
+   \item \it $g_2 \in g_1 H$; \item \it $g_1^{-1} g_2 \in H$. 
+   \end{enumerate}"
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "95"
+    offset: "105"
+. id: "5e2df8c0ca5b3802d5388206"
+

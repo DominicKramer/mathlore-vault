@@ -1,0 +1,11 @@
+ProtoDefines:
+. "An abelian group is a group $G$ such that $ab=ba$ for every
+   $a,b\in G$."
+Metadata:
+. name: "Abelian Group"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "22"
+    offset: "29"
+. id: "5e2fb878ca5b3802d53882d3"
+

@@ -1,0 +1,18 @@
+ProtoResult:
+. "Let $b_{ij}$ be the probability that an absorbing chain 
+   will be absorbed in the absorbing state $s_j$ if it starts 
+   in the transient state $s_i$. Let ${ \/}$ be the matrix with
+   entries $b_{ij}$. Then ${ \/}$ is an $t$-by-$r$ matrix, and 
+   $$ { \/} = { \/} { \/}\ , $$ where ${ \/}$ is the 
+   fundamental matrix and ${ \/}$ is as in the canonical form. 
+   .2in {\bf Proof.\ } We have $$ { \/}_{ij} &=& \sum_n\sum_k 
+   q_{ik}^{(n)} r_{kj} \\ &=& \sum_k \sum_n q_{ik}^{(n)} r_{kj}
+   \\ &=& \sum_k n_{ik}r_{kj} \\ &=& ({ \/}{ \/})_{ij}\ . $$ 
+   This completes the proof."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "422"
+    offset: "432"
+. id: "5e2fc0a764735772ef984c88"
+

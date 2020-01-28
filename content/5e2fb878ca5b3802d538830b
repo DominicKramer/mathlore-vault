@@ -1,0 +1,12 @@
+ProtoResult:
+. "Let $p$ be an odd prime and let $a$ be a positive integer 
+   with $p\nmid a$. If $q$ is a prime with $q\equiv \pm 
+   p\pmod{4a}$, then $ (\frac{a}{p} ) = (\frac{a}{q} )$."
+Metadata:
+. name: "Euler"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "78"
+    offset: "85"
+. id: "5e2fb878ca5b3802d538830b"
+

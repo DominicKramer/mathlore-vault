@@ -1,0 +1,10 @@
+ProtoResult:
+. "Suppose $a,b,n\in\mathbf{Z}$ are such that $n\mid a$ and 
+   $n\mid b$. Then $n\mid \gcd(a,b)$."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "6"
+    offset: "13"
+. id: "5e2fb878ca5b3802d53882d5"
+

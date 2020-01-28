@@ -1,0 +1,10 @@
+ProtoDefines:
+. "A Markov chain is called a {regular\/} chain if some power 
+   of the transition matrix has only positive elements."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "435"
+    offset: "445"
+. id: "5e2fc0a664735772ef984c2e"
+

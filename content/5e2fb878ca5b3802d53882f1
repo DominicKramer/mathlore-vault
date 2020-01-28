@@ -1,0 +1,9 @@
+ProtoResult:
+. "There are infinitely many primes of the form $4x-1$."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "13"
+    offset: "20"
+. id: "5e2fb878ca5b3802d53882f1"
+

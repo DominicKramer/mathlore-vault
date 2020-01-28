@@ -1,0 +1,15 @@
+ProtoDefines:
+. "A group is a set $G$ equipped with a binary operation $G 
+   \times G \to G$ (denoted by multiplication below) and an 
+   identity element $1\in G$ such that: \begin{enumerate} \item
+   For all $a,b,c\in G$, we have $(ab)c = a(bc)$. \item For 
+   each $a\in G$, we have $1a=a1=a$, and there exists $b\in G$ 
+   such that $ab = 1$. \end{enumerate}"
+Metadata:
+. name: "Group"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "21"
+    offset: "28"
+. id: "5e2fb877ca5b3802d53882cf"
+

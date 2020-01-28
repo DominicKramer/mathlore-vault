@@ -1,0 +1,11 @@
+ProtoResult:
+. "An infinite simple continued fraction is periodic if and 
+   only if it represents a quadratic irrational."
+Metadata:
+. name: "Periodic Characterization"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "112"
+    offset: "119"
+. id: "5e2fb878ca5b3802d5388328"
+

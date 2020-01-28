@@ -1,0 +1,36 @@
+ProtoResult:
+. "If $D$ is any ordering that is the result of applying an 
+   $a$-shuffle and then a $b$-shuffle to the identity ordering,
+   then the probability assigned to $D$ by this pair of 
+   operations is the same as the probability assigned to $D$ by
+   the process of applying an $ab$-shuffle to the identity 
+   ordering. .2in {\bf Proof.\ } Call the sample space of 
+   $a$-shuffles $S_a$. If we label the stacks by the integers 
+   from $0$ to $a-1$, then each cut-interleaving pair, i.e., 
+   shuffle, corresponds to exactly one $n$-digit base $a$ 
+   integer, where the $i$th digit in the integer is the stack 
+   of which the $i$th card is a member. Thus, the number of 
+   cut-interleaving pairs is equal to the number of $n$-digit 
+   base $a$ integers, which is $a^n$. Of course, not all of 
+   these pairs leads to different orderings. The number of 
+   pairs leading to a given ordering will be discussed later. 
+   For our purposes it is enough to point out that it is the 
+   cut-interleaving pairs that determine the probability 
+   assignment. \par The previous theorem shows that there is a 
+   1-1 correspondence between $S_{a,b}$ and $S_{ab}$. 
+   Furthermore, corresponding elements give the same ordering 
+   when applied to the identity ordering. Given any ordering 
+   $D$, let $m_1$ be the number of elements of $S_{a,b}$ which,
+   when applied to the identity ordering, result in $D$. Let 
+   $m_2$ be the number of elements of $S_{ab}$ which, when 
+   applied to the identity ordering, result in $D$. The 
+   previous theorem implies that $m_1 = m_2$. Thus, both sets 
+   assign the probability $${{m_1}\over{(ab)^n}}$$ to $D$. This
+   completes the proof."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "123"
+    offset: "133"
+. id: "5e2fc0a764735772ef984c56"
+

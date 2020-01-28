@@ -1,0 +1,11 @@
+ProtoResult:
+. "Let $H$ be an $m \times n$ binary matrix. Then the null 
+   space of $H$ is a single error-detecting code if and only if
+   no column of $H$ consists entirely of zeros."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "133"
+    offset: "143"
+. id: "5e2df8c0ca5b3802d53881ef"
+

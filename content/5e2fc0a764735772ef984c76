@@ -1,0 +1,14 @@
+ProtoResult:
+. "{\bf (Central Limit Theorem)} Let $S_n = X_1 + X_2 +\cdots+
+   X_n$ be the sum of $n$ discrete independent random variables
+   with common distribution having expected value $\mu$ and 
+   variance $\sigma^2$. Then, for $a < b$, $$ \lim_{n \to 
+   \infty} P ( a < \frac {S_n - n\mu}{\sqrt{n\sigma^2}} < b ) =
+   \frac 1{\sqrt{2\pi}} \int_a^b e^{-x^2/2} dx\ . $$"
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "345"
+    offset: "355"
+. id: "5e2fc0a764735772ef984c76"
+

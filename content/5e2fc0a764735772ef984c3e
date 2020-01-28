@@ -1,0 +1,13 @@
+ProtoResult:
+. "Let $X_1, X_2, \ldots, X_n$ be mutually independent 
+   continuous random variables and let $\phi_1(x), \phi_2(x), 
+   \ldots, \phi_n(x)$ be continuous functions. Then 
+   $\phi_1(X_1)$ \newline $\phi_2(X_2), \ldots, \phi_n(X_n)$ 
+   are mutually independent."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "168"
+    offset: "178"
+. id: "5e2fc0a764735772ef984c3e"
+

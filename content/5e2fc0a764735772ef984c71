@@ -1,0 +1,22 @@
+ProtoResult:
+. "If $A$ and $B$ are subsets of $\Omega$, then $ P(A \cup B) 
+   = P(A) + P(B) - P(A \cap B)\ . $ .2in {\bf Proof.\ } The 
+   left side of Equation 1.1} is the sum of $m(\omega)$ for 
+   $\omega$ in either $A$ or $B$. We must show that the right 
+   side of Equation~\ref{eq 1.1} also adds $m(\omega)$ for 
+   $\omega$ in $A$ or $B$. If $\omega$ is in exactly one of the
+   two sets, then it is counted in only one of the three terms 
+   on the right side of Equation~\ref{eq 1.1}. If it is in both
+   $A$ and $B$, it is added twice from the calculations of 
+   $P(A)$ and $P(B)$ and subtracted once for $P(A \cap B)$. 
+   Thus it is counted exactly once by the right side. Of 
+   course, if $A \cap B = \emptyset$, then Equation~\ref{eq 
+   1.1} reduces to Property~4. (Equation~\ref{eq 1.1} can also 
+   be generalized; see Theorem~\ref{thm 3.10 .)"
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "24"
+    offset: "34"
+. id: "5e2fc0a764735772ef984c71"
+

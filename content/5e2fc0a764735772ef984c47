@@ -1,0 +1,14 @@
+ProtoDefines:
+. "If $F$ is any event and $X$ is a random variable with 
+   sample space $\Omega = \{x_1, x_2, \ldots\}$, then the 
+   {conditional expectation given $F$\/} is defined by $$ 
+   E(X|F) = \sum_j x_j P(X = x_j|F)\ . $$ Conditional 
+   expectation is used most often in the form provided by the 
+   following theorem."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "241"
+    offset: "251"
+. id: "5e2fc0a764735772ef984c47"
+

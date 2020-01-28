@@ -1,0 +1,10 @@
+ProtoResult:
+. "There are infinitely many primes."
+Metadata:
+. name: "Euclid"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "11"
+    offset: "18"
+. id: "5e2fb878ca5b3802d5388312"
+

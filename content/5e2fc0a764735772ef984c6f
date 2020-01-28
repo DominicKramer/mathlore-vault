@@ -1,0 +1,15 @@
+ProtoResult:
+. "If $A_1$, $\dots$, $A_n$ are pairwise disjoint subsets of 
+   $\Omega$ (i.e., no two of the $A_i$'s have an element in 
+   common), then $$ P(A_1 \cup \cdots \cup A_n) = \sum_{i = 
+   1}^n P(A_i)\ . $$ .2in {\bf Proof.\ } Let $\omega$ be any 
+   element in the union $$A_1 \cup \cdots \cup A_n\ $$ Then 
+   $m(\omega)$ occurs exactly once on each side of the equality
+   in the statement of the theorem."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "23"
+    offset: "33"
+. id: "5e2fc0a764735772ef984c6f"
+

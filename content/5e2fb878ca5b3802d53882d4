@@ -1,0 +1,16 @@
+ProtoDefines:
+. "A ring $R$ is a set equipped with binary operations $+$ and
+   $\times$ and elements $0,1\in R$ such that $R$ is an abelian
+   group under $+$, and for all $a,b,c \in R$ we have 
+   \begin{itemize} \item $1a = a1 = a$ \item $(ab)c = a(bc)$ 
+   \item $a(b+c) = ab + ac$. \end{itemize} If, in addition, 
+   $ab=ba$ for all $a,b\in R$, then we call $R$ a commutative 
+   ring."
+Metadata:
+. name: "Ring"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "22"
+    offset: "29"
+. id: "5e2fb878ca5b3802d53882d4"
+

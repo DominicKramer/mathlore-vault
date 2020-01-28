@@ -1,0 +1,12 @@
+ProtoDefines:
+. "Let $E$ and $F$ be two events. We say that they are 
+   {independent\/} if either 1) both events have positive 
+   probability and $$ P(E|F) = P(E)\ { and}\ P(F|E) = P(F)\ , 
+   $$ or 2) at least one of the events has probability 0."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "139"
+    offset: "149"
+. id: "5e2fc0a664735772ef984c30"
+

@@ -1,0 +1,12 @@
+ProtoResult:
+. "Let $x\in\mathbf{R}$ be a real number. Then $x$ is the 
+   value of the (possibly infinite) simple continued fraction $
+   [a_0, a_1, a_2, \ldots] $ produced by the continued fraction
+   procedure."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "106"
+    offset: "113"
+. id: "5e2fb878ca5b3802d5388326"
+

@@ -1,0 +1,24 @@
+ProtoResult:
+. "Let { \/} be the transition matrix of an ergodic chain, and
+   let { \/} be the matrix all of whose rows are the fixed 
+   probability row vector for { \/}. Then the matrix $${ \/} - 
+   { \/} + { \/}$$ has an inverse. .2in {\bf Proof.\ } Let ${ 
+   \/}$ be a column vector such that $$ ({ \/} - { \/} + { 
+   \/}){ \/} = { \/}\ . $$ To prove the proposition, it is 
+   sufficient to show that { \/} must be the zero vector. 
+   Multiplying this equation by ${ \/}$ and using the fact that
+   ${ \/}({ \/} - { \/}) = { \/}$ and ${ \/} { \/} = { \/}$, we
+   have $$ { \/}({ \/} - { \/} + { \/}){ \/} = { \/} { \/} = { 
+   \/}\ . $$ Therefore, $$ ({ \/} - { \/}){ \/} = { \/}\ . $$ 
+   But this means that ${ \/} = { \/} { \/}$ is a fixed column 
+   vector for ${ \/}$. By Theorem 11.3.10}, this can only 
+   happen if ${ \/}$ is a constant vector. Since ${ \/}{ \/} = 
+   0$, and { \/} has strictly positive entries, we see that ${ 
+   \/} = { \/ $. This completes the proof."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "459"
+    offset: "469"
+. id: "5e2fc0a664735772ef984c27"
+

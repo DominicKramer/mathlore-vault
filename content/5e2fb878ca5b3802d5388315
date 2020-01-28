@@ -1,0 +1,12 @@
+ProtoResult:
+. "The function $\pi(x)$ is asymptotic to $x/\log(x)$, in the 
+   sense that $$\lim_{x arrow \infty} \frac{\pi(x)}{ x/\log(x)}
+   = 1$$"
+Metadata:
+. name: "Prime Number Theorem"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "16"
+    offset: "23"
+. id: "5e2fb878ca5b3802d5388315"
+

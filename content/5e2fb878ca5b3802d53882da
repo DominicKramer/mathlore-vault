@@ -1,0 +1,14 @@
+ProtoDefines:
+. "We call the natural reduction map $\mathbf{Z} \to 
+   \Z/n\Z{}$, which sends $a$ to $a+n\mathbf{Z}$, reduction 
+   modulo $n$. We also say that $a$ is a lift of 
+   $a+n\mathbf{Z}$. Thus, e.g., $7$ is a lift of $1$ mod $3$, 
+   since $7+3\mathbf{Z} = 1+3\mathbf{Z}$."
+Metadata:
+. name: "Reduction Map and Lift"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "23"
+    offset: "30"
+. id: "5e2fb878ca5b3802d53882da"
+

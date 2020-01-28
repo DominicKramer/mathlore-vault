@@ -1,0 +1,17 @@
+ProtoResult:
+. "Let $A$, $B$, and $C$ be sets. Then \begin{enumerate} 
+   \item\it $A \cup A = A$, $A \cap A = A$, and $A \setminus A 
+   = \emptyset$; \item\it $A \cup \emptyset = A$ and $A \cap 
+   \emptyset = \emptyset$; \item\it $A \cup (B \cup C) = (A 
+   \cup B) \cup C$ and $A \cap (B \cap C) = (A \cap B) \cap C$;
+   \item\it $A \cup B = B \cup A$ and $A \cap B = B \cap A$; 
+   \item\it $A \cup (B \cap C) = (A \cup B) \cap (A \cup C)$; 
+   \item\it $A \cap (B \cup C) = (A \cap B) \cup (A \cap C)$. 
+   \end{enumerate}"
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "6"
+    offset: "16"
+. id: "5e2df8c1ca5b3802d5388290"
+

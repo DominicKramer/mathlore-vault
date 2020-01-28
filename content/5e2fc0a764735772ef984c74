@@ -1,0 +1,16 @@
+ProtoResult:
+. "Let $X_1$, $X_2$, $\dots$, $X_n$ be an independent trials 
+   process and let $S_n = X_1 + X_2 +\cdots+ X_n$. Assume that 
+   the greatest common divisor of the differences of all the 
+   values that the $X_j$ can take on is~1. Let $E(X_j) = \mu$ 
+   and $V(X_j) = \sigma^2$. Then for $n$ large, $$ P(S_n = j) 
+   \sim \frac {\phi(x_j)}{\sqrt{n\sigma^2}}\ , $$ where $x_j = 
+   (j - n\mu)/\sqrt{n\sigma^2}$, and $\phi(x)$ is the standard 
+   normal density."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "343"
+    offset: "353"
+. id: "5e2fc0a764735772ef984c74"
+

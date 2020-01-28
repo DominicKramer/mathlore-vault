@@ -1,0 +1,10 @@
+ProtoResult:
+. "Let $F$ be a field of characteristic $p$. Then $F$ contains
+   a subfield isomorphic to ${\mathbb Z}_p$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "293"
+    offset: "303"
+. id: "5e2df8c0ca5b3802d53881cf"
+

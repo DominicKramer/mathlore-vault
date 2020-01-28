@@ -1,0 +1,21 @@
+ProtoResult:
+. "Given $n$ Bernoulli trials with probability $p$ of success 
+   on each experiment, the probability of exactly $j$ successes
+   is $$ b(n,p,j) = {n \choose j} p^j q^{n - j} $$ where $q = 1
+   - p$. .2in {\bf Proof.\ } We construct a tree measure as 
+   described above. We want to find the sum of the 
+   probabilities for all paths which have exactly $j$ successes
+   and $n - j$ failures. Each such path is assigned a 
+   probability $p^j q^{n - j}$. How many such paths are there? 
+   To specify a path, we have to pick, from the $n$ possible 
+   trials, a subset of $j$ to be successes, with the remaining 
+   $n-j$ outcomes being failures. We can do this in $n \choose 
+   j$ ways. Thus the sum of the probabilities is $$ b(n,p,j) = 
+   {n \choose j} p^j q^{n - j}\ . $$"
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "97"
+    offset: "107"
+. id: "5e2fc0a664735772ef984c2f"
+

@@ -1,0 +1,11 @@
+ProtoResult:
+. "The equation $ax\equiv b\pmod{n}$ has a solution if and 
+   only if $\gcd(a,n)$ divides $b$."
+Metadata:
+. name: "Solvability"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "24"
+    offset: "31"
+. id: "5e2fb878ca5b3802d53882f6"
+

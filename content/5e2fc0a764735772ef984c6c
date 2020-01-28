@@ -1,0 +1,14 @@
+ProtoResult:
+. "Let ${ \/}$ be the transition matrix for an ergodic chain. 
+   Let ${ \/}_n$ be the matrix defined by $$ { \/}_n = \frac{{ 
+   \/} + { \/} + { \/}^2 +\cdots + { \/}^n}{n + 1}\ . $$ Then 
+   ${ \/}_n \to { \/}$, where ${ \/}$ is a matrix all of whose 
+   rows are equal to the unique fixed probability vector ${ 
+   \/}$ for ${ \/}$."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "440"
+    offset: "450"
+. id: "5e2fc0a764735772ef984c6c"
+

@@ -1,0 +1,12 @@
+ProtoDefines:
+. "If an ergodic Markov chain is started in state $s_i$, the 
+   expected number of steps to return to $s_i$ for the first 
+   time is the {mean recurrence time\/} for $s_i$. It is 
+   denoted by $r_i$."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "456"
+    offset: "466"
+. id: "5e2fc0a664735772ef984c35"
+

@@ -1,0 +1,11 @@
+ProtoResult:
+. "If $x$ and $y$ are arbitrary integers, then $$ 
+   \sum_{n=0}^{p-1} \zeta^{(x-y)n} = \begin{cases} p & if 
+   $x\equiv y\pmod{p$},\\ 0 & otherwise. \end{cases} $$"
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "83"
+    offset: "90"
+. id: "5e2fb878ca5b3802d53882e3"
+

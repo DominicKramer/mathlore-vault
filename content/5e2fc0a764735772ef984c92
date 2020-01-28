@@ -1,0 +1,19 @@
+ProtoResult:
+. "If $X_1$, $X_2$, $\dots$, $X_n$ is an independent trials 
+   process of real-valued random variables, with $E(X_i) = \mu$
+   and $V(X_i) = \sigma^2$, and if $$ S_n & = & X_1 + X_2 
+   +\cdots+ X_n\ , \\ A_n & = & \frac {S_n}n\ , $$ then $$ 
+   E(S_n) & = & n\mu\ ,\\ E(A_n) & = & \mu\ ,\\ V(S_n) & = & 
+   n\sigma^2\ ,\\ V(A_n) & = & \frac {\sigma^2} n\ . $$ It 
+   follows that if we set $$ S_n^* = \frac {S_n - 
+   n\mu}{\sqrt{n\sigma^2}}\ , $$ then $$ E(S_n^*) & = & 0\ ,\\ 
+   V(S_n^*) & = & 1\ . $$ We say that $S_n^*$ is a 
+   {standardized version of\/} $S_n$ (see Exercise 6.2.13} in 
+   Section~\ref{sec 6.2 ."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "276"
+    offset: "286"
+. id: "5e2fc0a764735772ef984c92"
+

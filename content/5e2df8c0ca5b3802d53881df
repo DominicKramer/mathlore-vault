@@ -1,0 +1,13 @@
+ProtoResult:
+. "If a binary $n$-tuple $(x_{1}, \ldots, x_{n})$ is 
+   transmitted across a binary symmetric channel with 
+   probability $p$ that no error will occur in each coordinate,
+   then the probability that there are errors in exactly $k$ 
+   coordinates~is \[ \binom{n}{k} q^kp^{n-k}. \]"
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "119"
+    offset: "129"
+. id: "5e2df8c0ca5b3802d53881df"
+

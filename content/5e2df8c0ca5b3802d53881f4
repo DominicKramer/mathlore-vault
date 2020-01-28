@@ -1,0 +1,10 @@
+ProtoResult:
+. "Let $F$ be a finite field with a finite extension $E$ such 
+   that $[E:F]=k$. Then $G(E/F)$ is cyclic of order $k$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "381"
+    offset: "391"
+. id: "5e2df8c0ca5b3802d53881f4"
+

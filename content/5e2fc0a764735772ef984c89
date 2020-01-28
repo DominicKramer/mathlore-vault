@@ -1,0 +1,14 @@
+ProtoResult:
+. "If $X$ is a bounded random variable, then the moment 
+   generating function $g_X(t)$ of $x$ determines the density 
+   function $f_X(x)$ uniquely. Here we see that the 
+   characteristic function $k_X$, and hence the moment 
+   generating function $g_X$, determines the density function 
+   $f_X$ uniquely under our hypotheses."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "399"
+    offset: "409"
+. id: "5e2fc0a764735772ef984c89"
+

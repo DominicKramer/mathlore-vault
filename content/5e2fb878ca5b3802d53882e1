@@ -1,0 +1,11 @@
+ProtoResult:
+. "For any integer $a$, $$ \sum_{n=0}^{p-1} \zeta^{an} = 
+   \begin{cases} p & if $a \equiv 0\pmod{p$,}\\ 0 & otherwise. 
+   \end{cases} $$"
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "83"
+    offset: "90"
+. id: "5e2fb878ca5b3802d53882e1"
+

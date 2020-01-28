@@ -1,0 +1,9 @@
+ProtoResult:
+. "Every Euclidean domain is a unique factorization domain."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "299"
+    offset: "309"
+. id: "5e2df8c0ca5b3802d53881db"
+

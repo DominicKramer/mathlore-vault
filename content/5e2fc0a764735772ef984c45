@@ -1,0 +1,16 @@
+ProtoDefines:
+. "Let $X$ be a numerically-valued discrete random variable 
+   with sample space $\Omega$ and distribution function $m(x)$.
+   The expected value $E(X)$ is defined by $$ E(X) = \sum_{x 
+   \in \Omega} x m(x)\ , $$ provided this sum converges 
+   absolutely. We often refer to the expected value as the 
+   {mean,\/} and denote $E(X)$ by $\mu$ for short. If the above
+   sum does not converge absolutely, then we say that $X$ does 
+   not have an expected value."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "228"
+    offset: "238"
+. id: "5e2fc0a764735772ef984c45"
+

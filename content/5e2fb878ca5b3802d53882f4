@@ -1,0 +1,11 @@
+ProtoResult:
+. "If $\gcd(c,n)=1$ and $$ ac\equiv bc\pmod{n}, $$ then $a 
+   \equiv b\pmod{n}$."
+Metadata:
+. name: "Cancellation"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "23"
+    offset: "30"
+. id: "5e2fb878ca5b3802d53882f4"
+

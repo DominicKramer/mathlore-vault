@@ -1,0 +1,10 @@
+ProtoResult:
+. "The kernel of any ring homomorphism $\phi : R arrow S$ is 
+   an ideal in $R$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "253"
+    offset: "263"
+. id: "5e2df8c1ca5b3802d53882aa"
+

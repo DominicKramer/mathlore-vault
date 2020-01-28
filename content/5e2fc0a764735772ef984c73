@@ -1,0 +1,14 @@
+ProtoResult:
+. "{\bf (Central Limit Theorem for Bernoulli Trials)} Let 
+   $S_n$ be the number of successes in $n$ Bernoulli trials 
+   with probability $p$ for success, and let $a$ and $b$ be two
+   fixed real numbers. Then $$\lim_{n arrow \infty} P\biggl(a 
+   \le \frac{S_n - np}{\sqrt{npq}} \le b\biggr) = \int_a^b 
+   \phi(x) dx\ $$"
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "332"
+    offset: "342"
+. id: "5e2fc0a764735772ef984c73"
+

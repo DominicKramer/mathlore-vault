@@ -1,0 +1,34 @@
+ProtoResult:
+. "Let $X$ be a discrete random variable with finite range 
+   $\{x_1,x_2,\ldots,\linebreak x_n\}$, distribution function 
+   $p$, and moment generating function $g$. Then $g$ is 
+   uniquely determined by $p$, and conversely. .2in {\bf 
+   Proof.\ } We know that $p$ determines $g$, since $$ g(t) = 
+   \sum_{j = 1}^n e^{tx_j} p(x_j)\ . $$ Conversely, assume that
+   $g(t)$ is known. We wish to determine the values of $x_j$ 
+   and $p(x_j)$, for $1 \le j \le n$. We assume, without loss 
+   of generality, that $p(x_j) > 0$ for $1 \le j \le n$, and 
+   that $$x_1 < x_2 < \ldots < x_n\ $$ We note that $g(t)$ is 
+   differentiable for all $t$, since it is a finite linear 
+   combination of exponential functions. If we compute 
+   $g'(t)/g(t)$, we obtain $${{x_1 p(x_1) e^{tx_1} + \ldots + 
+   x_n p(x_n) e^{t x_n}}\over{p(x_1) e^{tx_1} + \ldots + 
+   p(x_n)e^{tx_n}}}\ $$ Dividing both top and bottom by 
+   $e^{tx_n}$, we obtain the expression $${{x_1 p(x_1) 
+   e^{t(x_1-x_n)} + \ldots + x_n p(x_n)}\over{p(x_1) e^{t(x_1 -
+   x_n)} + \ldots + p(x_n)}}\ $$ Since $x_n$ is the largest of 
+   the $x_j$'s, this expression approaches $x_n$ as $t$ goes to
+   $\infty$. So we have shown that $$x_n = \lim_{t arrow 
+   \infty} {{g'(t)}\over{g(t)}}\ $$ To find $p(x_n)$, we simply
+   divide $g(t)$ by $e^{tx_n}$ and let $t$ go to $\infty$. Once
+   $x_n$ and $p(x_n)$ have been determined, we can subtract 
+   $p(x_n) e^{tx_n}$ from $g(t)$, and repeat the above 
+   procedure with the resulting function, obtaining, in turn, 
+   $x_{n-1}, \ldots, x_1$ and $p(x_{n-1}), \ldots, p(x_1)$."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "370"
+    offset: "380"
+. id: "5e2fc0a764735772ef984c84"
+

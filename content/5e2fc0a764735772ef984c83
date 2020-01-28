@@ -1,0 +1,42 @@
+ProtoResult:
+. "For an absorbing Markov chain the matrix ${ \/} - { \/}$ 
+   has an inverse ${ \/}$ and ${ \/} ={ \/} + { \/} + { \/}^{2}
+   + \cdots\ $. The $ij$-entry $n_{ij}$ of the matrix ${ \/}$ 
+   is the expected number of times the chain is in state $s_j$,
+   given that it starts in state $s_i$. The initial state is 
+   counted if $i = j$. .2in {\bf Proof.\ } Let $({ \/} - { 
+   \/}){ \/}~=~0$ that is ${ \/}~=~{ \/}{ \/}$ Then, iterating 
+   this we see that ${ \/}~=~{ \/}^{n}{ \/}$ Since ${ \/}^{n} 
+   arrow { \/}$, we have ${ \/}^n{ \/} arrow { \/}$, so ${ 
+   \/}~=~{ \/}$. Thus $({ \/} - { \/})^{-1}~=~{ \/}$ exists. 
+   Note next that $$ ({ \/} - { \/}) ({ \/} + { \/} + { \/}^2 +
+   \cdots + { \/}^n) = { \/} - { \/}^{n + 1}\ . $$ Thus 
+   multiplying both sides by ${ \/}$ gives $$ { \/} + { \/} + {
+   \/}^2 + \cdots + { \/}^n = { \/} ({ \/} - { \/}^{n + 1})\ . 
+   $$ Letting $n$ tend to infinity we have $$ { \/} = { \/} + {
+   \/} + { \/}^2 + \cdots\ . $$ Let $s_i$ and $s_j$ be two 
+   transient states, and assume throughout the remainder of the
+   proof that $i$ and $j$ are fixed. Let $X^{(k)}$ be a random 
+   variable which equals 1 if the chain is in state $s_j$ after
+   $k$ steps, and equals 0 otherwise. For each $k$, this random
+   variable depends upon both $i$ and $j$; we choose not to 
+   explicitly show this dependence in the interest of clarity. 
+   We have $$ P(X^{(k)} = 1) = q_{ij}^{(k)}\ , $$ and $$ 
+   P(X^{(k)} = 0) = 1 - q_{ij}^{(k)}\ , $$ where $q_{ij}^{(k)}$
+   is the $ij$th entry of ${ \/}^k$. These equations hold for 
+   $k = 0$ since ${ \/}^0 = { \/}$. Therefore, since $X^{(k)}$ 
+   is a 0-1 random variable, $E(X^{(k)}) = q_{ij}^{(k)}$. \par 
+   The expected number of times the chain is in state $s_j$ in 
+   the first $n$ steps, given that it starts in state $s_i$, is
+   clearly $$E\Bigl(X^{(0)} + X^{(1)} + \cdots + X^{(n)} \Bigr)
+   = q_{ij}^{(0)} + q_{ij}^{(1)} + \cdots + q_{ij}^{(n)}\ $$ 
+   Letting $n$ tend to infinity we have $$ E\Bigl(X^{(0)} + 
+   X^{(1)} + \cdots \Bigr) = q_{ij}^{(0)} + q_{ij}^{(1)} + 
+   \cdots = n_{ij} \ . $$"
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "420"
+    offset: "430"
+. id: "5e2fc0a764735772ef984c83"
+

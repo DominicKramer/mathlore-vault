@@ -1,0 +1,13 @@
+ProtoDefines:
+. "If an ergodic Markov chain is started in state $s_i$, the 
+   expected number of steps to reach state $s_j$ for the first 
+   time is called the {mean first passage time\/} from $s_i$ to
+   $s_j$. It is denoted by $m_{ij}$. By convention $m_{ii} = 
+   0$."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "455"
+    offset: "465"
+. id: "5e2fc0a664735772ef984c32"
+

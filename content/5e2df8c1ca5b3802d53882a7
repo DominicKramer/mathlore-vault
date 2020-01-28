@@ -1,0 +1,11 @@
+ProtoResult:
+. "Let $H$ and $K$ be subgroups of a finite group $G$ such 
+   that $G \supset H \supset K$. Then \[ [G:K] = [G:H][H:K]. 
+   \]"
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "97"
+    offset: "107"
+. id: "5e2df8c1ca5b3802d53882a7"
+

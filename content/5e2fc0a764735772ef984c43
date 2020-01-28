@@ -1,0 +1,27 @@
+ProtoResult:
+. "Let $X$ and $Y$ be random variables with finite expected 
+   values. Then $$ E(X + Y) = E(X) + E(Y)\ , $$ and if $c$ is 
+   any constant, then $$ E(cX) = cE(X)\ . $$ .2in {\bf Proof.\ 
+   } Let the sample spaces of $X$ and $Y$ be denoted by 
+   $\Omega_X$ and $\Omega_Y$, and suppose that $$\Omega_X = 
+   \{x_1, x_2, \ldots\}$$ and $$\Omega_Y = \{y_1, y_2, 
+   \ldots\}\ $$ Then we can consider the random variable $X + 
+   Y$ to be the result of applying the function $\phi(x, y) = x
+   + y$ to the joint random variable $(X,Y)$. Then, by Theorem 
+   6.3.5}, we have $$ E(X+Y) & = &\sum_j \sum_k (x_j + y_k) P(X
+   = x_j,\ Y = y_k) \\ & = &\sum_j \sum_k x_j P(X = x_j,\ Y = 
+   y_k) + \sum_j \sum_k y_k P(X = x_j,\ Y = y_k) \\ & = &\sum_j
+   x_j P(X = x_j) + \sum_k y_k P(Y = y_k)\ . $$ The last 
+   equality follows from the fact that $$\sum_k P(X = x_j,\ Y =
+   y_k)\ \ =\ \ P(X = x_j)$$ and $$\sum_j P(X = x_j,\ Y = y_k)\
+   \ =\ \ P(Y = y_k)\ $$ Thus, $$E(X+Y) = E(X) + E(Y)\ $$ If 
+   $c$ is any constant, $$ E(cX) & = & \sum_j cx_j P(X = x_j) 
+   \\ & = & c\sum_j x_j P(X = x_j)\\ & = & cE(X)\ . 
+   \end{eqnarray*"
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "232"
+    offset: "242"
+. id: "5e2fc0a764735772ef984c43"
+

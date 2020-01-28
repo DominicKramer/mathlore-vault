@@ -1,0 +1,12 @@
+ProtoResult:
+. "Let $(g, h) \in G \times H$. If $g$ and $h$ have finite 
+   orders $r$ and $s$ respectively, then the order of $(g, h)$ 
+   in $G \times H$ is the least common multiple of $r$ and 
+   $s$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "151"
+    offset: "161"
+. id: "5e2df8c0ca5b3802d53881c4"
+

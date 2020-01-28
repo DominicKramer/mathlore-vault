@@ -1,0 +1,14 @@
+ProtoResult:
+. "Let $ { \/}$ be the transition matrix of a Markov chain. 
+   The $ij$th entry $p_{ij}^{(n)}$ of the matrix $ { \/}^n$ 
+   gives the probability that the Markov chain, starting in 
+   state $s_i$, will be in state $s_j$ after $n$ steps. .2in 
+   {\bf Proof.\ } The proof of this theorem is left as an 
+   exercise Exercise 11.1.18 ."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "409"
+    offset: "419"
+. id: "5e2fc0a764735772ef984c7e"
+

@@ -1,0 +1,11 @@
+ProtoResult:
+. "If $X$ and $Y$ are independent real-valued random variables
+   on $\Omega$, then (cf. Theorem 6.8 $$ V(X + Y) = V(X) + 
+   V(Y)\ . $$"
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "274"
+    offset: "284"
+. id: "5e2fc0a764735772ef984c64"
+

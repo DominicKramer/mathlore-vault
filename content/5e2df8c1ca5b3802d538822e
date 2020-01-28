@@ -1,0 +1,12 @@
+ProtoResult:
+. "Let $Y$ be a nonempty subset of a poset $X$. If $Y$ has a 
+   least upper bound, then $Y$ has a unique least upper bound. 
+   If $Y$ has a greatest lower bound, then $Y$ has a unique 
+   greatest lower bound."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "309"
+    offset: "319"
+. id: "5e2df8c1ca5b3802d538822e"
+

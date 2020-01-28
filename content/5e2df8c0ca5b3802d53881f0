@@ -1,0 +1,11 @@
+ProtoResult:
+. "Let $F$ be a field. A nonzero polynomial $p(x)$ of degree 
+   $n$ in $F $ can have at most $n$ distinct zeros in $F$."
+Metadata:
+. name: "x"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "276"
+    offset: "286"
+. id: "5e2df8c0ca5b3802d53881f0"
+

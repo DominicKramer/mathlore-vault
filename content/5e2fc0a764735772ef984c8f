@@ -1,0 +1,44 @@
+ProtoResult:
+. "For $m \ge 1$, the probability of a first return to the 
+   origin at time $2m$ is given by $$f_{2m} = 
+   {{u_{2m}}\over{2m-1}} = {{2m \choose m}\over{(2m-1)2^{2m}}}\
+   $$ .2in {\bf Proof.\ } We begin by defining the generating 
+   functions $$U(x) = \sum_{m = 0}^\infty u_{2m}x^m$$ and 
+   $$F(x) = \sum_{m = 0}^\infty f_{2m}x^m\ $$ Theorem 12.1.2} 
+   says that $ U(x) = 1 + U(x)F(x)\ . $ (The presence of the 1 
+   on the right-hand side is due to the fact that $u_0$ is 
+   defined to be 1, but Theorem~\ref{thm 12.1.2} only holds for
+   $m \ge 1$.) We note that both generating functions certainly
+   converge on the interval $(-1, 1)$, since all of the 
+   coefficients are at most 1 in absolute value. Thus, we can 
+   solve the above equation for $F(x)$, obtaining $$F(x) = 
+   {{U(x) - 1}\over{U(x)}}\ $$ Now, if we can find a 
+   closed-form expression for the function $U(x)$, we will also
+   have a closed-form expression for $F(x)$. From 
+   Theorem~\ref{thm 12.1.1}, we have $$U(x) = \sum_{m = 
+   0}^\infty {2m \choose m}2^{-2m}x^m\ $$ In 
+   Wilf,\footnote{H.~S.~Wilf, {Generatingfunctionology,\/} 
+   (Boston: Academic Press, 1990), p. 50.} we find that 
+   $${1\over{\sqrt {1 - 4x}}} = \sum_{m = 0}^\infty {2m \choose
+   m} x^m\ $$ The reader is asked to prove this statement in 
+   Exercise~\ref{exer 12.1.1}. If we replace $x$ by $x/4$ in 
+   the last equation, we see that $$U(x) = {1\over{\sqrt 
+   {1-x}}}\ $$ Therefore, we have $$ F(x) &=& {{U(x) - 
+   1}\over{U(x)}}\\ &=& {{(1-x)^{-1/2} - 
+   1}\over{(1-x)^{-1/2}}}\\ &=& 1 - (1-x)^{1/2}\ . $$ Although 
+   it is possible to compute the value of $f_{2m}$ using the 
+   Binomial Theorem, it is easier to note that $F'(x) = 
+   U(x)/2$, so that the coefficients $f_{2m}$ can be found by 
+   integrating the series for $U(x)$. We obtain, for $m \ge 1$,
+   $$ f_{2m} &=& {u_{2m-2}\over{2m}}\\ &=& {2m-2 \choose 
+   m-1}\over{m2^{2m-1}}\\ &=& {2m \choose 
+   m}\over{(2m-1)2^{2m}}\\ &=& {u_{2m}\over{2m-1}}\ , $$ since 
+   $${2m-2 \choose m-1} = {m\over{2(2m-1)}}{2m\choose m \ $$ 
+   This completes the proof of the theorem."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "476"
+    offset: "486"
+. id: "5e2fc0a764735772ef984c8f"
+

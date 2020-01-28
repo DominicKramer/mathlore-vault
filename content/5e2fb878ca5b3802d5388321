@@ -1,0 +1,16 @@
+ProtoResult:
+. "Let $n$ be a rational number. There is a bijection between 
+   $$ A = \{(a,b,c) \in \mathbf{Q}^3 : \frac{ab}{2} = n, a^2 + 
+   b^2 = c^2 \} $$ and $$ B = \{(x,y) \in \mathbf{Q}^2 : y^2 = 
+   x^3 - n^2 x, with y \neq 0 \} $$ given explicitly by the 
+   maps $$ f(a,b,c) = (-\frac{nb}{a+c}, \frac{2n^2}{a+c} ) $$ 
+   and $$ g(x,y) = (\frac{n^2-x^2}{y}, -\frac{2xn}{y}, 
+   \frac{n^2+x^2}{y} ). $$"
+Metadata:
+. name: "Congruent Numbers and Elliptic Curves"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "143"
+    offset: "150"
+. id: "5e2fb878ca5b3802d5388321"
+

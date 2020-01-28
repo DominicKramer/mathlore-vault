@@ -1,0 +1,12 @@
+ProtoResult:
+. "For an ergodic Markov chain, the components of the fixed 
+   probability vector~{\bf w} are strictly positive. .2in {\bf 
+   Proof.\ } We know that the values of $r_i$ are finite and so
+   $w_i = 1/r_i$ cannot be 0."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "457"
+    offset: "467"
+. id: "5e2fc0a764735772ef984c95"
+

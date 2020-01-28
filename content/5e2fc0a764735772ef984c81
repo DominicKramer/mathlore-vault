@@ -1,0 +1,23 @@
+ProtoResult:
+. "In an absorbing Markov chain, the probability that the 
+   process will be absorbed is~1 (i.e., ${ \/}^n \to { \/}$ as 
+   $n \to \infty$). .2in {\bf Proof.\ } From each nonabsorbing 
+   state $s_j$ it is possible to reach an absorbing state. Let 
+   $m_j$ be the minimum number of steps required to reach an 
+   absorbing state, starting from $s_j$. Let $p_j$ be the 
+   probability that, starting from $s_j$, the process will not 
+   reach an absorbing state in $m_j$ steps. Then $p_j <1$. Let 
+   $m$ be the largest of the $m_j$ and let $p$ be the largest 
+   of $p_j$. The probability of not being absorbed in $m$ steps
+   is less than or equal to $p$, in $2m$ steps less than or 
+   equal to $p^2$, etc. Since $p<1$ these probabilities tend to
+   0. Since the probability of not being absorbed in $n$ steps 
+   is monotone decreasing, these probabilities also tend to 0, 
+   hence $\lim_{n arrow \infty } { \/}^n = 0$"
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "419"
+    offset: "429"
+. id: "5e2fc0a764735772ef984c81"
+

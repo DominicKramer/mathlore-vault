@@ -1,0 +1,10 @@
+ProtoResult:
+. "{\bf (Stirling's Formula)} The sequence $n!$ is 
+   asymptotically equal to $$ n^ne^{-n}\sqrt{2\pi n}\ . $$"
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "81"
+    offset: "91"
+. id: "5e2fc0a664735772ef984c28"
+

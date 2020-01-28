@@ -1,0 +1,10 @@
+ProtoResult:
+. "Let $G$ be a finite group of automorphisms of $E$ and let 
+   $F = E_G$. Then $[E:F] \leq |G|$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "385"
+    offset: "395"
+. id: "5e2df8c1ca5b3802d5388255"
+

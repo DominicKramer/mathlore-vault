@@ -1,0 +1,12 @@
+ProtoDefines:
+. "Let $n\in\mathbf{N}$ and $x\in\mathbf{Z}$ and suppose that 
+   $\gcd(x,n)=1$. The order of $x$ modulo $n$ is the smallest 
+   $m\in\mathbf{N}$ such that $$ x^m \equiv 1\pmod{n}. $$"
+Metadata:
+. name: "Order of an Element"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "25"
+    offset: "32"
+. id: "5e2fb878ca5b3802d53882e0"
+

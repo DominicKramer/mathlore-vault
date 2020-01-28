@@ -1,0 +1,12 @@
+ProtoResult:
+. "Let $p$ be a prime number and let $d$ be a divisor of 
+   $p-1$. Then $f = x^d-1\in(\Z/p\Z{}) $ has exactly $d$ roots 
+   in $\Z/p\Z{}$."
+Metadata:
+. name: "x"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "41"
+    offset: "48"
+. id: "5e2fb878ca5b3802d5388302"
+

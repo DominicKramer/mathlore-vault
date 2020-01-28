@@ -1,0 +1,12 @@
+ProtoResult:
+. "Let $F$ be a field of constructible numbers. Then the 
+   points determined by the intersections of lines and circles 
+   in $F$ lie in the field $F( \sqrt{\alpha} )$ for some 
+   $\alpha$ in $F$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "353"
+    offset: "363"
+. id: "5e2df8c0ca5b3802d5388213"
+

@@ -1,0 +1,10 @@
+ProtoResult:
+. "Let $G$ be a finite group. Then $G$ is a $p$-group if and 
+   only if $|G| = p^n$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "233"
+    offset: "243"
+. id: "5e2df8c1ca5b3802d538829f"
+

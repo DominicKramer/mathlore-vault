@@ -1,0 +1,12 @@
+ProtoDefines:
+. "Fix a prime $p$. An integer $a$ not divisible by $p$ is a 
+   quadratic residue modulo $p$ if $a$ is a square modulo $p$; 
+   otherwise, $a$ is a quadratic nonresidue."
+Metadata:
+. name: "Quadratic Residue"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "70"
+    offset: "77"
+. id: "5e2fb878ca5b3802d53882ed"
+

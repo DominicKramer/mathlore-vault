@@ -1,0 +1,11 @@
+ProtoResult:
+. "Suppose $p$ is a prime such that $(p-1)/2$ is also prime. 
+   Then each element of $(\Z/p\Z{})^*$ has order one of $1$, 
+   $2$, $(p-1)/2$, or $p-1$."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "54"
+    offset: "61"
+. id: "5e2fb878ca5b3802d5388305"
+

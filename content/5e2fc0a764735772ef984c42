@@ -1,0 +1,20 @@
+ProtoDefines:
+. "Let $X_1$, $X_2$, \ldots, $X_n$ be continuous random 
+   variables with cumulative distribution functions 
+   $F_1(x),~F_2(x), \ldots,~F_n(x)$. Then these random 
+   variables are {mutually independent\/} if $$F(x_1, x_2, 
+   \ldots, x_n) = F_1(x_1)F_2(x_2) \cdots F_n(x_n)$$ for any 
+   choice of $x_1, x_2, \ldots, x_n$. Thus, if $X_1,~X_2, 
+   \ldots,~X_n$ are mutually independent, then the joint 
+   cumulative distribution function of the random variable 
+   ${\bar X} = (X_1, X_2, \ldots, X_n)$ is just the product of 
+   the individual cumulative distribution functions. When two 
+   random variables are mutually independent, we shall say more
+   briefly that they are { independent.\/}"
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "165"
+    offset: "175"
+. id: "5e2fc0a764735772ef984c42"
+

@@ -1,0 +1,14 @@
+ProtoResult:
+. "The group $E(\mathbf{Q})$ is finitely generated. That is, 
+   there are points $P_1,\ldots, P_s \in E(\mathbf{Q})$ such 
+   that every element of $E(\mathbf{Q})$ is of the form $n_1 
+   P_1 + \cdots + n_s P_s$ for integers $n_1, \ldots 
+   n_s\in\mathbf{Z}$."
+Metadata:
+. name: "Mordell"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "140"
+    offset: "147"
+. id: "5e2fb878ca5b3802d538832c"
+

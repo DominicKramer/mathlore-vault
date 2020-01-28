@@ -1,0 +1,11 @@
+ProtoResult:
+. "An isometry $f$ that fixes the origin in ${\mathbb R}^2$ is
+   a linear transformation. In particular, $f$ is given by an 
+   element in $O(2)$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "189"
+    offset: "199"
+. id: "5e2df8c0ca5b3802d53881fa"
+

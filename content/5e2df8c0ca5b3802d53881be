@@ -1,0 +1,10 @@
+ProtoResult:
+. "All cyclic groups of infinite order are isomorphic to 
+   ${\mathbb Z}$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "146"
+    offset: "156"
+. id: "5e2df8c0ca5b3802d53881be"
+

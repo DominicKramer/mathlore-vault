@@ -1,0 +1,11 @@
+ProtoResult:
+. "For every $n$ such that $a_n$ is defined, we have $$x = 
+   [a_0, a_1, \ldots, a_{n}+t_n]$$ and if $t_{n}\neq 0$, then $
+   x = [a_0, a_1, \ldots, a_{n}, \frac{1}{t_n}]. $"
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "104"
+    offset: "111"
+. id: "5e2fb878ca5b3802d53882e9"
+

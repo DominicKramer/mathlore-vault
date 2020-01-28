@@ -1,0 +1,21 @@
+ProtoResult:
+. "{\bf (Binomial Theorem)} The quantity $(a + b)^n$ can be 
+   expressed in the form $$ (a + b)^n = \sum_{j = 0}^n {n 
+   \choose j} a^j b^{n - j}\ . $$ .2in {\bf Proof.\ } To see 
+   that this expansion is correct, write $$ (a + b)^n = (a + 
+   b)(a + b) \cdots (a + b)\ . $$ When we multiply this out we 
+   will have a sum of terms each of which results from a choice
+   of an $a$ or $b$ for each of $n$ factors. When we choose $j$
+   $a$'s and $(n - j)$ $b$'s, we obtain a term of the form $a^j
+   b^{n - j}$. To determine such a term, we have to specify $j$
+   of the $n$ terms in the product from which we choose the 
+   $a$. This can be done in $n \choose j$ ways. Thus, 
+   collecting these terms in the sum contributes a term ${n 
+   \choose j} a^j b^{n - j}$."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "102"
+    offset: "112"
+. id: "5e2fc0a664735772ef984c34"
+

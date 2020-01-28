@@ -1,0 +1,11 @@
+ProtoResult:
+. "If $X$ is a real-valued random variable defined on $\Omega$
+   and $c$ is any constant, then (cf. Theorem 6.6}) $$ V(cX) 
+   &=& c^2 V(X)\ , \\ V(X + c) &=& V(X)\ . \end{eqnarray*"
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "274"
+    offset: "284"
+. id: "5e2fc0a764735772ef984c61"
+

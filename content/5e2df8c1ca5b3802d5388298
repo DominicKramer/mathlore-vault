@@ -1,0 +1,9 @@
+ProtoResult:
+. "The group of rigid motions of a cube is $S_4$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "89"
+    offset: "99"
+. id: "5e2df8c1ca5b3802d5388298"
+

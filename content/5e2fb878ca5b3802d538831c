@@ -1,0 +1,11 @@
+ProtoResult:
+. "There is a primitive root modulo any prime $p$. In 
+   particular, the group $(\Z/p\Z{})^*$ is cyclic."
+Metadata:
+. name: "Primitive Roots"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "42"
+    offset: "49"
+. id: "5e2fb878ca5b3802d538831c"
+

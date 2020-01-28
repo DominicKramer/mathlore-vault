@@ -1,0 +1,14 @@
+ProtoResult:
+. "{\bf (Chebyshev Inequality)} Let $X$ be a continuous random
+   variable with density function $f(x)$. Suppose $X$ has a 
+   finite expected value $\mu = E(X)$ and finite variance 
+   $\sigma^2 = V(X)$. Then for any positive number $\epsilon > 
+   0$ we have $$ P(|X - \mu| \geq \epsilon) \leq \frac 
+   {\sigma^2}{\epsilon^2}\ . $$"
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "318"
+    offset: "328"
+. id: "5e2fc0a764735772ef984c7b"
+

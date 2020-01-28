@@ -1,0 +1,13 @@
+ProtoResult:
+. "If $X$ is a discrete random variable with sample space 
+   $\Omega$ and distribution function $m(x)$, and if $\phi : 
+   \Omega \to$ { \/} is a function, then $$ E(\phi(X)) = 
+   \sum_{x \in \Omega} \phi(x) m(x)\ , $$ provided the series 
+   converges absolutely."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "232"
+    offset: "242"
+. id: "5e2fc0a764735772ef984c41"
+

@@ -1,0 +1,11 @@
+ProtoResult:
+. "If $\gcd(a,n)=1$, then the equation $ ax\equiv b\pmod{n} $ 
+   has a solution, and that solution is unique modulo $n$."
+Metadata:
+. name: "Units"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "24"
+    offset: "31"
+. id: "5e2fb878ca5b3802d53882f5"
+

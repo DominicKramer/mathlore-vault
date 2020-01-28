@@ -1,0 +1,11 @@
+ProtoResult:
+. "[Legendre Symbol of $2$] Let $p$ be an odd prime. Then $$ 
+   (\frac{2}{p} ) = \begin{cases} \hfill1 & if p\equiv \pm 
+   1\pmod{8}\\ -1 & if p\equiv \pm 3\pmod{8}. \end{cases} $$"
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "80"
+    offset: "87"
+. id: "5e2fb878ca5b3802d538830d"
+

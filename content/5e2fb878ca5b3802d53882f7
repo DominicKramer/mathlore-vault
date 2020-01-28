@@ -1,0 +1,11 @@
+ProtoResult:
+. "An integer $p>1$ is prime if and only if $(p-1)! \equiv -1 
+   \pmod{p}$"
+Metadata:
+. name: "Wilson's Theorem"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "27"
+    offset: "34"
+. id: "5e2fb878ca5b3802d53882f7"
+

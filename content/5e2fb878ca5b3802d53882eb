@@ -1,0 +1,12 @@
+ProtoDefines:
+. "If $G$ is a group and $H$ is a subset of $G$, then $H$ is a
+   subgroup if $H$ is a group under the group operation on 
+   $G$."
+Metadata:
+. name: "Subgroup"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "64"
+    offset: "71"
+. id: "5e2fb878ca5b3802d53882eb"
+

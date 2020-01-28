@@ -1,0 +1,11 @@
+ProtoResult:
+. "If $\gcd(x,n)=1$, then $$ x^{\varphi(n)} \equiv 1\pmod{n}. 
+   $$"
+Metadata:
+. name: "Euler's Theorem"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "26"
+    offset: "33"
+. id: "5e2fb878ca5b3802d5388317"
+

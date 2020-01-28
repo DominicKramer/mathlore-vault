@@ -1,0 +1,15 @@
+ProtoDefines:
+. "Let $\{X_k\}_{k = 1}^\infty$ be a sequence of independent, 
+   identically distributed discrete random variables. For each 
+   positive integer $n$, we let $S_n$ denote the sum $X_1 + X_2
+   + \cdots + X_n$. The sequence $\{S_n\}_{n = 1}^\infty$ is 
+   called a {random walk.\/} If the common range of the $X_k$'s
+   is ${\mathbf R}^m$, then we say that $\{S_n\}$ is a random 
+   walk in ${\mathbf R}^m$."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "473"
+    offset: "483"
+. id: "5e2fc0a664735772ef984c37"
+

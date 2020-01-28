@@ -1,0 +1,17 @@
+ProtoResult:
+. "If $L$ is a lattice, then the binary operations $\vee$ and 
+   $\wedge$ satisfy the following properties for $a, b, c \in 
+   L$. \begin{enumerate} \item \it Commutative laws: $a \vee b 
+   = b \vee a$ and $a \wedge b = b \wedge a$. \item \it 
+   Associative laws: $a \vee ( b \vee c) = (a \vee b) \vee c$ 
+   and $a \wedge ( b \wedge c) = (a \wedge b) \wedge c$. \item 
+   \it Idempotent laws: $a \vee a = a$ and $a \wedge a = a$. 
+   \item \it Absorption laws: $a \vee (a \wedge b) = a$ and $a 
+   \wedge ( a \vee b ) =a$. \end{enumerate}"
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "310"
+    offset: "320"
+. id: "5e2df8c1ca5b3802d5388230"
+

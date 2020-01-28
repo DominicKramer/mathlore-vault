@@ -1,0 +1,12 @@
+ProtoResult:
+. "Let $f\in k $ be a nonzero polynomial over a field $k$. 
+   Then there are at most $\deg(f)$ elements $\alpha\in k$ such
+   that $f(\alpha)=0$."
+Metadata:
+. name: "Root Bound"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "40"
+    offset: "47"
+. id: "5e2fb878ca5b3802d5388300"
+

@@ -1,0 +1,13 @@
+ProtoResult:
+. "Let $a_0,a_1,\ldots$ define a simple continued fraction, 
+   and let $x=[a_0,a_1,\ldots]\in\mathbf{R}$ be its value. Then
+   for all $m$, $$ | x - \frac{p_m}{q_m} | < \frac{1}{q_m \cdot
+   q_{m+1}}. $$"
+Metadata:
+. name: "Convergence of continued fraction"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "107"
+    offset: "114"
+. id: "5e2fb877ca5b3802d53882ce"
+

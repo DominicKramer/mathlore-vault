@@ -1,0 +1,19 @@
+ProtoResult:
+. "Let $t_i$ be the expected number of steps before the chain 
+   is absorbed, given that the chain starts in state $s_i$, and
+   let ${ \/}$ be the column vector whose $i$th entry is $t_i$.
+   Then $${ \/} = { \/}{ \/}\ $$ where ${ \/}$ is a column 
+   vector all of whose entries are 1. .2in {\bf Proof.\ } If we
+   add all the entries in the $i$th row of ${ \/}$, we will 
+   have the expected number of times in any of the transient 
+   states for a given starting state $s_i$, that is, the 
+   expected time required before being absorbed. Thus, $t_i$ is
+   the sum of the entries in the $i$th row of ${ \/}$. If we 
+   write this statement in matrix form, we obtain the theorem."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "421"
+    offset: "431"
+. id: "5e2fc0a764735772ef984c86"
+

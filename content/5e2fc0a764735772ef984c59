@@ -1,0 +1,12 @@
+ProtoResult:
+. "If $X$ and $Y$ are real-valued random variables and $c$ is 
+   any constant, then $$ E(X + Y) &=& E(X) + E(Y)\ , \\ E(cX) 
+   &=& cE(X)\ . $$ The proof is very similar to the proof of 
+   Theorem 6.1 , and we omit it."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "270"
+    offset: "280"
+. id: "5e2fc0a764735772ef984c59"
+

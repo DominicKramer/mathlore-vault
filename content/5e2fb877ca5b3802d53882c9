@@ -1,0 +1,12 @@
+ProtoResult:
+. "If $n$ is a congruent number, then there are infinitely 
+   many distinct right triangles with rational side lengths and
+   area $n$."
+Metadata:
+. name: "Infinitely Many Triangles"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "145"
+    offset: "152"
+. id: "5e2fb877ca5b3802d53882c9"
+

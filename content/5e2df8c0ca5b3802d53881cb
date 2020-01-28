@@ -1,0 +1,10 @@
+ProtoResult:
+. "The order of any finite Boolean algebra must be $2^n$ for 
+   some positive integer $n$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "318"
+    offset: "328"
+. id: "5e2df8c0ca5b3802d53881cb"
+

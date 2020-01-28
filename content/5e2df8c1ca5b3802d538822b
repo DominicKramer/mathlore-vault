@@ -1,0 +1,14 @@
+ProtoResult:
+. "Let $b \in B$ and $a_1, \ldots, a_n$ be the atoms of $B$ 
+   such that $a_i \preceq b$. Then $b = a_1 \vee \cdots \vee 
+   a_n$. Furthermore, if $a, a_1, \ldots, a_n$ are atoms of $B$
+   such that $a \preceq b$, $a_i \preceq b$, and $b = a \vee 
+   a_1 \vee \cdots \vee a_n$, then $a = a_i$ for some $i = 1, 
+   \ldots, n$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "317"
+    offset: "327"
+. id: "5e2df8c1ca5b3802d538822b"
+

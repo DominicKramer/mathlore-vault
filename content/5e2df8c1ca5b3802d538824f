@@ -1,0 +1,10 @@
+ProtoResult:
+. "Let $\phi : G arrow H$ be a group homomorphism. Then the 
+   kernel of $\phi$ is a normal subgroup of $G$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "172"
+    offset: "182"
+. id: "5e2df8c1ca5b3802d538824f"
+

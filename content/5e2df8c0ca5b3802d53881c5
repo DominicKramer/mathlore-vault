@@ -1,0 +1,13 @@
+ProtoResult:
+. "Let $G$ be a finite group and $p$ a prime dividing $|G|$. 
+   Then all Sylow $p$-subgroups of $G$ are conjugate. That is, 
+   if $P_1$ and $P_2$ are two Sylow $p$-subgroups, there exists
+   a $g \in G$ such that $g P_1 g^{-1} = P_2$."
+Metadata:
+. name: "Second Sylow Theorem"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "235"
+    offset: "245"
+. id: "5e2df8c0ca5b3802d53881c5"
+

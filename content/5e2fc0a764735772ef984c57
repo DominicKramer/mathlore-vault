@@ -1,0 +1,13 @@
+ProtoDefines:
+. "Let $n$ be a positive integer, and let $p$ be a real number
+   between 0 and 1. Let $B$ be the random variable which counts
+   the number of successes in a Bernoulli trials process with 
+   parameters $n$ and $p$. Then the distribution $b(n, p, k)$ 
+   of $B$ is called the {binomial distribution\/}."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "98"
+    offset: "108"
+. id: "5e2fc0a764735772ef984c57"
+

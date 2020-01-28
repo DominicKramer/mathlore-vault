@@ -1,0 +1,15 @@
+ProtoDefines:
+. "Suppose we have an experiment whose outcome depends on 
+   chance. We represent the outcome of the experiment by a 
+   capital Roman letter, such as $X$, called a {random 
+   variable\/}. The {sample space\/} of the experiment is the 
+   set of all possible outcomes. If the sample space is either 
+   finite or countably infinite, the random variable is said to
+   be {discrete\/}."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "18"
+    offset: "28"
+. id: "5e2fc0a764735772ef984c58"
+

@@ -1,0 +1,12 @@
+ProtoDefines:
+. "An integer $n>1$ is prime if the only positive divisors of 
+   $n$ are $1$ and $n$. We call $n$ composite if $n$ is not 
+   prime."
+Metadata:
+. name: "Prime and Composite"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "2"
+    offset: "9"
+. id: "5e2fb877ca5b3802d53882cc"
+

@@ -1,0 +1,14 @@
+ProtoResult:
+. "Let $X_1$, $X_2$, \ldots, $X_n$ be continuous random 
+   variables with density functions $f_1(x),~f_2(x), 
+   \ldots,~f_n(x)$. Then these random variables are { mutually 
+   independent\/} if and only if $$f(x_1, x_2, \ldots, x_n) = 
+   f_1(x_1)f_2(x_2) \cdots f_n(x_n)$$ for any choice of $x_1, 
+   x_2, \ldots, x_n$."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "166"
+    offset: "176"
+. id: "5e2fc0a664735772ef984c3d"
+

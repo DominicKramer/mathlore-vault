@@ -1,0 +1,14 @@
+ProtoResult:
+. "Let $N$ be a normal subgroup of a group $G$. Then $H 
+   \mapsto H/N$ is a one-to-one correspondence between the set 
+   of subgroups $H$ containing $N$ and the set of subgroups of 
+   $G/N$. Furthermore, the normal subgroups of $G$ containing 
+   $N$ correspond to normal subgroups of~$G/N$."
+Metadata:
+. name: "Correspondence Theorem"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "175"
+    offset: "185"
+. id: "5e2df8c1ca5b3802d5388254"
+

@@ -1,0 +1,15 @@
+ProtoResult:
+. "Let $F$ be a subfield of ${\mathbb R}$. \begin{enumerate} 
+   \item \it If a line contains two points in $F$, then it has 
+   the equation $a x + by + c = 0$, where $a$, $b$, and $c$ are
+   in $F$. \item \it If a circle has a center at a point with 
+   coordinates in $F$ and a radius that is also in $F$, then it
+   has the equation $x^2 + y^2 + d x + e y + f = 0$, where $d$,
+   $e$, and $f$ are in $F$. \end{enumerate}"
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "352"
+    offset: "362"
+. id: "5e2df8c0ca5b3802d538820d"
+

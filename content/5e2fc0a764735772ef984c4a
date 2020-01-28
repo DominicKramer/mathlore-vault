@@ -1,0 +1,13 @@
+ProtoDefines:
+. "Let $X$ be a real-valued random variable with density 
+   function $f(x)$. The {expected value\/} $\mu = E(X)$ is 
+   defined by $$ \mu = E(X) = \int_{-\infty}^{+\infty} xf(x) 
+   dx\ , $$ provided the integral $$ \int_{-\infty}^{+\infty} 
+   |x|f(x) dx $$ is finite."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "270"
+    offset: "280"
+. id: "5e2fc0a764735772ef984c4a"
+

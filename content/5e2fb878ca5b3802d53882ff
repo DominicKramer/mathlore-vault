@@ -1,0 +1,12 @@
+ProtoDefines:
+. "A quadratic irrational is a real number 
+   $\alpha\in\mathbf{R}$ that is irrational and satisfies a 
+   quadratic polynomial with coefficients in $\mathbf{Q}$."
+Metadata:
+. name: "Quadratic Irrational"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "111"
+    offset: "118"
+. id: "5e2fb878ca5b3802d53882ff"
+

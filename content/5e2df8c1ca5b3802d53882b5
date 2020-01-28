@@ -1,0 +1,11 @@
+ProtoResult:
+. "Let $H$ be a subset of a group $G$. Then $H$ is a subgroup 
+   of $G$ if and only if $H \neq \emptyset$, and whenever $g, h
+   \in H$ then $gh^{-1}$ is in $H$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "51"
+    offset: "61"
+. id: "5e2df8c1ca5b3802d53882b5"
+

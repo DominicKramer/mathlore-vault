@@ -1,0 +1,15 @@
+ProtoResult:
+. "If a permutation $\sigma$ can be expressed as the product 
+   of an even number of transpositions, then any other product 
+   of transpositions equaling $\sigma$ must also contain an 
+   even number of transpositions. Similarly, if $\sigma$ can be
+   expressed as the product of an odd number of transpositions,
+   then any other product of transpositions equaling $\sigma$ 
+   must also contain an odd number of transpositions."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "83"
+    offset: "93"
+. id: "5e2df8c1ca5b3802d5388291"
+

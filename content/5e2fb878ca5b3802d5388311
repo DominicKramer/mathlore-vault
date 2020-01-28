@@ -1,0 +1,11 @@
+ProtoResult:
+. "For $n\geq 0$ with $n\leq m$ we have $$ [a_0, \ldots, a_n] 
+   = \frac{p_n}{q_n}$$"
+Metadata:
+. name: "Partial Convergents"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "97"
+    offset: "104"
+. id: "5e2fb878ca5b3802d5388311"
+

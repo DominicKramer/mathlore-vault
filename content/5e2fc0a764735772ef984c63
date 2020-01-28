@@ -1,0 +1,10 @@
+ProtoResult:
+. "If $X$ is a real-valued random variable with $E(X) = \mu$, 
+   then (cf. Theorem 6.7 $$ V(X) = E(X^2) - \mu^2\ . $$"
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "274"
+    offset: "284"
+. id: "5e2fc0a764735772ef984c63"
+

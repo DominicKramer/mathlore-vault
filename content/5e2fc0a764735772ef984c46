@@ -1,0 +1,18 @@
+ProtoResult:
+. "Let $S_n$ be the number of successes in $n$ Bernoulli 
+   trials with probability $p$ for success on each trial. Then 
+   the expected number of successes is $np$. That is, $$ E(S_n)
+   = np\ . $$ .2in {\bf Proof.\ } Let $X_j$ be a random 
+   variable which has the value~1 if the $j$th outcome is a 
+   success and~0 if it is a failure. Then, for each $X_j$, $$ 
+   E(X_j) = 0\cdot(1 - p) + 1\cdot p = p\ . $$ Since $$ S_n = 
+   X_1 + X_2 +\cdots+ X_n\ , $$ and the expected value of the 
+   sum is the sum of the expected values, we have $$ E(S_n) & =
+   & E(X_1) + E(X_2) +\cdots+ E(X_n) \\ & = & np\ . $$"
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "235"
+    offset: "245"
+. id: "5e2fc0a764735772ef984c46"
+

@@ -1,0 +1,14 @@
+ProtoDefines:
+. "Let $p$ be an odd prime and let $a$ be an integer. Set{p} 
+   )$|nn} $$ (\frac{a}{p} ) = \begin{cases} 0 & if $\gcd(a,p) 
+   \neq 1$,\\ +1 & if $a$ is a quadratic residue, and\\ -1 & if
+   $a$ is a quadratic nonresidue. \end{cases} $$ We call this 
+   symbol the Legendre Symbol."
+Metadata:
+. name: "Legendre Symbol"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "70"
+    offset: "77"
+. id: "5e2fb878ca5b3802d53882ef"
+

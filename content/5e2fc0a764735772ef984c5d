@@ -1,0 +1,11 @@
+ProtoDefines:
+. "The {uniform distribution\/} on a sample space $\Omega$ 
+   containing $n$ elements is the function $m$ defined by $$ 
+   m(\omega) = \frac1n\ , $$ for every $\omega \in \Omega$."
+Metadata:
+. reference:
+  . source: "@IntroductionToProbability"
+    page: "25"
+    offset: "35"
+. id: "5e2fc0a764735772ef984c5d"
+

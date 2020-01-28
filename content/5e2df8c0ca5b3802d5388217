@@ -1,0 +1,15 @@
+ProtoResult:
+. "A real number $\alpha$ is a constructible number if and 
+   only if there exists a sequence of fields \[ {\mathbb Q} = 
+   F_0 \subset F_1 \subset \cdots \subset F_k \] such that $F_i
+   = F_{i-1}( \sqrt{ \alpha_i} )$ with $\alpha_i \in F_i$ and 
+   $\alpha \in F_k$. In particular, there exists an integer $k 
+   > 0$ such that $[{\mathbb Q}(\alpha) : {\mathbb Q} ] = 2^k$.
+   %Clarified where $\alpha_i$ lives - TWJ 4/23/2011"
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "353"
+    offset: "363"
+. id: "5e2df8c0ca5b3802d5388217"
+

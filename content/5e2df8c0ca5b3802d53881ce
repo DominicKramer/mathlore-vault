@@ -1,0 +1,18 @@
+ProtoResult:
+. "Let $A$ be an $n \times n$ matrix. The following statements
+   are equivalent. \begin{enumerate} \item \it The columns of 
+   the matrix $A$ form an orthonormal set. \item \it $A^{-1} = 
+   A^{ t}$. \item \it For vectors ${\mathbf x}$ and ${\mathbf 
+   y}$, $\langle A{\mathbf x}, A {\mathbf y} \rangle = \langle 
+   {\mathbf x}, {\mathbf y} \rangle$. \item \it For vectors 
+   ${\mathbf x}$ and ${\mathbf y}$, $\| A{\mathbf x}- A{\mathbf
+   y} \| =\| {\mathbf x}- {\mathbf y} \|$. \item \it For any 
+   vector ${\mathbf x}$, $\| A{\mathbf x} \| = \| {\mathbf 
+   x}\|$. \end{enumerate}"
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "186"
+    offset: "196"
+. id: "5e2df8c0ca5b3802d53881ce"
+
