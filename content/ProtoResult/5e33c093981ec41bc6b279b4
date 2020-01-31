@@ -1,0 +1,19 @@
+ProtoResult:
+. "Suppose that $\mathbf{F}:\R^n\to\R^n$ is continuously 
+   differentiable on a neighborhood of $\mathbf{X}_0$ and 
+   $\mathbf{F}'(\mathbf{X}_0)$ is nonsingular. Let 
+   \begin{equation} 
+   r=\frac{1}{\|(\mathbf{F}'(\mathbf{X}_0))^{-1}\|}. 
+   \end{equation} Then, for every $\epsilon>0$ there is a 
+   $\delta>0$ such that \begin{equation} 
+   |\mathbf{F}(\mathbf{X})-\mathbf{F}(\mathbf{Y})|\ge 
+   (r-\epsilon) |\mathbf{X}-\mathbf{Y}| \quad if\quad 
+   \mathbf{X},\mathbf{Y}\in B_\delta(\mathbf{X}_{0}). 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "387"
+    offset: "396"
+. id: "5e33c093981ec41bc6b279b4"
+

@@ -1,0 +1,11 @@
+ProtoResult:
+. "If $p$ is prime, then any subgroup of $S_p$ that contains a
+   transposition and a cycle of length $p$ must be all of 
+   $S_p$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "395"
+    offset: "405"
+. id: "5e33c0ad981ec41bc6b27ab4"
+

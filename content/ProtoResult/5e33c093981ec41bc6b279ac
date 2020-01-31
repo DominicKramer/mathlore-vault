@@ -1,0 +1,17 @@
+ProtoResult:
+. "Suppose that $\mathbf{G}=(g_1,g_2, \dots,g_n)$ is 
+   differentiable at $$ \mathbf{U}_0=(u_{10}, u_{20}, 
+   \dots,u_{m0}), $$ and define $$ 
+   M=\left(\sum_{i=1}^n\sum_{j=1}^m\left(\frac{ ial 
+   g_i(\mathbf{U}_0} { ial u_j}\right)^2\right)^{1/2}. $$ Then,
+   if $\epsilon>0$ there is a $\delta>0$ such that $$ 
+   \frac{|\mathbf{G}(\mathbf{U})-\mathbf{G}(\mathbf{U}_0)|} 
+   {|\mathbf{U}-\mathbf{U}_{0}|} <M+\epsilon \quad if \quad 
+   0<|\mathbf{U}-\mathbf{U}_0|<\delta. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "342"
+    offset: "351"
+. id: "5e33c093981ec41bc6b279ac"
+

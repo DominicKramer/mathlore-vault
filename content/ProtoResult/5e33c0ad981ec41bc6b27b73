@@ -1,0 +1,10 @@
+ProtoResult:
+. "Let $H$ and $K$ be finite subgroups of a group $G$. Then \[
+   |HK| = \frac{|H| \cdot |K|}{|H \cap K|}. \]"
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "239"
+    offset: "249"
+. id: "5e33c0ad981ec41bc6b27b73"
+

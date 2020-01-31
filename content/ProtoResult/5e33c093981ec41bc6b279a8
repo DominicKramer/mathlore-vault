@@ -1,0 +1,14 @@
+ProtoResult:
+. "Suppose that $g$ is differentiable at $x_0$ and $f$ is 
+   differentiable at $g(x_0)$ Then the composite function 
+   $h=f\circ g$ defined by $$ h(x)=f(g(x)), $$ is 
+   differentiable at $x_0$ with $$ h'(x_0)=f'(g(x_0))g'(x_0). 
+   $$"
+Metadata:
+. name: "The Chain Rule"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "79"
+    offset: "88"
+. id: "5e33c093981ec41bc6b279a8"
+

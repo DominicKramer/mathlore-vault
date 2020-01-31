@@ -1,0 +1,12 @@
+ProtoResult:
+. "Let $p$ be prime and $D$ be an integral domain of 
+   characteristic $p$. Then \[ a^{p^n} + b^{p^n} = (a + 
+   b)^{p^n} \] for all positive integers $n$."
+Metadata:
+. name: "Freshman's Dream"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "360"
+    offset: "370"
+. id: "5e33c0ad981ec41bc6b27a6c"
+

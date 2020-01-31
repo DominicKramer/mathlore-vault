@@ -1,0 +1,12 @@
+ProtoResult:
+. "Suppose $f$ is locally integrable on $[0,\infty)$ and 
+   $|f(x)|\le M e^{s_{0}x}$ for sufficiently large $x$. Then 
+   the Laplace transform of $F$ converges uniformly on 
+   $[s_{1},\infty)$ if $s_{1}>s_{0}$."
+Metadata:
+. reference:
+  . source: "@TrenchImproperFunctions"
+    page: "20"
+    offset: "20"
+. id: "5e33c050981ec41bc6b278de"
+

@@ -1,0 +1,23 @@
+ProtoResult:
+. "Suppose that ${\bf A}=[a_{rs}]_{r,s=1}^{n}\in {\mathbb 
+   R}^{n\times n}$ is symmetric and let $$ Q({\bf 
+   x})=\sum_{r,s=1}^{n}a_{rs}x_{r}x_{s}. $$ Suppose also that 
+   $$ {\bf x}_{1}= \left[begin{array} 
+   x_{11}\\x_{21}\\\vdots\\x_{n1} end{array}\right] $$ 
+   minimizes $Q$ subject to $\sum_{i=1}^{n}x_{i}^{2}$. For 
+   $2\le r\le n$, suppose that $$ {\bf x}_{r}= 
+   \left[begin{array} x_{1r}\\x_{2r}\\\vdots\\x_{nr} 
+   end{array}\right], $$ minimizes $Q$ subject to $$ 
+   \sum_{i=1}^{n}x_{i}^{2} =1 \; and\;\; 
+   \sum_{i=1}^{n}x_{is}x_{i}=0,\quad 1\le s\le r-1. $$ Denote 
+   $$ \lambda_{r}=\sum_{i,j=1}^{n}a_{ij}x_{ir}x_{jr}, \quad 
+   1\le r\le n. $$ Then $$ \lambda_{1}\le \lambda_{2}\le 
+   \cdots\le \lambda_{n} \; and\;\; 
+   Ax_{r}=\lambda_{r}x_{r},\quad 1\le r\le n. $$"
+Metadata:
+. reference:
+  . source: "@TrenchLagrangeMultipliers"
+    page: "20"
+    offset: "20"
+. id: "5e33c07a981ec41bc6b278e1"
+

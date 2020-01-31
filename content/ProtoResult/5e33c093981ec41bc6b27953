@@ -1,0 +1,10 @@
+ProtoResult:
+. "If $f'$ is integrable on $[a,b]$ then $$ \int_a^b 
+   f'(x)\,dx=f(b)-f(a). $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "146"
+    offset: "155"
+. id: "5e33c093981ec41bc6b27953"
+

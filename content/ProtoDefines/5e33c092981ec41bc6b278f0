@@ -1,0 +1,12 @@
+ProtoDefines:
+. "An infinite series of the form \begin{equation} 
+   \sum^\infty_{n=0} a_n(x-x_0)^n, \end{equation} where $x_0$ 
+   and $a_0$, $a_1$, \dots, are constants, is called a {\it 
+   power series in $x-x_0$ }."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "259"
+    offset: "268"
+. id: "5e33c092981ec41bc6b278f0"
+

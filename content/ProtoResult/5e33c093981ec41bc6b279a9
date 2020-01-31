@@ -1,0 +1,14 @@
+ProtoResult:
+. "If $f$ is differentiable at $\mathbf{X}_0$ then $$ 
+   f(\mathbf{X})-f(\mathbf{X}_0)=(d_{\mathbf{X}_0}f)(\mathbf{X}-\mathbf{X}_0)
+   +E(\mathbf{X})|\mathbf{X}-\mathbf{X}_0|, $$ where $E$ is 
+   defined in a neighborhood of $\mathbf{X}_0$ and $$ 
+   \lim_{\mathbf{X}\to\mathbf{X}_0}E(\mathbf{X})=E(\mathbf{X}_0)=0.
+   $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "330"
+    offset: "339"
+. id: "5e33c093981ec41bc6b279a9"
+

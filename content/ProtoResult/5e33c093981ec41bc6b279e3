@@ -1,0 +1,15 @@
+ProtoResult:
+. "Suppose that $\mu_1$ $\mu_2$ \dots, $\mu_n$ and $\nu_1$ 
+   $\nu_2$ \dots, $\nu_n$ are nonnegative numbers. Let $p>1$ 
+   and $q=p/(p-1)$ thus, \begin{equation} 
+   \frac{1}{p}+\frac{1}{q}=1. \end{equation} Then 
+   \begin{equation} \sum_{i=1}^n 
+   \mu_i\nu_i\le\left(\sum_{i=1}^n\mu_i^p\right)^{1/p} 
+   \left(\sum_{i=1}^n \nu_i^q\right)^{1/q}. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "521"
+    offset: "530"
+. id: "5e33c093981ec41bc6b279e3"
+

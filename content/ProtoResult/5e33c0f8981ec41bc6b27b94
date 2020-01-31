@@ -1,0 +1,14 @@
+ProtoResult:
+. "Let $a, b\in\mathbf{Q}$. Then for any integer $n$, 
+   $$\#\left((a,b)\cap \mathbf{Z}\right) \equiv 
+   \#\left((a,b+2n)\cap \mathbf{Z}\right) \pmod{2}$$ and $$ 
+   \#\left((a,b)\cap \mathbf{Z}\right) \equiv 
+   \#\left((a-2n,b)\cap \mathbf{Z}\right) \pmod{2}, $$ provided
+   that each interval involved in the congruence is nonempty."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "77"
+    offset: "84"
+. id: "5e33c0f8981ec41bc6b27b94"
+

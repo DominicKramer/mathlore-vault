@@ -1,0 +1,16 @@
+ProtoResult:
+. "If $f$ is bounded on $[a,x_0)$ then $\beta=\limsup_{x\to 
+   x_0-}f(x)$ exists and is the unique real number with the 
+   following properties$\,:$ \begin{alist} \item If 
+   $\epsilon>0$, there is an $a_1$ in $[a,x_0)$ such that 
+   \begin{equation} f(x)<\beta+\epsilon \quad if \quad a_1\le 
+   x<x_0. \end{equation} \item If $\epsilon>0$ and $a_1$ is in 
+   $[a,x_0)$ then $$ f(\overline x)>\beta-\epsilon \quad for 
+   some \overline x\in[a_1,x_0). $$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "47"
+    offset: "56"
+. id: "5e33c093981ec41bc6b27992"
+

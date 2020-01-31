@@ -1,0 +1,14 @@
+ProtoResult:
+. "Suppose that $\widehat u\in\overline D_f$ Then 
+   \begin{equation} \lim_{u\to \widehat u}f(u)=\widehat v 
+   \end{equation} if and only if \begin{equation} 
+   \lim_{n\to\infty}f(u_n)=\widehat v \end{equation} for every 
+   sequence $\{u_n\}$ in $D_f$ such that \begin{equation} 
+   \lim_{n\to\infty}u_n=\widehat u. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "545"
+    offset: "554"
+. id: "5e33c093981ec41bc6b27945"
+

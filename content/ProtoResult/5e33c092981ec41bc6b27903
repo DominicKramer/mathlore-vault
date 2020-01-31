@@ -1,0 +1,10 @@
+ProtoResult:
+. "A bounded set $S$ is Jordan measurable if and only if the 
+   boundary of $S$ has zero content."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "489"
+    offset: "498"
+. id: "5e33c092981ec41bc6b27903"
+

@@ -1,0 +1,10 @@
+ProtoResult:
+. "If $f$ is bounded and continuous on a bounded Jordan 
+   measurable set $S$ then $f$ is integrable on $S$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "490"
+    offset: "499"
+. id: "5e33c093981ec41bc6b2798c"
+

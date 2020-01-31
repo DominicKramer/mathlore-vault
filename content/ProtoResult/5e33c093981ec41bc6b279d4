@@ -1,0 +1,12 @@
+ProtoResult:
+. "If $f$ is integrable on $[a,b]$ and $[b,c]$ then $f$ is 
+   integrable on $[a,c]$ and \begin{equation} 
+   \int_a^cf(x)\,dx=\int_a^bf(x)\,dx+\int_b^cf(x)\,dx. 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "143"
+    offset: "152"
+. id: "5e33c093981ec41bc6b279d4"
+

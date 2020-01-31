@@ -1,9 +1,0 @@
-ProtoResult:
-. "The limit of a convergent sequence is unique."
-Metadata:
-. reference:
-  . source: "@TrenchRealAnalysis"
-    page: "180"
-    offset: "189"
-. id: "5e23b2357be8017205ed4512"
-

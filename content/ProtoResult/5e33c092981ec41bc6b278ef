@@ -1,0 +1,13 @@
+ProtoResult:
+. "Suppose that $u$ is continuous and $v$ is integrable and 
+   nonnegative on a rectangle $R$ Then $$ \int_R 
+   u(\mathbf{X})v(\mathbf{X})\,d\mathbf{X}= 
+   u(\mathbf{X}_0)\int_R v(\mathbf{X})\,d\mathbf{X} $$ for some
+   $\mathbf{X}_0$ in $R$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "457"
+    offset: "466"
+. id: "5e33c092981ec41bc6b278ef"
+

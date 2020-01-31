@@ -1,0 +1,11 @@
+ProtoDefines:
+. "A {\em primitive root} modulo an integer $n$ is an element 
+   of $(\Z/n\Z{})^*$ of order $\varphi(n)$."
+Metadata:
+. name: "Primitive Root"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "39"
+    offset: "46"
+. id: "5e33c0f8981ec41bc6b27b9a"
+

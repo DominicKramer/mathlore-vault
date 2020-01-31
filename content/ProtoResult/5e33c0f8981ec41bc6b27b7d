@@ -1,0 +1,11 @@
+ProtoResult:
+. "The equation $x^2\equiv a\pmod{p}$ has no solution if and 
+   only if $a^{(p-1)/2}\equiv -1\pmod{p}$. Thus 
+   $\left(\frac{a}{p}\right) \equiv a^{(p-1)/2}\pmod{p}$."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "74"
+    offset: "81"
+. id: "5e33c0f8981ec41bc6b27b7d"
+

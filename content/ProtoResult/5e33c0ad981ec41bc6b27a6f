@@ -1,0 +1,10 @@
+ProtoResult:
+. "If $G$ is a cyclic group of order $n$, then $G$ is 
+   isomorphic to ${\mathbb Z}_n$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "147"
+    offset: "157"
+. id: "5e33c0ad981ec41bc6b27a6f"
+

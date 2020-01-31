@@ -1,0 +1,9 @@
+ProtoResult:
+. "The group $A_4$ has no subgroup of order 6."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "98"
+    offset: "108"
+. id: "5e33c0ad981ec41bc6b27ad2"
+

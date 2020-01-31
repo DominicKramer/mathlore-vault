@@ -1,0 +1,13 @@
+ProtoResult:
+. "If $f$ and $g$ are given by $ $ and $ $ then 
+   \begin{eqnarray} f(x)g(x) =\sum^\infty_{n=0} 
+   c_n(x-x_0)^n,\quad|x-x_0|<R, \\ where c_n =\sum^n_{r=0} 
+   a_rb_{n-r}=\sum^n_{r=0} a_{n-r}b_r \end{eqnarray} and 
+   $R\ge\min\{R_1,R_2\}$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "269"
+    offset: "278"
+. id: "5e33c093981ec41bc6b27a23"
+

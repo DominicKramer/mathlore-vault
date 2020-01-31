@@ -1,0 +1,23 @@
+ProtoResult:
+. "If $\mathbf{X}$ $\mathbf{Y}$ and $\mathbf{Z}$ are in $\R^n$
+   and $a$ and $b$ are real numbers, then \begin{alist} \item 
+   $\mathbf{X}+\mathbf{Y}=\mathbf{Y}+\mathbf{X}$ (vector 
+   addition is commutative$)$ \item 
+   $(\mathbf{X}+\mathbf{Y})+\mathbf{Z}=\mathbf{X}+(\mathbf{Y}+\mathbf{Z})$
+   (vector addition is associative$)$ \item There is a unique 
+   vector $\mathbf{0}$ called the zero vector, such that 
+   $\mathbf{X}+\mathbf{0}=\mathbf{X}$ for all $\mathbf{X}$ in 
+   $\R^n$ \item For each $\mathbf{X}$ in $\R^n$ there is a 
+   unique vector $-\mathbf{X}$ such that 
+   $\mathbf{X}+(-\mathbf{X})=\mathbf{0}$ \item 
+   $a(b\mathbf{X})=(ab)\mathbf{X}$ \item 
+   $(a+b)\mathbf{X}=a\mathbf{X}+b\mathbf{X}$ \item 
+   $a(\mathbf{X}+\mathbf{Y})=a\mathbf{X}+a\mathbf{Y}$ \item 
+   $1\mathbf{X}=\mathbf{X}$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "282"
+    offset: "291"
+. id: "5e33c093981ec41bc6b27a25"
+

@@ -1,0 +1,10 @@
+ProtoResult:
+. "The field of complex numbers is algebraically closed."
+Metadata:
+. name: "Fundamental Theorem of Algebra"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "346"
+    offset: "356"
+. id: "5e33c0ad981ec41bc6b27ac4"
+

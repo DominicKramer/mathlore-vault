@@ -1,0 +1,14 @@
+ProtoResult:
+. "Let $n_0$ be any integer (positive, negative, or zero). Let
+   $P_{n_0}$ $P_{n_0+1}$ \dots, $P_n$ \dots\ be propositions, 
+   one for each integer $n\ge n_0$ such that \begin{alist} 
+   \item $P_{n_0}$ is true$\,$ \item for each integer $n\ge 
+   n_0$ $P_n$ implies $P_{n+1}$ \end{alist} Then $P_n$ is true 
+   for every integer $n\ge n_0$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "12"
+    offset: "21"
+. id: "5e33c093981ec41bc6b27984"
+

@@ -1,0 +1,11 @@
+ProtoResult:
+. "Let $P$ be a Sylow $p$-subgroup of a finite group $G$ and 
+   let $x$ have as its order a power of $p$. If $x^{-1} P x = 
+   P$, then $x \in P$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "234"
+    offset: "244"
+. id: "5e33c0ad981ec41bc6b27b71"
+

@@ -1,0 +1,12 @@
+ProtoResult:
+. "Let $z = r \operatorname{cis} \theta$ be a nonzero complex 
+   number. Then \[ [r \operatorname{cis} \theta ]^n = r^n 
+   \operatorname{cis}( n \theta) \] for $n = 1, 2, \ldots$."
+Metadata:
+. name: "DeMoivre"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "66"
+    offset: "76"
+. id: "5e33c0ad981ec41bc6b27aa5"
+

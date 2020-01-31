@@ -1,0 +1,20 @@
+ProtoResult:
+. "Let $f$ and $f_{y}$ be continuous on either $[a,b)\times 
+   [c,d]$ or $(a,b]\times [c,d]$ Suppose that the improper 
+   integral $$ F(y)=\int_{a}^{b}f(x,y)\,dx $$ converges for 
+   some $y_{0} \in [c,d]$ and $$ 
+   G(y)=\int_{a}^{b}f_{y}(x,y)\,dx $$ converges uniformly on 
+   $[c,d]$ Then $F$ converges uniformly on $[c,d]$ and is given
+   explicitly by $$ F(y)=F(y_{0})+\int_{y_{0}}^{y} 
+   G(t)\,dt,\quad c\le y\le d. $$ Moreover, $F$ is continuously
+   differentiable on $[c,d]$; specifically, \begin{equation} 
+   F'(y)=G(y), \quad c \le y \le d, \end{equation} where 
+   $F'(c)$ and $f_{y}(x,c)$ are derivatives from the right, and
+   $F'(d)$ and $f_{y}(x,d)$ are derivatives from the left."
+Metadata:
+. reference:
+  . source: "@TrenchImproperFunctions"
+    page: "18"
+    offset: "18"
+. id: "5e33c04f981ec41bc6b278db"
+

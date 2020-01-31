@@ -1,0 +1,15 @@
+ProtoResult:
+. "Let $\phi : G \rightarrow H$ be an isomorphism of two 
+   groups. Then the following statements are true. 
+   \begin{enumerate} \item \it $\phi^{-1} : H \rightarrow G$ is
+   an isomorphism. \item \it $|G| = |H|$. \item \it If $G$ is 
+   abelian, then $H$ is abelian. \item \it If $G$ is cyclic, 
+   then $H$ is cyclic. \item \it If $G$ has a subgroup of order
+   $n$, then $H$ has a subgroup of order $n$. \end{enumerate}"
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "146"
+    offset: "156"
+. id: "5e33c0ad981ec41bc6b27a6b"
+

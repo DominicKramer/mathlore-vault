@@ -1,0 +1,14 @@
+ProtoResult:
+. "Suppose that $f^{(n+1)}$ exists on an open interval $I$ 
+   about $x_0$ and let $x$ be in $I$ Then the remainder $$ 
+   R_n(x)=f(x)-T_n(x) $$ can be written as $$ 
+   R_n(x)=\frac{f^{(n+1)}(c)}{(n+1)!}(x-x_0)^{n+1}, $$ where 
+   $c$ depends upon $x$ and is between $x$ and $x_0$"
+Metadata:
+. name: "Taylor's Theorem"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "107"
+    offset: "116"
+. id: "5e33c093981ec41bc6b279bb"
+

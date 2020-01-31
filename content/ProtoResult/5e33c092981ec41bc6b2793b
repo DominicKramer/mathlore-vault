@@ -1,0 +1,10 @@
+ProtoResult:
+. "A nonempty subset $T$ of $C[a,b]$ is compact if and only if
+   it is closed, uniformly bounded, and equicontinuous."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "541"
+    offset: "550"
+. id: "5e33c092981ec41bc6b2793b"
+

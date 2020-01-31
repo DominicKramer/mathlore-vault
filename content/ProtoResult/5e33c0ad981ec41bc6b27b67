@@ -1,0 +1,10 @@
+ProtoResult:
+. "Every maximal ideal in a commutative ring with identity is 
+   also a prime ideal."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "257"
+    offset: "267"
+. id: "5e33c0ad981ec41bc6b27b67"
+

@@ -1,0 +1,11 @@
+ProtoResult:
+. "The Principle of Mathematical Induction implies the 
+   Principle of Well-Ordering. That is, every nonempty subset 
+   of $\mathbb N$ contains a least element."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "26"
+    offset: "36"
+. id: "5e33c0ad981ec41bc6b27af6"
+

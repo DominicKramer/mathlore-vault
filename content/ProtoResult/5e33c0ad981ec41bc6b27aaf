@@ -1,0 +1,11 @@
+ProtoResult:
+. "Two cycles $\tau$ and $\mu$ in $S_n$ have the same length 
+   if and only if there exists a $\sigma \in S_n$ such that 
+   $\mu = \sigma \tau \sigma^{-1}$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "98"
+    offset: "108"
+. id: "5e33c0ad981ec41bc6b27aaf"
+

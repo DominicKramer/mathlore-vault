@@ -1,0 +1,10 @@
+ProtoResult:
+. "If $f$ is unbounded on $[a,b]$ then $f$ is not integrable 
+   on $[a,b]$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "118"
+    offset: "127"
+. id: "5e33c093981ec41bc6b279be"
+

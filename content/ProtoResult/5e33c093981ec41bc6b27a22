@@ -1,0 +1,15 @@
+ProtoResult:
+. "If \begin{equation} f(x)=\sum^\infty_{n=0} 
+   a_n(x-x_0)^n,\quad |x-x_0|<R_1, \end{equation} 
+   \begin{equation} g(x)=\sum^\infty_{n=0} b_n(x-x_0)^n,\quad 
+   |x-x_0|<R_2, \end{equation} and $\alpha$ and $\beta$ are 
+   constants, then $$ \alpha f(x)+\beta g(x)=\sum^\infty_{n=0} 
+   (\alpha a_n+\beta b_n)(x-x_0)^n,\quad |x-x_0|<R, $$ where 
+   $R\ge\min\{R_1,R_2\}$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "269"
+    offset: "278"
+. id: "5e33c093981ec41bc6b27a22"
+

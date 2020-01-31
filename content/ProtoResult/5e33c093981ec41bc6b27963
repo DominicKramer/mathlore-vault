@@ -1,0 +1,11 @@
+ProtoResult:
+. "If $\{F_n\}$ converges uniformly to $F$ on $S$ and each 
+   $F_n$ is continuous on $S$ then so is $F$ that is, a uniform
+   limit of continuous functions is continuous."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "244"
+    offset: "253"
+. id: "5e33c093981ec41bc6b27963"
+

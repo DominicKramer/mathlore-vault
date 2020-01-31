@@ -1,0 +1,12 @@
+ProtoResult:
+. "If $\alpha$ and $\beta$ are conjugate over $F$, there 
+   exists an isomorphism $\sigma : F( \alpha ) \rightarrow F( 
+   \beta )$ such that $\sigma$ is the identity when restricted 
+   to $F$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "380"
+    offset: "390"
+. id: "5e33c0ad981ec41bc6b27b4a"
+

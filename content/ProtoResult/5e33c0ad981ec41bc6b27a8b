@@ -1,0 +1,13 @@
+ProtoResult:
+. "Suppose that $G$ is an $n \times k$ standard generator 
+   matrix. Then $C = \left\{{\mathbf y} : G{\mathbf x} 
+   ={\mathbf y} for {\mathbf x}\in {\mathbb Z}_2^k\right\}$ is 
+   an $(n,k)$-block code. More specifically, $C$ is a group 
+   code."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "130"
+    offset: "140"
+. id: "5e33c0ad981ec41bc6b27a8b"
+

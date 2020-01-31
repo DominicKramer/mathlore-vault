@@ -1,0 +1,14 @@
+ProtoResult:
+. "Suppose that $f$ is increasing and continuous on $[a,b]$ 
+   and let $f(a)=c$ and $f(b)=d$ Then there is a unique 
+   function $g$ defined on $[c,d]$ such that \begin{equation} 
+   g(f(x))=x,\quad a\le x\le b, \end{equation} and 
+   \begin{equation} f(g(y))=y,\quad c\le y\le d. \end{equation}
+   Moreover, $g$ is continuous and increasing on $[c,d]$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "69"
+    offset: "78"
+. id: "5e33c093981ec41bc6b279a3"
+

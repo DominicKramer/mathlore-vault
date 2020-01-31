@@ -1,0 +1,10 @@
+ProtoResult:
+. "Let $a$ and $b$ be atoms in a finite Boolean algebra $B$ 
+   such that $a \neq b$. Then $a \wedge b = O$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "316"
+    offset: "326"
+. id: "5e33c0ad981ec41bc6b27a78"
+

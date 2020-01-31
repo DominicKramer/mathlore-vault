@@ -1,0 +1,18 @@
+ProtoResult:
+. "If $f$ and $g$ are differentiable at $x_0$ then so are 
+   $f+g$ $f-g$ and $fg$ with \begin{alist} \item 
+   $(f+g)'(x_0)=f'(x_0)+g'(x_0)$ \item 
+   $(f-g)'(x_0)=f'(x_0)-g(x_0)$ \item 
+   $(fg)'(x_0)=f'(x_0)g(x_0)+f(x_0)g'(x_0)$ \end{alist} The 
+   quotient $f/g$ is differentiable at $x_0$ if $g(x_0)\ne0$ 
+   with \begin{alist} \setcounter{lcal}{3} \item 
+   $\dst{\left(\frac{f}{g}\right)' (x_0)= 
+   \frac{f'(x_0)g(x_0)-f(x_0)g'(x_0)}{\left[g(x_0)\right]^2}}$ 
+   \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "79"
+    offset: "88"
+. id: "5e33c093981ec41bc6b279a5"
+

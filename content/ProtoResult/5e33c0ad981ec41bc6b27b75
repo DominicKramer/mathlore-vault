@@ -1,0 +1,18 @@
+ProtoResult:
+. "Let $\phi : E \rightarrow F$ be an isomorphism of fields. 
+   Let $K$ be an extension field of $E$ and $\alpha \in K$ be 
+   algebraic over $E$ with minimal polynomial $p(x)$. Suppose 
+   that $L$ is an extension field of $F$ such that $\beta$ is 
+   root of the polynomial in $F $ obtained from $p(x)$ under 
+   the image of $\phi$. Then $\phi$ extends to a unique 
+   isomorphism $\psi : E( \alpha ) \rightarrow F( \beta )$ such
+   that $\psi( \alpha ) = \beta$ and $\psi$ agrees with $\phi$ 
+   on $E$."
+Metadata:
+. name: "x"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "347"
+    offset: "357"
+. id: "5e33c0ad981ec41bc6b27b75"
+

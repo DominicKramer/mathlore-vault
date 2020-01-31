@@ -1,0 +1,14 @@
+ProtoResult:
+. "Let \begin{equation} c_n=f(n),\quad n\ge k, \end{equation} 
+   where $f$ is positive, nonincreasing, and locally integrable
+   on $[k,\infty)$ Then \begin{equation} \sum c_n<\infty 
+   \end{equation} if and only if \begin{equation} \int^\infty_k
+   f(x)\,dx<\infty. \end{equation}"
+Metadata:
+. name: "The Integral Test"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "207"
+    offset: "216"
+. id: "5e33c093981ec41bc6b27a01"
+

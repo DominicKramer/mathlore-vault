@@ -1,0 +1,15 @@
+ProtoResult:
+. "Suppose that $\rho$ and $\sigma$ are equivalent metrics on 
+   $A$ Then \begin{alist} \item A sequence $\{u_n\}$ converges 
+   to $u$ in $(A,\rho)$ if and only if it converges to $u$ in 
+   $(A,\sigma)$ \item A sequence $\{u_n\}$ is a Cauchy sequence
+   in $(A,\rho)$ if and only if it is a Cauchy sequence in 
+   $(A,\sigma)$ \item $(A,\rho)$ is complete if and only if 
+   $(A,\sigma)$ is complete. \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "532"
+    offset: "541"
+. id: "5e33c092981ec41bc6b2792f"
+

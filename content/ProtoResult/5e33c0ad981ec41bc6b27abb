@@ -1,0 +1,10 @@
+ProtoResult:
+. "Every finite extension field $E$ of a field $F$ is an 
+   algebraic extension."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "341"
+    offset: "351"
+. id: "5e33c0ad981ec41bc6b27abb"
+

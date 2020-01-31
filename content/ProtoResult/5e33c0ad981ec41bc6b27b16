@@ -1,0 +1,10 @@
+ProtoResult:
+. "Let $G$ be a group. For any $a \in G$, $(a^{-1})^{-1} = 
+   a$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "47"
+    offset: "57"
+. id: "5e33c0ad981ec41bc6b27b16"
+

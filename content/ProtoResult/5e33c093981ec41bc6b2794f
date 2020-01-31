@@ -1,0 +1,12 @@
+ProtoResult:
+. "If $f$ is a contraction of a complete metric space 
+   $(A,\rho)$ then the equation \begin{equation} f(u)=u 
+   \end{equation} has a unique solution."
+Metadata:
+. name: "Contraction Mapping Theorem"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "545"
+    offset: "554"
+. id: "5e33c093981ec41bc6b2794f"
+

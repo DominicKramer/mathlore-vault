@@ -1,0 +1,10 @@
+ProtoResult:
+. "Let $G$ be a finite group and $X$ a finite $G$-set. If $x 
+   \in X$, then $|{\mathcal O}_x| = [G:G_x]$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "217"
+    offset: "227"
+. id: "5e33c0ad981ec41bc6b27acc"
+

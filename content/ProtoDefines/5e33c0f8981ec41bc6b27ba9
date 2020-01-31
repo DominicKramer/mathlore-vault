@@ -1,0 +1,13 @@
+ProtoDefines:
+. "Fix an odd prime $p$. The {\em Gauss sum} associated to an 
+   integer $a$ is $$ g_a = \sum_{n=1}^{p-1} 
+   \left(\frac{n}{p}\right) \zeta^{an}, $$ where $\zeta=\zeta_p
+   = \cos(2\pi{} /p) + i \sin(2\pi{}/p) = e^{2\pi i/p}$."
+Metadata:
+. name: "Gauss Sum"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "81"
+    offset: "88"
+. id: "5e33c0f8981ec41bc6b27ba9"
+

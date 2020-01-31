@@ -1,0 +1,10 @@
+ProtoResult:
+. "If $T$ is compact, then every Cauchy sequence 
+   $\{t_n\}_{n=1}^\infty$ in $T$ converges to a limit in $T$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "538"
+    offset: "547"
+. id: "5e33c092981ec41bc6b27935"
+

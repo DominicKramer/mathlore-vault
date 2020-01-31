@@ -1,0 +1,12 @@
+ProtoResult:
+. "The group $D_n$, $n \geq 3$, consists of all products of 
+   the two elements $r$ and $s$, satisfying the relations 
+   \begin{align*} r^n & = id \\ s^2 & = id \\ srs & = r^{-1}. 
+   \end{align*}"
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "86"
+    offset: "96"
+. id: "5e33c0ad981ec41bc6b27b3a"
+

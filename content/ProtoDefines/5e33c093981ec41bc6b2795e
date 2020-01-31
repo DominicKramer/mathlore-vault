@@ -1,0 +1,14 @@
+ProtoDefines:
+. "If $p\ge 1$ and $\mathbf{X}=(x_1,x_2, \dots,x_n)$, let 
+   \begin{equation} \|\mathbf{X}\|_p 
+   =\left(\sum_{i=1}^n|x_i|^p\right)^{1/p}. \end{equation} The 
+   metric induced on $\R^n$ by this norm is $$ 
+   \rho_p(\mathbf{X},\mathbf{Y}) 
+   =\left(\sum_{i=1}^n|x_i-y_i|^p\right)^{1/p}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "521"
+    offset: "530"
+. id: "5e33c093981ec41bc6b2795e"
+

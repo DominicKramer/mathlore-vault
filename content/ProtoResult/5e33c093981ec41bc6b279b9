@@ -1,0 +1,14 @@
+ProtoResult:
+. "Suppose that $f$ has $n$ derivatives at $x_0$ and $n$ is 
+   the smallest positive integer such that $f^{(n)}(x_0)\ne 0$ 
+   \begin{alist} \item If $n$ is odd, $x_0$ is not a local 
+   extreme point of $f$ \item If $n$ is even, $x_0$ is a local 
+   maximum of $f$ if $f^{(n)}(x_0)<0$ or a local mininum of $f$
+   if $f^{(n)}(x_0)>0$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "105"
+    offset: "114"
+. id: "5e33c093981ec41bc6b279b9"
+

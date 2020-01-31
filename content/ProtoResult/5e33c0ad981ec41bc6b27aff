@@ -1,0 +1,11 @@
+ProtoResult:
+. "Suppose that a vector space $V$ is spanned by $n$ vectors. 
+   If $m > n$, then any set of $m$ vectors in $V$ must be 
+   linearly dependent."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "329"
+    offset: "339"
+. id: "5e33c0ad981ec41bc6b27aff"
+

@@ -1,0 +1,14 @@
+ProtoResult:
+. "Let $R$ be a commutative ring with identity and $\alpha \in
+   R$. Then we have a ring homomorphism $\phi_{\alpha} : R 
+   \rightarrow R$ defined by \[ \phi_{\alpha} (p(x) ) = p( 
+   \alpha ) = a_n \alpha^n + \cdots + a_1 \alpha + a_0, \] 
+   where $p( x ) = a_n x^n + \cdots + a_1 x + a_0$."
+Metadata:
+. name: "x"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "273"
+    offset: "283"
+. id: "5e33c0ad981ec41bc6b27b22"
+

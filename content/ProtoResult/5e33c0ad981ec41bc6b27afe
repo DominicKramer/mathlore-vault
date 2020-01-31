@@ -1,0 +1,13 @@
+ProtoResult:
+. "Let $H$ be a subgroup of a group $G$ (not necessarily 
+   normal in $G$) and $N$ a normal subgroup of $G$. Then $HN$ 
+   is a subgroup of $G$, $H \cap N$ is a normal subgroup of 
+   $H$, and \[ H / H \cap N \cong HN /N. \]"
+Metadata:
+. name: "Second Isomorphism Theorem"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "174"
+    offset: "184"
+. id: "5e33c0ad981ec41bc6b27afe"
+

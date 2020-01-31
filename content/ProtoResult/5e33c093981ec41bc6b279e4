@@ -1,0 +1,15 @@
+ProtoResult:
+. "If $f$ and $g$ are locally integrable on $[a,b)$ and 
+   \begin{equation} 0\le f(x)\le g(x),\quad a\le x<b, 
+   \end{equation} then 3pt a $\dst\int_a^b f(x)\,dx<\infty 
+   \quad if\quad \dst\int_a^b g(x)\,dx<\infty$ \\ 3pt and\\ 3pt
+   b $\dst\int_a^b g(x)\,dx= \infty \quad if\quad \dst\int_a^b 
+   f(x)\,dx=\infty$."
+Metadata:
+. name: "Comparison Test"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "159"
+    offset: "168"
+. id: "5e33c093981ec41bc6b279e4"
+

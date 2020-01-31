@@ -1,0 +1,16 @@
+ProtoResult:
+. "If $f$ is bounded on a rectangle $R$ and $\epsilon>0$ there
+   is a $\delta>0$ such that $$ \overline{\int_R}\, 
+   f(\mathbf{X})\,d\mathbf{X}\le S({\bf P})<\overline{\int_R}\,
+   f(\mathbf{X})\,d\mathbf{X}+\epsilon $$ and $$ 
+   \underline{\int_R}\, f(\mathbf{X})\,d\mathbf{X}\ge s({\bf 
+   P})> \underline{\int_R}\, 
+   f(\mathbf{X})\,d\mathbf{X}-\epsilon $$ if $\|{\bf 
+   P}\|<\delta$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "448"
+    offset: "457"
+. id: "5e33c093981ec41bc6b279ba"
+

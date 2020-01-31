@@ -1,0 +1,10 @@
+ProtoResult:
+. "The union of finitely many sets with zero content has zero 
+   content."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "451"
+    offset: "460"
+. id: "5e33c093981ec41bc6b279bd"
+

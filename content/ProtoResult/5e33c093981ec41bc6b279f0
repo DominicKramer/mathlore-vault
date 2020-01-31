@@ -1,0 +1,11 @@
+ProtoResult:
+. "Let $\lim_{x\to\infty} f(x)=L$ where $L$ is in the extended
+   reals, and suppose that $s_n=f(n)$ for large $n$ Then $$ 
+   \lim_{n\to\infty}s_n=L. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "183"
+    offset: "192"
+. id: "5e33c093981ec41bc6b279f0"
+

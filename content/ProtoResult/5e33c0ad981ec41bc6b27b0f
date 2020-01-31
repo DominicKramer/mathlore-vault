@@ -1,0 +1,10 @@
+ProtoResult:
+. "Every ideal in the ring of integers ${\mathbb Z}$ is a 
+   principal ideal."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "253"
+    offset: "263"
+. id: "5e33c0ad981ec41bc6b27b0f"
+

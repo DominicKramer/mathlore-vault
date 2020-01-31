@@ -1,0 +1,12 @@
+ProtoResult:
+. "Let $f(x)$ be in $F $, where $\operatorname{char} F = 0$. 
+   If $f(x)$ is solvable by radicals, then the Galois group of 
+   $f(x)$ over $F$ is solvable."
+Metadata:
+. name: "x"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "394"
+    offset: "404"
+. id: "5e33c0ad981ec41bc6b27b33"
+

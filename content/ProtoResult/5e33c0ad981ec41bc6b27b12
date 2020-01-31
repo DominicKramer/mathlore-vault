@@ -1,0 +1,10 @@
+ProtoResult:
+. "Let $G$ be a group. If $a, b \in G$, then $(ab)^{-1} = 
+   b^{-1}a^{-1}$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "47"
+    offset: "57"
+. id: "5e33c0ad981ec41bc6b27b12"
+

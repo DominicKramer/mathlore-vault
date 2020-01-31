@@ -1,0 +1,13 @@
+ProtoResult:
+. "If $f$ and $g$ are continuous on the closed interval 
+   $[a,b]$ and differentiable on the open interval $(a,b)$ then
+   \begin{equation} [g(b)-g(a)]f'(c)=[f(b)-f(a)]g'(c) 
+   \end{equation} for some $c$ in $(a,b)$"
+Metadata:
+. name: "Generalized Mean Value Theorem"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "85"
+    offset: "94"
+. id: "5e33c093981ec41bc6b279ae"
+

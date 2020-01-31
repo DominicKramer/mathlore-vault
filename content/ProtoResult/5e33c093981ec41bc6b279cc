@@ -1,0 +1,11 @@
+ProtoResult:
+. "If $f$ is integrable on $[a,b]$ and $c$ is a constant, then
+   $cf$ is integrable on $[a,b]$ and $$ \int_a^b 
+   cf(x)\,dx=c\int_a^b f(x)\,dx. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "137"
+    offset: "146"
+. id: "5e33c093981ec41bc6b279cc"
+

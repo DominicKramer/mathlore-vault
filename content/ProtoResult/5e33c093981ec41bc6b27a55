@@ -1,0 +1,13 @@
+ProtoResult:
+. "The linear transformation $$ 
+   \mathbf{U}=\mathbf{L}(\mathbf{X})=\mathbf{A}\mathbf{X}\quad 
+   (\R^n\to \R^n) $$ is invertible if and only if $\mathbf{A}$ 
+   is nonsingular, in which case $R(\mathbf{L})= \R^n$ and $$ 
+   \mathbf{L}^{-1}(\mathbf{U})=\mathbf{A}^{-1}\mathbf{U}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "398"
+    offset: "407"
+. id: "5e33c093981ec41bc6b27a55"
+

@@ -1,0 +1,14 @@
+ProtoResult:
+. "Suppose that $K$ is a bounded set with zero content and 
+   $\epsilon$ $\rho>0$ Then there are cubes $C_1$ $C_2$ \dots, 
+   $C_r$ with edge lengths $<\rho$ such that $C_j\cap 
+   K\ne\emptyset$ $1\le j\le r$ \begin{equation} 
+   K\subset\bigcup_{j=1}^r C_j, \end{equation} and $$ 
+   \sum_{j=1}^r V(C_j)<\epsilon. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "490"
+    offset: "499"
+. id: "5e33c093981ec41bc6b279c5"
+

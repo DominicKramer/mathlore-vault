@@ -1,0 +1,14 @@
+ProtoResult:
+. "{\bf (Cauchy Criterion for Uniform Convergence II)} The 
+   improper integral $$ \int_{a}^{b}f(x,y)\,dx =\lim_{r\to 
+   a+}\int_{r}^{b}f(x,y)\,dx $$ converges uniformly on $S$ if 
+   and only if, for each $\epsilon>0$ there is an $r_{0}\in 
+   (a,b]$ such that $$ \left|\int_{r_{1}}^{r}f(x,y)\,dx\right|<
+   \epsilon,\quad y\in S,\quad a <r,r_{1}\le r_{0}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchImproperFunctions"
+    page: "9"
+    offset: "9"
+. id: "5e33c04f981ec41bc6b278d0"
+

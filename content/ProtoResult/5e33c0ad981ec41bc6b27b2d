@@ -1,0 +1,10 @@
+ProtoResult:
+. "The kernel of any ring homomorphism $\phi : R \rightarrow 
+   S$ is an ideal in $R$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "253"
+    offset: "263"
+. id: "5e33c0ad981ec41bc6b27b2d"
+

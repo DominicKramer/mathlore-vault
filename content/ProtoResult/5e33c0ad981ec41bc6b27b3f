@@ -1,0 +1,12 @@
+ProtoResult:
+. "Let $n_1, \ldots, n_k$ be positive integers. Then \[ 
+   \prod_{i=1}^k {\mathbb Z}_{n_i} \cong {\mathbb Z}_{n_1 
+   \cdots n_k} \] if and only if $\gcd( n_i, n_j) =1$ for $i 
+   \neq j$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "152"
+    offset: "162"
+. id: "5e33c0ad981ec41bc6b27b3f"
+

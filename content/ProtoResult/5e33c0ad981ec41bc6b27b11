@@ -1,0 +1,11 @@
+ProtoResult:
+. "Let $I$ be an ideal of $R$. The map $\psi : R \rightarrow 
+   R/I$ defined by $\psi( r ) = r + I$ is a ring homomorphism 
+   of $R$ onto $R/I$ with kernel $I$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "254"
+    offset: "264"
+. id: "5e33c0ad981ec41bc6b27b11"
+

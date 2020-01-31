@@ -1,0 +1,12 @@
+ProtoResult:
+. "If $\sum a_n$ converges, then for each $\epsilon>0$ there 
+   is an integer $K$ such that $$ \left|\sum_{n=k}^\infty 
+   a_n\right|<\epsilon \quad if\quad k\ge K; $$ that is, $$ 
+   \lim_{k\to\infty}\sum_{n=k}^\infty a_n=0. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "205"
+    offset: "214"
+. id: "5e33c093981ec41bc6b27955"
+

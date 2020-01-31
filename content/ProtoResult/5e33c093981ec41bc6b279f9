@@ -1,0 +1,15 @@
+ProtoResult:
+. "*{3pt} \begin{alist} \item If $\{x_n\}$ is bounded, then 
+   $\{x_n\}$ has a convergent subsequence. *{3pt} \item If 
+   $\{x_n\}$ is unbounded above, then $\{x_n\}$ has a 
+   subsequence $\{x_{n_k}\}$ such that $$ \lim_{k\to\infty} 
+   x_{n_k}=\infty. $$ *{3pt} \item If $\{x_n\}$ is unbounded 
+   below, then $\{x_n\}$ has a subsequence $\{x_{n_k}\}$ such 
+   that $$ \lim_{k\to\infty} x_{n_k}=-\infty. $$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "197"
+    offset: "206"
+. id: "5e33c093981ec41bc6b279f9"
+

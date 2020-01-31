@@ -1,0 +1,16 @@
+ProtoResult:
+. "If $f=f(x,y)$ is continuous on either $[a,b)\times [c,d]$ 
+   or $(a,b]\times [c,d]$ and \begin{equation} 
+   F(y)=\int_{a}^{b}f(x,y)\,dx \end{equation} converges 
+   uniformly on $[c,d]$ then $F$ is continuous on $[c,d]$ 
+   Moreover, \begin{equation} 
+   \int_{c}^{d}\left(\int_{a}^{b}f(x,y)\,dx\right)\,dy 
+   =\int_{a}^{b}\left(\int_{c}^{d}f(x,y)\,dy\right)\,dx. 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchImproperFunctions"
+    page: "15"
+    offset: "15"
+. id: "5e33c04f981ec41bc6b278da"
+

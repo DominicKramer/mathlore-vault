@@ -1,0 +1,12 @@
+ProtoResult:
+. "Let $G' = \langle a b a^{-1} b^{-1} : a, b \in G \rangle$ 
+   be the subgroup consisting of all finite products of 
+   elements of the form $aba^{-1}b^{-1}$ in a group $G$. Then 
+   $G'$ is a normal subgroup of $G$ and $G/G'$ is abelian."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "237"
+    offset: "247"
+. id: "5e33c0ad981ec41bc6b27a9c"
+

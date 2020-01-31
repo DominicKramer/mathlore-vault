@@ -1,0 +1,12 @@
+ProtoResult:
+. "Suppose $n$ is the area of a right triangle with rational 
+   side lengths $a, b, c$, with $a\leq b<c$. Let $A=(c/2)^2$. 
+   Then $$A-n, \quad A,\, and A+n$$ are all perfect squares of 
+   rational numbers."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "143"
+    offset: "150"
+. id: "5e33c0f8981ec41bc6b27bd3"
+

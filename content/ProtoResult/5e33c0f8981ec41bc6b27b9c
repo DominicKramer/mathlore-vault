@@ -1,0 +1,10 @@
+ProtoResult:
+. "For any integer $a$, $$ g_a = \left(\frac{a}{p}\right)g_1. 
+   $$"
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "84"
+    offset: "91"
+. id: "5e33c0f8981ec41bc6b27b9c"
+

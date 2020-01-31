@@ -1,0 +1,12 @@
+ProtoResult:
+. "A field $F$ is algebraically closed if and only if every 
+   nonconstant polynomial in $F $ factors into linear factors 
+   over $F $."
+Metadata:
+. name: "x"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "345"
+    offset: "355"
+. id: "5e33c0ad981ec41bc6b27ac1"
+

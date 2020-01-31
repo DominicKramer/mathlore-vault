@@ -1,0 +1,12 @@
+ProtoResult:
+. "If \[ m = p_1^{e_1} \cdots p_k^{e_k}, \] where the $p_i$s 
+   are distinct primes, then \[ {\mathbb Z}_m \cong {\mathbb 
+   Z}_{p_1^{e_1}} \times \cdots \times {\mathbb Z}_{p_k^{e_k}}.
+   \]"
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "152"
+    offset: "162"
+. id: "5e33c0ad981ec41bc6b27b40"
+

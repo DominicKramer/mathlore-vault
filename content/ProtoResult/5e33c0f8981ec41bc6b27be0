@@ -1,0 +1,11 @@
+ProtoResult:
+. "The binary operation $+$ defined in Algorithm~ endows the 
+   set $E(K)$ with an abelian group structure, with identity 
+   $\mathcal{O}$."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "126"
+    offset: "133"
+. id: "5e33c0f8981ec41bc6b27be0"
+

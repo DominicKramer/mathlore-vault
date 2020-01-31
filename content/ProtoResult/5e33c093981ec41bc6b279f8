@@ -1,0 +1,12 @@
+ProtoResult:
+. "A point $\overline{x}$ is a limit point of a set $S$ if and
+   only if there is a sequence $\{x_n\}$ of points in $S$ such 
+   that $x_n\ne\overline{x}$ for $n\ge 1$ and $$ 
+   \lim_{n\to\infty}x_n=\overline{x}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "197"
+    offset: "206"
+. id: "5e33c093981ec41bc6b279f8"
+

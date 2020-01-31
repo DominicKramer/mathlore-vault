@@ -1,0 +1,15 @@
+ProtoResult:
+. "In a group, the usual laws of exponents hold; that is, for 
+   all $g, h \in G$, \begin{enumerate} \item \it $g^mg^n = 
+   g^{m+n}$ for all $m, n \in {\mathbb Z}$; \item \it $(g^m)^n 
+   = g^{mn}$ for all $m, n \in {\mathbb Z}$; \item \it $(gh)^n 
+   = (h^{-1}g^{-1})^{-n}$ for all $n \in {\mathbb Z}$. 
+   Furthermore, if $G$ is abelian, then $(gh)^n = g^nh^n$. 
+   \end{enumerate}"
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "48"
+    offset: "58"
+. id: "5e33c0ad981ec41bc6b27b0a"
+

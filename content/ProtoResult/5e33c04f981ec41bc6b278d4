@@ -1,0 +1,14 @@
+ProtoResult:
+. "{\bf(Weierstrass's Test for Absolute Uniform Convergence 
+   II)} Suppose $M=M(x)$ is nonnegative on $(a,b]$ 
+   $\int_{a}^{b}M(x)\,dx<\infty$ and $$ |f(x,y)| \le M(x), 
+   \quad y\in S, \quad x\in (a,b]. $$ Then 
+   $\int_{a}^{b}f(x,y)\,dx$ converges absolutely uniformly on 
+   $S$."
+Metadata:
+. reference:
+  . source: "@TrenchImproperFunctions"
+    page: "12"
+    offset: "12"
+. id: "5e33c04f981ec41bc6b278d4"
+

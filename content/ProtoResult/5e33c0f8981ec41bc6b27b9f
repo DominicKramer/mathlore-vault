@@ -1,0 +1,10 @@
+ProtoResult:
+. "If $n$ is divisible by a prime $p\equiv 3\pmod{4}$, then 
+   $n$ has no primitive representations."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "118"
+    offset: "125"
+. id: "5e33c0f8981ec41bc6b27b9f"
+

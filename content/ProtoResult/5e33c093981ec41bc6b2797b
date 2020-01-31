@@ -1,0 +1,11 @@
+ProtoResult:
+. "If $a$ and $b$ are any two real numbers, then 
+   \begin{equation} |a+b|\le |a|+|b|. \end{equation}"
+Metadata:
+. name: "The Triangle Inequality"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e33c093981ec41bc6b2797b"
+

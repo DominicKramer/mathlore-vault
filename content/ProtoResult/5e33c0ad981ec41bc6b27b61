@@ -1,0 +1,12 @@
+ProtoResult:
+. "Let $D$ be a UFD and $F$ its field of fractions. A 
+   primitive polynomial $p(x)$ in $D $ is irreducible in $F $ 
+   if and only if it is irreducible in $D $."
+Metadata:
+. name: "x"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "301"
+    offset: "311"
+. id: "5e33c0ad981ec41bc6b27b61"
+

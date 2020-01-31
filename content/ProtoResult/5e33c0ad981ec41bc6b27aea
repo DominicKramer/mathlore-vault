@@ -1,0 +1,16 @@
+ProtoResult:
+. "Let $V$ be a vector space over $F$. Then each of the 
+   following statements is true. \begin{enumerate} \item \it 
+   $0v ={\mathbf 0}$ for all $v \in V$. \item \it $\alpha 
+   {\mathbf 0} = {\mathbf 0}$ for all $\alpha \in F$. \item \it
+   If $\alpha v = {\mathbf 0}$, then either $\alpha = 0$ or $v 
+   = {\mathbf 0}$. \item \it $(-1) v = -v$ for all $v \in V$. 
+   \item \it $-(\alpha v) = (-\alpha)v = \alpha(-v)$ for all 
+   $\alpha \in F$ and all $v \in V$. \end{enumerate}"
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "326"
+    offset: "336"
+. id: "5e33c0ad981ec41bc6b27aea"
+

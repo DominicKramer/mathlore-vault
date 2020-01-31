@@ -1,0 +1,10 @@
+ProtoResult:
+. "If $x$ and $y$ are vectors in a normed vector space $(A,N)$
+   then \begin{equation} |N(x)-N(y)|\le N(x-y). \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "520"
+    offset: "529"
+. id: "5e33c092981ec41bc6b27916"
+

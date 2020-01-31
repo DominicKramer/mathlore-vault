@@ -1,0 +1,11 @@
+ProtoResult:
+. "Let $R$ be a commutative ring with identity. Then $R $ is a
+   commutative ring with identity."
+Metadata:
+. name: "x"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "271"
+    offset: "281"
+. id: "5e33c0ad981ec41bc6b27b21"
+

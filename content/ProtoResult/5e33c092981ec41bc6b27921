@@ -1,0 +1,11 @@
+ProtoResult:
+. "\\ *{-1em} \begin{alist} \item The limit of a convergent 
+   sequence is unique. \item If $\lim_{n\to\infty}u_n=u$ then 
+   every subsequence of $\{u_n\}$ converges to $u$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "526"
+    offset: "535"
+. id: "5e33c092981ec41bc6b27921"
+

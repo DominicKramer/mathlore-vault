@@ -1,0 +1,9 @@
+ProtoResult:
+. "Let $D$ be a UFD. Then $D[x_1, \ldots, x_n]$ is a UFD."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "302"
+    offset: "312"
+. id: "5e33c0ad981ec41bc6b27b65"
+

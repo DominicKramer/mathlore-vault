@@ -1,0 +1,22 @@
+ProtoResult:
+. "Suppose that $f$ satisfies the hypotheses of Theorem $ $ 
+   with $k\ge2$ and \begin{equation} d^{(r)}_{\mathbf{X}_0} 
+   f\equiv0\quad (1\le r\le k-1),\quad d^{(k)}_\mathbf{X_0} 
+   f\not\equiv0. \end{equation} Then \begin{alist} \item 
+   $\mathbf{X}_0$ is not a local extreme point of $f$ unless 
+   $d^{(k)}_{\mathbf{X}_0}f$ is semidefinite as a polynomial in
+   $\mathbf{X}-\mathbf{X}_0$ In particular, $\mathbf{X}_0$ is 
+   not a local extreme point of $f$ if $k$ is odd. \item 
+   $\mathbf{X}_0$ is a local minimum point of $f$ if 
+   $d^{(k)}_{\mathbf{X}_0} f$ is positive definite, or a local 
+   maximum point if $d^{(k)}_{\mathbf{X}_0}f$ is negative 
+   definite. \item If $d^{(k)}_{\mathbf{X}_0}f$ is 
+   semidefinite, then $\mathbf{X}_0$ may be a local extreme 
+   point of $f$ but it need not be. \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "357"
+    offset: "366"
+. id: "5e33c093981ec41bc6b27a43"
+

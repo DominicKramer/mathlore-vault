@@ -1,0 +1,10 @@
+ProtoResult:
+. "If $f$ is differentiable at $x_0$ then $f$ is continuous at
+   $x_0$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "78"
+    offset: "87"
+. id: "5e33c093981ec41bc6b279a2"
+

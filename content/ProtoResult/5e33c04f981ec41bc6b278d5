@@ -1,0 +1,17 @@
+ProtoResult:
+. "({\bf Dirichlet's Test for Uniform Convergence I}) If $g$ 
+   $g_{x}$ and $h$ are continuous on $[a,b)\times S$ then $$ 
+   \int_{a}^{b}g(x,y)h(x,y)\,dx $$ converges uniformly on $S$ 
+   if the following conditions are satisfied$:$ \begin{alist} 
+   \item $\displaystyle{\lim_{x\to b-}\left\{\sup_{y\in 
+   S}|g(x,y)|\right\}=0}$ \item There is a constant $M$ such 
+   that $$ \sup_{y\in S}\left|\int_{a}^{x}h(u,y)\,du\right|< M,
+   \quad a\le x<b; $$ \item $\int_{a}^{b}|g_{x}(x,y)|\,dx$ 
+   converges uniformly on $S$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchImproperFunctions"
+    page: "13"
+    offset: "13"
+. id: "5e33c04f981ec41bc6b278d5"
+

@@ -1,0 +1,14 @@
+ProtoResult:
+. "Suppose that \begin{equation} |f(x)|\le M,\quad a\le x\le 
+   b, \end{equation} and let $P'$ be a partition of $[a,b]$ 
+   obtained by adding $r$ points to a partition $P=\{x_0,x_1, 
+   \dots,x_n\}$ of $[a,b]$ Then \begin{eqnarray} S(P)\ge S(P') 
+   \ge S(P)-2Mr\|P\| \\ and \\ s(P)\le s(P') \le s(P)+2Mr\|P\| 
+   . \end{eqnarray}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "129"
+    offset: "138"
+. id: "5e33c093981ec41bc6b27995"
+

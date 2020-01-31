@@ -1,0 +1,10 @@
+ProtoResult:
+. "If $F$ is a finite field of characteristic $p$, then the 
+   order of $F$ is $p^n$ for some $n \in {\mathbb N}$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "359"
+    offset: "369"
+. id: "5e33c0ad981ec41bc6b27ae1"
+

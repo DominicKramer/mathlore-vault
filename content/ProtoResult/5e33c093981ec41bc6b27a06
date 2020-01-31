@@ -1,0 +1,14 @@
+ProtoResult:
+. "If $a_n\ge 0$ for $n\ge k$ then \begin{alist} \item $\sum 
+   a_n<\infty$ if $\limsup_{n\to\infty} a^{1/n}_n<1$ \item 
+   $\sum a_n=\infty$ if $\limsup_{n\to\infty} a^{1/n}_n>1$ 
+   \end{alist} The test is inconclusive if 
+   $\limsup_{n\to\infty} a^{1/n}_n= 1$"
+Metadata:
+. name: "Cauchy's Root Test"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "215"
+    offset: "224"
+. id: "5e33c093981ec41bc6b27a06"
+

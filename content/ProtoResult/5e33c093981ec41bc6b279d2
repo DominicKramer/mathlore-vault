@@ -1,0 +1,14 @@
+ProtoResult:
+. "Suppose that $\mathbf{G}:\E^n\to \R^n$ is regular on a cube
+   $C$ in $\E^n$ and let $\mathbf{A}$ be a nonsingular $n\times
+   n$ matrix. Then \begin{equation} V(\mathbf{G}(C))\le 
+   |\det(\mathbf{A})|\left[\max 
+   \set{\|\mathbf{A}^{-1}\mathbf{G}'(\mathbf{Y})\|_\infty}{\mathbf{Y}\in
+   C} \right]^n V(C). \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "500"
+    offset: "509"
+. id: "5e33c093981ec41bc6b279d2"
+

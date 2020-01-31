@@ -1,0 +1,12 @@
+ProtoResult:
+. "Let $(g_1, \ldots, g_n) \in \prod G_i$. If $g_i$ has finite
+   order $r_i$ in $G_i$, then the order of $(g_1, \ldots, g_n)$
+   in $\prod G_i$ is the least common multiple of $r_1, \ldots,
+   r_n$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "151"
+    offset: "161"
+. id: "5e33c0ad981ec41bc6b27b3e"
+

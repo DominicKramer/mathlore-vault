@@ -1,0 +1,13 @@
+ProtoResult:
+. "If $f'$ exists and does not change sign on $(a,b)$ then $f$
+   is monotonic on $(a,b):$ increasing, nondecreasing, 
+   decreasing, or nonincreasing as $$ f'(x)>0,\quad 
+   f'(x)\ge0,\quad f'(x)<0, \quad or\quad f'(x) \le0, $$ 
+   respectively, for all $x$ in $(a,b)$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "86"
+    offset: "95"
+. id: "5e33c093981ec41bc6b279b2"
+

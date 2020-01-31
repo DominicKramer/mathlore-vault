@@ -1,0 +1,16 @@
+ProtoResult:
+. "Suppose that $\mathbf{X}_0$ is in, and a limit point of, 
+   the domain of $\mathbf{F}: \R^n\to\R^m$ Then $\mathbf{F}$ is
+   continuous at $\mathbf{X}_0$ if and only if for each 
+   $\epsilon>0$ there is a $\delta>0$ such that 
+   \begin{equation} 
+   |\mathbf{F}(\mathbf{X})-\mathbf{F}(\mathbf{X}_0)|<\epsilon 
+   \quad if \quad |\mathbf{X}-\mathbf{X}_0|<\delta \quad and 
+   \quad \mathbf{X}\in D_\mathbf{F}. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "379"
+    offset: "388"
+. id: "5e33c093981ec41bc6b27a50"
+

@@ -1,0 +1,12 @@
+ProtoResult:
+. "Let $\{\sigma_i : i \in I \}$ be a collection of 
+   automorphisms of a field $F$. Then \[ F_{ \{\sigma_i \} } = 
+   \{ a \in F : \sigma_i(a) = a for all $\sigma_i$ \} \] is a 
+   subfield of $F$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "384"
+    offset: "394"
+. id: "5e33c0ad981ec41bc6b27b50"
+

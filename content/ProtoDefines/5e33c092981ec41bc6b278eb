@@ -1,0 +1,10 @@
+ProtoDefines:
+. "A set $D$ is {\it dense in the reals } if every open 
+   interval $(a,b)$ contains a member of $D$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "5"
+    offset: "14"
+. id: "5e33c092981ec41bc6b278eb"
+

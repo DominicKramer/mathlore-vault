@@ -1,0 +1,12 @@
+ProtoResult:
+. "Suppose $a,b\in\mathbf{Z}$ and let $g=\gcd(a,b)$. Then 
+   there exists $x,y\in\mathbf{Z}$ such that $$ ax + by = g. 
+   $$"
+Metadata:
+. name: "Extended Euclidean Representation"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "32"
+    offset: "39"
+. id: "5e33c0f8981ec41bc6b27bb2"
+

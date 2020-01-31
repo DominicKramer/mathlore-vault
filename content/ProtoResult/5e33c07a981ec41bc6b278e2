@@ -1,0 +1,36 @@
+ProtoResult:
+. "Suppose that $n>m$ If\, ${\bf X}_{0}$ is a local extreme 
+   point of $f$ subject to $$ g_{1}({\bf X})=g_{2}({\bf 
+   X})=\cdots =g_{m}({\bf X})=0 $$ and \begin{equation} 
+   \left|begin{array} \displaystyle{\frac{ 
+   ial{g_{1}(\mathbf{X}_{0})}}{ ial{x_{r_{1}}}}} & 
+   \displaystyle{\frac{ ial{g_{1}(\mathbf{X}_{0})}}{ 
+   ial{x_{r_{2}}}}}& &\cdots & \displaystyle{\frac{ 
+   ial{g_{1}(\mathbf{X}_{0})}}{ ial{x_{r_{m}}}}} \\\\ 
+   \displaystyle{\frac{ ial{g_{2}(\mathbf{X}_{0})}}{ 
+   ial{x_{r_{1}}}}} & \displaystyle{\frac{ 
+   ial{g_{2}(\mathbf{X}_{0})}}{ ial{x_{r_{2}}}}}& &\cdots & 
+   \displaystyle{\frac{ ial{g_{m}(\mathbf{X}_{0})}}{ 
+   ial{x_{r_{m}}}}} & \\ \vdots & \vdots &&\ddots&\vdots\\ 
+   \displaystyle{\frac{ ial{g_{m}(\mathbf{X}_{0})}}{ 
+   ial{x_{r_{1}}}}} & \displaystyle{\frac{ 
+   ial{g_{m}(\mathbf{X}_{0})}}{ ial{x_{r_{2}}}}}& &\cdots & 
+   \displaystyle{\frac{ ial{g_{m}(\mathbf{X}_{0})}}{ 
+   ial{x_{r_{m}}}}} & end{array}\right|\ne0 \end{equation} for 
+   at least one choice of $r_{1}<r_{2}<\dots <r_{m}$ in 
+   $\{1,2,\dots,n\}$ then there are constants $\lambda_{1}$ 
+   $\lambda_{2}$ \dots, $\lambda_{m}$ such that ${\bf X}_{0}$ 
+   is a critical point of $$ 
+   f-\lambda_{1}g_{1}-\lambda_{2}g_{2}-\cdots-\lambda_{m} 
+   g_{m}; $$ that is, $$ \frac{ ial{f({\bf X}_{0})}}{ ial 
+   x_{i}} -\lambda_{1}\frac{ ial{g_{1}({\bf X}_{0})}}{ ial 
+   x_{i}} -\lambda_{2}\frac{ ial{g_{2}({\bf X}_{0})}}{ ial 
+   x_{i}}-\cdots -\lambda_{m}\frac{ ial{g_{m}({\bf X}_{0})}}{ 
+   ial x_{i}}=0, $$ $1\le i\le n$."
+Metadata:
+. reference:
+  . source: "@TrenchLagrangeMultipliers"
+    page: "3"
+    offset: "3"
+. id: "5e33c07a981ec41bc6b278e2"
+

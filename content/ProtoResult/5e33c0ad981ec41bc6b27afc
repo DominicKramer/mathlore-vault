@@ -1,0 +1,14 @@
+ProtoResult:
+. "If $\psi : G \rightarrow H$ is a group homomorphism with $K
+   =\ker \psi$, then $K$ is normal in $G$. Let $\phi: G 
+   \rightarrow G/K$ be the canonical homomorphism. Then there 
+   exists a unique isomorphism $\eta: G/K \rightarrow \psi(G)$ 
+   such that $\psi = \eta \phi$."
+Metadata:
+. name: "First Isomorphism Theorem"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "173"
+    offset: "183"
+. id: "5e33c0ad981ec41bc6b27afc"
+

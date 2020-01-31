@@ -1,0 +1,22 @@
+ProtoResult:
+. "Let $f$ be a real-valued function defined on a subset of 
+   $\R^n$ and let the vector-valued function 
+   $\mathbf{G}=(g_1,g_2, \dots,g_n)$ be defined on a domain 
+   $D_\mathbf{G}$ in $\R^m$ Let the set $$ 
+   T=\set{\mathbf{U}}{\mathbf{U}\in D_{\mathbf{G}} \quad and 
+   \quad \mathbf{G}(\mathbf{U})\in D_f} $$ , be nonempty, and 
+   define the real-valued composite function $$ 
+   h=f\circ\mathbf{G} $$ on $T$ by $$ 
+   h(\mathbf{U})=f(\mathbf{G}(\mathbf{U})),\quad \mathbf{U}\in 
+   T. $$ Now suppose that $\mathbf{U}_0$ is in $T$ and is a 
+   limit point of $T$ $\mathbf{G}$ is continuous at 
+   $\mathbf{U}_0$ and $f$ is continuous at 
+   $\mathbf{X}_0=\mathbf{G}(\mathbf{U}_0)$ Then $h$ is 
+   continuous at $\mathbf{U}_0$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "313"
+    offset: "322"
+. id: "5e33c093981ec41bc6b27a32"
+

@@ -1,0 +1,10 @@
+ProtoResult:
+. "If $\alpha$ is a constructible number, then $\sqrt{\alpha}$
+   is a constructible number."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "351"
+    offset: "361"
+. id: "5e33c0ad981ec41bc6b27b76"
+

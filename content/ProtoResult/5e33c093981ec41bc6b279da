@@ -1,0 +1,13 @@
+ProtoResult:
+. "If $f$ is continuous on $[a,b]$ then $f$ has an 
+   antiderivative on $[a,b]$ Moreover, if $F$ is any 
+   antiderivative of $f$ on $[a,b]$ then $$ \int_a^b 
+   f(x)\,dx=F(b)-F(a). $$"
+Metadata:
+. name: "Fundamental Theorem of Calculus"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "146"
+    offset: "155"
+. id: "5e33c093981ec41bc6b279da"
+

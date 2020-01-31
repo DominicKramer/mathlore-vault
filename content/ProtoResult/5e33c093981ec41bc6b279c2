@@ -1,0 +1,12 @@
+ProtoResult:
+. "If $f$ is bounded on $[a,b]$ and \begin{equation} 
+   \underline{\int_a^b} f(x)\,dx=\overline{\int_a^b}f(x)\,dx=L,
+   \end{equation} then $f$ is integrable on $[a,b]$ and 
+   \begin{equation} \int_a^b f(x)\,dx=L. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "132"
+    offset: "141"
+. id: "5e33c093981ec41bc6b279c2"
+

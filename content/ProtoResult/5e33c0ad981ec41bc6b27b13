@@ -1,0 +1,15 @@
+ProtoResult:
+. "Let $\phi : R \rightarrow S$ be a ring homomorphism. Then 
+   $\ker \phi$ is an ideal of $R$. If 
+   $\psi~:~R~\rightarrow~R/\ker \phi$ is the canonical 
+   homomorphism, then there exists a unique isomorphism 
+   $\eta:~R/\ker~\phi~\rightarrow~\phi(R)$ such that $\phi = 
+   \eta \psi$."
+Metadata:
+. name: "First Isomorphism Theorem"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "255"
+    offset: "265"
+. id: "5e33c0ad981ec41bc6b27b13"
+

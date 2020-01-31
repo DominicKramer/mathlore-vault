@@ -1,0 +1,10 @@
+ProtoResult:
+. "A mapping is invertible if and only if it is both 
+   one-to-one and onto."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "14"
+    offset: "24"
+. id: "5e33c0ad981ec41bc6b27ade"
+

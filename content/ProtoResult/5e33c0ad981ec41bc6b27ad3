@@ -1,0 +1,13 @@
+ProtoResult:
+. "Every subfield of the Galois field $\operatorname{GF}(p^n)$
+   has $p^m$ elements, where $m$ divides $n$. Conversely, if $m
+   \mid n$ for $m > 0$, then there exists a unique subfield of 
+   $\operatorname{GF}(p^n)$ isomorphic to 
+   $\operatorname{GF}(p^m)$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "362"
+    offset: "372"
+. id: "5e33c0ad981ec41bc6b27ad3"
+

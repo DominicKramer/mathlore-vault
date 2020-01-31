@@ -1,0 +1,12 @@
+ProtoResult:
+. "Let $p(x)$ and $q(x)$ be polynomials in $R $, where $R$ is 
+   an integral domain. Then $\deg p(x) + \deg q(x) = \deg( p(x)
+   q(x) )$. Furthermore, $R $ is an integral domain."
+Metadata:
+. name: "x"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "272"
+    offset: "282"
+. id: "5e33c0ad981ec41bc6b27b32"
+

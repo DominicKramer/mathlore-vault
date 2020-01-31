@@ -1,0 +1,10 @@
+ProtoResult:
+. "Let $G$ be the internal direct product of subgroups $H$ and
+   $K$. Then $G$ is isomorphic to $H \times K$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "153"
+    offset: "163"
+. id: "5e33c0ad981ec41bc6b27a75"
+

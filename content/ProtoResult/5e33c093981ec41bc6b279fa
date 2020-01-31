@@ -1,0 +1,16 @@
+ProtoResult:
+. "Let $f$ be defined on a closed interval $[a,b]$ containing 
+   $\overline{x}$ Then $f$ is continuous at $\overline{x}$ 
+   (from the right if $\overline{x}=a$ from the left if 
+   $\overline{x}=b$) if and only if \begin{equation} 
+   \lim_{n\to\infty} f(x_n)=f(\overline{x}) \end{equation} 
+   whenever $\{x_n\}$ is a sequence of points in $[a,b]$ such 
+   that \begin{equation} \lim_{n\to\infty} x_n=\overline{x}. 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "198"
+    offset: "207"
+. id: "5e33c093981ec41bc6b279fa"
+

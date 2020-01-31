@@ -1,0 +1,12 @@
+ProtoResult:
+. "If $\mathbf{A}$ and $\mathbf{B}$ are $m\times n$ matrices 
+   and $r$ and $s$ are real numbers, then a $r(s\mathbf{A}) 
+   =(rs)\mathbf{A}$ b $(r+s)\mathbf{A}=r\mathbf{A}+s\mathbf{A}$
+   c $r(\mathbf{A}+\mathbf{B})=r\mathbf{A}+r\mathbf{B}$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "366"
+    offset: "375"
+. id: "5e33c093981ec41bc6b27a46"
+

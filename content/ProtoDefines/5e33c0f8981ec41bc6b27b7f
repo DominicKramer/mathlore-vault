@@ -1,0 +1,14 @@
+ProtoDefines:
+. "If $a, b\in \mathbf{Z}$ we say that $a$ {\em divides} $b$, 
+   written $a\mid b$, if $ac=b$ for some $c\in \mathbf{Z}$. In 
+   this case, we say $a$ is a {\em divisor} of $b$. We say that
+   $a$ {\em does not divide} $b$, written $a\nmid b$, if there 
+   is no $c\in \mathbf{Z}$ such that $ac=b$."
+Metadata:
+. name: "Divides"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "2"
+    offset: "9"
+. id: "5e33c0f8981ec41bc6b27b7f"
+

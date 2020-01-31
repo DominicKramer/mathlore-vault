@@ -1,0 +1,16 @@
+ProtoResult:
+. "Let $L$ be a nonempty set with two binary operations $\vee$
+   and $\wedge$ satisfying the commutative, associative, 
+   idempotent, and absorption laws. We can define a partial 
+   order on $L$ by $a \preceq b$ if $a \vee b = b$. 
+   Furthermore, $L$ is a lattice with respect to $\preceq$ if 
+   for all $a, b \in L$, we define the least upper bound and 
+   greatest lower bound of $a$ and $b$ by $a \vee b$ and $a 
+   \wedge b$, respectively."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "311"
+    offset: "321"
+. id: "5e33c0ad981ec41bc6b27ae4"
+

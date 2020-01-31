@@ -1,0 +1,10 @@
+ProtoResult:
+. "The point group in the wallpaper groups is isomorphic to 
+   ${\mathbb Z}_n$ or $D_n$, where $n = 1, 2, 3, 4, 6$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "195"
+    offset: "205"
+. id: "5e33c0ad981ec41bc6b27a80"
+

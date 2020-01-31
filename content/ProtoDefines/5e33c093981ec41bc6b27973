@@ -1,0 +1,13 @@
+ProtoDefines:
+. "We say that $$ \lim_{u\to \widehat u}f(u)=\widehat v $$ if 
+   $\widehat u\in\overline D_f$ and for each $\epsilon>0$ there
+   is a $\delta>0$ such that \begin{equation} 
+   \sigma(f(u),\widehat v)<\epsilon \quad if \quad u\in D_f 
+   \quad and \quad 0<\rho(u,\widehat u)<\delta. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "544"
+    offset: "553"
+. id: "5e33c093981ec41bc6b27973"
+

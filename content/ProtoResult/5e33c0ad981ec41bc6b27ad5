@@ -1,0 +1,11 @@
+ProtoResult:
+. "If $G$ is a finite subgroup of $F^\ast$, the multiplicative
+   group of nonzero elements of a field $F$, then $G$ is 
+   cyclic."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "362"
+    offset: "372"
+. id: "5e33c0ad981ec41bc6b27ad5"
+

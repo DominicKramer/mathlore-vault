@@ -1,0 +1,11 @@
+ProtoResult:
+. "For any integers $a$ and $b$, we have $$ \gcd(a,b)= 
+   \gcd(b,a) = \gcd(\pm a, \pm b) = \gcd(a,b-a) = \gcd(a,b+a). 
+   $$"
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "3"
+    offset: "10"
+. id: "5e33c0f8981ec41bc6b27b85"
+

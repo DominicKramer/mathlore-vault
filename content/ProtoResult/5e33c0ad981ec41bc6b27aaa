@@ -1,0 +1,11 @@
+ProtoResult:
+. "Let $H$ be a subgroup of a group $G$. Then the left cosets 
+   of $H$ in $G$ partition $G$. That is, the group $G$ is the 
+   disjoint union of the left cosets of $H$ in $G$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "96"
+    offset: "106"
+. id: "5e33c0ad981ec41bc6b27aaa"
+

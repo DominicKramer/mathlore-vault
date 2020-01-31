@@ -1,0 +1,14 @@
+ProtoResult:
+. "The even indexed convergents $c_{2n}$ increase strictly 
+   with $n$, and the odd indexed convergents $c_{2n+1}$ 
+   decrease strictly with $n$. Also, the odd indexed 
+   convergents $c_{2n+1}$ are greater than all of the even 
+   indexed convergents $c_{2m}$."
+Metadata:
+. name: "How Convergents Converge"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "99"
+    offset: "106"
+. id: "5e33c0f8981ec41bc6b27bcb"
+

@@ -1,0 +1,12 @@
+ProtoResult:
+. "Let $F$ be a field. An element $\alpha \in F$ is a zero of 
+   $p(x) \in F $ if and only if $x - \alpha$ is a factor of 
+   $p(x)$ in $F $."
+Metadata:
+. name: "x"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "275"
+    offset: "285"
+. id: "5e33c0ad981ec41bc6b27b68"
+

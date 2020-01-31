@@ -1,0 +1,10 @@
+ProtoResult:
+. "Any permutation of a finite set containing at least two 
+   elements can be written as the product of transpositions."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "81"
+    offset: "91"
+. id: "5e33c0ad981ec41bc6b27b58"
+

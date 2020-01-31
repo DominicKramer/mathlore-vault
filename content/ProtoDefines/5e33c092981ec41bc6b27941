@@ -1,0 +1,17 @@
+ProtoDefines:
+. "Let $f$ be a real-valued function defined on a rectangle 
+   $R$ in $\R^n$. We say that $f$ is {\it Riemann integrable on
+   } $R$ if there is a number $L$ with the following property: 
+   For every $\epsilon>0$, there is a $\delta>0$ such that $$ 
+   \left|\sigma-L\right|<\epsilon $$ if $\sigma$ is any Riemann
+   sum of $f$ over a partition ${\bf P}$ of $R$ such that 
+   $\|{\bf P}\|<\delta$. In this case, we say that $L$ is the 
+   {\it Riemann integral of $f$ over } $R$, and write $$ \int_R
+   f(\mathbf{X})\,d\mathbf{X}=L. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "438"
+    offset: "447"
+. id: "5e33c092981ec41bc6b27941"
+

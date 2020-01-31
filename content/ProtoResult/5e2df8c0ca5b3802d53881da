@@ -1,9 +1,0 @@
-ProtoResult:
-. "Every cyclic group is abelian."
-Metadata:
-. reference:
-  . source: "@AbstractAlgebraTheoryAndApplications"
-    page: "61"
-    offset: "71"
-. id: "5e2df8c0ca5b3802d53881da"
-

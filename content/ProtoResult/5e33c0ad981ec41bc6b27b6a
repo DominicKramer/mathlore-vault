@@ -1,0 +1,13 @@
+ProtoResult:
+. "Let $p(x) = x^n + a_{n-1} x^{n-1} + \cdots + a_0$ be a 
+   polynomial with coefficients in ${\mathbb Z}$ and $a_0 \neq 
+   0$. If $p(x)$ has a zero in ${\mathbb Q}$, then $p(x)$ also 
+   has a zero $\alpha$ in ${\mathbb Z}$. Furthermore, $\alpha$ 
+   divides $a_0$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "279"
+    offset: "289"
+. id: "5e33c0ad981ec41bc6b27b6a"
+

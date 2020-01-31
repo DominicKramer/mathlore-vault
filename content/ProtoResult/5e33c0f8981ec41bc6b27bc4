@@ -1,0 +1,11 @@
+ProtoResult:
+. "For any $a$ not divisible by $p$, $$ \displaystyle g_a^2 = 
+   (-1)^{(p-1)/2}p. $$"
+Metadata:
+. name: "Gauss Sum"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "82"
+    offset: "89"
+. id: "5e33c0f8981ec41bc6b27bc4"
+

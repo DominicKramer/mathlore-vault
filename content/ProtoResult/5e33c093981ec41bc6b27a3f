@@ -1,0 +1,21 @@
+ProtoResult:
+. "Suppose that the real-valued function $f$ is differentiable
+   at $\mathbf{X}_0$ in $\R^n$ the vector-valued function 
+   $\mathbf{G} =(g_1,g_2, \dots,g_n)$ is differentiable at 
+   $\mathbf{U}_0$ in $\R^m$ and $\mathbf{X}_{0} = 
+   \mathbf{G}(\mathbf{U}_0)$ Then the real-valued composite 
+   function $h=f\circ\mathbf{G}$ defined by \begin{equation} 
+   h(\mathbf{U})=f(\mathbf{G}(\mathbf{U})) \end{equation} is 
+   differentiable at $\mathbf{U}_0$ and \begin{equation} 
+   d_{\mathbf{U}_0}h=f_{x_1}(\mathbf{X}_0) 
+   d_{\mathbf{U}_0}g_1+f_{x_2} (\mathbf{X}_0) 
+   d_{\mathbf{U}_0}g_2+\cdots +f_{x_n} (\mathbf{X}_0) 
+   d_{\mathbf{U}_0}g_n. \end{equation}"
+Metadata:
+. name: "The Chain Rule"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "344"
+    offset: "353"
+. id: "5e33c093981ec41bc6b27a3f"
+

@@ -1,0 +1,18 @@
+ProtoDefines:
+. "{\bf(Absolute Uniform Convergence I)} The improper integral
+   $$ \int_{a}^{b}f(x,y)\,dx=\lim_{r\to 
+   b-}\int_{a}^{r}f(x,y)\,dx $$ is said to converge absolutely 
+   uniformly on $S$ if the improper integral $$ 
+   \int_{a}^{b}|f(x,y)|\,dx=\lim_{r\to 
+   b-}\int_{a}^{r}|f(x,y)|\,dx $$ converges uniformly on $S$; 
+   that is, if, for each $\epsilon>0$, there is an $r_{0}\in 
+   [a,b)$ such that $$ 
+   \left|\int_{a}^{b}|f(x,y)|\,dx-\int_{a}^{r}|f(x,y)|\,dx\right|
+   <\epsilon, \quad y\in S,\quad r_{0}<r<b. $$"
+Metadata:
+. reference:
+  . source: "@TrenchImproperFunctions"
+    page: "10"
+    offset: "10"
+. id: "5e33c04f981ec41bc6b278d7"
+

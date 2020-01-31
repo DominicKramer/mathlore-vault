@@ -1,0 +1,10 @@
+ProtoResult:
+. "If $\sum f_n$ converges uniformly on $S$ then 
+   $\lim_{n\to\infty}\|f_n\|_S=0$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "248"
+    offset: "257"
+. id: "5e33c093981ec41bc6b27965"
+

@@ -1,0 +1,11 @@
+ProtoResult:
+. "Let $a$ and $n$ be integers such that $n > 0$ and $\gcd(a, 
+   n) = 1$. Then $a^{\phi(n)} \equiv 1 \pmod{n}$."
+Metadata:
+. name: "Euler's Theorem"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "99"
+    offset: "109"
+. id: "5e33c0ad981ec41bc6b27ab1"
+

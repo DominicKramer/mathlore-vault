@@ -1,0 +1,11 @@
+ProtoResult:
+. "Let $p(x) \in F $ be a nonconstant polynomial. Then there 
+   exists a splitting field $E$ for $p(x)$."
+Metadata:
+. name: "x"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "347"
+    offset: "357"
+. id: "5e33c0ad981ec41bc6b27ac6"
+

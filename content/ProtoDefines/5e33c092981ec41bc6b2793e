@@ -1,0 +1,14 @@
+ProtoDefines:
+. "A sequence $\{s_n\}$ is {\it bounded above } if there is a 
+   real number $b$ such that $$ s_n\le b \quad for all $n$ , $$
+   {\it bounded below } if there is a real number $a$ such that
+   $$ s_n\ge a \quad for all $n$ , $$ or {\it bounded } if 
+   there is a real number $r$ such that $$ |s_n|\le r \quad for
+   all $n$ . $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "181"
+    offset: "190"
+. id: "5e33c092981ec41bc6b2793e"
+

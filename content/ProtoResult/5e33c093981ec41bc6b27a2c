@@ -1,0 +1,10 @@
+ProtoResult:
+. "An open set $S$ in $\R^n$ is connected if and only if it is
+   polygonally connected."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "298"
+    offset: "307"
+. id: "5e33c093981ec41bc6b27a2c"
+

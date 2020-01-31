@@ -1,0 +1,12 @@
+ProtoResult:
+. "If $f$ is differentiable at $x_0$ then \begin{equation} 
+   f(x)=f(x_0)+[f'(x_0)+E(x)](x-x_0), \end{equation} where $E$ 
+   is defined on a neighborhood of $x_0$ and $$ \lim_{x\to x_0}
+   E(x)=E(x_0)=0. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "78"
+    offset: "87"
+. id: "5e33c093981ec41bc6b27990"
+

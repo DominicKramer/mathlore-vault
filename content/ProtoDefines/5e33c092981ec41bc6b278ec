@@ -1,0 +1,28 @@
+ProtoDefines:
+. "Let $S$ and $T$ be sets. \begin{alist} \item $S$ {\it 
+   contains } $T$, and we write $S\supset T$ or $T\subset S$, 
+   if every member of $T$ is also in $S$. In this case, $T$ is 
+   a {\it subset } of $S$. \item $S-T$ is the set of elements 
+   that are in $S$ but not in $T$. \item $S$ {\it equals } $T$,
+   and we write $S=T$, if $S$ contains $T$ and $T$ contains 
+   $S$; thus, $S=T$ if and only if $S$ and $T$ have the same 
+   members. \item $S$ {\it strictly contains } $T$ if $S$ 
+   contains $T$ but $T$ does not contain $S$; that is, if every
+   member of $T$ is also in $S$, but at least one member of $S$
+   is not in $T$ . \item The {\it complement } of $S$, denoted 
+   by $S^c$, is the set of elements in the universal set that 
+   are not in $S$. \item The {\it union } of $S$ and $T$, 
+   denoted by $S\cup T$, is the set of elements in at least one
+   of $S$ and $T$ b ). \item The {\it intersection } of $S$ and
+   $T$, denoted by $S\,\cap\, T$, is the set of elements in 
+   both $S$ and $T$ c ). If $S\cap T=\emptyset$ (the empty 
+   set), then $S$ and $T$ are {\it disjoint sets } d ). \item A
+   set with only one member $x_0$ is a {\it singleton set }, 
+   denoted by $\{x_0\}$. \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "19"
+    offset: "28"
+. id: "5e33c092981ec41bc6b278ec"
+

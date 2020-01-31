@@ -1,0 +1,11 @@
+ProtoResult:
+. "Let $B$ be a Boolean algebra and $b$ and $c$ be elements in
+   $B$ such that $b \not\preceq c$. Then there exists an atom 
+   $a \in B$ such that $a \preceq b$ and $a \not\preceq c$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "317"
+    offset: "327"
+. id: "5e33c0ad981ec41bc6b27a7d"
+

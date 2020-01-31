@@ -1,0 +1,13 @@
+ProtoResult:
+. "A series $\sum a_n$ converges if and only if for every 
+   $\epsilon>0$ there is an integer $N$ such that 
+   \begin{equation} |a_n+a_{n+1}+\cdots+a_m|<\epsilon \quad 
+   if\quad m\ge n\ge N. \end{equation}"
+Metadata:
+. name: "Cauchy's Convergence Criterion for Series"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "204"
+    offset: "213"
+. id: "5e33c093981ec41bc6b279fe"
+

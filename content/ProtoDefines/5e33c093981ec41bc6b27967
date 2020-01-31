@@ -1,0 +1,12 @@
+ProtoDefines:
+. "A sequence $\{u_n\}$ in a metric space $(A,\rho)$ {\it 
+   converges } to $u\in A$ if \begin{equation} 
+   \lim_{n\to\infty}\rho(u_n,u)=0. \end{equation} In this case 
+   we say that $\lim_{n\to\infty}u_n=u$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "526"
+    offset: "535"
+. id: "5e33c093981ec41bc6b27967"
+

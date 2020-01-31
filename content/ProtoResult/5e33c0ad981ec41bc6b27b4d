@@ -1,0 +1,12 @@
+ProtoResult:
+. "Let $E$ be an extension field of $F$. If $\alpha \in E$ is 
+   algebraic over $F$ with minimal polynomial $p(x)$ and $\beta
+   \in F( \alpha )$ with minimal polynomial $q(x)$, then $\deg 
+   q(x)$ divides $\deg p(x)$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "343"
+    offset: "353"
+. id: "5e33c0ad981ec41bc6b27b4d"
+

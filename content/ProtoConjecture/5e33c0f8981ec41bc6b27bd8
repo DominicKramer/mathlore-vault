@@ -1,0 +1,11 @@
+ProtoConjecture:
+. "\newline{}For all $x\geq 2.01$, $$ |\pi(x)- rm{Li}(x)| \leq
+   \sqrt{x}\log(x). $$"
+Metadata:
+. name: "Equivalent to the Riemann Hypothesis"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "18"
+    offset: "25"
+. id: "5e33c0f8981ec41bc6b27bd8"
+

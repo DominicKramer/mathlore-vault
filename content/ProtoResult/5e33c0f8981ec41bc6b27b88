@@ -1,0 +1,10 @@
+ProtoResult:
+. "For any integers $a,b,n$, we have $$\gcd(an,bn) = 
+   \gcd(a,b)\cdot |n|$$"
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "6"
+    offset: "13"
+. id: "5e33c0f8981ec41bc6b27b88"
+

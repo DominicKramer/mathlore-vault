@@ -1,0 +1,14 @@
+ProtoResult:
+. "If $a_n\ge0$ for $n\ge k$ then $\sum a_n$ converges if its 
+   partial sums are bounded, or diverges to $\infty$ if they 
+   are not. These are the only possibilities and, in either 
+   case, $$ \sum_{n=k}^\infty a_n =\,\sup\set{A_n}{n\ge 
+   k}\negthickspace, $$ where $$ 
+   A_n=a_k+a_{k+1}+\cdots+a_n,\quad n\ge k. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "205"
+    offset: "214"
+. id: "5e33c093981ec41bc6b279ff"
+

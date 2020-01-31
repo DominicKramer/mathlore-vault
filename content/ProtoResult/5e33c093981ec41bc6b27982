@@ -1,0 +1,14 @@
+ProtoResult:
+. "Let $P_1$ $P_2, $\dots, $P_n$ \dots\ be propositions, one 
+   for each positive integer, such that \begin{alist} \item 
+   $P_1$ is true$$ \item for each positive integer $n$ $P_n$ 
+   implies $P_{n+1}$ \end{alist} Then $P_n$ is true for each 
+   positive integer $n$"
+Metadata:
+. name: "Principle of Mathematical Induction"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "10"
+    offset: "19"
+. id: "5e33c093981ec41bc6b27982"
+

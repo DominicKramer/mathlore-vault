@@ -1,0 +1,9 @@
+ProtoResult:
+. "If $\sum a_n$ converges, then $\lim_{n\to\infty}a_n=0$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "204"
+    offset: "213"
+. id: "5e33c093981ec41bc6b27954"
+

@@ -1,0 +1,15 @@
+ProtoResult:
+. "If $f_1$ $f_2$ \dots, $f_n$ are integrable on $[a,b]$ and 
+   $c_1$ $c_2$ \dots, $c_n$ are constants, then 
+   $c_1f_1+c_2f_2+\cdots+ c_nf_n$ is integrable on $[a,b]$ and 
+   \begin{eqnarray*} \int_a^b 
+   (c_1f_1+c_2f_2+\cdots+c_nf_n)(x)\,dx =c_1\int_a^b f_1(x)\,dx
+   +c_2\int_a^b f_2(x)\,dx\\ {}+\cdots+c_n\int_a^b f_n(x)\,dx. 
+   \end{eqnarray*}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "137"
+    offset: "146"
+. id: "5e33c093981ec41bc6b279cd"
+

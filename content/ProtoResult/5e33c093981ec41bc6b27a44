@@ -1,0 +1,15 @@
+ProtoResult:
+. "A transformation $\mathbf{L}: \R^n \to \R^m$ defined on all
+   of $\R^n$ is linear if and only if \begin{equation} 
+   \mathbf{L}(\mathbf{X})=\left[begin{array} 
+   a_{11}x_1+a_{12}x_2+ 
+   \cdots+a_{1n}x_n\\a_{21}x_1+a_{22}x_2+\cdots+a_{2n}x_n\\ 
+   \vdots\\a_{m1}x_1+a_{m2}x_2+\cdots+a_{mn}x_nend{array}\right],
+   \end{equation} where the $a_{ij}$'s are constants."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "362"
+    offset: "371"
+. id: "5e33c093981ec41bc6b27a44"
+

@@ -1,0 +1,10 @@
+ProtoResult:
+. "If $f$ is continuous on a finite closed interval $[a,b]$ 
+   then $f$ is bounded on $[a,b]$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "61"
+    offset: "70"
+. id: "5e33c093981ec41bc6b2799a"
+

@@ -1,0 +1,15 @@
+ProtoResult:
+. "Let $E$ be an extension field of a field $F$ and $\alpha 
+   \in E$ with $\alpha$ algebraic over $F$. Then there is a 
+   unique irreducible monic polynomial $p(x) \in F $ of 
+   smallest degree such that $p( \alpha ) = 0$. If $f(x)$ is 
+   another polynomial in $F $ such that $f(\alpha) = 0$, then 
+   $p(x)$ divides $f(x)$."
+Metadata:
+. name: "x"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "339"
+    offset: "349"
+. id: "5e33c0ad981ec41bc6b27ab7"
+

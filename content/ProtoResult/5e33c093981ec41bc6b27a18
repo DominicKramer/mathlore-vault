@@ -1,0 +1,14 @@
+ProtoResult:
+. "The series $$ \sum_{n=k}^\infty f_ng_n $$ converges 
+   uniformly on $S$ if $\{f_n\}$ converges uniformly to zero on
+   $S$ $\sum (f_{n+1}-f_n)$ converges absolutely uniformly on 
+   $S$ and \begin{equation} \|g_k+g_{k+1}+\cdots+g_n\|_S\le 
+   M,\quad n\ge k, \end{equation} for some constant $M$"
+Metadata:
+. name: "Dirichlet's Test for Uniform Convergence"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "249"
+    offset: "258"
+. id: "5e33c093981ec41bc6b27a18"
+

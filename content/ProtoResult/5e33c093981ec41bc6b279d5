@@ -1,0 +1,12 @@
+ProtoResult:
+. "If $f$ is integrable on $[a,b]$ and $a\le c\le b$ then the 
+   function $F$ defined by $$ F(x)=\int_c^x f(t)\,dt $$ 
+   satisfies a Lipschitz condition on $[a,b]$ and is therefore 
+   continuous on $[a,b]$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "143"
+    offset: "152"
+. id: "5e33c093981ec41bc6b279d5"
+

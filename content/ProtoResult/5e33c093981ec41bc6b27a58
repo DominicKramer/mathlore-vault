@@ -1,0 +1,30 @@
+ProtoResult:
+. "Suppose that $\mathbf{F}:\R^{n+m}\to \R^m$ is continuously 
+   differentiable on an open set $S$ of $\R^{n+m}$ containing 
+   $(\mathbf{X}_0,\mathbf{U}_0)$ Let 
+   $\mathbf{F}(\mathbf{X}_0,\mathbf{U}_0)=\mathbf{0}$ and 
+   suppose that 
+   $\mathbf{F}_\mathbf{U}(\mathbf{X}_0,\mathbf{U}_0)$ is 
+   nonsingular. Then there is a neighborhood $M$ of 
+   $(\mathbf{X}_0,\mathbf{U}_{0})$ contained in $S$ on which 
+   $\mathbf{F}_\mathbf{U}(\mathbf{X},\mathbf{U})$ is 
+   nonsingular and a neighborhood $N$ of $\mathbf{X}_0$ in 
+   $\R^n$ on which a unique continuously differentiable 
+   transformation $\mathbf{G}: \R^n\to \R^m$ is defined, such 
+   that $\mathbf{G}(\mathbf{X}_0)=\mathbf{U}_0$ and 
+   \begin{equation} (\mathbf{ X},\mathbf{G}(\mathbf{X}))\in M 
+   \quad and \quad 
+   \mathbf{F}(\mathbf{X},\mathbf{G}(\mathbf{X}))=0 \quad if 
+   \quad\mathbf{X}\in N. \end{equation} Moreover, 
+   \begin{equation} 
+   \mathbf{G}'(\mathbf{X})=-[\mathbf{F}_\mathbf{U}(\mathbf{X},\mathbf{G}(\mathbf{X}))]^{-1}
+   \mathbf{F}_\mathbf{X}(\mathbf{X},\mathbf{G}(\mathbf{X})),\quad
+   \mathbf{X}\in N. \end{equation}"
+Metadata:
+. name: "The Implicit Function Theorem"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "421"
+    offset: "430"
+. id: "5e33c093981ec41bc6b27a58"
+

@@ -1,0 +1,12 @@
+ProtoResult:
+. "Suppose that $S$ is a bounded set in $\R^n$ with boundary 
+   consisting of a finite number of differentiable surfaces. 
+   Let $f$ be bounded on $S$ and continuous except on a set of 
+   zero content. Then $f$ is integrable on $S$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "457"
+    offset: "466"
+. id: "5e33c093981ec41bc6b27a64"
+

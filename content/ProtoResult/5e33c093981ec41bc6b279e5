@@ -1,0 +1,17 @@
+ProtoResult:
+. "Suppose that $f$ and $g$ are locally integrable on $[a,b)$ 
+   $g(x)>0$ and $f(x)\ge0$ on some subinterval $[a_1,b)$ of 
+   $[a,b)$ and \begin{equation} \lim_{x\to b-}\frac{f(x)}{ 
+   g(x)}=M. \end{equation} \begin{alist} \item If $0<M<\infty$ 
+   then $\int_a^b f(x)\,dx$ and $\int_a^b g(x)\,dx$ converge or
+   diverge together. \item If $M=\infty$ and $\int_a^b 
+   g(x)\,dx=\infty$ then $\int_a^b f(x)\,dx=\infty$. \item If 
+   $M=0$ and $\int_a^b g(x)\,dx<\infty$ then $\int_a^b 
+   f(x)\,dx<\infty$. \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "161"
+    offset: "170"
+. id: "5e33c093981ec41bc6b279e5"
+

@@ -1,0 +1,10 @@
+ProtoResult:
+. "An algebraically closed field $F$ has no proper algebraic 
+   extension $E$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "346"
+    offset: "356"
+. id: "5e33c0ad981ec41bc6b27b4f"
+

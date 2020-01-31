@@ -1,0 +1,17 @@
+ProtoResult:
+. "Let \begin{equation} \lim_{n\to\infty} s_n=s \quad and\quad
+   \lim_{n\to\infty} t_n=t, \end{equation} where $s$ and $t$ 
+   are finite. Then \begin{equation} \lim_{n\to\infty} 
+   (cs_n)=cs \end{equation} if $c$ is a constant$$ 
+   \begin{eqnarray} \lim_{n\to\infty}(s_n+t_n) =s+t, \\ 
+   \lim_{n\to\infty}(s_n-t_n) =s-t, \\ 
+   \lim_{n\to\infty}(s_nt_n) =st, \\ and \\ 
+   \lim_{n\to\infty}\frac{s_n}{ t_n} =\frac{s}{ t} 
+   \end{eqnarray} if $t_n$ is nonzero for all $n$ and $t\ne0$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "184"
+    offset: "193"
+. id: "5e33c093981ec41bc6b279f1"
+

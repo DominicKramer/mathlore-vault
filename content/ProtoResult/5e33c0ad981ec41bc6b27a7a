@@ -1,0 +1,10 @@
+ProtoResult:
+. "The group of isometries on ${\mathbb R}^2$ is the Euclidean
+   group, $E(2)$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "191"
+    offset: "201"
+. id: "5e33c0ad981ec41bc6b27a7a"
+

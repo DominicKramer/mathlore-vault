@@ -1,0 +1,11 @@
+ProtoResult:
+. "Let $z = r \operatorname{cis} \theta$ and $w = s 
+   \operatorname{cis} \phi$ be two nonzero complex numbers. 
+   Then \[ zw = r s \operatorname{cis}( \theta + \phi). \]"
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "66"
+    offset: "76"
+. id: "5e33c0ad981ec41bc6b27acb"
+

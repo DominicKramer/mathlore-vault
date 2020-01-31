@@ -1,0 +1,12 @@
+ProtoResult:
+. "Let $E$ be a finite separable extension of a field $F$. 
+   Then there exists an $\alpha \in E$ such that $E=F( \alpha 
+   )$."
+Metadata:
+. name: "Primitive Element Theorem"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "383"
+    offset: "393"
+. id: "5e33c0ad981ec41bc6b27b2e"
+

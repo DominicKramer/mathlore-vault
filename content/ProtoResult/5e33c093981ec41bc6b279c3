@@ -1,0 +1,12 @@
+ProtoResult:
+. "A bounded function $f$ is integrable on $[a,b]$ if and only
+   if $$ 
+   \underline{\int_a^b}f(x)\,dx=\overline{\int_a^b}f(x)\,dx. 
+   $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "133"
+    offset: "142"
+. id: "5e33c093981ec41bc6b279c3"
+

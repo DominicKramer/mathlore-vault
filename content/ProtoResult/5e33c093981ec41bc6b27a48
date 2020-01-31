@@ -1,0 +1,26 @@
+ProtoResult:
+. "\\ \begin{alist} \item If we regard the vector $$ 
+   \mathbf{X}=\left[begin{array} x_1\\ x_2\\\vdots\\ 
+   x_nend{array}\right] $$ as an $n\times 1$ matrix, then the 
+   linear transformation $ $ can be written as $$ 
+   \mathbf{L}(\mathbf{X})=\mathbf{AX}. $$ \item If 
+   $\mathbf{L}_1$ and $\mathbf{L}_2$ are linear transformations
+   from $\R^n$ to $\R^m$ with matrices $\mathbf{A}_1$ and 
+   $\mathbf{A}_{2}$ respectively, then 
+   $c_1\mathbf{L}_1+c_2\mathbf{L}_2$ is the linear 
+   transformation from $\R^n$ to $\R^m$ with matrix 
+   $c_1\mathbf{A}_1+c_2\mathbf{A}_{2}$ \item If $\mathbf{L}_1: 
+   \R^n\to \R^p$ and $\mathbf{L}_2: \R^p\to \R^m$ are linear 
+   transformations with matrices $\mathbf{A}_1$ and 
+   $\mathbf{A}_2$ respectively, then the composite function 
+   $\mathbf{L}_3=\mathbf{L}_2\circ\mathbf{L}_1$ defined by $$ 
+   \mathbf{L}_3(\mathbf{X})=\mathbf{L}_2(\mathbf{L}_1(\mathbf{X})),
+   $$ is the linear transformation from $\R^n$ to $\R^m$ with 
+   matrix $\mathbf{A}_2\mathbf{A}_1$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "366"
+    offset: "375"
+. id: "5e33c093981ec41bc6b27a48"
+

@@ -1,0 +1,14 @@
+ProtoResult:
+. "Suppose that $u_1$ $u_2$ \dots, $u_n$ and $v_1$ $v_2$ 
+   \dots, $v_n$ are nonnegative numbers and $p>1$ Then 
+   \begin{equation} \left(\sum_{i=1}^n(u_i+v_i)^p\right)^{1/p} 
+   \le\left(\sum_{i=1}^n u_i^p\right)^{1/p} +\left(\sum_{i=1}^n
+   v_i^p\right)^{1/p}. \end{equation}"
+Metadata:
+. name: "Minkowski's Inequality"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "522"
+    offset: "531"
+. id: "5e33c092981ec41bc6b278e8"
+

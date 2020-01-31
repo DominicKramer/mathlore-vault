@@ -1,0 +1,10 @@
+ProtoResult:
+. "Let $G$ be a group of order $p^n$ where $p$ is prime. Then 
+   $G$ has a nontrivial center."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "219"
+    offset: "229"
+. id: "5e33c0ad981ec41bc6b27acd"
+

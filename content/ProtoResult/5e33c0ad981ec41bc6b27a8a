@@ -1,0 +1,16 @@
+ProtoResult:
+. "If $H \in {\mathbb M}_{m \times n}({\mathbb Z}_2)$ is a 
+   canonical parity-check matrix, then ${ Null}(H)$ consists of
+   all ${\mathbf x} \in {\mathbb Z}_2^n$ whose first $n-m$ bits
+   are arbitrary but whose last $m$ bits are determined by 
+   $H{\mathbf x} = {\mathbf 0}$. Each of the last $m$ bits 
+   serves as an even parity check bit for some of the first 
+   $n-m$ bits. Hence, $H$ gives rise to an $(n, n-m)$-block 
+   code."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "130"
+    offset: "140"
+. id: "5e33c0ad981ec41bc6b27a8a"
+

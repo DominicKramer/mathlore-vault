@@ -1,0 +1,11 @@
+ProtoResult:
+. "Let $C$ be a code with $d_{\min} = 2n + 1$. Then $C$ can 
+   correct any $n$ or fewer errors. Furthermore, any $2n$ or 
+   fewer errors can be detected in $C$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "123"
+    offset: "133"
+. id: "5e33c0ad981ec41bc6b27a86"
+

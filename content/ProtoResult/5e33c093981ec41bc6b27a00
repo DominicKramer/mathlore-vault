@@ -1,0 +1,13 @@
+ProtoResult:
+. "Suppose that \begin{equation} 0\le a_n\le b_n,\quad n\ge k.
+   \end{equation} Then \begin{alist} \item $\sum a_n<\infty$ if
+   $\sum b_n<\infty$. \item $\sum b_n=\infty$ if $\sum 
+   a_n=\infty$ \end{alist}"
+Metadata:
+. name: "The Comparison Test"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "206"
+    offset: "215"
+. id: "5e33c093981ec41bc6b27a00"
+

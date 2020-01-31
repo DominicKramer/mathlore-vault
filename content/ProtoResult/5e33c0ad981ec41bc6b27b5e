@@ -1,0 +1,10 @@
+ProtoResult:
+. "Let $D$ be a PID. If $p$ is irreducible, then $p$ is 
+   prime."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "296"
+    offset: "306"
+. id: "5e33c0ad981ec41bc6b27b5e"
+

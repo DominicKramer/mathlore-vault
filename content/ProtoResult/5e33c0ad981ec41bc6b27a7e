@@ -1,0 +1,10 @@
+ProtoResult:
+. "Every translation group in ${\mathbb R}^2$ is isomorphic to
+   ${\mathbb Z} \times {\mathbb Z}$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "194"
+    offset: "204"
+. id: "5e33c0ad981ec41bc6b27a7e"
+

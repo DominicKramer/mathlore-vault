@@ -1,0 +1,11 @@
+ProtoResult:
+. "Let ${\mathbf x}$ and ${\mathbf y}$ be binary $n$-tuples. 
+   Then $w({\mathbf x} + {\mathbf y}) = d({\mathbf x}, {\mathbf
+   y})$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "125"
+    offset: "135"
+. id: "5e33c0ad981ec41bc6b27b6f"
+

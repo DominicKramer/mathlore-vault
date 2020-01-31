@@ -1,0 +1,11 @@
+ProtoResult:
+. "If $f_{x_1}$ $f_{x_2}$ \dots, $f_{x_n}$ are identically 
+   zero in an open region $S$ of $\R^n$ then $f$ is constant in
+   $S$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "351"
+    offset: "360"
+. id: "5e33c093981ec41bc6b27977"
+

@@ -1,0 +1,18 @@
+ProtoResult:
+. "If $f$ and $g$ are differentiable at $\mathbf{X}_0$ then so
+   are $f+g$ and $fg$. The same is true of $f/g$ if 
+   $g(\mathbf{X}_0)\ne0$. The differentials are given by 
+   \begin{eqnarray*} d_{\mathbf{X}_0}(f+g) 
+   =d_{\mathbf{X}_0}f+d_{\mathbf{X}_0}g,\\ d_{\mathbf{X}_0}(fg)
+   =f(\mathbf{X}_0)d_{\mathbf{X}_0} g+g(\mathbf{X}_0) 
+   d_{\mathbf{X}_0}f,\\ and d_{\mathbf{X}_0}\left(\frac{f}{ 
+   g}\right) 
+   =\frac{g(\mathbf{X}_0)d_{\mathbf{X}_0}f-f(\mathbf{X}_0) 
+   d_{\mathbf{X}_0}g}{[g(\mathbf{X}_0)]^2}. \end{eqnarray*}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "330"
+    offset: "339"
+. id: "5e33c093981ec41bc6b27a3c"
+

@@ -1,0 +1,10 @@
+ProtoResult:
+. "An infinite subset $T$ of $A$ is compact if and only if 
+   every infinite subset of $T$ has a limit point in $T$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "536"
+    offset: "545"
+. id: "5e33c092981ec41bc6b27931"
+

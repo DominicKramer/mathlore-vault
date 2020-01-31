@@ -1,0 +1,13 @@
+ProtoDefines:
+. "A {\em finite continued fraction} is an expression $$ a_0 +
+   \frac{1}{\displaystyle a_1+\frac{1}{\displaystyle a_2 + 
+   \displaystyle \frac{1}{ \cdots +\frac{1}{a_n}}}} $$ where 
+   each $a_m$ is a real number and $a_m>0$ for all $m\geq 1$."
+Metadata:
+. name: "Finite Continued Fraction"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "95"
+    offset: "102"
+. id: "5e33c0f8981ec41bc6b27bae"
+

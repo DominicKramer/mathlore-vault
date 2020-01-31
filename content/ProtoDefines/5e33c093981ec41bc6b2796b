@@ -1,0 +1,11 @@
+ProtoDefines:
+. "The {\it diameter } of a nonempty subset $S$ of $A$ is $$ 
+   d(S)=\sup\set{\rho(u,v)}{u,\, v\in T}. $$ If $d(S)<\infty$ 
+   then $S$ is {\it bounded }."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "536"
+    offset: "545"
+. id: "5e33c093981ec41bc6b2796b"
+

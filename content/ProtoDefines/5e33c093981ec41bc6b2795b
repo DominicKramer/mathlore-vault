@@ -1,0 +1,10 @@
+ProtoDefines:
+. "A series $\sum a_n$ {\it converges absolutely }, or is {\it
+   absolutely convergent }, if $\sum|a_n|<\infty$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "215"
+    offset: "224"
+. id: "5e33c093981ec41bc6b2795b"
+

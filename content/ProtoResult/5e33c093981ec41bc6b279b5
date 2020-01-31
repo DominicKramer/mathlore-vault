@@ -1,0 +1,18 @@
+ProtoResult:
+. "Suppose that $f$ and $g$ are differentiable and $g'$ has no
+   zeros on $(a,b)$ Let \begin{equation} \lim_{x\to 
+   b-}f(x)=\lim_{x\to b-}g(x)=0 \end{equation} or 
+   \begin{equation} \lim_{x\to b-}f(x)=\pm\infty \quad and 
+   \quad \lim_{x\to b-}g(x)=\pm\infty, \end{equation} and 
+   suppose that \begin{equation} \lim_{x\to b-}\frac{f'(x)}{ 
+   g'(x)}=L\quad (finite or $\pm \infty)$ . \end{equation} Then
+   \begin{equation} \lim_{x\to b-}\frac{f(x)}{ g(x)}=L. 
+   \end{equation}"
+Metadata:
+. name: "L'Hospital's Rule"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "91"
+    offset: "100"
+. id: "5e33c093981ec41bc6b279b5"
+

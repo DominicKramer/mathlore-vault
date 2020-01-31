@@ -1,0 +1,14 @@
+ProtoResult:
+. "If $\mathbf{F}:\R^n\to\R^m$ is continuously differentiable 
+   on an open set containing a compact set $D$ then there is a 
+   constant $M$ such that \begin{equation} 
+   |\mathbf{F}(\mathbf{Y})-\mathbf{F}(\mathbf{X})|\le 
+   M|\mathbf{Y}-\mathbf{X}| \quad if\quad 
+   \mathbf{X},\mathbf{Y}\in D. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "388"
+    offset: "397"
+. id: "5e33c093981ec41bc6b279b6"
+

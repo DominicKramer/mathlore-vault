@@ -1,0 +1,12 @@
+ProtoResult:
+. "If $f$ is continuous on $[0,\infty)$ and 
+   $H(x)=\int_{0}^{\infty}e^{-s_{0}u}f(u)\,du$ is bounded on 
+   $[0,\infty)$ then the Laplace transform of $f$ converges 
+   uniformly on $[s_{1},\infty)$ if $s_{1}>s_{0}$"
+Metadata:
+. reference:
+  . source: "@TrenchImproperFunctions"
+    page: "20"
+    offset: "20"
+. id: "5e33c050981ec41bc6b278df"
+

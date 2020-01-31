@@ -1,0 +1,12 @@
+ProtoResult:
+. "If ${\mathcal H}$ is an open covering of a compact subset 
+   $S$ then $S$ can be covered by finitely many sets from 
+   ${\mathcal H}$"
+Metadata:
+. name: "Heine-Borel Theorem"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "295"
+    offset: "304"
+. id: "5e33c093981ec41bc6b27a2b"
+

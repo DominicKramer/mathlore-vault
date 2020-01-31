@@ -1,0 +1,13 @@
+ProtoResult:
+. "Suppose that $f'$ is nonnegative and integrable and $g$ is 
+   continuous on $[a,b]$ Then \begin{equation} \int_a^b 
+   f(x)g(x)\,dx=f(a)\int_a^c g(x)\,dx+f(b)\int_c^b g(x)\,dx 
+   \end{equation} for some $c$ in $[a,b]$"
+Metadata:
+. name: "Second Mean Value Theorem for Integrals"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "147"
+    offset: "156"
+. id: "5e33c093981ec41bc6b279dc"
+

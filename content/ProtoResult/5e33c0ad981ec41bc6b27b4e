@@ -1,0 +1,11 @@
+ProtoResult:
+. "The set of all algebraic numbers forms a field; that is, 
+   the set of all complex numbers that are algebraic over 
+   ${\mathbb Q}$ makes up a field."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "345"
+    offset: "355"
+. id: "5e33c0ad981ec41bc6b27b4e"
+

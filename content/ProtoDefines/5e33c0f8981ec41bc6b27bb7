@@ -1,0 +1,14 @@
+ProtoDefines:
+. "A {\em periodic continued fraction} is a continued fraction
+   $[a_0, a_1, \ldots, a_n, \ldots]$ such that $$ a_n = a_{n+h}
+   $$ for some fixed positive integer $h$ and all sufficiently 
+   large $n$. We call the minimal such $h$ the {\em period of 
+   the continued fraction} ."
+Metadata:
+. name: "Periodic Continued Fraction"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "111"
+    offset: "118"
+. id: "5e33c0f8981ec41bc6b27bb7"
+

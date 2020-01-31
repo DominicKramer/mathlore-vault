@@ -1,0 +1,15 @@
+ProtoDefines:
+. "A sequence $\{s_n\}$ is {\it nondecreasing } if $s_n\ge 
+   s_{n-1}$ for all $n$, or {\it nonincreasing } if $s_n\le 
+   s_{n-1}$ for all $n$ A {\it monotonic sequence } is a 
+   sequence that is either nonincreasing or nondecreasing. If 
+   $s_n>s_{n-1}$ for all $n$, then $\{s_n\}$ is {\it increasing
+   }, while if $s_n<s_{n-1}$ for all $n$, $\{s_n\}$ is {\it 
+   decreasing }."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "182"
+    offset: "191"
+. id: "5e33c092981ec41bc6b27942"
+

@@ -1,0 +1,13 @@
+ProtoResult:
+. "Under the assumptions of Theorem $ $ \begin{equation} 
+   \frac{ ial h(\mathbf{U}_0)}{ ial u_i}=\sum_{j=1}^n \frac{ 
+   ial f(\mathbf{X}_0) }{ ial x_j} \frac{ ial 
+   g_j(\mathbf{U}_0)}{ ial u_i},\quad 1\le i \le m. 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "346"
+    offset: "355"
+. id: "5e33c093981ec41bc6b27975"
+

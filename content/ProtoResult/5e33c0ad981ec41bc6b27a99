@@ -1,0 +1,11 @@
+ProtoResult:
+. "Let $G$ be a finite abelian $p$-group and suppose that $g 
+   \in G$ has maximal order. Then $G$ is isomorphic to $\langle
+   g \rangle \times H$ for some subgroup $H$~of $G$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "204"
+    offset: "214"
+. id: "5e33c0ad981ec41bc6b27a99"
+

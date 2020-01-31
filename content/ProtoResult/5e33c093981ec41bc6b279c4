@@ -1,0 +1,12 @@
+ProtoResult:
+. "Suppose that $S$ is contained in a bounded set $T$ and $f$ 
+   is integrable on $S$ Then $f_S$ (see $ )$ is integrable on 
+   $T$ and $$ \int_T f_S(\mathbf{X})\,d\mathbf{X}=\int_S 
+   f(\mathbf{X})\,d\mathbf{X}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "457"
+    offset: "466"
+. id: "5e33c093981ec41bc6b279c4"
+

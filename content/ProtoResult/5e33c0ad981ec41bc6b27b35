@@ -1,0 +1,11 @@
+ProtoResult:
+. "The symmetric group on $n$ letters, $S_n$, is a group with 
+   $n!$ elements, where the binary operation is the composition
+   of maps."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "77"
+    offset: "87"
+. id: "5e33c0ad981ec41bc6b27b35"
+

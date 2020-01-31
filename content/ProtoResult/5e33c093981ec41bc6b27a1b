@@ -1,0 +1,16 @@
+ProtoResult:
+. "Suppose that $f_n$ is continuously differentiable on 
+   $[a,b]$ for each $n\ge k$ $\sum_{n=k}^\infty f_n(x_0)$ 
+   converges for some $x_0$ in $[a,b]$ and $\sum_{n=k}^\infty 
+   f'_n$ converges uniformly on $[a,b]$ Then $\sum_{n=k}^\infty
+   f_n$ converges uniformly on $[a,b]$ to a differentiable 
+   function $F$ and $$ F'(x)=\sum_{n=k}^\infty f'_n(x),\quad 
+   a<x<b, $$ while $$ F'(a+)=\sum_{n=k}^\infty f'_n(a+) \quad 
+   and\quad F'(b-)= \sum_{n=k}^\infty f'_n(b-). $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "254"
+    offset: "263"
+. id: "5e33c093981ec41bc6b27a1b"
+

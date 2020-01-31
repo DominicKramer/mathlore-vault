@@ -1,0 +1,23 @@
+ProtoResult:
+. "Let ${\mathbf x}$, ${\mathbf y}$, and ${\mathbf w}$ be 
+   vectors in ${\mathbb R}^n$ and $\alpha \in {\mathbb R}$. 
+   Then \begin{enumerate} \item \it $\langle {\mathbf x}, 
+   {\mathbf y} \rangle = \langle {\mathbf y}, {\mathbf x} 
+   \rangle$. \item \it $\langle {\mathbf x}, {\mathbf y} + 
+   {\mathbf w} \rangle = \langle {\mathbf x}, {\mathbf y} 
+   \rangle + \langle {\mathbf x}, {\mathbf w} \rangle$. \item 
+   \it $\langle \alpha {\mathbf x}, {\mathbf y} \rangle = 
+   \langle {\mathbf x}, \alpha {\mathbf y} \rangle = \alpha 
+   \langle {\mathbf x}, {\mathbf y} \rangle$. \item \it 
+   $\langle {\mathbf x}, {\mathbf x} \rangle \geq 0$ with 
+   equality exactly when ${\mathbf x} = 0$. \item \it If 
+   $\langle {\mathbf x}, {\mathbf y} \rangle = 0$ for all 
+   ${\mathbf x}$ in ${\mathbb R}^n$, then ${\mathbf y} = 0$. 
+   \end{enumerate}"
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "185"
+    offset: "195"
+. id: "5e33c0ad981ec41bc6b27ab9"
+

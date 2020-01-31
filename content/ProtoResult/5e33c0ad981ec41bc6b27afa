@@ -1,0 +1,14 @@
+ProtoResult:
+. "Let $n$ be an integer such that $n > 1$. Then \[ n = p_1 
+   p_2 \cdots p_k, \] where $p_1, \ldots, p_k$ are primes (not 
+   necessarily distinct). Furthermore, this factorization is 
+   unique; that is, if \[ n = q_1 q_2 \cdots q_l, \] then $k = 
+   l$ and the $q_i$'s are just the $p_i$'s rearranged."
+Metadata:
+. name: "Fundamental Theorem of Arithmetic"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "30"
+    offset: "40"
+. id: "5e33c0ad981ec41bc6b27afa"
+

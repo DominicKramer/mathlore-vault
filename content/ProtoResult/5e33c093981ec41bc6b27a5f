@@ -1,0 +1,12 @@
+ProtoResult:
+. "If $f$ is bounded on a rectangle $R$ then $f$ is integrable
+   on $R$ if and only if for every $\epsilon>0$ there is a 
+   partition ${\bf P}$ of $R$ such that $$ S({\bf P})-s({\bf 
+   P})<\epsilon. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "448"
+    offset: "457"
+. id: "5e33c093981ec41bc6b27a5f"
+

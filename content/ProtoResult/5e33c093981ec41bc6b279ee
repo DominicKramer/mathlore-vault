@@ -1,0 +1,9 @@
+ProtoResult:
+. "A convergent sequence is bounded."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "182"
+    offset: "191"
+. id: "5e33c093981ec41bc6b279ee"
+

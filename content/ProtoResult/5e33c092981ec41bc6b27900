@@ -1,0 +1,12 @@
+ProtoResult:
+. "If $f$ is integrable on the set $S$ in $ $ and the integral
+   $ $ exists for $c\le y\le d$ then \begin{equation} \int_S 
+   f(x,y) \,d(x,y)=\int_c^d dy\int^{v(y)}_{u(y)} f(x,y)\,dx. 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "475"
+    offset: "484"
+. id: "5e33c092981ec41bc6b27900"
+

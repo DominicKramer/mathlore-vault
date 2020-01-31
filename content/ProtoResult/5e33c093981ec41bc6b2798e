@@ -1,0 +1,15 @@
+ProtoResult:
+. "If \begin{equation} \lim_{x\to x_0} f(x)=L_1 \quad and 
+   \quad \lim_{x\to x_0} g(x)= L_2, \end{equation} then 
+   \begin{eqnarray} \lim_{x\to x_0} (f+g)(x) = L_1+L_2, \\ 
+   \lim_{x\to x_0} (f-g)(x) = L_1-L_2, \\ \lim_{x\to x_0} 
+   (fg)(x) = L_1L_2, \\ and, if $L_2\ne0$, \\ \lim_{x\to 
+   x_0}\left(\frac{f}{g}\right)(x) = \frac{L_1}{ L_2}. 
+   \end{eqnarray}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "35"
+    offset: "44"
+. id: "5e33c093981ec41bc6b2798e"
+

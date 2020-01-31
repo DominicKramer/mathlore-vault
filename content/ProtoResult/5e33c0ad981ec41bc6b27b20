@@ -1,0 +1,9 @@
+ProtoResult:
+. "The alternating group, $A_n$, is simple for $n \geq 5$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "166"
+    offset: "176"
+. id: "5e33c0ad981ec41bc6b27b20"
+

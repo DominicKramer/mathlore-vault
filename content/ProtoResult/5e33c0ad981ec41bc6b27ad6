@@ -1,0 +1,10 @@
+ProtoResult:
+. "Let $X$ be a $G$-set. Then $G$-equivalence is an 
+   equivalence relation on $X$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "216"
+    offset: "226"
+. id: "5e33c0ad981ec41bc6b27ad6"
+

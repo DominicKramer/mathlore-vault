@@ -1,0 +1,13 @@
+ProtoResult:
+. "If a nonempty set $S$ of real numbers is bounded below, 
+   then $\inf S$ is the unique real number $\alpha$ such that 
+   \begin{alist} \item $x\ge\alpha$ for all $x$ in $S$ \item if
+   $\epsilon>0$ (no matter how small$\,)$, there is an $x_0$ in
+   $S$ such that $x_0< \alpha+\epsilon$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "6"
+    offset: "15"
+. id: "5e33c093981ec41bc6b27981"
+

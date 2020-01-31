@@ -1,0 +1,10 @@
+ProtoResult:
+. "[Primitive Roots mod $p^n$] Let $p^n$ be a power of an odd 
+   prime. Then there is a primitive root modulo $p^n$."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "43"
+    offset: "50"
+. id: "5e33c0f8981ec41bc6b27bd4"
+

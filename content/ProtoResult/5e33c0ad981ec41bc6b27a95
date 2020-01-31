@@ -1,0 +1,10 @@
+ProtoResult:
+. "The Principle of Mathematical Induction implies that $1$ is
+   the least positive natural number."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "26"
+    offset: "36"
+. id: "5e33c0ad981ec41bc6b27a95"
+

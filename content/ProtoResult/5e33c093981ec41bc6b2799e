@@ -1,0 +1,12 @@
+ProtoResult:
+. "If $f$ is monotonic and nonconstant on $[a,b]$ then $f$ is 
+   continuous on $[a,b]$ if and only if its range 
+   $R_f=\set{f(x)}{x\in[a,b]}$ is the closed interval with 
+   endpoints $f(a)$ and $f(b)$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "69"
+    offset: "78"
+. id: "5e33c093981ec41bc6b2799e"
+

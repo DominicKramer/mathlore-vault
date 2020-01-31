@@ -1,0 +1,11 @@
+ProtoResult:
+. "Every natural number can be written as a product of primes 
+   uniquely up to order."
+Metadata:
+. name: "Fundamental Theorem of Arithmetic"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "3"
+    offset: "10"
+. id: "5e33c0f8981ec41bc6b27bc3"
+

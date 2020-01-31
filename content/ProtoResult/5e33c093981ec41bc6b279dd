@@ -1,0 +1,14 @@
+ProtoResult:
+. "Suppose that the transformation $x=\phi(t)$ maps the 
+   interval $c\le t\le d$ into the interval $a\le x\le b$ with 
+   $\phi(c)=\alpha$ and $\phi(d)=\beta$ and let $f$ be 
+   continuous on $[a,b]$ Let $\phi'$ be integrable on $[c,d]$ 
+   Then \begin{equation} \int_\alpha^\beta f(x)\,dx=\int_c^d 
+   f(\phi(t))\phi'(t)\,dt. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "148"
+    offset: "157"
+. id: "5e33c093981ec41bc6b279dd"
+

@@ -1,0 +1,15 @@
+ProtoResult:
+. "If $S_1$ $S_2$ \dots\ are closed nonempty subsets of $\R^n$
+   such that \begin{equation} S_1\supset 
+   S_2\supset\cdots\supset S_r\supset\cdots \end{equation} and 
+   \begin{equation} \lim_{r\to\infty} d(S_r)=0, \end{equation} 
+   then the intersection $$ I=\bigcap^\infty_{r=1}S_r $$ 
+   contains exactly one point."
+Metadata:
+. name: "Principle of Nested Sets"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "294"
+    offset: "303"
+. id: "5e33c093981ec41bc6b27a2a"
+

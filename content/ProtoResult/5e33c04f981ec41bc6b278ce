@@ -1,0 +1,14 @@
+ProtoResult:
+. "{\bf(Cauchy Criterion for Uniform Convergence I)} The 
+   improper integral in converges uniformly on $S$ if and only 
+   if, for each $\epsilon>0$ there is an $r_{0} \in [a,b)$ such
+   that \begin{equation} 
+   \left|\int_{r}^{r_{1}}f(x,y)\,dx\right|< \epsilon, \quad 
+   y\in S,\quad r_{0}\le r,r_{1}<b. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchImproperFunctions"
+    page: "7"
+    offset: "7"
+. id: "5e33c04f981ec41bc6b278ce"
+

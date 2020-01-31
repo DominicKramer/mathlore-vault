@@ -1,0 +1,24 @@
+ProtoResult:
+. "Suppose that $f$ and all its partial derivatives of order 
+   $\le r$ are continuous on an open subset $S$ of $\R^n$ Then 
+   \begin{equation} f_{x_{i_1}x_{i_2}, \dots, 
+   x_{i_r}}(\mathbf{X})=f_{x_{j_1}x_{j_2}, \dots, 
+   x_{j_r}}(\mathbf{X}),\quad \mathbf{X}\in S, \end{equation} 
+   if each of the variables $x_1$ $x_2$ \dots, $x_n$ appears 
+   the same number of times in $$ \{x_{i_1}, x_{i_2}, 
+   \dots,x_{i_r}\} \quad and \quad \{x_{j_1},x_{j_2}, 
+   \dots,x_{j_r}\}. $$ If this number is $r_k$ we denote the 
+   common value of the two sides of $ $ by \begin{equation} 
+   \frac{ ial^r f(\mathbf{X})}{ ial x^{r_1}_1 ial 
+   x^{r_2}_2\cdots ial x^{r_n}_n}, \end{equation} it being 
+   understood that \begin{equation} 0\le r_k\le r,\quad 1\le 
+   k\le n, \end{equation} \begin{equation} 
+   r_1+r_2+\cdots+r_n=r, \end{equation} and, if $r_k=0$ we omit
+   the symbol $ ial x_k^0$ from the ``denominator'' of $ $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "325"
+    offset: "334"
+. id: "5e33c093981ec41bc6b27a39"
+

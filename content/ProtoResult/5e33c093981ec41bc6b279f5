@@ -1,0 +1,13 @@
+ProtoResult:
+. "A sequence $\{s_n\}$ of real numbers converges if and only 
+   if, for every $\epsilon>0$ there is an integer $N$ such that
+   \begin{equation} |s_n-s_m|<\epsilon \quad if\quad m,n\ge N. 
+   \end{equation}"
+Metadata:
+. name: "Cauchy's Convergence Criterion"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "189"
+    offset: "198"
+. id: "5e33c093981ec41bc6b279f5"
+

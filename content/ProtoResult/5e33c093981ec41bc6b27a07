@@ -1,0 +1,10 @@
+ProtoResult:
+. "If $\sum a_n$ converges absolutely, then $\sum a_n$ 
+   converges."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "217"
+    offset: "226"
+. id: "5e33c093981ec41bc6b27a07"
+

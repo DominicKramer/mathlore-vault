@@ -1,0 +1,20 @@
+ProtoResult:
+. "Let $C = \langle g(t) \rangle$ be a cyclic code in $R_n$. 
+   The following statements are equivalent. \begin{enumerate} 
+   \item\it The code $C$ is a BCH code whose minimum distance 
+   is at least $d$. \item\it A code polynomial $f(t)$ is in $C$
+   if and only if $f( \omega^i) = 0$ for $1 \leq i < d$. 
+   \item\it The matrix \[ H = \begin{pmatrix} 1 & \omega & 
+   \omega^2 & \cdots & \omega^{n-1}\\ 1 & \omega^2 & \omega^{4}
+   & \cdots & \omega^{(n-1)(2)} \\ 1 & \omega^3 & \omega^{6} & 
+   \cdots & \omega^{(n-1)(3)} \\ \vdots & \vdots & \vdots & 
+   \ddots & \vdots \\ 1 & \omega^{2r} & \omega^{4r} & \cdots & 
+   \omega^{(n-1)(2r)} \end{pmatrix} \] is a parity-check matrix
+   for $C$. \end{enumerate}"
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "372"
+    offset: "382"
+. id: "5e33c0ad981ec41bc6b27ad9"
+

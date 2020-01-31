@@ -1,0 +1,11 @@
+ProtoDefines:
+. "[Euler's $\varphi$-function] For $n\in\mathbf{N}$, let $$ 
+   \varphi(n) = \#\{a \in \mathbf{N} : a \leq n and 
+   \gcd(a,n)=1\}. $$"
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "26"
+    offset: "33"
+. id: "5e33c0f8981ec41bc6b27b96"
+

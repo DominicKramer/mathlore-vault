@@ -1,0 +1,12 @@
+ProtoResult:
+. "Let $F$ be a field and $f(x) \in F $. Then $f(x)$ is 
+   separable if and only if $f(x)$ and $f'(x)$ are relatively 
+   prime."
+Metadata:
+. name: "x"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "361"
+    offset: "371"
+. id: "5e33c0ad981ec41bc6b27a6e"
+

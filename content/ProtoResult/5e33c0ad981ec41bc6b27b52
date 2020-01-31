@@ -1,0 +1,10 @@
+ProtoResult:
+. "Let $E$ be a splitting field over $F$ of a separable 
+   polynomial. Then $E_{G(E/F)} = F$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "385"
+    offset: "395"
+. id: "5e33c0ad981ec41bc6b27b52"
+

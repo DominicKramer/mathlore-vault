@@ -1,0 +1,10 @@
+ProtoResult:
+. "Let $S= \{v_1, v_2, \ldots, v_n \}$ be vectors in a vector 
+   space $V$. Then the span of $S$ is a subspace of $V$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "328"
+    offset: "338"
+. id: "5e33c0ad981ec41bc6b27af1"
+

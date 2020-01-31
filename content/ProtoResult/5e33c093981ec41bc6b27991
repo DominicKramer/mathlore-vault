@@ -1,0 +1,19 @@
+ProtoResult:
+. "Suppose that $f$ is monotonic on $(a,b)$ and define $$ 
+   \alpha=\inf_{a<x<b}f(x) \quad and \quad 
+   \beta=\sup_{a<x<b}f(x). $$ \begin{alist} \item If $f$ is 
+   nondecreasing, then $f(a+)=\alpha$ and $f(b-)=\beta$ \item 
+   If $f$ is nonincreasing, then $f(a+)=\beta$ and 
+   $f(b-)=\alpha$ \\ (Here $a+=-\infty$ if $a=-\infty$ and 
+   $b-=\infty$ if $b=\infty.)$ \item If $a<x_0<b$, then 
+   $f(x_0+)$ and $f(x_0-)$ exist and are finite$\,$ moreover, 
+   $$ f(x_0-)\le f(x_0)\le f(x_0+) $$ if $f$ is nondecreasing, 
+   and $$ f(x_0-)\ge f(x_0)\ge f(x_0+) $$ if $f$ is 
+   nonincreasing. \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "46"
+    offset: "55"
+. id: "5e33c093981ec41bc6b27991"
+

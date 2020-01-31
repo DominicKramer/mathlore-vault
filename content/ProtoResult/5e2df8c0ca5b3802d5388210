@@ -1,9 +1,0 @@
-ProtoResult:
-. "Every field $F$ has a unique algebraic closure."
-Metadata:
-. reference:
-  . source: "@AbstractAlgebraTheoryAndApplications"
-    page: "346"
-    offset: "356"
-. id: "5e2df8c0ca5b3802d5388210"
-

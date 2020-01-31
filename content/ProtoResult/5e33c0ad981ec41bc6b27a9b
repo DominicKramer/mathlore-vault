@@ -1,0 +1,10 @@
+ProtoResult:
+. "Let $R$ be a ring with identity. If 1 has order $n$, then 
+   the characteristic of $R$ is $n$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "250"
+    offset: "260"
+. id: "5e33c0ad981ec41bc6b27a9b"
+

@@ -1,0 +1,14 @@
+ProtoResult:
+. "Suppose that $f$ is integrable on sets $S_1$ and $S_2$ such
+   that $S_1\cap S_2$ has zero content. Then $f$ is integrable 
+   on $S_1\cup S_2$ and $$ \int_{S_1\cup S_2} 
+   f(\mathbf{X})\,d\mathbf{X}= \int_{S_1} 
+   f(\mathbf{X})\,d\mathbf{X}+ \int_{S_2} 
+   f(\mathbf{X})\,d\mathbf{X}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "460"
+    offset: "469"
+. id: "5e33c093981ec41bc6b27988"
+

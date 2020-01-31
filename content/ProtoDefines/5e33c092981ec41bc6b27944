@@ -1,0 +1,20 @@
+ProtoDefines:
+. "The numbers $\overline{s}$ and $\underline{s}$ defined in 
+   Theorem~ are called the {\it limit superior } and {\it limit
+   inferior }, respectively, of $\{s_n\}$, and denoted by $$ 
+   \overline{s}=\limsup_{n\to\infty} s_n \quad and\quad 
+   \underline{s}=\liminf_{n\to\infty} s_n. $$ We also define 
+   \begin{eqnarray*} \limsup_{n\to\infty}s_n = \infty\quad if 
+   $\{s_n\}$ is not bounded above ,\\ \limsup_{n\to\infty}s_n 
+   =-\infty\quad if \lim_{n\to \infty}s_n=-\infty,\\ 
+   \liminf_{n\to\infty} s_n =-\infty\quad if $\{s_n\}$ is not 
+   bounded below ,\\ and [2\jot] \liminf_{n\to\infty} s_n = 
+   \infty\quad if \lim_{n\to\infty} s_n=\infty. 
+   \end{eqnarray*}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "188"
+    offset: "197"
+. id: "5e33c092981ec41bc6b27944"
+

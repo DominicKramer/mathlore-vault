@@ -1,0 +1,13 @@
+ProtoResult:
+. "Let $E$ be a field extension of $F$. Then the set of all 
+   automorphisms of $E$ that fix $F$ elementwise is a group; 
+   that is, the set of all automorphisms $\sigma : E 
+   \rightarrow E$ such that $\sigma( \alpha ) = \alpha$ for all
+   $\alpha \in F$ is a group."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "379"
+    offset: "389"
+. id: "5e33c0ad981ec41bc6b27b45"
+

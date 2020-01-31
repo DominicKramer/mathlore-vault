@@ -1,0 +1,13 @@
+ProtoResult:
+. "Let $G$ be a finite group and let $H$ be a subgroup of $G$.
+   Then $|G|/|H| = [G : H]$ is the number of distinct left 
+   cosets of $H$ in $G$. In particular, the number of elements 
+   in $H$ must divide the number of elements in $G$."
+Metadata:
+. name: "Lagrange"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "97"
+    offset: "107"
+. id: "5e33c0ad981ec41bc6b27aae"
+

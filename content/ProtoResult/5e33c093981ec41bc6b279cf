@@ -1,0 +1,11 @@
+ProtoResult:
+. "If $f$ is integrable on $[a,b]$ then so is $|f|$, and 
+   \begin{equation} \left|\int_a^b f(x)\,dx\right|\le\int_a^b 
+   |f(x)|\,dx. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "137"
+    offset: "146"
+. id: "5e33c093981ec41bc6b279cf"
+

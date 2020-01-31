@@ -1,0 +1,12 @@
+ProtoResult:
+. "If \begin{equation} \lim_{n\to\infty}s_n=s\quad (-\infty\le
+   s\le\infty), \end{equation} then \begin{equation} 
+   \lim_{k\to\infty} s_{n_k}=s \end{equation} for every 
+   subsequence $\{s_{n_k}\}$ of $\{s_n\}$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "196"
+    offset: "205"
+. id: "5e33c093981ec41bc6b279f6"
+

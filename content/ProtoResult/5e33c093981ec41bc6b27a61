@@ -1,0 +1,12 @@
+ProtoResult:
+. "Suppose that $f$ is bounded on a rectangle \begin{equation}
+   R=[a_1,b_1]\times [a_2,b_2]\times\cdots\times [a_n,b_n] 
+   \end{equation} and continuous except on a subset $E$ of $R$ 
+   with zero content. Then $f$ is integrable on $R$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "451"
+    offset: "460"
+. id: "5e33c093981ec41bc6b27a61"
+

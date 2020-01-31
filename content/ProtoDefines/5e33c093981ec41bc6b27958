@@ -1,0 +1,15 @@
+ProtoDefines:
+. "A {\it metric space } is a nonempty set $A$ together with a
+   real-valued function $\rho$ defined on $A\times A$ such that
+   if $u$, $v$, and $w$ are arbitrary members of $A$, then 
+   \begin{alist} \item $\rho(u,v)\ge 0$, with equality if and 
+   only if $u=v$; \item $\rho(u,v)=\rho(v,u)$; \item 
+   $\rho(u,v)\le\rho(u,w)+\rho(w,v)$. \end{alist} We say that 
+   $\rho$ is a {\it metric } on $A$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "518"
+    offset: "527"
+. id: "5e33c093981ec41bc6b27958"
+

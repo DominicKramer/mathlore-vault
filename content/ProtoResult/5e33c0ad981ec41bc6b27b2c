@@ -1,0 +1,12 @@
+ProtoResult:
+. "Let $f(x)$ be a polynomial in $F $ and suppose that $E$ is 
+   the splitting field for $f(x)$ over $F$. If $f(x)$ has no 
+   repeated roots, then \[ |G(E/F)| = [E:F]. \]"
+Metadata:
+. name: "x"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "380"
+    offset: "390"
+. id: "5e33c0ad981ec41bc6b27b2c"
+

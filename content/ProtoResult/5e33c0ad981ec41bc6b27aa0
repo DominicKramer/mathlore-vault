@@ -1,0 +1,12 @@
+ProtoResult:
+. "Let $G$ be a group and $a$ be any element in $G$. Then the 
+   set \[ \langle a \rangle = \{ a^k : k \in {\mathbb Z} \} \] 
+   is a subgroup of $G$. Furthermore, $\langle a \rangle$ is 
+   the smallest subgroup of $G$ that contains $a$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "59"
+    offset: "69"
+. id: "5e33c0ad981ec41bc6b27aa0"
+

@@ -1,0 +1,13 @@
+ProtoResult:
+. "Let $F$ be a field and let $p(x)$ be a nonconstant 
+   polynomial in $F $. Then there exists an extension field $E$
+   of $F$ and an element $\alpha \in E$ such that $p(\alpha) = 
+   0$."
+Metadata:
+. name: "x"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "337"
+    offset: "347"
+. id: "5e33c0ad981ec41bc6b27ab3"
+

@@ -1,0 +1,12 @@
+ProtoResult:
+. "Suppose that $m,n\in\mathbf{N}$ and $\gcd(m,n)=1$. Then the
+   map \begin{equation} \psi: (\Z/mn\Z{})^* \rightarrow 
+   (\Z/m\Z{})^* \times (\Z/n\Z{})^*. \end{equation} defined by 
+   $$ \psi(c) = (c mod m, \,\,c mod n) $$ is a bijection."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "30"
+    offset: "37"
+. id: "5e33c0f8981ec41bc6b27b8c"
+

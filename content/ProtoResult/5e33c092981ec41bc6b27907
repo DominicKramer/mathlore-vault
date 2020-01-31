@@ -1,0 +1,14 @@
+ProtoResult:
+. "If $S$ is a compact Jordan measurable subset of $\R^n$ and 
+   $\mathbf{L}:\R^n\to \R^n$ is the invertible linear 
+   transformation 
+   $\mathbf{X}=\mathbf{L}(\mathbf{Y})=\mathbf{AY}$ then 
+   \begin{equation} V(\mathbf{L}(S))=|\det(\mathbf{A})| V(S). 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "494"
+    offset: "503"
+. id: "5e33c092981ec41bc6b27907"
+

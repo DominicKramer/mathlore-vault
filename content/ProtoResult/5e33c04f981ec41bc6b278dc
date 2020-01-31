@@ -1,0 +1,17 @@
+ProtoResult:
+. "If $f$ and $f_{y}$ are continuous on $[a,b]\times [c,d]$ 
+   then \begin{equation} F(y)=\int_{a}^{b}f(x,y)\,dx, \quad c 
+   \le y \le d, \end{equation} is continuously differentiable 
+   on $[c,d]$ and $F'(y)$ can be obtained by differentiating 
+   under the integral sign with respect to $y$ that is, 
+   \begin{equation} F'(y)=\int_{a}^{b}f_{y}(x,y)\,dx, \quad c 
+   \le y \le d. \end{equation} Here $F'(a)$ and $f_{y}(x,a)$ 
+   are derivatives from the right and $F'(b)$ and $f_{y}(x,b)$ 
+   are derivatives from the left."
+Metadata:
+. reference:
+  . source: "@TrenchImproperFunctions"
+    page: "2"
+    offset: "2"
+. id: "5e33c04f981ec41bc6b278dc"
+

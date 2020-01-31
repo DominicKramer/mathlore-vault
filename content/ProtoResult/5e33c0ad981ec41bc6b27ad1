@@ -1,0 +1,12 @@
+ProtoResult:
+. "For every prime $p$ and every positive integer $n$, there 
+   exists a finite field $F$ with $p^n$ elements. Furthermore, 
+   any field of order $p^n$ is isomorphic to the splitting 
+   field of $x^{p^n} -x$ over ${\mathbb Z}_p$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "361"
+    offset: "371"
+. id: "5e33c0ad981ec41bc6b27ad1"
+

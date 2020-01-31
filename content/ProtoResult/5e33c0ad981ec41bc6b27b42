@@ -1,0 +1,10 @@
+ProtoResult:
+. "The set of all automorphisms of a field $F$ is a group 
+   under composition of functions."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "378"
+    offset: "388"
+. id: "5e33c0ad981ec41bc6b27b42"
+

@@ -1,0 +1,14 @@
+ProtoResult:
+. "The series $\sum ^\infty_{n=k} a_nb_n$ converges if 
+   $\lim_{n\to\infty} a_n= 0$ \begin{equation} \sum 
+   |a_{n+1}-a_n|<\infty, \end{equation} and \begin{equation} 
+   |b_k+b_{k+1}+\cdots+b_n|\le M,\quad n\ge k, \end{equation} 
+   for some constant $M$"
+Metadata:
+. name: "Dirichlet's Test for Series"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "217"
+    offset: "226"
+. id: "5e33c093981ec41bc6b27a08"
+

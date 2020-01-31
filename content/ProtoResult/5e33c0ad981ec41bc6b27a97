@@ -1,0 +1,11 @@
+ProtoResult:
+. "Let $a$ and $b$ be integers and $p$ be a prime number. If 
+   $p \mid ab$, then either $p \mid a$ or $p \mid b$."
+Metadata:
+. name: "Euclid"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "30"
+    offset: "40"
+. id: "5e33c0ad981ec41bc6b27a97"
+

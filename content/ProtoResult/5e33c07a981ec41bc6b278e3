@@ -1,0 +1,15 @@
+ProtoResult:
+. "Suppose that $n>1$ If\, ${\bf X}_{0}$ is a local extreme 
+   point of $f$ subject to $g({\bf X})=0$ and $g_{x_{r}}({\bf 
+   X}_{0})\ne0$ for some $r\in\{1,2,\dots,n\}$ then there is a 
+   constant $\lambda$ such that \begin{equation} f_{x_{i}}({\bf
+   X}_{0})-\lambda g_{x_{i}}({\bf X}_{0})=0,\quad 
+   \end{equation} $1\le i\le n$ thus, ${\bf X}_{0}$ is a 
+   critical point of $f-\lambda g$"
+Metadata:
+. reference:
+  . source: "@TrenchLagrangeMultipliers"
+    page: "4"
+    offset: "4"
+. id: "5e33c07a981ec41bc6b278e3"
+

@@ -1,0 +1,13 @@
+ProtoResult:
+. "If $z^n = 1$, then the $n$th roots of unity are \[ z = 
+   \operatorname{cis}\left( \frac{2 k \pi}{n } \right), \] 
+   where $k = 0, 1, \ldots, n-1$. Furthermore, the $n$th roots 
+   of unity form a cyclic subgroup of ${\mathbb T}$ of order 
+   $n$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "67"
+    offset: "77"
+. id: "5e33c0ad981ec41bc6b27aa8"
+

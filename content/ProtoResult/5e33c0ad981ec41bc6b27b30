@@ -1,0 +1,21 @@
+ProtoResult:
+. "bf{(Fundamental Theorem of Galois Theory)} Let $F$ be a 
+   finite field or a field of characteristic zero. If $E$ is a 
+   finite normal extension of $F$ with Galois group $G(E/F)$, 
+   then the following statements are true. \begin{enumerate} 
+   \item \it The map $K \mapsto G(E/K)$ is a bijection of 
+   subfields $K$ of $E$ containing $F$ with the subgroups of 
+   $G(E/F)$. \item \it If $F \subset K \subset E$, then \[ 
+   [E:K] = |G(E/K)| and [K:F] = [G(E/F):G(E/K)]. \] \item \it 
+   $F \subset K \subset L \subset E$ if and only if $\{ id \} 
+   \subset G(E/L) \subset G(E/K) \subset G(E/F)$. \item \it $K$
+   is a normal extension of $F$ if and only if $G(E/K)$ is a 
+   normal subgroup of $G( E/F)$. In this case \[ G(K/F) \cong 
+   G(E/F) / G( E/K ). \] \end{enumerate}"
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "387"
+    offset: "397"
+. id: "5e33c0ad981ec41bc6b27b30"
+

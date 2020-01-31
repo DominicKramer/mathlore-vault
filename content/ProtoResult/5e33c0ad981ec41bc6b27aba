@@ -1,0 +1,14 @@
+ProtoResult:
+. "Let $E = F( \alpha )$ be a simple extension of $F$, where 
+   $\alpha \in E$ is algebraic over $F$. Suppose that the 
+   degree of $\alpha$ over $F$ is $n$. Then every element 
+   $\beta \in E$ can be expressed uniquely in the form \[ \beta
+   = b_0 + b_1 \alpha + \cdots + b_{n-1} \alpha^{n-1} \] for 
+   $b_i \in F$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "340"
+    offset: "350"
+. id: "5e33c0ad981ec41bc6b27aba"
+

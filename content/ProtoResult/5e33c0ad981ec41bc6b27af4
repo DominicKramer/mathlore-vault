@@ -1,0 +1,11 @@
+ProtoResult:
+. "Let $D$ be a UFD and let $f(x)$ and $g(x)$ be primitive 
+   polynomials in $D $. Then $f(x) g(x)$ is primitive."
+Metadata:
+. name: "Gauss's Lemma"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "300"
+    offset: "310"
+. id: "5e33c0ad981ec41bc6b27af4"
+

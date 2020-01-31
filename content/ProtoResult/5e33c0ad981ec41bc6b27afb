@@ -1,0 +1,10 @@
+ProtoResult:
+. "Let $\phi : G \rightarrow H$ be a group homomorphism. Then 
+   the kernel of $\phi$ is a normal subgroup of $G$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "172"
+    offset: "182"
+. id: "5e33c0ad981ec41bc6b27afb"
+

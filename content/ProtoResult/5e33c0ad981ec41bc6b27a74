@@ -1,0 +1,11 @@
+ProtoResult:
+. "The group ${\mathbb Z}_m \times {\mathbb Z}_n$ is 
+   isomorphic to ${\mathbb Z}_{mn}$ if and only if 
+   $\gcd(m,n)=1$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "151"
+    offset: "161"
+. id: "5e33c0ad981ec41bc6b27a74"
+

@@ -1,0 +1,16 @@
+ProtoResult:
+. "Let $f$ be defined by a power series $ $ with finite radius
+   of convergence $R$ \begin{alist} \item If $\sum^\infty_{n=0}
+   a_nR^n$ converges, then $$ \lim_{x\to 
+   (x_0+R)-}f(x)=\sum^\infty_{n=0} a_nR^n. $$ \item If 
+   $\sum^\infty_{n=0} (-1)^na_nR^n$ converges, then $$ 
+   \lim_{x\to (x_0-R)+} f(x)=\sum^\infty_{n=0} (-1)^na_nR^n. $$
+   \end{alist}"
+Metadata:
+. name: "Abel's Theorem"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "276"
+    offset: "285"
+. id: "5e33c093981ec41bc6b27a24"
+

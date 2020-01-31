@@ -1,0 +1,10 @@
+ProtoResult:
+. "Let $H$ and $K$ be subgroups of $G$. The number of distinct
+   $H$-conjugates of $K$ is $[H:N(K) \cap H]$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "234"
+    offset: "244"
+. id: "5e33c0ad981ec41bc6b27b72"
+

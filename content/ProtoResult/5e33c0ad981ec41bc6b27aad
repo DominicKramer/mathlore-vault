@@ -1,0 +1,14 @@
+ProtoResult:
+. "Let $F$ be a field of characteristic zero and let \[ F = 
+   F_0 \subseteq F_1 \subseteq F_2 \subseteq \cdots \subseteq 
+   F_r = E \] a radical extension of $F$. Then there exists a 
+   normal radical extension \[ F = K_0 \subseteq K_1 \subseteq 
+   K_2 \subseteq \cdots \subseteq K_r = K \] such that $K$ that
+   contains $E$ and $K_i$ is a normal extension of $K_{i-1}$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "394"
+    offset: "404"
+. id: "5e33c0ad981ec41bc6b27aad"
+

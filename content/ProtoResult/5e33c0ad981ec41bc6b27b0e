@@ -1,0 +1,10 @@
+ProtoResult:
+. "If $g$ is any element in a group $G$, then the inverse of 
+   $g$, $g^{-1}$, is unique."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "46"
+    offset: "56"
+. id: "5e33c0ad981ec41bc6b27b0e"
+

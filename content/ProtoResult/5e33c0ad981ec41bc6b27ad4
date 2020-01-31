@@ -1,0 +1,13 @@
+ProtoResult:
+. "Let $E$ be a field extension of $F$ and $\alpha \in E$ be 
+   algebraic over $F$. Then $F( \alpha ) \cong F / \langle p(x)
+   \rangle$, where $p(x)$ is the minimal polynomial of $\alpha$
+   over $F$."
+Metadata:
+. name: "x"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "339"
+    offset: "349"
+. id: "5e33c0ad981ec41bc6b27ad4"
+

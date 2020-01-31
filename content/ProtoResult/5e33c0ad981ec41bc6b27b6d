@@ -1,0 +1,11 @@
+ProtoResult:
+. "Let $K$ be a field extension of $F$ such that $F = K_G$ for
+   some finite group of automorphisms $G$ of $K$. Then $G = 
+   G(K/F)$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "387"
+    offset: "397"
+. id: "5e33c0ad981ec41bc6b27b6d"
+

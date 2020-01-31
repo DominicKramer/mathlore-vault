@@ -1,0 +1,11 @@
+ProtoResult:
+. "A lattice $L$ is distributive if and only if \[ a \vee ( b 
+   \wedge c ) = ( a \vee b ) \wedge ( a \vee c ) \] for all $a,
+   b, c \in L$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "312"
+    offset: "322"
+. id: "5e33c0ad981ec41bc6b27ae5"
+

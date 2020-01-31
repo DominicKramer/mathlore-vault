@@ -1,0 +1,15 @@
+ProtoDefines:
+. "A sequence $\{s_n\}$ {\it converges to a limit $s$ } if for
+   every $\epsilon>0$ there is an integer $N$ such that 
+   \begin{equation} |s_n-s|<\epsilon \quad if\quad n\ge N. 
+   \end{equation} In this case we say that $\{s_n\}$ is {\it 
+   convergent } and write $$ \lim_{n\to\infty}s_n=s. $$ A 
+   sequence that does not converge {\it diverges }, or is {\it 
+   divergent }"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "179"
+    offset: "188"
+. id: "5e33c092981ec41bc6b2793c"
+

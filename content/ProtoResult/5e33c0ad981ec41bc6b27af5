@@ -1,0 +1,10 @@
+ProtoResult:
+. "If $D$ is a UFD, then $D $ is a UFD."
+Metadata:
+. name: "x"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "301"
+    offset: "311"
+. id: "5e33c0ad981ec41bc6b27af5"
+

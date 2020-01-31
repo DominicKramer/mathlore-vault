@@ -1,0 +1,11 @@
+ProtoDefines:
+. "A representation $n=x^2 + y^2$ is {\em primitive} if $x$ 
+   and $y$ are coprime."
+Metadata:
+. name: "Primitive"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "118"
+    offset: "125"
+. id: "5e33c0f8981ec41bc6b27bbd"
+

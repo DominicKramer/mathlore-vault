@@ -1,0 +1,12 @@
+ProtoDefines:
+. "If $f$ is locally integrable on $(a,b)$ we define $$ 
+   \int_a^b f(x)\,dx=\int_a^\alpha f(x)\,dx+\int_\alpha^b 
+   f(x)\,dx, $$ where $a<\alpha<b$, provided that both improper
+   integrals on the right exist (finite)."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "156"
+    offset: "165"
+. id: "5e33c092981ec41bc6b2792c"
+

@@ -1,0 +1,12 @@
+ProtoDefines:
+. "A function $f$ is {\it uniformly continuous } on a subset 
+   $S$ of its domain if, for every $\epsilon >0$, there is a 
+   $\delta>0$ such that $$ |f(x)-f(x')|<\epsilon \ whenever \ 
+   |x-x'|<\delta \ and \ x,x'\in S. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "65"
+    offset: "74"
+. id: "5e33c092981ec41bc6b27915"
+

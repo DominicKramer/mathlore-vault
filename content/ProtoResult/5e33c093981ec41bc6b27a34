@@ -1,0 +1,13 @@
+ProtoResult:
+. "Let $f$ be continuous on a compact set $S$ in $\R^n$ and $$
+   \alpha=\inf_{\mathbf{X}\in S}f(\mathbf{X}),\quad\beta= 
+   \sup_{\mathbf{X}\in S}f(\mathbf{X}). $$ Then $$ 
+   f(\mathbf{X}_1)=\alpha \quad and\quad f(\mathbf{X}_2)=\beta 
+   $$ for some $\mathbf{X}_1$ and $\mathbf{X}_2$ in $S$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "316"
+    offset: "325"
+. id: "5e33c093981ec41bc6b27a34"
+

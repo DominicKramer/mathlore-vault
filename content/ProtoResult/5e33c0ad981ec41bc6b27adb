@@ -1,0 +1,12 @@
+ProtoResult:
+. "Let $A$ and $B$ be sets. Then \begin{enumerate} \item\it 
+   $(A \cup B)' = A' \cap B'$; \item\it $(A \cap B)' = A' \cup 
+   B'$. \end{enumerate}"
+Metadata:
+. name: "De Morgan's Laws"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "7"
+    offset: "17"
+. id: "5e33c0ad981ec41bc6b27adb"
+

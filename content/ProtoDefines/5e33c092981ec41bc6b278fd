@@ -1,0 +1,16 @@
+ProtoDefines:
+. "We say that $f(x)$ {\it approaches the limit $L$ as $x$ 
+   approaches } $x_0$, and write $$ \lim_{x\to x_0} f(x)=L, $$ 
+   if $f$ is defined on some deleted neighborhood of $x_0$ and,
+   for every $\epsilon>0$, there is a $\delta>0$ such that 
+   \begin{equation} |f(x)-L|<\epsilon \end{equation} if 
+   \begin{equation} 0<|x-x_0|<\delta. \end{equation} depicts 
+   the graph of a function for which $\lim_{x \to x_0}f(x)$ 
+   exists."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "33"
+    offset: "42"
+. id: "5e33c092981ec41bc6b278fd"
+

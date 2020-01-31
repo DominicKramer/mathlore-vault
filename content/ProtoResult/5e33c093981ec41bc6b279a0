@@ -1,0 +1,15 @@
+ProtoResult:
+. "Let $f$ be bounded on $[a,b]$ and define $$ 
+   E_\rho=\set{x\in [a,b]}{w_f(x)\ge\rho}. $$ Then $E_\rho$ is 
+   closed, and $f$ is integrable on $[a,b]$ if and only if for 
+   every pair of positive numbers $\rho$ and $\delta$ $E_\rho$ 
+   can be covered by finitely many open intervals $I_1$ $I_2, 
+   $\dots, $I_p$ such that \begin{equation} \sum_{j=1}^p 
+   L(I_j)<\delta. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "177"
+    offset: "186"
+. id: "5e33c093981ec41bc6b279a0"
+

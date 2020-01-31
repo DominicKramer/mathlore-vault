@@ -1,0 +1,10 @@
+ProtoResult:
+. "Let $\sigma$ and $\tau$ be two disjoint cycles in $S_X$. 
+   Then $\sigma \tau = \tau \sigma$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "79"
+    offset: "89"
+. id: "5e33c0ad981ec41bc6b27b54"
+

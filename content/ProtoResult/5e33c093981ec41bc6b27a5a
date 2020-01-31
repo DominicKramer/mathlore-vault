@@ -1,0 +1,15 @@
+ProtoResult:
+. "Let $f$ be bounded on a rectangle $R$ and let $\mathbf{P}$ 
+   be a partition of $R$ Then \begin{alist} \item The upper sum
+   $S(\mathbf{P})$ of $f$ over $\mathbf{P}$ is the supremum of 
+   the set of all Riemann sums of $f$ over $\mathbf{P}$ \item 
+   The lower sum $s(\mathbf{P})$ of $f$ over $\mathbf{P}$ is 
+   the infimum of the set of all Riemann sums of $f$ over 
+   $\mathbf{P}$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "442"
+    offset: "451"
+. id: "5e33c093981ec41bc6b27a5a"
+

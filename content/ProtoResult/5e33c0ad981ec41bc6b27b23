@@ -1,0 +1,11 @@
+ProtoResult:
+. "Let $R$ be a ring with $a, b \in R$. Then \begin{enumerate}
+   \item \it $a0 = 0a = 0$; \item \it $a(-b) = (-a)b = -ab$; 
+   \item \it $(-a)(-b) =ab$. \end{enumerate}"
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "247"
+    offset: "257"
+. id: "5e33c0ad981ec41bc6b27b23"
+

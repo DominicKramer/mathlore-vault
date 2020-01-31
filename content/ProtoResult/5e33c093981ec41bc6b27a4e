@@ -1,0 +1,11 @@
+ProtoResult:
+. "The homogeneous system $ $ of $n$ equations in $n$ unknowns
+   has a nontrivial solution if and only if 
+   $\det(\mathbf{A})=0$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "376"
+    offset: "385"
+. id: "5e33c093981ec41bc6b27a4e"
+

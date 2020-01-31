@@ -1,0 +1,11 @@
+ProtoResult:
+. "If $\mathbf{X}$ $\mathbf{Y}$ and $\mathbf{Z}$ are in $\R^n$
+   then $$ |\mathbf{X}-\mathbf{Z}|\le 
+   |\mathbf{X}-\mathbf{Y}|+|\mathbf{Y}-\mathbf{Z}|. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "286"
+    offset: "295"
+. id: "5e33c093981ec41bc6b27972"
+

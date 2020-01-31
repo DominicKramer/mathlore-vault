@@ -1,0 +1,12 @@
+ProtoDefines:
+. "The {\it norm }, $\|\mathbf{A}\|$ of an $m\times n$ matrix 
+   $\mathbf{A}=[a_{ij}]$ is the smallest number such that $$ 
+   |\mathbf{AX}|\le\|\mathbf{A}\|\,|\mathbf{X}| $$ for all 
+   $\mathbf{X}$ in $\R^n$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "369"
+    offset: "378"
+. id: "5e33c092981ec41bc6b27932"
+

@@ -1,9 +1,0 @@
-ProtoResult:
-. "Every finite integral domain is a field."
-Metadata:
-. reference:
-  . source: "@AbstractAlgebraTheoryAndApplications"
-    page: "250"
-    offset: "260"
-. id: "5e2df8c1ca5b3802d5388261"
-

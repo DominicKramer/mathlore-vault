@@ -1,0 +1,12 @@
+ProtoResult:
+. "\begin{alist} \item If $\{s_n\}$ is nondecreasing, then 
+   $\lim_{n\to\infty}s_n=\sup\{s_n\}$ \item If $\{s_n\}$ is 
+   nonincreasing, then $\lim_{n\to\infty}s_n= \inf\{s_n\}$ 
+   \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "182"
+    offset: "191"
+. id: "5e33c093981ec41bc6b279ef"
+

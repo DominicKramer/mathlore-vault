@@ -1,0 +1,11 @@
+ProtoResult:
+. "Let $a$ and $b$ be two integers that are relatively prime. 
+   Then there exist integers $r$ and $s$ such that $ar + bs = 
+   1$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "28"
+    offset: "38"
+. id: "5e33c0ad981ec41bc6b27b66"
+

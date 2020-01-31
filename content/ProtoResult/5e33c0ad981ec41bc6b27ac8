@@ -1,0 +1,11 @@
+ProtoResult:
+. "Let $G$ be a cyclic group of order $n$ and suppose that $a$
+   is a generator for $G$. Then $a^k=e$ if and only if $n$ 
+   divides $k$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "62"
+    offset: "72"
+. id: "5e33c0ad981ec41bc6b27ac8"
+

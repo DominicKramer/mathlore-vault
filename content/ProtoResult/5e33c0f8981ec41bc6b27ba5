@@ -1,0 +1,9 @@
+ProtoResult:
+. "Every natural number is a product of primes."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "7"
+    offset: "14"
+. id: "5e33c0f8981ec41bc6b27ba5"
+

@@ -1,0 +1,12 @@
+ProtoResult:
+. "If $\mathbf{G}:\E^n\rightarrow \R^n$ is regular on a cube 
+   $C$ in $\R^n$ then \begin{equation} 
+   V(\mathbf{G}(C))\le\int_C |JG(\mathbf{Y})|\,d\mathbf{Y}. 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "501"
+    offset: "510"
+. id: "5e33c093981ec41bc6b279d6"
+

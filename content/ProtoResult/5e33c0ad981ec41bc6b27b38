@@ -1,0 +1,9 @@
+ProtoResult:
+. "The set $A_n$ is a subgroup of $S_n$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "83"
+    offset: "93"
+. id: "5e33c0ad981ec41bc6b27b38"
+

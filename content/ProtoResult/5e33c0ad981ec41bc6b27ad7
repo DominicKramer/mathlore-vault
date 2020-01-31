@@ -1,0 +1,12 @@
+ProtoResult:
+. "A linear code $C$ in ${\mathbb Z}_2^n$ is cyclic if and 
+   only if it is an ideal in $R_n = {\mathbb Z} / \langle x^n -
+   1 \rangle$."
+Metadata:
+. name: "x"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "367"
+    offset: "377"
+. id: "5e33c0ad981ec41bc6b27ad7"
+

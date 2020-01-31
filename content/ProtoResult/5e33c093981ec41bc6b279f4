@@ -1,0 +1,13 @@
+ProtoResult:
+. "If $\{s_n\}$ is a sequence of real numbers, then 
+   \begin{equation} \lim_{n\to\infty} s_n=s \end{equation} if 
+   and only if \begin{equation} 
+   \limsup_{n\to\infty}s_n=\liminf_{n\to\infty} s_n=s. 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "189"
+    offset: "198"
+. id: "5e33c093981ec41bc6b279f4"
+

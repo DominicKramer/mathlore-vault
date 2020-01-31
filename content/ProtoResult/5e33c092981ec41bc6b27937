@@ -1,0 +1,9 @@
+ProtoResult:
+. "If $T$ is compact, then $T$ is closed and bounded."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "539"
+    offset: "548"
+. id: "5e33c092981ec41bc6b27937"
+

@@ -1,0 +1,9 @@
+ProtoResult:
+. "A differentiable surface in $\R^n$ has zero content."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "456"
+    offset: "465"
+. id: "5e33c093981ec41bc6b27a63"
+

@@ -1,0 +1,10 @@
+ProtoResult:
+. "If $\lim_{\mathbf{X}\to\mathbf{X}_0} f(\mathbf{X})$ exists,
+   then it is unique."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "307"
+    offset: "316"
+. id: "5e33c093981ec41bc6b27a2d"
+

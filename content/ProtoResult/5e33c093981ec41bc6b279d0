@@ -1,0 +1,10 @@
+ProtoResult:
+. "If $f$ and $g$ are integrable on $[a,b]$ then so is the 
+   product $fg$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "140"
+    offset: "149"
+. id: "5e33c093981ec41bc6b279d0"
+

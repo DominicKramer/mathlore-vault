@@ -1,0 +1,10 @@
+ProtoResult:
+. "A number $n\in\mathbf{Z}$ is divisible by $3$ if and only 
+   if the sum of the digits of $n$ is divisible by $3$."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "23"
+    offset: "30"
+. id: "5e33c0f8981ec41bc6b27ba8"
+

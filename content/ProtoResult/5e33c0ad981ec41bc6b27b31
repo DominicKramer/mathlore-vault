@@ -1,0 +1,11 @@
+ProtoResult:
+. "Let $R$ be a commutative ring with identity $1$, where $1 
+   \neq 0$. Then $P$ is a prime ideal in $R$ if and only if 
+   $R/P$ is an integral domain."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "257"
+    offset: "267"
+. id: "5e33c0ad981ec41bc6b27b31"
+

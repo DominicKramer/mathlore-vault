@@ -1,0 +1,13 @@
+ProtoResult:
+. "A subset $H$ of $G$ is a subgroup if and only if it 
+   satisfies the following conditions. \begin{enumerate} \item 
+   \it The identity $e$ of $G$ is in $H$. \item \it If $h_1, 
+   h_2 \in H$, then $h_1h_2 \in H$. \item \it If $h \in H$, 
+   then $h^{-1} \in H$. \end{enumerate}"
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "51"
+    offset: "61"
+. id: "5e33c0ad981ec41bc6b27b1b"
+

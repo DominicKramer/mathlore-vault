@@ -1,0 +1,11 @@
+ProtoResult:
+. "Let $D$ be a PID and $\langle p \rangle$ be a nonzero ideal
+   in $D$. Then $\langle p \rangle$ is a maximal ideal if and 
+   only if $p$ is irreducible."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "295"
+    offset: "305"
+. id: "5e33c0ad981ec41bc6b27aef"
+

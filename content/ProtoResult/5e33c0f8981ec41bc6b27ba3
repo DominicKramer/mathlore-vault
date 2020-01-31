@@ -1,0 +1,11 @@
+ProtoResult:
+. "Suppose that $a$ and $b$ are integers with $b\neq 0$. Then 
+   there exists unique integers $q$ and $r$ such that $0\leq r<
+   |b|$ and $a = bq + r$."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "4"
+    offset: "11"
+. id: "5e33c0f8981ec41bc6b27ba3"
+

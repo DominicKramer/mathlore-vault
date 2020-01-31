@@ -1,0 +1,19 @@
+ProtoConjecture:
+. "Let $a,b,c$ denote integers. If $n$ is an even square-free 
+   integer, then $n$ is a congruent number if and only if $$ 
+   \#\left\{(a,b,c)\in\mathbf{Z}^3 : 4a^2 + b^2 + 8c^2 = 
+   \frac{n}{2} : c {} is even \right\}$$ $$ 
+   \qquad\qquad\qquad\qquad\qquad = \#\left\{(a,b,c) : 4a^2 + 
+   b^2 + 8c^2 = \frac{n}{2}: c {} is odd \right\}$$ If $n$ is 
+   odd and square free then $n$ is a congruent number if and 
+   only if $$\#\left\{(a,b,c) : 2a^2 + b^2 + 8c^2 = n : c {} is
+   even \right\}$$ $$ \qquad\qquad\qquad\qquad\qquad = 
+   \#\left\{(a,b,c) : 2a^2 + b^2 + 8c^2 = n: c {} is odd 
+   \right\}$$"
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "145"
+    offset: "152"
+. id: "5e33c0f8981ec41bc6b27b7a"
+

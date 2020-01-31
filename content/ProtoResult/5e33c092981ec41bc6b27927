@@ -1,0 +1,13 @@
+ProtoResult:
+. "A metric space $(A,\rho)$ is complete if and only if every 
+   nested sequence $\{T_n\}$ of nonempty closed subsets of $A$ 
+   such that $\lim_{n\to\infty}d(T_n)=0$ has a nonempty 
+   intersection."
+Metadata:
+. name: "The Principle of Nested Sets"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "530"
+    offset: "539"
+. id: "5e33c092981ec41bc6b27927"
+

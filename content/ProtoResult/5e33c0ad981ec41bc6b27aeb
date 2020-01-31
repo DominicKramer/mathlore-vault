@@ -1,0 +1,10 @@
+ProtoResult:
+. "Let $B$ be a finite Boolean algebra. Then there exists a 
+   set $X$ such that $B$ is isomorphic to ${\mathcal P}(X)$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "317"
+    offset: "327"
+. id: "5e33c0ad981ec41bc6b27aeb"
+

@@ -1,0 +1,21 @@
+ProtoResult:
+. "*{6pt} \begin{alist} \item A function $f$ is continuous at 
+   $x_0$ if and only if $f$ is defined on an open interval 
+   $(a,b)$ containing $x_0$ and for each $\epsilon>0$ there is 
+   a $\delta >0$ such that \begin{equation} 
+   |f(x)-f(x_0)|<\epsilon \end{equation} whenever 
+   $|x-x_0|<\delta$ \item A function $f$ is continuous from the
+   right at $x_0$ if and only if $f$ is defined on an interval 
+   $[x_0,b)$ and for each $\epsilon> 0$ there is a $\delta>0$ 
+   such that $ $ holds whenever $x_0\le x<x_0+ \delta$ \item A 
+   function $f$ is continuous from the left at $x_0$ if and 
+   only if $f$ is defined on an interval $(a,x_0]$ and for each
+   $\epsilon >0$ there is a $\delta>0$ such that $ $ holds 
+   whenever $x_0-\delta<x\le x_0$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "54"
+    offset: "63"
+. id: "5e33c093981ec41bc6b27996"
+

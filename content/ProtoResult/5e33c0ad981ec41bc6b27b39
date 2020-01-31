@@ -1,0 +1,10 @@
+ProtoResult:
+. "The dihedral group, $D_n$, is a subgroup of $S_n$ of order 
+   $2n$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "85"
+    offset: "95"
+. id: "5e33c0ad981ec41bc6b27b39"
+

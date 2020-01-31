@@ -1,0 +1,13 @@
+ProtoResult:
+. "Let $f$ be continuous on a region $S$ in $\R^n$ Suppose 
+   that $\mathbf{A}$ and $\mathbf{B}$ are in $S$ and $$ 
+   f(\mathbf{A})<u<f(\mathbf{B}). $$ Then $f(\mathbf{C})=u$ for
+   some $\mathbf{C}$ in $S$"
+Metadata:
+. name: "Intermediate Value Theorem"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "316"
+    offset: "325"
+. id: "5e33c093981ec41bc6b27a35"
+

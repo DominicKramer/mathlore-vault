@@ -1,0 +1,22 @@
+ProtoResult:
+. "Suppose that $n>2$ If\, ${\bf X}_{0}$ is a local extreme 
+   point of $f$ subject to $g_{1}({\bf X})=g_{2}({\bf X})=0$ 
+   and \begin{equation} \left|begin{array} 
+   \displaystyle{\frac{{ ial g_{1}({\bf X}_{0})}}{{ ial 
+   x_{r}}}}& \displaystyle{\frac{{ ial g_{1}({\bf X}_{0})}}{{ 
+   ial x_{s}}}}\\\\ \displaystyle{\frac{{ ial g_{2}({\bf 
+   X}_{0})}}{{ ial x_{r}}}}& \displaystyle{\frac{{ ial 
+   g_{2}({\bf X}_{0})}}{{ ial x_{s}}}}\\ end{array}\right|\ne0 
+   \end{equation} for some $r$ and $s$ in $\{1,2,\dots,n\}$ 
+   then there are constants $\lambda$ and $\mu$ such that 
+   \begin{equation} \frac{{ ial f({\bf X}_{0})}}{{ ial x_{i}}}-
+   \lambda\frac{{ ial g_{1}({\bf X}_{0})}}{{ ial x_{i}}}- 
+   \mu\frac{{ ial g_{2}({\bf X}_{0})}}{{ ial x_{i}}}=0, 
+   \end{equation} $1\le i\le n$."
+Metadata:
+. reference:
+  . source: "@TrenchLagrangeMultipliers"
+    page: "11"
+    offset: "11"
+. id: "5e33c07a981ec41bc6b278e4"
+

@@ -1,0 +1,14 @@
+ProtoResult:
+. "If $\mathbf{X}$ and $\mathbf{Y}$ are in $\R^n$ then 
+   \begin{equation} |\mathbf{X}+\mathbf{Y}|\le 
+   |\mathbf{X}|+|\mathbf{Y}|, \end{equation} with equality if 
+   and only if one of the vectors is a nonnegative multiple of 
+   the other."
+Metadata:
+. name: "Triangle Inequality"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "286"
+    offset: "295"
+. id: "5e33c093981ec41bc6b27a26"
+

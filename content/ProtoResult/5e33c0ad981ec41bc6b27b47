@@ -1,0 +1,10 @@
+ProtoResult:
+. "Let $|G| = p$ with $p$ a prime number. Then $G$ is cyclic 
+   and any $g \in G$ such that $g \neq e$ is a generator."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "97"
+    offset: "107"
+. id: "5e33c0ad981ec41bc6b27b47"
+

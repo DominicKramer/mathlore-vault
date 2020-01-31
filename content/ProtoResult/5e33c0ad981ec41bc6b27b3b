@@ -1,0 +1,14 @@
+ProtoResult:
+. "Let $F$ be a field and suppose that $d(x)$ is the greatest 
+   common divisor of two polynomials $p(x)$ and $q(x)$ in $F $.
+   Then there exist polynomials $r(x)$ and $s(x)$ such that \[ 
+   d(x) = r(x) p(x) + s(x) q(x). \] Furthermore, the greatest 
+   common divisor of two polynomials is unique."
+Metadata:
+. name: "x"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "276"
+    offset: "286"
+. id: "5e33c0ad981ec41bc6b27b3b"
+

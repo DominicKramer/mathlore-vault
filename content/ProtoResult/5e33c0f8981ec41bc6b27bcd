@@ -1,0 +1,11 @@
+ProtoResult:
+. "Every nonzero rational number can be represented by a 
+   simple continued fraction."
+Metadata:
+. name: "Rational Continued Fractions"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "100"
+    offset: "107"
+. id: "5e33c0f8981ec41bc6b27bcd"
+

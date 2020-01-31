@@ -1,0 +1,15 @@
+ProtoResult:
+. "bf{(Division Algorithm)} Let $f(x)$ and $g(x)$ be 
+   polynomials in $F $, where $F$ is a field and $g(x)$ is a 
+   nonzero polynomial. Then there exist unique polynomials 
+   $q(x), r(x) \in F $ such that \[ f(x) = g(x) q(x) + r(x), \]
+   where either $\deg r(x) < \deg g(x)$ or $r(x)$ is the zero 
+   polynomial."
+Metadata:
+. name: "x"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "274"
+    offset: "284"
+. id: "5e33c0ad981ec41bc6b27b25"
+

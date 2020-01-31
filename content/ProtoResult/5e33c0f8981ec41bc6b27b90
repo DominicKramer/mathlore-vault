@@ -1,0 +1,11 @@
+ProtoResult:
+. "The map $\psi:(\Z/p\Z{})^*\to \{\pm 1\}$ given by $\psi(a) 
+   = \left(\frac{a}{p}\right)$ is a surjective group 
+   homomorphism."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "71"
+    offset: "78"
+. id: "5e33c0f8981ec41bc6b27b90"
+

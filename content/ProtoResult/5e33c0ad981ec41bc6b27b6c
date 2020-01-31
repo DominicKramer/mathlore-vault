@@ -1,0 +1,12 @@
+ProtoResult:
+. "Let $F$ be a field and let $G$ be a subgroup of 
+   $\operatorname{Aut}(F)$. Then \[ F_G = \{ \alpha \in F : 
+   \sigma( \alpha ) = \alpha for all $\sigma \in G$ \} \] is a 
+   subfield of $F$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "384"
+    offset: "394"
+. id: "5e33c0ad981ec41bc6b27b6c"
+

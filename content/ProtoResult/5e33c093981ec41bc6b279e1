@@ -1,0 +1,17 @@
+ProtoResult:
+. "Suppose that $f_1$ $f_2$ \dots, $f_n$ are locally 
+   integrable on $[a,b)$ and that $\int_a^bf_1(x)\,dx$ 
+   $\int_a^bf_2(x)\,dx$ \dots, $\int_a^bf_n(x)\,dx$ converge. 
+   Let $c_1$ $c_2$ \dots, $c_n$ be constants. Then 
+   $\int_a^b(c_1f+c_2f_1+\cdots+c_nf_n)(x)\,dx$ converges and 
+   \begin{eqnarray*} \int_a^b 
+   (c_1f_1+c_2f_2+\cdots+c_nf_n)(x)\,dx =c_1\int_a^b f_1(x)\,dx
+   +c_2\int_a^b f_2(x)\,dx\\ {}+\cdots+c_n\int_a^b f_n(x)\,dx. 
+   \end{eqnarray*}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "158"
+    offset: "167"
+. id: "5e33c093981ec41bc6b279e1"
+

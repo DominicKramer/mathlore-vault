@@ -1,0 +1,10 @@
+ProtoResult:
+. "The multiplicative group of all nonzero elements of a 
+   finite field is cyclic."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "363"
+    offset: "373"
+. id: "5e33c0ad981ec41bc6b27b56"
+

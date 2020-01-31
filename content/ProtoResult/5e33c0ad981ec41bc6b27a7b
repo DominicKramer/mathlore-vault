@@ -1,0 +1,12 @@
+ProtoResult:
+. "Let $B$ be a Boolean algebra and $a, b \in B$. The 
+   following statements are equivalent. \begin{enumerate} \item
+   \it $a \preceq b$. \item \it $a \wedge b' = O$. \item \it 
+   $a' \vee b = I$. \end{enumerate}"
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "316"
+    offset: "326"
+. id: "5e33c0ad981ec41bc6b27a7b"
+

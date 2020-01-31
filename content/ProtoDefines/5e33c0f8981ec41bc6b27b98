@@ -1,0 +1,12 @@
+ProtoDefines:
+. "A function $f:\mathbf{N}\rightarrow \mathbf{C}$ is {\em 
+   multiplicative} if, whenever $m, n\in\mathbf{N}$ and 
+   $\gcd(m,n)=1$, we have $$ f(mn) = f(m)\cdot f(n). $$"
+Metadata:
+. name: "Multiplicative Function"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "31"
+    offset: "38"
+. id: "5e33c0f8981ec41bc6b27b98"
+

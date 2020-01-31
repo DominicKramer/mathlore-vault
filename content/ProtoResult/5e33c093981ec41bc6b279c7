@@ -1,0 +1,18 @@
+ProtoResult:
+. "A nonsingular $n\times n$ matrix $\mathbf{A}$ can be 
+   written as \begin{equation} 
+   \mathbf{A}=\mathbf{E}_k\mathbf{E}_{k-1}\cdots\mathbf{E}_1, 
+   \end{equation} where each $\mathbf{E}_i$ is a matrix that 
+   can be obtained from the $n\times n$ identity matrix 
+   $\mathbf{I}$ by one of the following operations$:$ 
+   \begin{alist} \item interchanging two rows of $\mathbf{I}$ 
+   \item multiplying a row of $\mathbf{I}$ by a nonzero 
+   constant$$ \item adding a multiple of one row of 
+   $\mathbf{I}$ to another. \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "492"
+    offset: "501"
+. id: "5e33c093981ec41bc6b279c7"
+

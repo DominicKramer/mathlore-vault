@@ -1,0 +1,9 @@
+ProtoResult:
+. "The set of all circuits is a Boolean algebra."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "319"
+    offset: "329"
+. id: "5e33c0ad981ec41bc6b27aec"
+

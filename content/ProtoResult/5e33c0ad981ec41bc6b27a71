@@ -1,0 +1,10 @@
+ProtoResult:
+. "Every group is isomorphic to a group of permutations."
+Metadata:
+. name: "Cayley"
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "148"
+    offset: "158"
+. id: "5e33c0ad981ec41bc6b27a71"
+

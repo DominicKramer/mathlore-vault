@@ -1,0 +1,14 @@
+ProtoResult:
+. "If $f$ is integrable on $[a,b] \times [c,d]$ then $$ 
+   \int_a^b dx\int_c^d f(x,y)\,dy=\int_c^d dy\int_a^b 
+   f(x,y)\,dx, $$ provided that $\int_c^d f(x,y)\,dy$ exists 
+   for $a\le x\le b$ and $\int_a^b f(x,y)\,dx$ exists for $c\le
+   y\le d$ In particular, these hypotheses hold if $f$ is 
+   continuous on $[a,b]\times [c,d]$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "468"
+    offset: "477"
+. id: "5e33c093981ec41bc6b2798b"
+

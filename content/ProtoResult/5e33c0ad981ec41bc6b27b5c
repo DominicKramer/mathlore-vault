@@ -1,0 +1,10 @@
+ProtoResult:
+. "Let $F$ be a field of characteristic zero. Then $F$ 
+   contains a subfield isomorphic to ${\mathbb Q}$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "293"
+    offset: "303"
+. id: "5e33c0ad981ec41bc6b27b5c"
+

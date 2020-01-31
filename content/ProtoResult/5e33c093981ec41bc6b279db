@@ -1,0 +1,13 @@
+ProtoResult:
+. "If $u'$ and $v'$ are integrable on $[a,b]$ then 
+   \begin{equation} \int_a^b 
+   u(x)v'(x)\,dx=u(x)v(x)\bigg|^b_a-\int_a^b v(x)u'(x)\,dx. 
+   \end{equation}"
+Metadata:
+. name: "Integration by Parts"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "147"
+    offset: "156"
+. id: "5e33c093981ec41bc6b279db"
+

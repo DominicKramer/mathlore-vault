@@ -1,0 +1,13 @@
+ProtoResult:
+. "If $p$ and $q$ are distinct primes with $p <q $, then every
+   group $G$ of order $pq$ has a single subgroup of order $q$ 
+   and this subgroup is normal in $G$. Hence, $G$ cannot be 
+   simple. Furthermore, if $q \not\equiv 1 \pmod{p}$, then $G$ 
+   is cyclic."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "237"
+    offset: "247"
+. id: "5e33c0ad981ec41bc6b27a9a"
+

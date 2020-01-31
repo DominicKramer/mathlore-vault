@@ -1,0 +1,11 @@
+ProtoResult:
+. "Let $p$ be a prime and $a, b\in \mathbf{N}$. If $p\mid ab$ 
+   then $p\mid a$ or $p\mid b$."
+Metadata:
+. name: "Euclid"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "7"
+    offset: "14"
+. id: "5e33c0f8981ec41bc6b27bc5"
+

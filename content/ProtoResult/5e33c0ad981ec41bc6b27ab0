@@ -1,0 +1,10 @@
+ProtoResult:
+. "Let $U(n)$ be the group of units in ${\mathbb Z}_n$. Then 
+   $|U(n)| = \phi(n)$."
+Metadata:
+. reference:
+  . source: "@AbstractAlgebraTheoryAndApplications"
+    page: "99"
+    offset: "109"
+. id: "5e33c0ad981ec41bc6b27ab0"
+

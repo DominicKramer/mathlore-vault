@@ -1,0 +1,12 @@
+ProtoResult:
+. "\begin{alist} \item The union of open sets is open. \item 
+   The intersection of closed sets is closed. \end{alist} These
+   statements apply to arbitrary collections, finite or 
+   infinite, of open and closed sets."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "22"
+    offset: "31"
+. id: "5e33c093981ec41bc6b27986"
+

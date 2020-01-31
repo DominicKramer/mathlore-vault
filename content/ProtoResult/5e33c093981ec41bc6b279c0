@@ -1,0 +1,11 @@
+ProtoResult:
+. "If $f$ is bounded on $[a,b]$ then \begin{equation} 
+   \underline{\int_a^b}f(x)\,dx\le\overline{\int_a^b}f(x)\,dx. 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "130"
+    offset: "139"
+. id: "5e33c093981ec41bc6b279c0"
+

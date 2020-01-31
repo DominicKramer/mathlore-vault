@@ -1,0 +1,14 @@
+ProtoResult:
+. "Let $\mathbf{A}$ be an $n\times n$ matrix. If 
+   $\det(\mathbf{A})=0$ then $\mathbf{A}$ is singular. If 
+   $\det(\mathbf{A})\ne0$ then $\mathbf{A}$ is nonsingular, and
+   $\mathbf{A}$ has the unique inverse \begin{equation} 
+   \mathbf{A}^{-1}=\frac{1}{\det(\mathbf{A})}\adj(\mathbf{A}). 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "373"
+    offset: "382"
+. id: "5e33c093981ec41bc6b27a4b"
+

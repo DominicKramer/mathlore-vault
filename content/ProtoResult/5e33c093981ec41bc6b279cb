@@ -1,0 +1,11 @@
+ProtoResult:
+. "If $f$ and $g$ are integrable on $[a,b]$ then so is $f+g$ 
+   and 4pt $$ \int_a^b (f+g)(x)\,dx=\int_a^b f(x)\,dx+\int_a^b 
+   g(x)\,dx. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "136"
+    offset: "145"
+. id: "5e33c093981ec41bc6b279cb"
+

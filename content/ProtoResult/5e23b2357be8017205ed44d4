@@ -1,9 +1,0 @@
-ProtoResult:
-. "$ holds whenever $x_0-\delta<x\le x_0$"
-Metadata:
-. reference:
-  . source: "@TrenchRealAnalysis"
-    page: "54"
-    offset: "63"
-. id: "5e23b2357be8017205ed44d4"
-

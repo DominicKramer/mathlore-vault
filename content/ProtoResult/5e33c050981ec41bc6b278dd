@@ -1,0 +1,15 @@
+ProtoResult:
+. "Suppose $g$ is locally integrable on $[a,b)$ and denote $$ 
+   G(r)=\int_{a}^{r}g(x)\,dx,\quad a\le r<b. $$ Then the 
+   improper integral $\int_{a}^{b}g(x)\,dx$ converges if and 
+   only if, for each $\epsilon >0$ there is an $r_{0}\in[a,b)$ 
+   such that \begin{equation} |G(r)-G(r_{1})|<\epsilon,\quad 
+   r_{0}\le r,r_{1}<b. \end{equation}"
+Metadata:
+. name: " Cauchy Criterion for Convergence of an Improper Integral I"
+. reference:
+  . source: "@TrenchImproperFunctions"
+    page: "5"
+    offset: "5"
+. id: "5e33c050981ec41bc6b278dd"
+
