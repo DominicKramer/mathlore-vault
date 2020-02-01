@@ -1,0 +1,24 @@
+ProtoResult:
+. "Suppose the $n\times n$ matrix $A=A(t)$ is continuous on 
+   $(a,b)$ and let ${\bf y}_1$, ${\bf y}_2$, \dots${\bf y}_n$ 
+   be solutions of ${\bf y}'=A(t){\bf y}$ on $(a,b)$. Then the 
+   following statements are equivalent; that is, they are 
+   either all true or all false: \begin{alist} \item The 
+   general solution of ${\bf y}'=A(t){\bf y}$ on $(a,b)$ is 
+   ${\bf y}=c_1{\bf y}_1+c_2{\bf y}_2+\cdots+c_n{\bf y}_n$, 
+   where $c_1$, $c_2$, \dots, $c_n$ are arbitrary constants. 
+   \item $\{{\bf y}_1,{\bf y}_2,\dots,{\bf y}_n\}$ is a 
+   fundamental set of solutions of ${\bf y}'=A(t){\bf y}$ on 
+   $(a,b)$. \item $\{{\bf y}_1,{\bf y}_2,\dots,{\bf y}_n\}$ is 
+   linearly independent on $(a,b)$. \item The Wronskian of 
+   $\{{\bf y}_1,{\bf y}_2,\dots,{\bf y}_n\}$ is nonzero at some
+   point in $(a,b)$. \item The Wronskian of $\{{\bf y}_1,{\bf 
+   y}_2,\dots,{\bf y}_n\}$ is nonzero at all points in $(a,b)$.
+   \end{alist}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "525"
+    offset: "535"
+. id: "5e34f055ed69043973713c71"
+

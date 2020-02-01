@@ -1,0 +1,23 @@
+ProtoResult:
+. "Let $$ Ly= 
+   x^2(\alpha_0+\alpha_1x+\alpha_2x^2)y''+x(\beta_0+\beta_1x+\beta_2x^2)y'
+   +(\gamma_0+\gamma_1x+\gamma_2x^2)y, $$ and define 
+   \begin{eqnarray*} 
+   p_0(r)&=&\alpha_0r(r-1)+\beta_0r+\gamma_0,\\[1\jot] 
+   p_1(r)&=&\alpha_1r(r-1)+\beta_1r+\gamma_1,\\[1\jot] 
+   p_2(r)&=&\alpha_2r(r-1)+\beta_2r+\gamma_2.\\ \end{eqnarray*}
+   Suppose the series \begin{equation} y=\sum_{n=0}^\infty 
+   a_nx^{n+r} \end{equation} converges on $(0,\rho)$. Then 
+   \begin{equation} Ly=\sum_{n=0}^\infty b_nx^{n+r} 
+   \end{equation} on $(0,\rho)$ where \begin{equation} 
+   begin{array} b_0&=&p_0(r)a_0,\\[1\jot] 
+   b_1&=&p_0(r+1)a_1+p_1(r)a_0,\\[1\jot] 
+   b_n&=&p_0(n+r)a_n+p_1(n+r-1)a_{n-1}+p_2(n+r-2)a_{n-2},\quad 
+   n\ge2. end{array} \end{equation}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "348"
+    offset: "358"
+. id: "5e34f054ed69043973713c2d"
+

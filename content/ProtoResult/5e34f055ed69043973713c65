@@ -1,0 +1,15 @@
+ProtoResult:
+. "For any power series $$ \sum_{n=0}^\infty a_n(x-x_0)^n, $$ 
+   exactly one of the these statements is true$:$ 
+   \begin{rmlist} \item The power series converges only for 
+   $x=x_0$ \item The power series converges for all values of 
+   $x$ \item There's a positive number $R$ such that the power 
+   series converges if $|x-x_0|<R$ and diverges if $|x-x_0|>R$ 
+   \end{rmlist}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "306"
+    offset: "316"
+. id: "5e34f055ed69043973713c65"
+

@@ -1,0 +1,19 @@
+ProtoResult:
+. "Suppose the $n\times n$ constant matrix $A$ has $n$ real 
+   eigenvalues $\lambda_1,\lambda_2,\ldots,\lambda_n$ { (}which
+   need not be distinct{ )} with associated linearly 
+   independent eigenvectors ${\bf x}_1,{\bf x}_2,\ldots,{\bf 
+   x}_n$. Then the functions $$ {\bf y}_1={\bf x}_1e^{\lambda_1
+   t},\, {\bf y}_2={\bf x}_2e^{\lambda_2 t},\, \dots,\, {\bf 
+   y}_n={\bf x}_ne^{\lambda_n t} $$ form a fundamental set of 
+   solutions of ${\bf y}'=A{\bf y}$ that is, the general 
+   solution of this system is $$ {\bf y}=c_1{\bf 
+   x}_1e^{\lambda_1 t}+c_2{\bf x}_2e^{\lambda_2 t} 
+   +\cdots+c_n{\bf x}_ne^{\lambda_n t}. $$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "531"
+    offset: "541"
+. id: "5e34f055ed69043973713c73"
+

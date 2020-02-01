@@ -1,0 +1,17 @@
+ProtoDefines:
+. "Suppose $\alpha$ is a nonzero constant and $f$ is piecewise
+   continuous on $[0,\infty)$. If $t_0>0$, then the solution of
+   the initial value problem $$ 
+   ay''+by'+cy=f(t)+\alpha\delta(t-t_0), \quad y(0)=k_0,\quad 
+   y'(0)=k_1 $$ is defined to be $$ y(t)=\hat y(t)+\alpha 
+   u(t-t_0)w(t-t_0), $$ where $\hat y$ is the solution of $$ 
+   ay''+by'+cy=f(t), \quad y(0)=k_0,\quad y'(0)=k_1. $$ This 
+   definition also applies if $t_0=0$, provided that the 
+   initial condition $y'(0)=k_1$ is replaced by $y_-'(0)=k_1$."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "456"
+    offset: "466"
+. id: "5e34f054ed69043973713c38"
+

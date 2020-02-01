@@ -1,0 +1,16 @@
+ProtoResult:
+. "Let $L$ and $\{a_n(r)\}$ be as in Theorem $ $ and suppose 
+   the indicial equation $p_0(r)=0$ of $Ly=0$ has real roots 
+   $r_1$ and $r_2$ where $r_1\ge r_2$ Then $$ 
+   y_1(x)=y(x,r_1)=x^{r_1}\sum_{n=0}^\infty a_n(r_1)x^n $$ is a
+   Frobenius solution of $Ly=0$. Moreover, if $r_1-r_2$ isn't 
+   an integer then $$ y_2(x)=y(x,r_2)=x^{r_2}\sum_{n=0}^\infty 
+   a_n(r_2)x^n $$ is also a Frobenius solution of $Ly=0$ and 
+   $\{y_1,y_2\}$ is a fundamental set of solutions."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "351"
+    offset: "361"
+. id: "5e34f054ed69043973713c33"
+

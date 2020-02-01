@@ -1,0 +1,15 @@
+ProtoResult:
+. "Suppose $c$ is in $(a,b)$ and $\alpha_{1}$ $\alpha_{2}$ 
+   \dots, are real numbers, not all zero. Under the assumptions
+   of Theorem~ , suppose $y_{1}$ and $y_{2}$ are solutions of 
+   such that \begin{equation} \alpha y_{i}(c)+ y_{i}'(c)+\cdots
+   +y_{i}^{(n-1)}(c)=0,\quad 1\le i\le n. \end{equation} Then 
+   $\{y_{1},y_{2},\dots y_{n}\}$ isn't linearly independent on 
+   $(a,b)$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "469"
+    offset: "479"
+. id: "5e34f055ed69043973713c60"
+

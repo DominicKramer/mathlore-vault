@@ -1,0 +1,16 @@
+ProtoResult:
+. "Suppose $p$ $q$ and $f$ are continuous on $(a,b)$ Let $y_p$
+   be a particular solution of \begin{equation} 
+   y''+p(x)y'+q(x)y=f(x) \end{equation} on $(a,b)$, and let 
+   $\{y_1,y_2\}$ be a fundamental set of solutions of the 
+   complementary equation \begin{equation} y''+p(x)y'+q(x)y=0 
+   \end{equation} on $(a,b)$. Then $y$ is a solution of $ $ on 
+   $(a,b)$ if and only if \begin{equation} y=y_p+c_1y_1+c_2y_2,
+   \end{equation} where $c_1$ and $c_2$ are constants."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "220"
+    offset: "230"
+. id: "5e34f055ed69043973713c58"
+

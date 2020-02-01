@@ -1,0 +1,12 @@
+ProtoDefines:
+. "An { \it Euler equation } is an equation that can be 
+   written in the form \begin{equation} ax^2y''+bxy'+cy=0, 
+   \end{equation} where $a,b$, and $c$ are real constants and 
+   $a\ne0$."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "343"
+    offset: "353"
+. id: "5e34f054ed69043973713c2e"
+

@@ -1,0 +1,16 @@
+ProtoResult:
+. "Suppose $p$ and $q$ are continuous on $(a,b)$ let $y_1$ and
+   $y_2$ be solutions of \begin{equation} y''+p(x)y'+q(x)y=0 
+   \end{equation} on $(a,b)$, and define \begin{equation} 
+   W=y_1y_2'-y_1'y_2. \end{equation} Let $x_0$ be any point in 
+   $(a,b)$ Then \begin{equation} W(x)=W(x_0) 
+   e^{-\int^x_{x_0}p(t)\, dt}, \quad a<x<b. \end{equation} 
+   Therefore either $W$ has no zeros in $(a,b)$ or $W\equiv0$ 
+   on $(a,b)$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "199"
+    offset: "209"
+. id: "5e34f055ed69043973713c4c"
+

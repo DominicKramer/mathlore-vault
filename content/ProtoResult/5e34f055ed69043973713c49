@@ -1,0 +1,13 @@
+ProtoResult:
+. "If $y_1$ and $y_2$ are solutions of the homogeneous 
+   equation \begin{equation} y''+p(x)y'+q(x)y=0 \end{equation} 
+   on $(a,b)$ then any linear combination \begin{equation} 
+   y=c_1y_1+c_2y_2 \end{equation} of $y_1$ and $y_2$ is also a 
+   solution of $ $ on $(a,b)$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "197"
+    offset: "207"
+. id: "5e34f055ed69043973713c49"
+

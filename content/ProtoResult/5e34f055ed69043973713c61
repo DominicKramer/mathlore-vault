@@ -1,0 +1,18 @@
+ProtoResult:
+. "Suppose we consider the amplitude $R$ of the steady state 
+   component of the solution of $$ my''+cy'+ky=F_0\cos\omega t 
+   $$ as a function of $\omega$. \indent{ (a)} If 
+   $c\ge\sqrt{2mk}$, the maximum amplitude is $R_{\max}=F_0/k$ 
+   and it's attained when $\omega= \omega_{\max}=0$. \indent { 
+   (b)} If $c<\sqrt{2mk}$, the maximum amplitude is 
+   \begin{equation} R_{\max}={2m F_0\over c\sqrt{4mk-c^2}}, 
+   \end{equation} and it's attained when \begin{equation} 
+   \omega=\omega_{\max}=\sqrt{{k\over m}\left(1-{c^2\over 
+   2km}\right)}. \end{equation}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "286"
+    offset: "296"
+. id: "5e34f055ed69043973713c61"
+

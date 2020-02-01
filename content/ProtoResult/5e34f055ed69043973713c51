@@ -1,0 +1,20 @@
+ProtoResult:
+. "Suppose $a,b$, and $c$ are constants $(a\ne0)$ and $f$ is 
+   piecewise continuous on $[0,\infty)$ with jump 
+   discontinuities at $t_1$ \dots, $t_n$ where $$ 
+   0<t_1<\cdots<t_n. $$ Let $k_0$ and $k_1$ be arbitrary real 
+   numbers. Then there is a unique function $y$ defined on 
+   $[0,\infty)$ with these properties: \begin{alist} \item 
+   $y(0)=k_0$ and $y'(0)=k_1$. \item $y$ and $y'$ are 
+   continuous on $[0,\infty)$. \item $y''$ is defined on every 
+   open subinterval of $[0,\infty)$ that does not contain any 
+   of the points $t_1$ \dots, $t_n$, and $$ ay''+by'+cy=f(t) $$
+   on every such subinterval. \item $y''$ has limits from the 
+   right and left at $t_1$ \dots, $t_n$. \end{alist}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "430"
+    offset: "440"
+. id: "5e34f055ed69043973713c51"
+

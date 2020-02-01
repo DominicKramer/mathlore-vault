@@ -1,0 +1,19 @@
+ProtoResult:
+. "Suppose $t_0\ge0$ For each positive number $h$ let $y_h$ be
+   the solution of the initial value problem \begin{equation} 
+   ay_h''+by_h'+cy_h=f_h(t), \quad y_h(0)=0,\quad y_h'(0)=0, 
+   \end{equation} where \begin{equation} 
+   f_h(t)=\left\{begin{array} 0,&0\le t<t_0,\\[2\jot] 
+   1/h,&t_0\le t< t_0+h,\\[2\jot] 0,&t\ge 
+   t_0+h,end{array}\right. \end{equation} so $f_h$ has unit 
+   total impulse equal to the area of the shaded rectangle in $
+   $. Then \begin{equation} 
+   \lim_{h\to0+}y_h(t)=u(t-t_0)w(t-t_0), \end{equation} where 
+   $$ w={\cal L}^{-1}\left(1\over as^2+bs+c\right). $$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "453"
+    offset: "463"
+. id: "5e34f055ed69043973713c56"
+

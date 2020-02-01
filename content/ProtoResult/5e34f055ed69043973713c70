@@ -1,0 +1,24 @@
+ProtoResult:
+. "Suppose the $n\times n$ matrix $A$ has an eigenvalue 
+   $\lambda_1$ of multiplicity $\ge 3$ and the associated 
+   eigenspace is one-dimensional$$ that is, all eigenvectors 
+   associated with $\lambda_1$ are scalar multiples of the 
+   eigenvector ${\bf x}$ Then there are infinitely many vectors
+   ${\bf u}$ such that \begin{equation} (A-\lambda_1I){\bf 
+   u}={\bf x}, \end{equation} and, if ${\bf u}$ is any such 
+   vector, there are infinitely many vectors ${\bf v}$ such 
+   that \begin{equation} (A-\lambda_1I){\bf v}={\bf u}. 
+   \end{equation} If ${\bf u}$ satisfies { } and ${\bf v}$ 
+   satisfies { }, then \begin{eqnarray*} {\bf y}_1 &=&{\bf x} 
+   e^{\lambda_1t},\\ {\bf y}_2&=&{\bf u}e^{\lambda_1t}+{\bf x} 
+   te^{\lambda_1t}, and \\ {\bf y}_3&=&{\bf 
+   v}e^{\lambda_1t}+{\bf u}te^{\lambda_1t}+{\bf x} 
+   {t^2e^{\lambda_1t}\over2} \end{eqnarray*} are linearly 
+   independent solutions of ${\bf y}'=A{\bf y}$."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "548"
+    offset: "558"
+. id: "5e34f055ed69043973713c70"
+

@@ -1,0 +1,18 @@
+ProtoResult:
+. "Suppose the $n\times n$ matrix function $A$ and the 
+   $n$-vector function ${\bf f}$ are continuous on $(a,b)$ Let 
+   ${\bf y}_p$ be a particular solution of ${\bf y}'=A(t){\bf 
+   y}+{\bf f}(t)$ on $(a,b)$, and let $\{{\bf y}_1,{\bf 
+   y}_2,\dots,{\bf y}_n\}$ be a fundamental set of solutions of
+   the complementary equation ${\bf y}'=A(t){\bf y}$ on 
+   $(a,b)$. Then ${\bf y}$ is a solution of ${\bf y}'=A(t){\bf 
+   y}+{\bf f}(t)$ on $(a,b)$ if and only if $$ {\bf y}={\bf 
+   y}_p+c_1{\bf y}_1+c_2{\bf y}_2+\cdots+c_n{\bf y}_n, $$ where
+   $c_1$ $c_2$ \dots, $c_n$ are constants."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "569"
+    offset: "579"
+. id: "5e34f054ed69043973713c25"
+

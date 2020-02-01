@@ -1,0 +1,17 @@
+ProtoDefines:
+. "\begin{rmlist} \item A function $f$ is said to be { \it 
+   piecewise continuous} on a finite closed interval $[0,T]$ if
+   $f(0+)$ and $f(T-)$ are finite and $f$ is continuous on the 
+   open interval $(0,T)$ except possibly at finitely many 
+   points, where $f$ may have jump discontinuities or removable
+   discontinuities. \item A function $f$ is said to be { \it 
+   piecewise continuous} on the infinite interval $[0,\infty)$ 
+   if it's piecewise continuous on $[0,T]$ for every $T>0$. 
+   \end{rmlist}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "399"
+    offset: "409"
+. id: "5e34f054ed69043973713c31"
+

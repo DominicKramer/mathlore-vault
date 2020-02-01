@@ -1,0 +1,19 @@
+ProtoResult:
+. "Suppose $f$ is continuous on $[0,\infty)$ and has a Laplace
+   transform. Then the solution of the initial value problem 
+   \begin{equation} ay''+by'+cy=f(t),\quad y(0)=k_0,\quad 
+   y'(0)=k_1, \end{equation} is \begin{equation} 
+   y(t)=k_0y_1(t)+k_1y_2(t)+\int_0^tw(\tau)f(t-\tau)\,d\tau, 
+   \end{equation} where $y_1$ and $y_2$ satisfy 
+   \begin{equation} ay_1''+by_1'+cy_1=0,\quad y_1(0)=1,\quad 
+   y_1'(0)=0, \end{equation} and \begin{equation} 
+   ay_2''+by_2'+cy_2=0,\quad y_2(0)=0,\quad y_2'(0)=1, 
+   \end{equation} and \begin{equation} w(t)={1\over a}y_2(t). 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "446"
+    offset: "456"
+. id: "5e34f055ed69043973713c54"
+

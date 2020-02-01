@@ -1,0 +1,11 @@
+ProtoDefines:
+. "The { \it convolution } $f*g$ of two functions $f$ and $g$ 
+   is defined by $$ (f*g)(t)=\int_0^t f(\tau)g(t-\tau)\,d\tau. 
+   $$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "440"
+    offset: "450"
+. id: "5e34f054ed69043973713c35"
+

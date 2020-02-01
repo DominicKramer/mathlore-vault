@@ -1,0 +1,14 @@
+ProtoResult:
+. "$[$The Principle of Superposition$]$ Suppose $y_{p_1}$ is a
+   particular solution of $$ y''+p(x)y'+q(x)y=f_1(x) $$ on 
+   $(a,b)$ and $y_{p_2}$ is a particular solution of $$ 
+   y''+p(x)y'+q(x)y=f_2(x) $$ on $(a,b)$. Then $$ 
+   y_p=y_{p_1}+y_{p_2} $$ is a particular solution of $$ 
+   y''+p(x)y'+q(x)y=f_1(x)+f_2(x) $$ on $(a,b)$."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "224"
+    offset: "234"
+. id: "5e34f055ed69043973713c5a"
+

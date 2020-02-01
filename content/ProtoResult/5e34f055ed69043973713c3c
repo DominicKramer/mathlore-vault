@@ -1,0 +1,34 @@
+ProtoResult:
+. "Let $$ Ly= 
+   x^2(\alpha_0+\alpha_2x^2)y''+x(\beta_0+\beta_2x^2)y' 
+   +(\gamma_0+\gamma_2x^2)y, $$ where $\alpha_0\ne0$ and define
+   \begin{eqnarray*} 
+   p_0(r)&=&\alpha_0r(r-1)+\beta_0r+\gamma_0,\\ 
+   p_2(r)&=&\alpha_2r(r-1)+\beta_2r+\gamma_2. \end{eqnarray*} 
+   Suppose $r$ is a real number such that $p_0(2m+r)$ is 
+   nonzero for all positive integers $m$ and define 
+   \begin{equation} begin{array} a_0(r)&=&1,\\ 
+   a_{2m}(r)&=&-\dst{p_2(2m+r-2)\over 
+   p_0(2m+r)}a_{2m-2}(r),\quad m\ge1. end{array} \end{equation}
+   Let $r_1$ and $r_2$ be the roots of the indicial equation 
+   $p_0(r)=0$ and suppose $r_1=r_2+2k$ where $k$ is a positive 
+   integer. Then $$ y_1=x^{r_1}\sum_{m=0}^\infty 
+   a_{2m}(r_1)x^{2m} $$ is a Frobenius solution of $Ly=0$. 
+   Moreover, if we define \begin{eqnarray*} a_0(r_2)&=&1,\\ 
+   a_{2m}(r_2)&=&-\dst{p_2(2m+r_2-2)\over 
+   p_0(2m+r_2)}a_{2m-2}(r_2),\quad 1\le m\le k-1 
+   \end{eqnarray*} and \begin{equation} 
+   C=-{p_2(r_1-2)\over2k\alpha_0}a_{2k-2}(r_2), \end{equation} 
+   then \begin{equation} 
+   y_2=x^{r_2}\sum_{m=0}^{k-1}a_{2m}(r_2)x^{2m}+C\left(y_1\ln 
+   x+x^{r_1}\sum_{m=1}^\infty a_{2m}'(r_1)x^{2m}\right) 
+   \end{equation} is also a solution of $Ly=0$ and 
+   $\{y_1,y_2\}$ is a fundamental set of solutions."
+Metadata:
+. name: "5pt"
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "384"
+    offset: "394"
+. id: "5e34f055ed69043973713c3c"
+

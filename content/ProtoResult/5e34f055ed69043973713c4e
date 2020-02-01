@@ -1,0 +1,14 @@
+ProtoResult:
+. "Suppose $p$ and $q$ are continuous on an open interval 
+   $(a,b)$ let $y_1$ and $y_2$ be solutions of \begin{equation}
+   y''+p(x)y'+q(x)y=0 \end{equation} on $(a,b)$ and let 
+   $W=y_1y_2'-y_1'y_2$ Then $y_1$ and $y_2$ are linearly 
+   independent on $(a,b)$ if and only if $W$ has no zeros on 
+   $(a,b)$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "201"
+    offset: "211"
+. id: "5e34f055ed69043973713c4e"
+

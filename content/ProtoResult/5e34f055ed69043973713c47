@@ -1,0 +1,13 @@
+ProtoResult:
+. "Suppose $p$ and $q$ are continuous on an open interval 
+   $(a,b)$ let $x_0$ be any point in $(a,b)$ and let $k_0$ and 
+   $k_1$ be arbitrary real numbers. Then the initial value 
+   problem $$ y''+p(x)y'+q(x)y=0,\ y(x_0)=k_0,\ y'(x_0)=k_1 $$ 
+   has a unique solution on $(a,b)$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "193"
+    offset: "203"
+. id: "5e34f055ed69043973713c47"
+

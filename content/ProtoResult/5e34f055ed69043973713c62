@@ -1,0 +1,15 @@
+ProtoResult:
+. "Suppose $Ly=F$ is normal on $(a,b)$ Let $y_p$ be a 
+   particular solution of $Ly=F$ on $(a,b)$ and let 
+   $\{y_1,y_2,\dots,y_n\}$ be a fundamental set of solutions of
+   the complementary equation $Ly=0$ on $(a,b)$. Then $y$ is a 
+   solution of $Ly=F$ on $(a,b)$ if and only if $$ 
+   y=y_p+c_1y_1+c_2y_2+\cdots+c_ny_n, $$ where 
+   $c_1,c_2,\dots,c_n$ are constants."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "471"
+    offset: "481"
+. id: "5e34f055ed69043973713c62"
+

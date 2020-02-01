@@ -1,0 +1,19 @@
+ProtoResult:
+. "Let $p(r)=ar^2+br+c$ be the characteristic polynomial of 
+   \begin{equation} ay''+by'+cy=0. \end{equation} Then$:$ 
+   \begin{alist} \item If $p(r)=0$ has distinct real roots 
+   $r_1$ and $r_2$ then the general solution of $ $ is $$ 
+   y=c_1e^{r_1x}+c_2e^{r_2x}. $$ \item If $p(r)=0$ has a 
+   repeated root $r_1$ then the general solution of $ $ is $$ 
+   y=e^{r_1x}(c_1+c_2x). $$ \item If $p(r)=0$ has complex 
+   conjugate roots $r_1=\lambda+i\omega$ and 
+   $r_2=\lambda-i\omega$ (where $\omega>0)$ then the general 
+   solution of $ $ is $$ y=e^{\lambda x}(c_1\cos\omega 
+   x+c_2\sin\omega x). $$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "216"
+    offset: "226"
+. id: "5e34f055ed69043973713c55"
+

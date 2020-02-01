@@ -1,0 +1,15 @@
+ProtoResult:
+. "$[$Second Shifting Theorem$]$ If $\tau\ge0$ and ${\cal 
+   L}(g)$ exists for $s>s_0$ then ${\cal 
+   L}\left(u(t-\tau)g(t-\tau)\right)$ exists for $s>s_0$ and $$
+   {\cal L}(u(t-\tau)g(t-\tau))=e^{-s\tau}{\cal L}(g(t)), $$ 
+   or, equivalently, \begin{equation} if g(t)\leftrightarrow 
+   G(s), then u(t-\tau)g(t-\tau)\leftrightarrow e^{-s\tau}G(s).
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "424"
+    offset: "434"
+. id: "5e34f055ed69043973713c4f"
+

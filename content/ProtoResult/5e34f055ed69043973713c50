@@ -1,0 +1,20 @@
+ProtoResult:
+. "Suppose $p$ and $q$ are continuous on an open interval 
+   $(a,b)$ and let $y_1$ and $y_2$ be solutions of 
+   \begin{equation} y''+p(x)y'+q(x)y=0 \end{equation} on 
+   $(a,b)$ Then the following statements are equivalent$; $ 
+   that is, they are either all true or all false. 
+   \begin{alist} \item The general solution of $ $ on $(a,b)$ 
+   is $y=c_1y_1+c_2y_2$. \item $\{y_1,y_2\}$ is a fundamental 
+   set of solutions of $ $ on $(a,b)$ \item $\{y_1,y_2\}$ is 
+   linearly independent on $(a,b)$ \item The Wronskian of 
+   $\{y_1,y_2\}$ is nonzero at some point in $(a,b)$ \item The 
+   Wronskian of $\{y_1,y_2\}$ is nonzero at all points in 
+   $(a,b)$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "201"
+    offset: "211"
+. id: "5e34f055ed69043973713c50"
+

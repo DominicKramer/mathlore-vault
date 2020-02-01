@@ -1,0 +1,10 @@
+ProtoResult:
+. "$[$The Convolution Theorem$]$ If ${\cal L}(f)=F$ and ${\cal
+   L}(g)=G$ then $$ {\cal L}(f*g)=FG. $$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "441"
+    offset: "451"
+. id: "5e34f055ed69043973713c53"
+

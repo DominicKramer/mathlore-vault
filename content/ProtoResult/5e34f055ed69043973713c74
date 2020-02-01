@@ -1,0 +1,20 @@
+ProtoResult:
+. "Let $A$ be an $n\times n$ matrix with real entries. Let 
+   $\lambda=\alpha+i\beta$ { (}$\beta\ne0${ }) be a complex 
+   eigenvalue of $A$ and let ${\bf x}={\bf u}+i{\bf v}$ be an 
+   associated eigenvector, where ${\bf u}$ and ${\bf v}$ have 
+   real components. Then ${\bf u}$ and ${\bf v}$ are both 
+   nonzero and $$ {\bf y}_1=e^{\alpha t}({\bf u}\cos\beta 
+   t-{\bf v}\sin\beta t) \quad and\quad {\bf y}_2=e^{\alpha 
+   t}({\bf u}\sin\beta t+{\bf v}\cos\beta t), $$ which are the 
+   real and imaginary parts of \begin{equation} e^{\alpha 
+   t}(\cos\beta t+i\sin\beta t)({\bf u}+i{\bf v}), 
+   \end{equation} are linearly independent solutions of ${\bf 
+   y}'=A{\bf y}$."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "557"
+    offset: "567"
+. id: "5e34f055ed69043973713c74"
+

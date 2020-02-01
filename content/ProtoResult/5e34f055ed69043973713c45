@@ -1,0 +1,18 @@
+ProtoResult:
+. "Let $M$ $N$ $M_y$ and $N_x$ be continuous on an open 
+   rectangle $R$ Then$:$ \begin{alist} \item If $(M_y-N_x)/N$ 
+   is independent of $y$ on $R$ and we define $$ 
+   p(x)={M_y-N_x\over N} $$ then \begin{equation} \mu(x)=\pm 
+   e^{\int p(x)\,dx} \end{equation} is an integrating factor 
+   for \begin{equation} M(x,y)\,dx+N(x,y)\,dy=0 \end{equation} 
+   on $R$ \item If $(N_x-M_y)/M$ is independent of $x$ on $R$ 
+   and we define $$ q(y)={N_x-M_y\over M}, $$ then 
+   \begin{equation} \mu(y)=\pm e^{\int q(y)\,dy} \end{equation}
+   is an integrating factor for on $R$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "83"
+    offset: "93"
+. id: "5e34f055ed69043973713c45"
+

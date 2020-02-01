@@ -1,0 +1,23 @@
+ProtoResult:
+. "Suppose the $n\times n$ matrix $A$ has an eigenvalue 
+   $\lambda_1$ of multiplicity $\ge 3$ and the associated 
+   eigenspace is two-dimensional; that is, all eigenvectors of 
+   $A$ associated with $\lambda_1$ are linear combinations of 
+   two linearly independent eigenvectors ${\bf x}_1$ and ${\bf 
+   x}_2$. Then there are constants $\alpha$ and $\beta$ (not 
+   both zero) such that if \begin{equation} {\bf 
+   x}_3=\alpha{\bf x}_1+\beta{\bf x}_2, \end{equation} then 
+   there are infinitely many vectors ${\bf u}$ such that 
+   \begin{equation} (A-\lambda_1I){\bf u}={\bf x}_3. 
+   \end{equation} If ${\bf u}$ satisfies { }, then 
+   \begin{eqnarray} {\bf y}_1&=&{\bf x}_1 e^{\lambda_1t}, \\ 
+   {\bf y}_2&=&{\bf x}_2e^{\lambda_1t}, and \\ {\bf y}_3&=&{\bf
+   u}e^{\lambda_1t}+{\bf x}_3te^{\lambda_1t} , \end{eqnarray} 
+   are linearly independent solutions of ${\bf y}'=A{\bf y}$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "550"
+    offset: "560"
+. id: "5e34f055ed69043973713c72"
+

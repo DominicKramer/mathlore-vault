@@ -1,0 +1,14 @@
+ProtoResult:
+. "If $p$ is continuous on $(a,b)$ then the general solution 
+   of the homogeneous equation \begin{equation} y'+p(x)y=0 
+   \end{equation} on $(a,b)$ is $$ y=ce^{-P(x)}, $$ where 
+   \begin{equation} P(x)=\int p(x)\,dx \end{equation} is any 
+   antiderivative of $p$ on $(a,b)$ that is, \begin{equation} 
+   P'(x)=p(x),\quad a<x<b. \end{equation}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "32"
+    offset: "42"
+. id: "5e34f054ed69043973713c3a"
+

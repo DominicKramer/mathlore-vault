@@ -1,0 +1,13 @@
+ProtoResult:
+. "Suppose $Ly=F$ is normal on $(a,b)$, let $x_0$ be a point 
+   in $(a,b)$ and let $k_0$, $k_1$, \dots, $k_{n-1}$ be 
+   arbitrary real numbers. Then the initial value problem $$ 
+   Ly=F, \quad y(x_0)=k_0,\quad y'(x_0)=k_1,\dots,\quad 
+   y^{(n-1)}(x_0)=k_{n-1} $$ has a unique solution on $(a,b)$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "465"
+    offset: "475"
+. id: "5e34f055ed69043973713c59"
+

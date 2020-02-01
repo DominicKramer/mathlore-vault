@@ -1,0 +1,20 @@
+ProtoResult:
+. "The coefficients $\{a_n\}$ in any solution 
+   $y=\sum_{n=0}^\infty a_n(x-x_0)^n$ of \begin{equation} 
+   \left(1+\alpha(x-x_0)^2\right)y''+\beta(x-x_0) y'+\gamma y=0
+   \end{equation} satisfy the recurrence relation 
+   \begin{equation} a_{n+2}=-{p(n) \over(n+2)(n+1)}a_n,\quad 
+   n\ge0, \end{equation} where \begin{equation} p(n)=\alpha 
+   n(n-1) +\beta n+\gamma. \end{equation} Moreover, the 
+   coefficients of the even and odd powers of $x-x_0$ can be 
+   computed separately as \begin{eqnarray} 
+   a_{2m+2}&=&-{p(2m)\over(2m+2)(2m+1)}a_{2m},\quad m\ge0 \\ 
+   and \\ a_{2m+3}&=&-{p(2m+1)\over(2m+3)(2m+2)}a_{2m+1},\quad 
+   m\ge0, \end{eqnarray} where $a_0$ and $a_1$ are arbitrary."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "325"
+    offset: "335"
+. id: "5e34f054ed69043973713c27"
+

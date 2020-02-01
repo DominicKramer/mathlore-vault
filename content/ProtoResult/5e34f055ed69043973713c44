@@ -1,0 +1,14 @@
+ProtoResult:
+. "$[$Linearity Property$]$ If $F_1$ $F_2$ \dots, $F_n$ are 
+   Laplace transforms and $c_1$ $c_2$ \dots, $c_n$ are 
+   constants, then $$ {\cal 
+   L}^{-1}(c_1F_1+c_2F_2+\cdots+c_nF_n)=c_1{\cal 
+   L}^{-1}(F_1)+c_2{\cal L}^{-1}(F_2)+\cdots+c_n{\cal 
+   L}^{-1}F_n. $$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "405"
+    offset: "415"
+. id: "5e34f055ed69043973713c44"
+

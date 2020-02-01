@@ -1,0 +1,22 @@
+ProtoResult:
+. "Suppose $\omega$ is a positive number and $P$ and $Q$ are 
+   polynomials. Let $k$ be the larger of the degrees of $P$ and
+   $Q$ Then the equation $$ ay''+by'+cy=P(x)\cos \omega 
+   x+Q(x)\sin \omega x $$ has a particular solution 
+   \begin{equation} y_p=A(x)\cos\omega x+B(x)\sin\omega x, 
+   \end{equation} where $$ A(x)=A_0+A_1x+\cdots+A_kx^k \quad 
+   and \quad B(x)=B_0+B_1x+\cdots+B_kx^k, $$ provided that 
+   $\cos\omega x$ and $\sin\omega x$ are not solutions of the 
+   complementary equation. The solutions of $$ 
+   a(y''+\omega^2y)=P(x)\cos \omega x+Q(x)\sin \omega x $$ (for
+   which $\cos\omega x$ and $\sin\omega x$ are solutions of the
+   complementary equation) are of the form $ $ where $$ 
+   A(x)=A_0x+A_1x^2+\cdots+A_kx^{k+1} \quad and \quad 
+   B(x)=B_0x+B_1x^2+\cdots+B_kx^{k+1}. $$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "238"
+    offset: "248"
+. id: "5e34f055ed69043973713c5d"
+

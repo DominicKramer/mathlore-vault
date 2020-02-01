@@ -1,0 +1,13 @@
+ProtoResult:
+. "If the power series $$ f(x)=\sum_{n=0}^\infty a_n(x-x_0)^n 
+   $$ has a positive radius of convergence, then 
+   \begin{equation} a_n={f^{(n)}(x_0)\over n!}; \end{equation} 
+   that is, $\sum_{n=0}^\infty a_n(x-x_0)^n$ is the Taylor 
+   series of $f$ about $x_0$."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "309"
+    offset: "319"
+. id: "5e34f055ed69043973713c6c"
+

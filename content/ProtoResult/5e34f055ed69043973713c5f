@@ -1,0 +1,16 @@
+ProtoResult:
+. "If $$ y_p=A(x)\cos\omega x+B(x)\sin\omega x, $$ where 
+   $A(x)$ and $B(x)$ are polynomials with coefficients $A_0$ 
+   \dots, $A_k$ and $B_0$, \dots, $B_k$ then the polynomials 
+   multiplying $\sin\omega x$ in $$ y_p',\quad y_p'',\quad 
+   ay_p''+by_p'+cy_p \quad and \quad y_p''+\omega^2 y_p $$ can 
+   be obtained by replacing $A_0$, \dots, $A_k$ by $B_0$ \dots,
+   $B_k$ and $B_0$ \dots, $B_k$ by $-A_0$ \dots, $-A_k$ in the 
+   corresponding polynomials multiplying $\cos\omega x$."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "241"
+    offset: "251"
+. id: "5e34f055ed69043973713c5f"
+

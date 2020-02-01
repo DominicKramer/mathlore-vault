@@ -1,0 +1,13 @@
+ProtoDefines:
+. "If every curve in a one-parameter family defined by the 
+   equation \begin{equation} H(x,y,c)=0 \end{equation} is an 
+   integral curve of the first order differential equation 
+   \begin{equation} F(x,y,y')=0, \end{equation} then is said to
+   be a { \it differential equation for the family. }"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "179"
+    offset: "189"
+. id: "5e34f054ed69043973713c29"
+

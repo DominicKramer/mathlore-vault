@@ -1,0 +1,14 @@
+ProtoDefines:
+. "An equation that can be written in the form 
+   \begin{equation} H(x,y,c)=0 \end{equation} is said to define
+   a { \it one-parameter family of curves } if, for each value 
+   of $c$ in in some nonempty set of real numbers, the set of 
+   points $(x,y)$ that satisfy forms a curve in the 
+   $xy$-plane."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "178"
+    offset: "188"
+. id: "5e34f054ed69043973713c28"
+

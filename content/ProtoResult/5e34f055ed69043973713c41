@@ -1,0 +1,13 @@
+ProtoResult:
+. "If $F=F(x,y)$ has continuous partial derivatives $F_x$ and 
+   $F_y$, then \begin{equation} F(x,y)=c\qquad { (}$c$=constant
+   ) , \end{equation} is an implicit solution of the 
+   differential equation \begin{equation} 
+   F_x(x,y)\,dx+F_y(x,y)\,dy=0. \end{equation}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "73"
+    offset: "83"
+. id: "5e34f055ed69043973713c41"
+

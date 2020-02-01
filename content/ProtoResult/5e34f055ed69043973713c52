@@ -1,0 +1,14 @@
+ProtoResult:
+. "Suppose $c$ is in $(a,b)$ and $\alpha$ and $\beta$ are real
+   numbers, not both zero. Under the assumptions of Theorem~ , 
+   suppose $y_{1}$ and $y_{2}$ are solutions of such that 
+   \begin{equation} \alpha y_{1}(c)+\beta y_{1}'(c)=0 \; and\; 
+   \; \alpha y_{2}(c)+\beta y_{2}'(c)=0. \end{equation} Then 
+   $\{y_{1},y_{2}\}$ isn't linearly independent on $(a,b)$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "202"
+    offset: "212"
+. id: "5e34f055ed69043973713c52"
+

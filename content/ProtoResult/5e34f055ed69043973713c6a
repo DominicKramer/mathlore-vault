@@ -1,0 +1,14 @@
+ProtoResult:
+. "Suppose the coefficient matrix $A$ and the forcing function
+   ${\bf f}$ are continuous on $(a,b)$, let $t_0$ be in 
+   $(a,b)$, and let ${\bf k}$ be an arbitrary constant 
+   $n$-vector. Then the initial value problem $$ {\bf 
+   y}'=A(t){\bf y}+{\bf f}(t), \quad {\bf y}(t_0)={\bf k} $$ 
+   has a unique solution on $(a,b)$."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "517"
+    offset: "527"
+. id: "5e34f055ed69043973713c6a"
+

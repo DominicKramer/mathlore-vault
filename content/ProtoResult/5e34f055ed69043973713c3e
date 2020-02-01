@@ -1,0 +1,14 @@
+ProtoResult:
+. "$[$Linearity Property$]$ Suppose ${\cal L}(f_i)$ is defined
+   for $s>s_i$ $1\le i\le n)$ Let $s_0$ be the largest of the 
+   numbers $s_1$, $s_{2}$ \dots$s_n$ and let $c_1$, 
+   $c_2$,\dots, $c_n$ be constants. Then $$ {\cal 
+   L}(c_1f_1+c_2f_2+\cdots+c_nf_n)=c_1{\cal L}(f_1)+c_2{\cal 
+   L}(f_2) +\cdots+c_n{\cal L}(f_n) for s>s_0. $$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "396"
+    offset: "406"
+. id: "5e34f055ed69043973713c3e"
+

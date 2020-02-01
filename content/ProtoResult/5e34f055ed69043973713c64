@@ -1,0 +1,13 @@
+ProtoResult:
+. "$[$The Principle of Superposition$]$ Suppose for each $i=1$
+   $2$ \dots, $r$, the function $y_{p_i}$ is a particular 
+   solution of $Ly=F_i$ on $(a,b)$ Then $$ 
+   y_p=y_{p_1}+y_{p_2}+\cdots+y_{p_r} $$ is a particular 
+   solution of $$ Ly=F_1(x)+F_2(x)+\cdots+F_r(x) $$ on $(a,b)$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "471"
+    offset: "481"
+. id: "5e34f055ed69043973713c64"
+

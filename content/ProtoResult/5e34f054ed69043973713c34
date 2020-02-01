@@ -1,0 +1,28 @@
+ProtoResult:
+. "Let \begin{equation} Ly= 
+   x^2(\alpha_0+\alpha_1x+\alpha_2x^2)y''+x(\beta_0+\beta_1x+\beta_2x^2)y'
+   +(\gamma_0+\gamma_1x+\gamma_2x^2)y, \end{equation} where 
+   $\alpha_0\ne0$ and define \begin{eqnarray*} 
+   p_0(r)&=&\alpha_0r(r-1)+\beta_0r+\gamma_0,\\ 
+   p_1(r)&=&\alpha_1r(r-1)+\beta_1r+\gamma_1,\\ 
+   p_2(r)&=&\alpha_2r(r-1)+\beta_2r+\gamma_2.\\ \end{eqnarray*}
+   Suppose $r$ is a real number such that $p_0(n+r)$ is nonzero
+   for all positive integers $n$, and define $$ begin{array} 
+   a_0(r)&=&1,\\ a_1(r)&=&-\dst{p_1(r)\over p_0(r+1)},\\ 
+   a_n(r)&=&-\dst{p_1(n+r-1)a_{n-1}(r)+p_2(n+r-2)a_{n-2}(r)\over
+   p_0(n+r)},\quad n\ge2. end{array} $$ Then the Frobenius 
+   series \begin{equation} y(x,r)=x^r\sum_{n=0}^\infty 
+   a_n(r)x^n \end{equation} satisfies \begin{equation} 
+   Ly(x,r)=p_0(r)x^r. \end{equation} Moreover, \begin{equation}
+   { ial y\over ial r}(x,r)=y(x,r)\ln x+x^r\sum_{n=1}^\infty 
+   a_n'(r) x^n, \end{equation} and \begin{equation} L\left({ 
+   ial y\over ial r}(x,r)\right)=p'_0(r)x^r+x^rp_0(r)\ln x. 
+   \end{equation}"
+Metadata:
+. name: "5pt"
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "364"
+    offset: "374"
+. id: "5e34f054ed69043973713c34"
+

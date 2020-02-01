@@ -1,0 +1,23 @@
+ProtoResult:
+. "Suppose $P_0$, $P_1$, and $P_2$ are polynomials with no 
+   common factor and $P_0$ isn't identically zero. Let $x_0$ be
+   a point such that $P_0(x_0)\ne0$ and let $\rho$ be the 
+   distance from $x_0$ to the nearest zero of $P_0$ in the 
+   complex plane. (If $P_0$ is constant, then $\rho=\infty.)$ 
+   Then every solution of \begin{equation} 
+   P_0(x)y''+P_1(x)y'+P_2(x)y=0 \end{equation} can be 
+   represented by a power series \begin{equation} 
+   y=\sum_{n=0}^\infty a_n(x-x_0)^n \end{equation} that 
+   converges at least on the open interval 
+   $(x_0-\rho,x_0+\rho)$. ( If $P_0$ is nonconstant, so that 
+   $\rho$ is necessarily finite, then the open interval of 
+   convergence of $ $ may be larger than $(x_0-\rho,x_0+\rho)$ 
+   If $P_0$ is constant then $\rho=\infty$ and 
+   $(x_0-\rho,x_0+\rho)=(-\infty,\infty).)$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "319"
+    offset: "329"
+. id: "5e34f054ed69043973713c24"
+

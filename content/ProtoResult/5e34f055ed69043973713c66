@@ -1,0 +1,12 @@
+ProtoResult:
+. "If $m$ is a positive integer, then \begin{equation} 
+   \{e^{ax}, xe^{ax},\dots, x^{m-1}e^{ax}\} \end{equation} is a
+   fundamental set of solutions of \begin{equation} (D-a)^my=0.
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "481"
+    offset: "491"
+. id: "5e34f055ed69043973713c66"
+

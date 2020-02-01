@@ -1,0 +1,13 @@
+ProtoResult:
+. "Suppose $f$ is continuous on $[0,\infty)$ and of 
+   exponential order $s_0$, and $f'$ is piecewise continuous on
+   $[0,\infty)$ Then $f$ and $f'$ have Laplace transforms for 
+   $s > s_0$ and \begin{equation} {\cal L}(f')=s {\cal 
+   L}(f)-f(0). \end{equation}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "413"
+    offset: "423"
+. id: "5e34f055ed69043973713c48"
+

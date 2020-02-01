@@ -1,0 +1,15 @@
+ProtoResult:
+. "Suppose \begin{equation} 
+   F(s)={P(s)\over(s-s_1)(s-s_2)\cdots(s-s_n)}, \end{equation} 
+   where $s_1$, $s_2$ \dots, $s_n$ are distinct and $P$ is a 
+   polynomial of degree less than $n$ Then $$ F(s)={A_1\over 
+   s-s_1}+{A_2\over s-s_2}+\cdots+{A_n\over s-s_n}$$ where 
+   $A_i$ can be computed from by ignoring the factor $s-s_i$ 
+   and setting $s=s_i$ elsewhere."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "407"
+    offset: "417"
+. id: "5e34f055ed69043973713c46"
+

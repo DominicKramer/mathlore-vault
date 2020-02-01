@@ -1,0 +1,12 @@
+ProtoResult:
+. "$[$First Shifting Theorem$]$ If \begin{equation} 
+   F(s)=\int_0^\infty e^{-st} f(t)\,dt \end{equation} is the 
+   Laplace transform of $f(t)$ for $s>s_0$, then $F(s-a)$ is 
+   the Laplace transform of $e^{at}f(t)$ for $s >s_0+a$."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "397"
+    offset: "407"
+. id: "5e34f055ed69043973713c40"
+

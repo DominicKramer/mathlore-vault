@@ -1,0 +1,13 @@
+ProtoDefines:
+. "If $t_0>0$, then the solution of the initial value problem 
+   \begin{equation} ay''+by'+cy=\delta(t-t_0), \quad 
+   y(0)=0,\quad y'(0)=0, \end{equation} is defined to be $$ 
+   y=u(t-t_0)w(t-t_0), $$ where $$ w={\cal L}^{-1}\left(1\over 
+   as^2+bs+c\right). $$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "455"
+    offset: "465"
+. id: "5e34f054ed69043973713c36"
+

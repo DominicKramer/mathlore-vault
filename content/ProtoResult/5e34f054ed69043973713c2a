@@ -1,0 +1,19 @@
+ProtoResult:
+. "Suppose the roots of the indicial equation \begin{equation}
+   ar(r-1)+br+c=0 \end{equation} are $r_1$ and $r_2$. Then the 
+   general solution of the Euler equation \begin{equation} 
+   ax^2y''+bxy'+cy=0 \end{equation} on $(0,\infty)$ is 
+   \begin{eqnarray*} y&=&c_1x^{r_1}+c_2x^{r_2} if $r_1$ and 
+   $r_2$ are distinct real numbers ; \\ y&=&x^{r_1}(c_1+c_2\ln 
+   x) if $r_1=r_2$ ; \\ 
+   y&=&x^{\lambda}\left[c_1\cos\left(\omega\ln x\right)+ 
+   c_2\sin\left(\omega\ln x \right)\right] if 
+   $r_1,r_2=\lambda\pm i\omega$ with $\omega>0$ . 
+   \end{eqnarray*}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "344"
+    offset: "354"
+. id: "5e34f054ed69043973713c2a"
+

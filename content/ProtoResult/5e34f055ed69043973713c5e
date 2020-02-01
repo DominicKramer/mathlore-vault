@@ -1,0 +1,20 @@
+ProtoResult:
+. "Suppose $Ly=0$ is normal on $(a,b)$ and let $y_1$, $y_2$, 
+   \dots, $y_n$ be $n$ solutions of $Ly=0$ on $(a,b)$. Then the
+   following statements are equivalent$$ that is, they are 
+   either all true or all false$:$ \begin{alist} \item The 
+   general solution of $Ly=0$ on $(a,b)$ is 
+   $y=c_1y_1+c_2y_2+\cdots+c_ny_n$ \item 
+   $\{y_1,y_2,\dots,y_n\}$ is a fundamental set of solutions of
+   $Ly=0$ on $(a,b)$ \item $\{y_1,y_2,\dots,y_n\}$ is linearly 
+   independent on $(a,b)$ \item The Wronskian of 
+   $\{y_1,y_2,\dots,y_n\}$ is nonzero at some point in $(a,b)$ 
+   \item The Wronskian of $\{y_1,y_2,\dots,y_n\}$ is nonzero at
+   all points in $(a,b)$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "468"
+    offset: "478"
+. id: "5e34f055ed69043973713c5e"
+

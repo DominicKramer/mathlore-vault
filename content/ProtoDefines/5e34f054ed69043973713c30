@@ -1,0 +1,13 @@
+ProtoDefines:
+. "Let $f$ be defined for $t\ge0$ and let $s$ be a real 
+   number. Then the { \it Laplace transform} of $f$ is the 
+   function $F$ defined by \begin{equation} F(s)=\int_0^\infty 
+   e^{-st} f(t)\,dt, \end{equation} for those values of $s$ for
+   which the improper integral converges."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "393"
+    offset: "403"
+. id: "5e34f054ed69043973713c30"
+

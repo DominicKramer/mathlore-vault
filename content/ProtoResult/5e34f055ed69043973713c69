@@ -1,0 +1,20 @@
+ProtoResult:
+. "A power series $$ f(x)=\sum_{n=0}^\infty a_n(x-x_0)^n $$ 
+   with positive radius of convergence $R$ has derivatives of 
+   all orders in its open interval of convergence, and 
+   successive derivatives can be obtained by repeatedly 
+   differentiating term by term$$ that is, \begin{eqnarray} 
+   f'(x)&=&\dst{\sum_{n=1}^\infty na_n(x-x_0)^{n-1}} ,\\ 
+   f''(x)&=&\dst{\sum_{n=2}^\infty n(n-1)a_n(x-x_0)^{n-2}}, \\ 
+   &\vdots& \\ f^{(k)}(x)&=&\dst{\sum_{n=k}^\infty 
+   n(n-1)\cdots(n-k+1)a_n(x-x_0)^{n-k}} . \end{eqnarray} 
+   Moreover, all of these series have the same radius of 
+   convergence $R$"
+Metadata:
+. name: "10pt"
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "308"
+    offset: "318"
+. id: "5e34f055ed69043973713c69"
+

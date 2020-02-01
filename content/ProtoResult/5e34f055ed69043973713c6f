@@ -1,0 +1,19 @@
+ProtoResult:
+. "Suppose the $n\times n$ matrix $A$ has an eigenvalue 
+   $\lambda_1$ of multiplicity $\ge2$ and the associated 
+   eigenspace has dimension $1$ that is, all 
+   $\lambda_1$-eigenvectors of $A$ are scalar multiples of an 
+   eigenvector ${\bf x}$ Then there are infinitely many vectors
+   ${\bf u}$ such that \begin{equation} (A-\lambda_1I){\bf 
+   u}={\bf x}. \end{equation} Moreover, if ${\bf u}$ is any 
+   such vector then \begin{equation} {\bf y}_1={\bf 
+   x}e^{\lambda_1t}\quad and \quad {\bf y}_2={\bf 
+   u}e^{\lambda_1t}+{\bf x}te^{\lambda_1t} \end{equation} are 
+   linearly independent solutions of ${\bf y}'=A{\bf y}$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "544"
+    offset: "554"
+. id: "5e34f055ed69043973713c6f"
+

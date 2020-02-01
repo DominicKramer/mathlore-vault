@@ -1,0 +1,17 @@
+ProtoResult:
+. "$[$Abel's Formula$]$ Suppose the $n\times n$ matrix 
+   $A=A(t)$ is continuous on $(a,b)$ let ${\bf y}_1$, ${\bf 
+   y}_2$, \dots, ${\bf y}_n$ be solutions of ${\bf y}'=A(t){\bf
+   y}$ on $(a,b)$ and let $t_0$ be in $(a,b)$. Then the 
+   Wronskian of $\{{\bf y}_1,{\bf y}_2,\dots,{\bf y}_n\}$ is 
+   given by \begin{equation} W(t)=W(t_0)\exp\left( 
+   \int^t_{t_0}\big[a_{11}(s)+a_{22}(s)+\cdots+a_{nn}(s)]\, 
+   ds\right), \quad a < t < b. \end{equation} Therefore, either
+   $W$ has no zeros in $(a,b)$ or $W\equiv0$ on $(a,b)$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "524"
+    offset: "534"
+. id: "5e34f055ed69043973713c6d"
+

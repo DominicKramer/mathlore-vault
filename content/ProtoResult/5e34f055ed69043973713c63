@@ -1,0 +1,15 @@
+ProtoResult:
+. "The position vector of an object moving under a central 
+   force sweeps out equal areas in equal times$ $ more 
+   precisely, if $\theta(t_1)\le\theta(t_2)$ then the (signed) 
+   area of the sector $$ \{(x,y)=(r\cos\theta,r\sin\theta)\; 
+   :\; 0\le r\le r(\theta),\; \theta(t_1)\le\theta(t_2)\} $$ { 
+   } is given by $$ A={h(t_2-t_1)\over2}, $$ where 
+   $h=r^2\theta'$ which we have shown to be constant."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "298"
+    offset: "308"
+. id: "5e34f055ed69043973713c63"
+

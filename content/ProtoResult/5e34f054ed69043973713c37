@@ -1,0 +1,14 @@
+ProtoResult:
+. "Let $L$ be as in Theorem~{ } and suppose the indicial 
+   equation $p_0(r)=0$ has a repeated real root $r_1$ Then $$ 
+   y_1(x)=y(x,r_1)=x^{r_1}\sum_{n=0}^\infty a_n(r_1)x^n $$ and 
+   \begin{equation} y_2(x)={ ial y\over ial r}(x,r_1)=y_1(x)\ln
+   x+x^{r_1}\sum_{n=1}^\infty a_n'(r_1)x^n \end{equation} form 
+   a fundamental set of solutions of $Ly=0$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "365"
+    offset: "375"
+. id: "5e34f054ed69043973713c37"
+

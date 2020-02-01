@@ -1,0 +1,15 @@
+ProtoResult:
+. "If $\omega \ne0$ and $m$ is a positive integer, then $$ 
+   begin{array} \{e^{\lambda x}\cos\omega x, xe^{\lambda 
+   x}\cos\omega x, &\dots, x^{m-1}e^{\lambda x}\cos\omega x,\\ 
+   e^{\lambda x}\sin\omega x, xe^{\lambda x}\sin\omega x,& 
+   \dots, x^{m-1}e^{\lambda x}\sin\omega x\} end{array} $$ is a
+   fundamental set of solutions of $$ 
+   [(D-\lambda)^2+\omega^2]^my=0. $$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "482"
+    offset: "492"
+. id: "5e34f055ed69043973713c68"
+

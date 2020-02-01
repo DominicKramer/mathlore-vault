@@ -1,0 +1,31 @@
+ProtoResult:
+. "Let $$ Ly= x^2(\alpha_0+\alpha_1x)y''+x(\beta_0+\beta_1x)y'
+   +(\gamma_0+\gamma_1x)y, $$ where $\alpha_0\ne0$ and define 
+   \begin{eqnarray*} 
+   p_0(r)&=&\alpha_0r(r-1)+\beta_0r+\gamma_0,\\ 
+   p_1(r)&=&\alpha_1r(r-1)+\beta_1r+\gamma_1. \end{eqnarray*} 
+   Suppose $r$ is a real number such that $p_0(n+r)$ is nonzero
+   for all positive integers $n$ and define \begin{equation} 
+   begin{array} a_0(r)&=&1,\\ a_n(r)&=&-\dst{p_1(n+r-1)\over 
+   p_0(n+r)}a_{n-1}(r),\quad n\ge1. end{array} \end{equation} 
+   Let $r_1$ and $r_2$ be the roots of the indicial equation 
+   $p_0(r)=0$ and suppose $r_1=r_2+k$ where $k$ is a positive 
+   integer. Then $$ y_1=x^{r_1}\sum_{n=0}^\infty a_n(r_1)x^n $$
+   is a Frobenius solution of $Ly=0$. Moreover, if we define 
+   \begin{equation} begin{array} a_0(r_2)&=&1,\\ 
+   a_n(r_2)&=&-\dst{p_1(n+r_2-1)\over 
+   p_0(n+r_2)}a_{n-1}(r_2),\quad 1\le n\le k-1, end{array} 
+   \end{equation} and \begin{equation} C=-{p_1(r_1-1)\over 
+   k\alpha_0}a_{k-1}(r_2), \end{equation} then \begin{equation}
+   y_2=x^{r_2}\sum_{n=0}^{k-1}a_n(r_2)x^n+C\left(y_1\ln 
+   x+x^{r_1}\sum_{n=1}^\infty a_n'(r_1)x^n\right) 
+   \end{equation} is also a solution of $Ly=0$ and 
+   $\{y_1,y_2\}$ is a fundamental set of solutions."
+Metadata:
+. name: "5pt"
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "378"
+    offset: "388"
+. id: "5e34f054ed69043973713c39"
+
