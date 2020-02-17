@@ -1,6 +1,6 @@
 ProtoDefines:
-. "[Integers Modulo $n$] The ring $\Z/n\Z{}$ of {\em integers 
-   modulo $n$} is the set of equivalence classes of integers 
+. "[Integers Modulo $n$] The ring $\Z/n\Z{}$ of \term{integers 
+   modulo} $n$ is the set of equivalence classes of integers 
    modulo $n$. It is equipped with its natural ring structure: 
    $$ (a + n\mathbf{Z}) + (b + n\mathbf{Z}) = (a+b) + 
    n\mathbf{Z} $$ $$ (a + n\mathbf{Z}) \cdot (b + n\mathbf{Z}) 

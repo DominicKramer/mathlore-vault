@@ -1,5 +1,5 @@
 ProtoDefines:
-. "A {\em primitive root} modulo an integer $n$ is an element 
+. "A \term{primitive root} modulo an integer $n$ is an element 
    of $(\Z/n\Z{})^*$ of order $\varphi(n)$."
 Metadata:
 . name: "Primitive Root"

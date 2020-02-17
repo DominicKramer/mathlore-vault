@@ -1,5 +1,5 @@
 ProtoDefines:
-. "A set $D$ is {\it dense in the reals } if every open 
+. "A set $D$ is \term{ dense in the reals } if every open 
    interval $(a,b)$ contains a member of $D$."
 Metadata:
 . reference:

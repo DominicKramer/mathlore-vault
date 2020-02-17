@@ -2,13 +2,13 @@ ProtoDefines:
 . "If $f$ is bounded on a rectangle $R$ in $\R^n$ and ${\bf 
    P}=\{R_1,R_2, \dots,R_k\}$ is a partition of $R$, let $$ 
    M_j=\sup_{\mathbf{X}\in R_j}f(\mathbf{X}),\quad m_j= 
-   \inf_{\mathbf{X}\in R_j}f(\mathbf{X}). $$ The {\it upper sum
+   \inf_{\mathbf{X}\in R_j}f(\mathbf{X}). $$ The \term{ upper sum
    } of $f$ over ${\bf P}$ is $$ S({\bf P})=\sum_{j=1}^k 
-   M_jV(R_j), $$ and the {\it upper integral of $f$ over } $R$,
+   M_jV(R_j), $$ and the \term{ upper integral of $f$ over } $R$,
    denoted by $$ \overline{\int_R}\,f(\mathbf{X})\,d\mathbf{X},
-   $$ is the infimum of all upper sums. The {\it lower sum of 
+   $$ is the infimum of all upper sums. The \term{ lower sum of 
    $f$ over } ${\bf P}$ is $$ s({\bf P})=\sum_{j=1}^k 
-   m_jV(R_j), $$ and the {\it lower integral of $f$ over }$R$, 
+   m_jV(R_j), $$ and the \term{ lower integral of $f$ over }$R$, 
    denoted by $$ \underline{\int_R}\, 
    f(\mathbf{X})\,d\mathbf{X}, $$ is the supremum of all lower 
    sums."

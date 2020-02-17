@@ -1,5 +1,5 @@
 ProtoDefines:
-. "A sequence $\{u_n\}$ in a metric space $(A,\rho)$ {\it 
+. "A sequence $\{u_n\}$ in a metric space $(A,\rho)$ \term{ 
    converges } to $u\in A$ if \begin{equation} 
    \lim_{n\to\infty}\rho(u_n,u)=0. \end{equation} In this case 
    we say that $\lim_{n\to\infty}u_n=u$."

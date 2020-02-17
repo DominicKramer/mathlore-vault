@@ -1,9 +1,9 @@
 ProtoDefines:
-. "A set $T$ is {\it totally bounded } if for every 
+. "A set $T$ is \term{ totally bounded } if for every 
    $\epsilon>0$ there is a finite set $T_\epsilon$ with the 
    following property: if $t\in T$, there is an $s\in 
    T_\epsilon$ such that $\rho(s,t)<\epsilon$. We say that 
-   $T_\epsilon$ is a {\it finite $\epsilon$-net for $T$ }."
+   $T_\epsilon$ is a \term{ finite $\epsilon$-net for $T$ }."
 Metadata:
 . reference:
   . source: "@TrenchRealAnalysis"

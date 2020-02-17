@@ -1,7 +1,7 @@
 ProtoDefines:
-. "The {\it diameter } of a nonempty subset $S$ of $A$ is $$ 
+. "The \term{ diameter } of a nonempty subset $S$ of $A$ is $$ 
    d(S)=\sup\set{\rho(u,v)}{u,\, v\in T}. $$ If $d(S)<\infty$ 
-   then $S$ is {\it bounded }."
+   then $S$ is \term{ bounded }."
 Metadata:
 . reference:
   . source: "@TrenchRealAnalysis"

@@ -1,6 +1,6 @@
 ProtoDefines:
 . "If $\mathbf{A}=[a_{ij}]$ is an $n \times n$ matrix, then $$
-   \max\set{\sum_{j=1}^n |a_{ij}|}{1\le i\le n} $$ is the {\it 
+   \max\set{\sum_{j=1}^n |a_{ij}|}{1\le i\le n} $$ is the \term{ 
    infinity norm of } $A$ denoted by $\|A\|_\infty$."
 Metadata:
 . reference:

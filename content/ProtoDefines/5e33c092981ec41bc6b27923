@@ -2,13 +2,13 @@ ProtoDefines:
 . "If $f$ is bounded on $[a,b]$ and $P=\{x_0,x_1, \dots,x_n\}$
    is a partition of $[a,b]$, let \begin{eqnarray*} M_j 
    =\sup_{x_{j-1}\le x\le x_j}f(x)\\ and \\ m_j 
-   =\inf_{x_{j-1}\le x\le x_j}f(x). \end{eqnarray*} The {\it 
+   =\inf_{x_{j-1}\le x\le x_j}f(x). \end{eqnarray*} The \term{ 
    upper sum of $f$ over $P$ } is $$ S(P)=\sum_{j=1}^n 
-   M_j(x_j-x_{j-1}), $$ and the {\it upper integral of $f$ over
+   M_j(x_j-x_{j-1}), $$ and the \term{ upper integral of $f$ over
    }, $[a,b]$, denoted by $$ \overline{\int_a^b} f(x)\,dx, $$ 
-   is the infimum of all upper sums. The {\it lower sum of $f$ 
+   is the infimum of all upper sums. The \term{ lower sum of $f$ 
    over $P$ } is $$ s(P)=\sum_{j=1}^n m_j(x_j-x_{j-1}), $$ and 
-   the {\it lower integral of $f$ over } $[a,b]$, denoted by $$
+   the \term{ lower integral of $f$ over } $[a,b]$, denoted by $$
    \underline{\int_a^b}f(x)\,dx, $$ is the supremum of all 
    lower sums."
 Metadata:

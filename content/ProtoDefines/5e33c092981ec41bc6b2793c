@@ -1,10 +1,10 @@
 ProtoDefines:
-. "A sequence $\{s_n\}$ {\it converges to a limit $s$ } if for
+. "A sequence $\{s_n\}$ \term{ converges to a limit $s$ } if for
    every $\epsilon>0$ there is an integer $N$ such that 
    \begin{equation} |s_n-s|<\epsilon \quad if\quad n\ge N. 
-   \end{equation} In this case we say that $\{s_n\}$ is {\it 
+   \end{equation} In this case we say that $\{s_n\}$ is \term{ 
    convergent } and write $$ \lim_{n\to\infty}s_n=s. $$ A 
-   sequence that does not converge {\it diverges }, or is {\it 
+   sequence that does not converge \term{ diverges }, or is \term{ 
    divergent }"
 Metadata:
 . reference:

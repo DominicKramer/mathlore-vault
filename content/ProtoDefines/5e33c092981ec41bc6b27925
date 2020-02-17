@@ -1,6 +1,6 @@
 ProtoDefines:
 . "Let $f$ and $g$ be defined on $[a,b]$. We say that $f$ is 
-   {\it Riemann}- {\it Stieltjes} {\it integrable with respect 
+   \term{ Riemann}- \term{ Stieltjes} \term{ integrable with respect 
    to $g$ on } $[a,b]$ if there is a number $L$ with the 
    following property: For every $\epsilon>0$, there is a 
    $\delta>0$ such that \begin{equation} \left|\sum_{j=1}^n 
@@ -8,10 +8,10 @@ ProtoDefines:
    \end{equation} provided only that $P=\{x_0,x_1, \dots,x_n\}$
    is a partition of $[a,b]$ such that $\|P\|<\delta$ and $$ 
    x_{j-1}\le c_j\le x_j,\quad j=1,2, \dots,n. $$ In this case,
-   we say that $L$ is {\it the Riemann-Stieltjes integral of 
+   we say that $L$ is \term{ the Riemann-Stieltjes integral of 
    $f$ with respect to $g$ over } $[a,b]$, and write $$ 
    \int_a^b f(x)\,dg (x)=L. $$ The sum $$ \sum_{j=1}^n 
-   f(c_j)\left[g(x_j)-g(x_{j-1})\right] $$ in is {\it a 
+   f(c_j)\left[g(x_j)-g(x_{j-1})\right] $$ in is \term{ a 
    Riemann-Stieltjes sum of $f$ with respect to $g$ over the 
    partition $P$ }."
 Metadata:

@@ -3,7 +3,7 @@ ProtoDefines:
    there is a constant $\alpha$ in $(0,1)$ such that 
    \begin{equation} \rho(f(u),f(v))\le\alpha\rho(u,v) \quad for
    all\quad (u,v)\in A\times A, \end{equation} then $f$ is a 
-   {\it contraction } of $(A,\rho)$."
+   \term{ contraction } of $(A,\rho)$."
 Metadata:
 . reference:
   . source: "@TrenchRealAnalysis"

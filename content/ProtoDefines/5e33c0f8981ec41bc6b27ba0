@@ -1,6 +1,6 @@
 ProtoDefines:
 . "If $G$ is a group and $H$ is a subset of $G$, then $H$ is a
-   {\em subgroup} if $H$ is a group under the group operation 
+   \term{subgroup} if $H$ is a group under the group operation 
    on $G$."
 Metadata:
 . name: "Subgroup"

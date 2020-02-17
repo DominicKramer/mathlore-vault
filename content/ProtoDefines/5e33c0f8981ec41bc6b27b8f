@@ -1,5 +1,5 @@
 ProtoDefines:
-. "A {\em field} $K$ is a ring such that for every nonzero 
+. "A \term{field} $K$ is a ring such that for every nonzero 
    element $a\in K$ there is an element $b\in K$ such that 
    $ab=1$."
 Metadata:

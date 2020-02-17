@@ -1,11 +1,11 @@
 ProtoDefines:
-. "A {\it normed vector space } is a vector space $A$ together
+. "A \term{ normed vector space } is a vector space $A$ together
    with a real-valued function $N$ defined on $A$, such that if
    $u$ and $v$ are arbitrary vectors in $A$ and $a$ is a real 
    number, then \begin{alist} \item $N(u)\ge 0$ with equality 
    if and only if $u=0$; \item $N(au)=|a|N(u)$; \item 
-   $N(u+v)\le N(u)+N(v)$. \end{alist} We say that $N$ is a {\it
-   norm } on $A$, and $(A,N)$ is a {\it normed vector space }."
+   $N(u+v)\le N(u)+N(v)$. \end{alist} We say that $N$ is a \term{
+   norm } on $A$, and $(A,N)$ is a \term{ normed vector space }."
 Metadata:
 . reference:
   . source: "@TrenchRealAnalysis"

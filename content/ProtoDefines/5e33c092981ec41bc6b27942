@@ -1,10 +1,10 @@
 ProtoDefines:
-. "A sequence $\{s_n\}$ is {\it nondecreasing } if $s_n\ge 
-   s_{n-1}$ for all $n$, or {\it nonincreasing } if $s_n\le 
-   s_{n-1}$ for all $n$ A {\it monotonic sequence } is a 
+. "A sequence $\{s_n\}$ is \term{ nondecreasing } if $s_n\ge 
+   s_{n-1}$ for all $n$, or \term{ nonincreasing } if $s_n\le 
+   s_{n-1}$ for all $n$ A \term{ monotonic sequence } is a 
    sequence that is either nonincreasing or nondecreasing. If 
-   $s_n>s_{n-1}$ for all $n$, then $\{s_n\}$ is {\it increasing
-   }, while if $s_n<s_{n-1}$ for all $n$, $\{s_n\}$ is {\it 
+   $s_n>s_{n-1}$ for all $n$, then $\{s_n\}$ is \term{ increasing
+   }, while if $s_n<s_{n-1}$ for all $n$, $\{s_n\}$ is \term{ 
    decreasing }."
 Metadata:
 . reference:

@@ -1,13 +1,13 @@
 ProtoDefines:
-. "A function $f$ is {\it continuous on an open interval } 
+. "A function $f$ is \term{ continuous on an open interval } 
    $(a,b)$ if it is continuous at every point in $(a,b)$. If, 
    in addition, \begin{eqnarray} f(b-)=f(b) \\ or \\ f(a+)=f(a)
-   \end{eqnarray} then $f$ is {\it continuous on $(a,b]$ or 
+   \end{eqnarray} then $f$ is \term{ continuous on $(a,b]$ or 
    $[a,b)$ }, respectively. If $f$ is continuous on $(a,b)$ and
-   and both hold, then {\it $f$ is continuous on $[a,b]$ }. 
+   and both hold, then \term{ $f$ is continuous on $[a,b]$ }. 
    More generally, if $S$ is a subset of $D_f$ consisting of 
    finitely or infinitely many disjoint intervals, then $f$ is 
-   {\it continuous on $S$ } if $f$ is continuous on every 
+   \term{ continuous on $S$ } if $f$ is continuous on every 
    interval in $S$. (Henceforth, in connection with functions 
    of one variable, whenever we say ``$f$ is continuous on 
    $S$'' we mean that $S$ is a set of this kind.)"

@@ -2,7 +2,7 @@ ProtoDefines:
 . "Suppose that $\{F_n\}$ is a sequence of functions on $D$ 
    and the sequence of values $\{F_n(x)\}$ converges for each 
    $x$ in some subset $S$ of $D$. Then we say that $\{F_n\}$ 
-   {\it converges pointwise on $S$ to the limit function } $F$,
+   \term{ converges pointwise on $S$ to the limit function } $F$,
    defined by $$ F(x)=\lim_{n\to\infty}F_n(x),\quad x\in S. $$"
 Metadata:
 . reference:

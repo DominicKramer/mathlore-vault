@@ -1,5 +1,5 @@
 ProtoDefines:
-. "A function $f$ is {\it uniformly continuous } on a subset 
+. "A function $f$ is \term{ uniformly continuous } on a subset 
    $S$ of its domain if, for every $\epsilon >0$, there is a 
    $\delta>0$ such that $$ |f(x)-f(x')|<\epsilon \ whenever \ 
    |x-x'|<\delta \ and \ x,x'\in S. $$"

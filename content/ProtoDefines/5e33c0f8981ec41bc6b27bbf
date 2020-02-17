@@ -1,7 +1,7 @@
 ProtoDefines:
 . "Let $B$ be a positive integer. If $n$ is a positive integer
    with prime factorization $n=\prod p_i^{e_i}$, then $n$ is 
-   {\em $B$-power smooth} if $p_i^{e_i}\leq B$ for all $i$."
+   \term{ $B$-power smooth} if $p_i^{e_i}\leq B$ for all $i$."
 Metadata:
 . name: "Power Smooth"
 . reference:

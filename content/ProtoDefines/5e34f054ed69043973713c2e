@@ -1,5 +1,5 @@
 ProtoDefines:
-. "An { \it Euler equation } is an equation that can be 
+. "An \term{ Euler equation } is an equation that can be 
    written in the form \begin{equation} ax^2y''+bxy'+cy=0, 
    \end{equation} where $a,b$, and $c$ are real constants and 
    $a\ne0$."

@@ -1,9 +1,9 @@
 ProtoDefines:
-. "A function $f$ is {\it differentiable } at an interior 
+. "A function $f$ is \term{ differentiable } at an interior 
    point $x_0$ of its domain if the difference quotient $$ 
    \frac{f(x)-f(x_0)}{ x-x_0},\quad x\ne x_0, $$ approaches a 
    limit as $x$ approaches $x_0$, in which case the limit is 
-   called the {\it derivative of $f$ at $x_0$ }, and is denoted
+   called the \term{ derivative of $f$ at $x_0$ }, and is denoted
    by $f'(x_0)$; thus, \begin{equation} f'(x_0)=\lim_{x\to 
    x_0}\frac{f(x)-f(x_0)}{ x-x_0}. \end{equation} It is 
    sometimes convenient to let $x=x_0+h$ and write as $$ 

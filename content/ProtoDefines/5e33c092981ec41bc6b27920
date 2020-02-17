@@ -1,11 +1,11 @@
 ProtoDefines:
-. "Let $f$ be defined on $[a,b]$. We say that $f$ is {\it 
+. "Let $f$ be defined on $[a,b]$. We say that $f$ is \term{ 
    Riemann integrable on } $[a,b]$ if there is a number $L$ 
    with the following property: For every $\epsilon>0$, there 
    is a $\delta>0$ such that $$ \left|\sigma-L \right|<\epsilon
    $$ if $\sigma$ is any Riemann sum of $f$ over a partition 
    $P$ of $[a,b]$ such that $\|P\|<\delta$. In this case, we 
-   say that $L$ is {\it the Riemann integral of $f$ over } 
+   say that $L$ is \term{ the Riemann integral of $f$ over } 
    $[a,b]$, and write $$ \int_a^b f(x)\,dx=L. $$"
 Metadata:
 . reference:

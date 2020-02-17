@@ -3,7 +3,7 @@ ProtoDefines:
    $\R^n$, and let \begin{equation} f_S(\mathbf{X})=\left\{ 
    begin{array} f(\mathbf{X}),&\mathbf{X}\in S,\\[2\jot] 
    0,&\mathbf{X}\not\in S.end{array}\right. \end{equation} Let 
-   $R$ be a rectangle containing $S$. Then {\it the integral of
+   $R$ be a rectangle containing $S$. Then \term{ the integral of
    $f$ over $S$ } is defined to be $$ \int_S 
    f(\mathbf{X})\,d\mathbf{X}=\int_R 
    f_S(\mathbf{X})\,d\mathbf{X} $$ if $\int_R f_S(\mathbf{X})\,

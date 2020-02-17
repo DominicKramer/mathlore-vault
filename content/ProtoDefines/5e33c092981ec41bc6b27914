@@ -1,7 +1,7 @@
 ProtoDefines:
 . "Suppose that $f$ and $g$ are functions with domains $D_f$ 
    and $D_g$. If $D_g$ has a nonempty subset $T$ such that 
-   $g(x)\in D_f$ whenever $x\in T$, then the {\it composite 
+   $g(x)\in D_f$ whenever $x\in T$, then the \term{ composite 
    function } $f\circ g$ is defined on $T$ by $$ (f\circ 
    g)(x)=f(g(x)). $$"
 Metadata:

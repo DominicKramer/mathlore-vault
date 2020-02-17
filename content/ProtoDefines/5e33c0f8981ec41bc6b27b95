@@ -1,6 +1,6 @@
 ProtoDefines:
 . "Let $n\in\mathbf{N}$ and $x\in\mathbf{Z}$ and suppose that 
-   $\gcd(x,n)=1$. The {\em order} of $x$ modulo $n$ is the 
+   $\gcd(x,n)=1$. The \term{order} of $x$ modulo $n$ is the 
    smallest $m\in\mathbf{N}$ such that $$ x^m \equiv 1\pmod{n}.
    $$"
 Metadata:

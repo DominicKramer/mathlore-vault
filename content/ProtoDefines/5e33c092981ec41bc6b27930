@@ -5,7 +5,7 @@ ProtoDefines:
    c\mathbf{A}=[ca_{ij}]; $$ that is, $c\mathbf{A}$ is obtained
    by multiplying every entry of $\mathbf{A}$ by $c$. \item If 
    $\mathbf{A}=[a_{ij}]$ and $\mathbf{B}=[b_{ij}]$ are $m\times
-   n$ matrices, then the {\it sum } $\mathbf{A}+ \mathbf{B}$ is
+   n$ matrices, then the \term{ sum } $\mathbf{A}+ \mathbf{B}$ is
    the $m\times n$ matrix $$ 
    \mathbf{A}+\mathbf{B}=[a_{ij}+b_{ij}]; $$ that is, the sum 
    of two $m\times n$ matrices is obtained by adding 
@@ -13,7 +13,7 @@ ProtoDefines:
    defined unless they have the same number of rows and the 
    same number of columns. \item If $\mathbf{A}=[a_{ij}]$ is an
    $m\times p$ matrix and $\mathbf{B}= [b_{ij}]$ is a $p\times 
-   n$ matrix, then the {\it product } $\mathbf{C}=\mathbf{AB}$ 
+   n$ matrix, then the \term{ product } $\mathbf{C}=\mathbf{AB}$ 
    is the $m\times n$ matrix with $$ 
    c_{ij}=a_{i1}b_{1j}+a_{i2}b_{2j}+\cdots+a_{ip}b_{pj}=\sum^p_{k=1}
    a_{ik}b_{kj},\quad 1\le i\le m,\ 1\le j\le n. $$ Thus, the 

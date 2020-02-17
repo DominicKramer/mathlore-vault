@@ -1,5 +1,5 @@
 ProtoDefines:
-. "A set $T$ is {\it compact } if it has the Heine-Borel 
+. "A set $T$ is \term{ compact } if it has the Heine-Borel 
    property."
 Metadata:
 . reference:

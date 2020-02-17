@@ -3,9 +3,9 @@ ProtoDefines:
    be finite or $\infty$. For $a\le x<x_0$, define 
    \begin{eqnarray*} S_f(x;x_0) = \sup_{x\le t<x_0}f(t)\\ and 
    \\ I_f(x;x_0) = \inf_{x\le t<x_0}f(t). \end{eqnarray*} Then 
-   the {\it left limit superior of $f$ at $x_0$} is defined to 
+   the \term{ left limit superior of $f$ at $x_0$} is defined to 
    be $$ \limsup_{x\to x_0-} f(x)=\lim_{x\to x_0-}S_f(x;x_0), 
-   $$ and the {\it left limit inferior of $f$ at $x_0$} is 
+   $$ and the \term{ left limit inferior of $f$ at $x_0$} is 
    defined to be $$ \liminf_{x\to x_0-}f(x)=\lim_{x\to 
    x_0-}I_f(x;x_0). $$ (If $x_0=\infty$, we define 
    $x_0-=\infty$.)"

@@ -1,5 +1,5 @@
 ProtoDefines:
-. "We say that $f(x)$ {\it approaches $\infty$ as $x$ 
+. "We say that $f(x)$ \term{ approaches $\infty$ as $x$ 
    approaches $x_0$ from the left }, and write $$ \lim_{x\to 
    x_0-} f(x)=\infty \quad or \quad f(x_0-)=\infty, $$ if $f$ 
    is defined on an interval $(a,x_0)$ and, for each real 

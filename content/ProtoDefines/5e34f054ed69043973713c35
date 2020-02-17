@@ -1,5 +1,5 @@
 ProtoDefines:
-. "The { \it convolution } $f*g$ of two functions $f$ and $g$ 
+. "The \term{ convolution } $f*g$ of two functions $f$ and $g$ 
    is defined by $$ (f*g)(t)=\int_0^t f(\tau)g(t-\tau)\,d\tau. 
    $$"
 Metadata:

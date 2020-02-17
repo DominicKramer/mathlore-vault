@@ -1,5 +1,5 @@
 ProtoDefines:
-. "A {\em quadratic irrational} is a real number 
+. "A \term{quadratic irrational} is a real number 
    $\alpha\in\mathbf{R}$ that is irrational and satisfies a 
    quadratic polynomial with coefficients in $\mathbf{Q}$."
 Metadata:

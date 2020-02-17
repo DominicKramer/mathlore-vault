@@ -1,8 +1,8 @@
 ProtoDefines:
-. "\begin{alist} \item We say that $f$ is {\it differentiable 
+. "\begin{alist} \item We say that $f$ is \term{ differentiable 
    on the closed interval } $[a,b]$ if $f$ is differentiable on
    the open interval $(a,b)$ and $f_+'(a)$ and $f_-'(b)$ both 
-   exist. \item We say that $f$ is {\it continuously 
+   exist. \item We say that $f$ is \term{ continuously 
    differentiable on } $[a,b]$ if $f$ is differentiable on 
    $[a,b]$, $f'$ is continuous on $(a,b)$, $f_+'(a)=f'(a+)$, 
    and $f_-'(b)=f'(b-)$. \end{alist}"

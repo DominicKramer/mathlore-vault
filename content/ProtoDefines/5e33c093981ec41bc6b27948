@@ -1,5 +1,5 @@
 ProtoDefines:
-. "A sequence $\{t_k\}$ is a {\it subsequence } of a sequence 
+. "A sequence $\{t_k\}$ is a \term{ subsequence } of a sequence 
    $\{s_n\}$ if $$ t_k=s_{n_k},\quad k\ge0, $$ where $\{n_k\}$ 
    is an increasing infinite sequence of integers in the domain
    of $\{s_n\}$. We denote the subsequence $\{t_k\}$ by 

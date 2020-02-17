@@ -1,5 +1,5 @@
 ProtoDefines:
-. "An {\em abelian group} is a group $G$ such that $ab=ba$ for
+. "An \term{abelian group} is a group $G$ such that $ab=ba$ for
    every $a,b\in G$."
 Metadata:
 . name: "Abelian Group"

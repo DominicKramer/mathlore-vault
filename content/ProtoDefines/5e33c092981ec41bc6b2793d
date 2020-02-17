@@ -1,5 +1,5 @@
 ProtoDefines:
-. "A transformation $\mathbf{F}: \R^n\to \R^n$ is {\it regular
+. "A transformation $\mathbf{F}: \R^n\to \R^n$ is \term{ regular
    } on an open set $S$ if $\mathbf{F}$ is one-to-one and 
    continuously differentiable on $S$, and 
    $J\mathbf{F}(\mathbf{X})\ne0$ if $\mathbf{X}\in S$. We will 

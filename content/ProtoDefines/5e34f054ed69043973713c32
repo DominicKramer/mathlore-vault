@@ -1,9 +1,9 @@
 ProtoDefines:
-. "A function $f$ is said to be { \it of exponential order } 
+. "A function $f$ is said to be \term{ of exponential order } 
    $s_0$ if there are constants $M$ and $t_0$ such that 
    \begin{equation} |f(t)|\le Me^{s_0t},\quad t\ge t_0. 
    \end{equation} In situations where the specific value of 
-   $s_0$ is irrelevant we say simply that $f$ is { \it of 
+   $s_0$ is irrelevant we say simply that $f$ is \term{ of 
    exponential order }."
 Metadata:
 . reference:

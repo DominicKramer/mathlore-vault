@@ -1,9 +1,9 @@
 ProtoDefines:
-. "If $f$ is bounded on $[a,b]$, the {\it oscillation of $f$ 
+. "If $f$ is bounded on $[a,b]$, the \term{ oscillation of $f$ 
    on } $[a,b]$ is defined by $$ W_f[a,b]=\sup_{a\le x,x'\le 
    b}|f(x)-f(x')|, $$ which can also be written as $$ 
    W_f[a,b]=\sup_{a\le x\le b}f(x)-\inf_{a\le x\le b}f(x) $$ ( 
-   Exercise~ ). If $a<x<b$, the {\it oscillation of $f$ at $x$ 
+   Exercise~ ). If $a<x<b$, the \term{ oscillation of $f$ at $x$ 
    } is defined by $$ w_f(x)=\lim_{h\to0+}W_f(x-h,x+h). $$ The 
    corresponding definitions for $x=a$ and $x=b$ are $$ 
    w_f(a)=\lim_{h\to0+}W_f(a,a+h) \quad and \quad 

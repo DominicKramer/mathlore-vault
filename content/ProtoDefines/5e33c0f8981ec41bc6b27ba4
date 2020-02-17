@@ -3,7 +3,7 @@ ProtoDefines:
    \left(\frac{a}{p}\right) = \begin{cases} 0 & if $\gcd(a,p) 
    \neq 1$ ,\\ +1 & if $a$ is a quadratic residue, and \\ -1 & 
    if $a$ is a quadratic nonresidue . \end{cases} $$ We call 
-   this symbol the {\em Legendre Symbol} ."
+   this symbol the \term{Legendre Symbol}."
 Metadata:
 . name: "Legendre Symbol"
 . reference:

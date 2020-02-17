@@ -2,10 +2,10 @@ ProtoDefines:
 . "An infinite series of the form \begin{equation} 
    \sum_{n=0}^\infty a_n(x-x_0)^n, \end{equation} where $x_0$ 
    and $a_0$, $a_1$ \dots, $a_n$ \dots are constants, is called
-   a { \it power series in } $x-x_0$ We say that the power 
-   series { \it converges } for a given $x$ if the limit $$ 
+   a \term{ power series } in $x-x_0$ We say that the power 
+   series \term{ converges } for a given $x$ if the limit $$ 
    \lim_{N\to\infty} \sum_{n=0}^Na_n(x-x_0)^n $$ exists$; $ 
-   otherwise, we say that the power series { \it diverges } for
+   otherwise, we say that the power series \term{ diverges } for
    the given $x$"
 Metadata:
 . reference:

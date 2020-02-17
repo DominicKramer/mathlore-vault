@@ -1,12 +1,12 @@
 ProtoDefines:
-. "A function $f$ is {\it piecewise continuous } on $[a,b]$ if
+. "A function $f$ is \term{ piecewise continuous } on $[a,b]$ if
    \begin{alist} \item $f(x_0+)$ exists for all $x_0$ in 
    $[a,b)$; \item $f(x_0-)$ exists for all $x_0$ in $(a,b]$; 
    \item $f(x_0+)=f(x_0-)=f(x_0)$ for all but finitely many 
    points $x_0$ in $(a,b)$. \end{alist} If c fails to hold at 
-   some $x_0$ in $(a,b)$, $f$ has a {\it jump discontinuity at 
-   $x_0$ }. Also, $f$ has a {\it jump discontinuity at $a$ } if
-   $f(a+)\ne f(a)$ or {\it at } $b$ if $f(b-)\ne f(b)$."
+   some $x_0$ in $(a,b)$, $f$ has a \term{ jump discontinuity at 
+   $x_0$ }. Also, $f$ has a \term{ jump discontinuity at $a$ } if
+   $f(a+)\ne f(a)$ or \term{ at } $b$ if $f(b-)\ne f(b)$."
 Metadata:
 . reference:
   . source: "@TrenchRealAnalysis"

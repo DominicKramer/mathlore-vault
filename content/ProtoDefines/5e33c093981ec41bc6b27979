@@ -1,5 +1,5 @@
 ProtoDefines:
-. "A function $f$ is {\it uniformly continuous } on a subset 
+. "A function $f$ is \term{ uniformly continuous } on a subset 
    $S$ of $D_f$ if for each $\epsilon>0$ there is a $\delta>0$ 
    such that $$ \sigma(f(u),f(v))<\epsilon \quad whenever \quad
    \rho(u,v)<\delta \quad and \quad u,v\in S. $$"

@@ -1,20 +1,20 @@
 ProtoDefines:
 . "If $\{a_n\}_k^\infty$ is an infinite sequence of real 
-   numbers, the symbol $$ \sum_{n=k}^\infty a_n $$ is an {\it 
-   infinite series }, and $a_n$ is the {\it $n$th term } of the
-   series. We say that $\sum_{n=k}^\infty a_n$ {\it converges 
+   numbers, the symbol $$ \sum_{n=k}^\infty a_n $$ is an \term{ 
+   infinite series }, and $a_n$ is the \term{ $n$th term } of the
+   series. We say that $\sum_{n=k}^\infty a_n$ \term{ converges 
    to the sum $A$ }, and write $$ \sum_{n=k}^\infty a_n=A, $$ 
    if the sequence $\{A_n\}_k^\infty$ defined by $$ 
    A_n=a_k+a_{k+1}+\cdots+a_n,\quad n\ge k, $$ converges to 
-   $A$. The finite sum $A_n$ is the {\it $n$th partial sum of }
+   $A$. The finite sum $A_n$ is the \term{ $n$th partial sum of }
    $\sum_{n=k}^\infty a_n$. If $\{A_n\}_k^\infty$ diverges, we 
-   say that $\sum_{n=k}^\infty a_n$ {\it diverges }; in 
+   say that $\sum_{n=k}^\infty a_n$ \term{ diverges }; in 
    particular, if $\lim_{n\to\infty}A_n =\infty$ or $-\infty$, 
-   we say that $\sum_{n=k}^\infty a_n$ {\it diverges to 
+   we say that $\sum_{n=k}^\infty a_n$ \term{ diverges to 
    $\infty$ or $-\infty$ }, and write $$ \sum_{n=k}^\infty 
    a_n=\infty \quad or\quad \sum_{n=k}^\infty a_n= -\infty. $$ 
    A divergent infinite series that does not diverge to 
-   $\pm\infty$ is said to {\it oscillate }, or {\it be 
+   $\pm\infty$ is said to \term{ oscillate }, or \term{ be 
    oscillatory }."
 Metadata:
 . reference:

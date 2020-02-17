@@ -1,10 +1,10 @@
 ProtoDefines:
-. "We say that $f$ is {\it continuous } at $\widehat u$ if 
+. "We say that $f$ is \term{ continuous } at $\widehat u$ if 
    $\widehat u\in D_f$ and for each $\epsilon>0$ there is a 
    $\delta>0$ such that \begin{equation} \sigma(f(u),f(\widehat
    u))<\epsilon \quad if \quad u\in D_f\cap N_\delta(\widehat 
    u). \end{equation} If $f$ is continuous at every point of a 
-   set $S$, then $f$ is {\it continuous on } S."
+   set $S$, then $f$ is \term{ continuous on } S."
 Metadata:
 . reference:
   . source: "@TrenchRealAnalysis"

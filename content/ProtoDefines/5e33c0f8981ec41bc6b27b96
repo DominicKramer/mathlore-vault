@@ -1,7 +1,7 @@
 ProtoDefines:
-. "[Euler's $\varphi$-function] For $n\in\mathbf{N}$, let $$ 
+. "For $n\in\mathbf{N}$, let $$ 
    \varphi(n) = \#\{a \in \mathbf{N} : a \leq n and 
-   \gcd(a,n)=1\}. $$"
+   \gcd(a,n)=1\}. $$  This is called \term{Euler's $\varphi$-function}."
 Metadata:
 . reference:
   . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"

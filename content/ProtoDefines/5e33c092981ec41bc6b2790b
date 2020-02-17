@@ -1,10 +1,10 @@
 ProtoDefines:
-. "\begin{alist} \item We say that $f$ is {\it continuous at 
+. "\begin{alist} \item We say that $f$ is \term{ continuous at 
    $x_0$ } if $f$ is defined on an open interval $(a,b)$ 
    containing $x_0$ and $\lim_{x\to x_0}f(x)=f(x_0)$. \item We 
-   say that $f$ is {\it continuous from the left at $x_0$ } if 
+   say that $f$ is \term{ continuous from the left at $x_0$ } if 
    $f$ is defined on an open interval $(a,x_0)$ and 
-   $f(x_0-)=f(x_0)$. \item We say that $f$ is {\it continuous 
+   $f(x_0-)=f(x_0)$. \item We say that $f$ is \term{ continuous 
    from the right at $x_0$ } if $f$ is defined on an open 
    interval $(x_0,b)$ and $f(x_0+)=f(x_0)$. \end{alist}"
 Metadata:

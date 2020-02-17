@@ -1,7 +1,7 @@
 ProtoDefines:
 . "Suppose that $r\ge1$ and all partial derivatives of $f$ of 
    order $\le r-1$ are differentiable in a neighborhood of 
-   $\mathbf{X}_0$. Then the $r$th {\it differential of $f$ at }
+   $\mathbf{X}_0$. Then the $r$th \term{ differential of $f$ at }
    $\mathbf{X}_0$, denoted by $d^{(r)}_{\mathbf{X}_0}f$, is 
    defined by \begin{equation} 
    d^{(r)}_{\mathbf{X}_0}f=\sum_{i_1,i_2, \dots,i_r=1}^n \frac{

@@ -1,8 +1,8 @@
 ProtoDefines:
-. "We say that $f$ is {\it absolutely integrable on } $[a,b)$ 
+. "We say that $f$ is \term{ absolutely integrable on } $[a,b)$ 
    if $f$ is locally integrable on $[a,b)$ and 
    $\int_a^b|f(x)|\,dx<\infty$. In this case we also say that 
-   $\int_a^b f(x)\,dx$ {\it converges absolutely } or {\it is 
+   $\int_a^b f(x)\,dx$ \term{ converges absolutely } or \term{ is 
    absolutely convergent }."
 Metadata:
 . reference:

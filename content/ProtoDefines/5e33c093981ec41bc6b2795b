@@ -1,5 +1,5 @@
 ProtoDefines:
-. "A series $\sum a_n$ {\it converges absolutely }, or is {\it
+. "A series $\sum a_n$ \term{ converges absolutely }, or is \term{
    absolutely convergent }, if $\sum|a_n|<\infty$"
 Metadata:
 . reference:

@@ -1,8 +1,8 @@
 ProtoDefines:
 . "{\bf(Absolute Uniform Convergence I)} The improper integral
    $$ \int_{a}^{b}f(x,y)\,dx=\lim_{r\to 
-   b-}\int_{a}^{r}f(x,y)\,dx $$ is said to converge absolutely 
-   uniformly on $S$ if the improper integral $$ 
+   b-}\int_{a}^{r}f(x,y)\,dx $$ is said to \term{converge absolutely 
+   uniformly} on $S$ if the improper integral $$ 
    \int_{a}^{b}|f(x,y)|\,dx=\lim_{r\to 
    b-}\int_{a}^{r}|f(x,y)|\,dx $$ converges uniformly on $S$; 
    that is, if, for each $\epsilon>0$, there is an $r_{0}\in 

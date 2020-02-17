@@ -1,12 +1,12 @@
 ProtoDefines:
 . "Let $P_0$, $P_1$, and $P_2$ be polynomials with no common 
-   factor and suppose $P_0(x_0)=0$. Then $x_0$ is a { \it 
+   factor and suppose $P_0(x_0)=0$. Then $x_0$ is a \term{ 
    regular singular point } of the equation \begin{equation} 
    P_0(x)y''+P_1(x)y'+P_2(x)y=0 \end{equation} if $ $ can be 
    written as \begin{equation} 
    (x-x_0)^2A(x)y''+(x-x_0)B(x)y'+C(x)y=0 \end{equation} where 
    $A$, $B$, and $C$ are polynomials and $A(x_0)\ne0$; 
-   otherwise, $x_0$ is an { \it irregular } singular point of 
+   otherwise, $x_0$ is an \term{ irregular } singular point of 
    ."
 Metadata:
 . reference:

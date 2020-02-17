@@ -1,5 +1,5 @@
 ProtoDefines:
-. "We say that $f(\mathbf{X})$ {\it approaches $\infty$ as 
+. "We say that $f(\mathbf{X})$ \term{ approaches $\infty$ as 
    $\mathbf{X }$ approaches $\mathbf{X}_0$ } and write $$ 
    \lim_{\mathbf{X}\to\mathbf{X}_0} f(\mathbf{X})=\infty $$ if 
    $\mathbf{X}_0$ is a limit point of $D_f$ and, for every real

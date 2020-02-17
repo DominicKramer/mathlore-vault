@@ -1,12 +1,12 @@
 ProtoDefines:
 . "If $x_0$ is a real number and $\epsilon>0$, then the open 
-   interval $(x_0-\epsilon, x_0+\epsilon)$ is an {\it 
+   interval $(x_0-\epsilon, x_0+\epsilon)$ is an \term{ 
    $\epsilon$-neighborhood } of $x_0$. If a set $S$ contains an
-   $\epsilon$-neighborhood of $x_0$, then $S$ is a {\it 
-   neighborhood } of $x_0$, and $x_0$ is an {\it interior point
-   } of $S$ . The set of interior points of $S$ is the {\it 
+   $\epsilon$-neighborhood of $x_0$, then $S$ is a \term{ 
+   neighborhood } of $x_0$, and $x_0$ is an \term{ interior point
+   } of $S$ . The set of interior points of $S$ is the \term{ 
    interior } of $S$, denoted by $S^0$. If every point of $S$ 
-   is an interior point (that is, $S^0=S$), then $S$ is {\it 
+   is an interior point (that is, $S^0=S$), then $S$ is \term{ 
    open }. A set $S$ is \emph{closed} if $S^c$ is open."
 Metadata:
 . reference:

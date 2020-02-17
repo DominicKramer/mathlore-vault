@@ -1,12 +1,12 @@
 ProtoDefines:
 . "Let $f$ be a real-valued function defined on a rectangle 
-   $R$ in $\R^n$. We say that $f$ is {\it Riemann integrable on
+   $R$ in $\R^n$. We say that $f$ is \term{ Riemann integrable on
    } $R$ if there is a number $L$ with the following property: 
    For every $\epsilon>0$, there is a $\delta>0$ such that $$ 
    \left|\sigma-L\right|<\epsilon $$ if $\sigma$ is any Riemann
    sum of $f$ over a partition ${\bf P}$ of $R$ such that 
    $\|{\bf P}\|<\delta$. In this case, we say that $L$ is the 
-   {\it Riemann integral of $f$ over } $R$, and write $$ \int_R
+   \term{ Riemann integral of $f$ over } $R$, and write $$ \int_R
    f(\mathbf{X})\,d\mathbf{X}=L. $$"
 Metadata:
 . reference:

@@ -1,5 +1,5 @@
 ProtoDefines:
-. "A sequence $\{u_n\}$ in a metric space $(A,\rho)$ is a {\it
+. "A sequence $\{u_n\}$ in a metric space $(A,\rho)$ is a \term{
    Cauchy sequence } if for every $\epsilon>0$ there is an 
    integer $N$ such that \begin{equation} 
    \rho(u_n,u_m)<\epsilon \quad and \quad m,n>N. 

@@ -1,5 +1,5 @@
 ProtoDefines:
-. "We say that $f(x)$ {\it approaches the limit $L$ as $x$ 
+. "We say that $f(x)$ \term{ approaches the limit $L$ as $x$ 
    approaches } $x_0$, and write $$ \lim_{x\to x_0} f(x)=L, $$ 
    if $f$ is defined on some deleted neighborhood of $x_0$ and,
    for every $\epsilon>0$, there is a $\delta>0$ such that 

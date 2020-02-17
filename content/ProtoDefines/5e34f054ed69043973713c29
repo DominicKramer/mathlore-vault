@@ -3,7 +3,7 @@ ProtoDefines:
    equation \begin{equation} H(x,y,c)=0 \end{equation} is an 
    integral curve of the first order differential equation 
    \begin{equation} F(x,y,y')=0, \end{equation} then is said to
-   be a { \it differential equation for the family. }"
+   be a \term{ differential equation for the family. }"
 Metadata:
 . reference:
   . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"

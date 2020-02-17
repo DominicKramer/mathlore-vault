@@ -1,5 +1,5 @@
 ProtoDefines:
-. "A {\it region } $S$ in $\R^n$ is the union of an open 
+. "A \term{ region } $S$ in $\R^n$ is the union of an open 
    connected set with some, all, or none of its boundary; thus,
    $S^0$ is connected, and every point of $S$ is a limit point 
    of $S^0$."

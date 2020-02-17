@@ -1,8 +1,8 @@
 ProtoDefines:
 . "If the improper integral \begin{equation} 
    \int_{a}^{b}f(x,y)\,dx=\lim_{r\to b-}\int_{a}^{r}f(x,y)\,dx 
-   \end{equation} converges on $S$ it is said to converge 
-   uniformly (or be uniformly convergent) on $S$ if, for each 
+   \end{equation} converges on $S$ it is said to \term{converge 
+   uniformly} (or be \term{uniformly convergent}) on $S$ if, for each 
    $\epsilon>0$ there is an $r_{0} \in [a,b)$ such that $$ 
    \left|\int_{a}^{b}f(x,y)\,dx-\int_{a}^{r}f(x,y)\,dx\right| <
    \epsilon,\quad y\in S, \quad r_{0}\le r<b, $$ or, 

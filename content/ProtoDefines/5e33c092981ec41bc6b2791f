@@ -1,5 +1,5 @@
 ProtoDefines:
-. "A function $f$ is {\it differentiable } at $$ 
+. "A function $f$ is \term{ differentiable } at $$ 
    \mathbf{X}_0=(x_{10},x_{20}, \dots,x_{n0})) $$ if 
    $\mathbf{X}_0\in D_f^0$ and there are constants $m_1$, 
    $m_2$, \dots, $m_n$ such that \begin{equation} 

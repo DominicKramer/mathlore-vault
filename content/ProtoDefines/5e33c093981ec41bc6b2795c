@@ -1,5 +1,5 @@
 ProtoDefines:
-. "The {\it Cauchy product of $\sum_{n=0 }^\infty a_n$ and } 
+. "The \term{ Cauchy product of $\sum_{n=0 }^\infty a_n$ and } 
    $\sum_{n=0}^\infty b_n$ is $\sum_{n=0}^\infty c_n$, where 
    \begin{equation} 
    c_n=a_0b_n+a_1b_{n-1}+\cdots+a_{n-1}b_1+a_nb_0. 

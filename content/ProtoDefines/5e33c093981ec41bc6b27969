@@ -1,5 +1,5 @@
 ProtoDefines:
-. "A metric space $(A,\rho)$ is {\it complete } if every 
+. "A metric space $(A,\rho)$ is \term{ complete } if every 
    Cauchy sequence in $A$ has a limit."
 Metadata:
 . reference:

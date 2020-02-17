@@ -1,6 +1,6 @@
 ProtoDefines:
 . "A transformation $\mathbf{L}: \R^n \to \R^m$ defined on all
-   of $\R^n$ is {\it linear } if $$ 
+   of $\R^n$ is \term{ linear } if $$ 
    \mathbf{L}(\mathbf{X}+\mathbf{Y})=\mathbf{L}(\mathbf{X})+\mathbf{L}(\mathbf{Y})
    $$ for all $\mathbf{X}$ and $\mathbf{Y}$ in $\R^n$ and $$ 
    \mathbf{L}(a\mathbf{X})=a\mathbf{L}(\mathbf{X}) $$ for all 

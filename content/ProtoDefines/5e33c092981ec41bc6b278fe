@@ -1,5 +1,5 @@
 ProtoDefines:
-. "If $\epsilon>0$, the {\it $\epsilon$-neighborhood of a 
+. "If $\epsilon>0$, the \term{ $\epsilon$-neighborhood of a 
    point } $\mathbf{X}_{0}$ in $\R^n$ is the set $$ 
    N_\epsilon(\mathbf{X}_0)|=\set{\mathbf{X}}{|\mathbf{X}-\mathbf{X}_0|<\epsilon}.
    $$"

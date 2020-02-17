@@ -1,5 +1,5 @@
 ProtoDefines:
-. "We say that $f(x)$ {\it approaches the limit $L$ as $x$ 
+. "We say that $f(x)$ \term{ approaches the limit $L$ as $x$ 
    approaches } $\infty$, and write $$ \lim_{x\to\infty} 
    f(x)=L, $$ if $f$ is defined on an interval $(a,\infty)$ 
    and, for each $\epsilon>0$, there is a number $\beta$ such 

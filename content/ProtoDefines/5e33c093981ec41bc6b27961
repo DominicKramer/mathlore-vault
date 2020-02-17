@@ -1,15 +1,15 @@
 ProtoDefines:
 . "If $u_0\in A$ and $\epsilon>0$, the set $$ 
    N_\epsilon(u_0)=\set{u\in A}{\rho(u_0,u)<\epsilon} $$ is 
-   called an {\it $\epsilon$-neighborhood } of $u_0$. 
-   (Sometimes we call $S_\epsilon$ the {\it open ball of radius
+   called an \term{ $\epsilon$-neighborhood } of $u_0$. 
+   (Sometimes we call $S_\epsilon$ the \term{ open ball of radius
    $\epsilon$ centered at $u_0$ }.) If a subset $S$ of $A$ 
    contains an $\epsilon$-neighborhood of $u_0$, then $S$ is a 
-   {\it neighborhood } of $u_0$, and $u_0$ is an {\it interior 
+   \term{ neighborhood } of $u_0$, and $u_0$ is an \term{ interior 
    point } of $S$. The set of interior points of $S$ is the 
-   {\it interior } of $S$, denoted by $S^0$. If every point of 
+   \term{ interior } of $S$, denoted by $S^0$. If every point of 
    $S$ is an interior point (that is, $S^0=S$), then $S$ is 
-   {\it open }. A set $S$ is {\it closed } if $S^c$ is open."
+   \term{ open }. A set $S$ is \term{ closed } if $S^c$ is open."
 Metadata:
 . reference:
   . source: "@TrenchRealAnalysis"

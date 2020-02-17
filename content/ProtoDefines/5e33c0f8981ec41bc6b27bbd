@@ -1,5 +1,5 @@
 ProtoDefines:
-. "A representation $n=x^2 + y^2$ is {\em primitive} if $x$ 
+. "A representation $n=x^2 + y^2$ is \term{ primitive} if $x$ 
    and $y$ are coprime."
 Metadata:
 . name: "Primitive"

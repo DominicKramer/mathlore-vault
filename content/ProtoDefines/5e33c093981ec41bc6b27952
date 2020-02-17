@@ -1,8 +1,8 @@
 ProtoDefines:
-. "A {\it differentiable surface } $S$ in $\R^n\ (n>1)$ is the
+. "A \term{ differentiable surface } $S$ in $\R^n\ (n>1)$ is the
    image of a compact subset $D$ of $\R^m$, where $m< n$, under
    a continuously differentiable transformation $\mathbf{G}: 
-   \R^m\to \R^n$. If $m=1$, $S$ is also called a {\it 
+   \R^m\to \R^n$. If $m=1$, $S$ is also called a \term{ 
    differentiable curve }."
 Metadata:
 . reference:

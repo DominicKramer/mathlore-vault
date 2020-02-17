@@ -1,17 +1,17 @@
 ProtoDefines:
 . "Let $S$ be a subset of $A$. Then \begin{alist} \item $u_0$ 
-   is a {\it limit point } of $S$ if every deleted neighborhood
-   of $u_0$ contains a point of $S$. \item $u_0$ is a {\it 
+   is a \term{ limit point } of $S$ if every deleted neighborhood
+   of $u_0$ contains a point of $S$. \item $u_0$ is a \term{ 
    boundary point } of $S$ if every neighborhood of $u_0$ 
    contains at least one point in $S$ and one not in $S$. The 
-   set of boundary points of $S$ is the {\it boundary } of $S$,
-   denoted by $ ial S$. The {\it closure } of $S$, denoted by 
+   set of boundary points of $S$ is the \term{ boundary } of $S$,
+   denoted by $ ial S$. The \term{ closure } of $S$, denoted by 
    $\overline{S}$, is defined by $\overline{S}=S\cup ial S$. 
-   \item $u_0$ is an {\it isolated point } of $S$ if $u_0\in S$
+   \item $u_0$ is an \term{ isolated point } of $S$ if $u_0\in S$
    and there is a neighborhood of $u_0$ that contains no other 
-   point of $S$. \item $u_0$ is {\it exterior } to $S$ if $u_0$
+   point of $S$. \item $u_0$ is \term{ exterior } to $S$ if $u_0$
    is in the interior of $S^c$. The collection of such points 
-   is the {\it exterior } of $S$. \end{alist}"
+   is the \term{ exterior } of $S$. \end{alist}"
 Metadata:
 . reference:
   . source: "@TrenchRealAnalysis"

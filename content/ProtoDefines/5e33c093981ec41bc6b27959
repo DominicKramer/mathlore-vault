@@ -1,6 +1,6 @@
 ProtoDefines:
-. "A {\it vector space } $A$ is a nonempty set of elements 
-   called {\it vectors } on which two operations, vector 
+. "A \term{ vector space } $A$ is a nonempty set of elements 
+   called \term{ vectors } on which two operations, vector 
    addition and scalar multiplication (multiplication by real 
    numbers) are defined, such that the following assertions are
    true for all $\mathbf{U}$, $\mathbf{V}$, and $\mathbf{W}$ in

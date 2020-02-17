@@ -1,7 +1,7 @@
 ProtoDefines:
-. "We call a nonzero rational number $n$ a {\em congruent 
+. "We call a nonzero rational number $n$ a \term{ congruent 
    number} if $\pm n$ is the area of a right triangle with 
-   rational side lengths. Equivalently, $n$ is a {\em congruent
+   rational side lengths. Equivalently, $n$ is a \term{ congruent
    number} if the system of two equations \begin{eqnarray*} 
    a^2+b^2&=&c^2\\ \frac{1}{2}ab&=&n \end{eqnarray*} has a 
    solution with $a,b,c\in\mathbf{Q}$."

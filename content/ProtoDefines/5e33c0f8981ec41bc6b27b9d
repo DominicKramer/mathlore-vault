@@ -1,12 +1,12 @@
 ProtoDefines:
 . "Let $G$ and $H$ be groups. A map $\varphi:G \to H$ is a 
-   {\em group homomorphism} if for all $a,b\in G$ we have 
+   \term{group homomorphism} if for all $a,b\in G$ we have 
    $\varphi(ab) = \varphi(a) \varphi(b)$. A group homomorphism 
-   is called {\em surjective} if for every $c\in H$ there is 
-   $a\in G$ such that $\varphi(a) = c$. The {\em kernel} of a 
+   is called \term{ surjective} if for every $c\in H$ there is 
+   $a\in G$ such that $\varphi(a) = c$. The \term{ kernel} of a 
    group homomorphism $\varphi:G\to H$ is the set 
    $\ker(\varphi)$ of elements $a\in G$ such that $\varphi(a) =
-   1$. A group homomorphism is {\em injective} if 
+   1$. A group homomorphism is \term{ injective} if 
    $\ker(\varphi) = \{1\}$."
 Metadata:
 . name: "Group Homomorphism"

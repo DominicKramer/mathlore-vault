@@ -1,8 +1,8 @@
 ProtoDefines:
-. "If $a, b\in \mathbf{Z}$ we say that $a$ {\em divides} $b$, 
+. "If $a, b\in \mathbf{Z}$ we say that $a$ \term{divides} $b$, 
    written $a\mid b$, if $ac=b$ for some $c\in \mathbf{Z}$. In 
-   this case, we say $a$ is a {\em divisor} of $b$. We say that
-   $a$ {\em does not divide} $b$, written $a\nmid b$, if there 
+   this case, we say $a$ is a \term{ divisor} of $b$. We say that
+   $a$ \term{ does not divide} $b$, written $a\nmid b$, if there 
    is no $c\in \mathbf{Z}$ such that $ac=b$."
 Metadata:
 . name: "Divides"

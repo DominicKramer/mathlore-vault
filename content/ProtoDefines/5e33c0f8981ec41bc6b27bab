@@ -1,10 +1,10 @@
 ProtoDefines:
-. "Let $R$ and $S$ be rings. A {\em homomorphism of rings} 
+. "Let $R$ and $S$ be rings. A \term{homomorphism} of rings
    $\varphi:R\to S$ is a map such that for all $a,b\in R$, we 
    have \begin{itemize} \item $\varphi(ab) 
    =\varphi(a)\varphi(b)$, \item $\varphi(a+b) = \varphi(a) + 
    \varphi(b)$, and \item $\varphi(1) = 1$. \end{itemize} An 
-   {\em isomorphism} $\varphi:R\to S$ of rings is a ring 
+   \term{ isomorphism} $\varphi:R\to S$ of rings is a ring 
    homomorphism that is bijective."
 Metadata:
 . name: "Homomorphism of Rings"

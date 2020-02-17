@@ -1,7 +1,7 @@
 ProtoDefines:
-. "For $0\leq n\leq m$, the $n$th {\em convergent} of the 
+. "For $0\leq n\leq m$, the $n$th \term{convergent} of the 
    continued fraction $[a_0,\ldots,a_m]$ is $[a_0,\ldots, 
-   a_n]$. These convergents for $n<m$ are also called {\em 
+   a_n]$. These convergents for $n<m$ are also called \term{ 
    partial convergents} ."
 Metadata:
 . name: "Partial Convergents"

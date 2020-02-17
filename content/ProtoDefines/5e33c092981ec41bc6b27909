@@ -1,8 +1,8 @@
 ProtoDefines:
 . "If $S$ is a nonempty subset of $\R^n$, then $$ 
    d(S)=\sup\set{|\mathbf{X}-\mathbf{Y}|}{\mathbf{X},\mathbf{Y}\in
-   S} $$ is the {\it diameter } of $S$. If $d(S)<\infty$ $S$ is
-   {\it bounded }$$ if $d(S)=\infty$, $S$ is {\it unbounded }."
+   S} $$ is the \term{ diameter } of $S$. If $d(S)<\infty$ $S$ is
+   \term{ bounded }$$ if $d(S)=\infty$, $S$ is \term{ unbounded }."
 Metadata:
 . reference:
   . source: "@TrenchRealAnalysis"

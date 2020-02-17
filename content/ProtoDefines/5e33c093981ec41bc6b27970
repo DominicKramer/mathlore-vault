@@ -1,8 +1,8 @@
 ProtoDefines:
-. "A subset $T$ of $C[a,b]$ is {\it uniformly bounded } if 
+. "A subset $T$ of $C[a,b]$ is \term{ uniformly bounded } if 
    there is a constant $M$ such that \begin{equation} |f(x)|\le
    M \quad if \quad a\le x\le b \quad and \quad f\in T. 
-   \end{equation} A subset $T$ of $C[a,b]$ is {\it 
+   \end{equation} A subset $T$ of $C[a,b]$ is \term{ 
    equicontinuous } if for each $\epsilon>0$ there is a 
    $\delta>0$ such that \begin{equation} |f(x_1)-f(x_2)|\le 
    \epsilon \quad if \quad x_1,x_2\in [a,b],\quad 

@@ -1,14 +1,14 @@
 ProtoDefines:
-. "A {\it coordinate rectangle } $R$ in $\R^n$ is the 
+. "A \term{ coordinate rectangle } $R$ in $\R^n$ is the 
    Cartesian product of $n$ closed intervals; that is, $$ 
    R=[a_1,b_1]\times [a_2,b_2]\times\cdots\times [a_n,b_n]. $$ 
-   The {\it content } of $R$ is $$ 
+   The \term{ content } of $R$ is $$ 
    V(R)=(b_1-a_1)(b_2-a_2)\cdots (b_n-a_n). $$ The numbers 
-   $b_1-a_1$, $b_2-a_2$, \dots, $b_n-a_n$ are the {\it edge 
-   lengths } of $R$. If they are equal, then $R$ is a {\it 
+   $b_1-a_1$, $b_2-a_2$, \dots, $b_n-a_n$ are the \term{ edge 
+   lengths } of $R$. If they are equal, then $R$ is a \term{ 
    coordinate cube }. If $a_r=b_r$ for some $r$, then $V(R)=0$ 
-   and we say that $R$ is {\it degenerate }; otherwise, $R$ is 
-   {\it nondegenerate }."
+   and we say that $R$ is \term{ degenerate }; otherwise, $R$ is 
+   \term{ nondegenerate }."
 Metadata:
 . reference:
   . source: "@TrenchRealAnalysis"

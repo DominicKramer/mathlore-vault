@@ -1,6 +1,6 @@
 ProtoDefines:
 . "We call a subset $R\subset\mathbf{Z}$ of size $n$ whose 
-   reductions modulo $n$ are pairwise distinct a {\em complete 
+   reductions modulo $n$ are pairwise distinct a \term{complete 
    set of residues} modulo $n$. In other words, a complete set 
    of residues is a choice of representative for each 
    equivalence class in $\Z/n\Z{}$."

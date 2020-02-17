@@ -1,5 +1,6 @@
 ProtoDefines:
-. "Let $$ \gcd(a,b)=\max\left\{d\in \mathbf{Z} : d \mid a and 
+. "The \term{greatest common divisor} of $a$ and $b$ is defined
+   as $$ \gcd(a,b)=\max\left\{d\in \mathbf{Z} : d \mid a and 
    d\mid b\right\}, $$ unless both $a$ and $b$ are $0$ in which
    case $\gcd(0,0)=0$."
 Metadata:

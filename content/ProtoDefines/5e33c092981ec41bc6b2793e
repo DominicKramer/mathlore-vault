@@ -1,8 +1,8 @@
 ProtoDefines:
-. "A sequence $\{s_n\}$ is {\it bounded above } if there is a 
+. "A sequence $\{s_n\}$ is \term{ bounded above } if there is a 
    real number $b$ such that $$ s_n\le b \quad for all $n$ , $$
-   {\it bounded below } if there is a real number $a$ such that
-   $$ s_n\ge a \quad for all $n$ , $$ or {\it bounded } if 
+   \term{ bounded below } if there is a real number $a$ such that
+   $$ s_n\ge a \quad for all $n$ , $$ or \term{ bounded } if 
    there is a real number $r$ such that $$ |s_n|\le r \quad for
    all $n$ . $$"
 Metadata:

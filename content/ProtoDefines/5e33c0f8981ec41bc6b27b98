@@ -1,5 +1,5 @@
 ProtoDefines:
-. "A function $f:\mathbf{N}\rightarrow \mathbf{C}$ is {\em 
+. "A function $f:\mathbf{N}\rightarrow \mathbf{C}$ is \term{ 
    multiplicative} if, whenever $m, n\in\mathbf{N}$ and 
    $\gcd(m,n)=1$, we have $$ f(mn) = f(m)\cdot f(n). $$"
 Metadata:

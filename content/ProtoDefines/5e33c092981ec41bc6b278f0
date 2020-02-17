@@ -1,7 +1,7 @@
 ProtoDefines:
 . "An infinite series of the form \begin{equation} 
    \sum^\infty_{n=0} a_n(x-x_0)^n, \end{equation} where $x_0$ 
-   and $a_0$, $a_1$, \dots, are constants, is called a {\it 
+   and $a_0$, $a_1$, \dots, are constants, is called a \term{ 
    power series in $x-x_0$ }."
 Metadata:
 . reference:

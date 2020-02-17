@@ -1,6 +1,6 @@
 ProtoDefines:
-. "An integer $n>1$ is {\em prime} if the only positive 
-   divisors of $n$ are $1$ and $n$. We call $n$ {\em composite}
+. "An integer $n>1$ is \term{prime} if the only positive 
+   divisors of $n$ are $1$ and $n$. We call $n$ \term{ composite}
    if $n$ is not prime."
 Metadata:
 . name: "Prime and Composite"

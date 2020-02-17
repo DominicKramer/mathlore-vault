@@ -3,7 +3,7 @@ ProtoDefines:
    $-\infty\le a<b\le \infty$ Suppose $f$ is locally integrable
    on $(a,b)$ for all $y\in S$ and let $c$ be an arbitrary 
    point in $(a,b)$ Then $\int_{a}^{b}f(x,y)\,dx$ is said to 
-   converge uniformly on $S$ if $\int_{a}^{c}f(x,y)\,dx$ and 
+   \term{converge uniformly} on $S$ if $\int_{a}^{c}f(x,y)\,dx$ and 
    $\int_{c}^{b}f(x,y)\,dx$ both converge uniformly on $S$"
 Metadata:
 . reference:
