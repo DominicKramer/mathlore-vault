@@ -18,4 +18,5 @@ Metadata:
     content: "Definition: A set $D$ is dense in the reals if every open
               interval $(a,b)$ contains a member of $D$."
 . id: "5e05ac2cb664bf5c95806087"
+. tag: "Real Analysis"
 

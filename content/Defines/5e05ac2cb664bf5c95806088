@@ -28,4 +28,5 @@ Metadata:
               is a $\delta>0$ such that $$ |f(x)-f(x')|<\epsilon \
               |x-x'|<\delta \ x,x'\in S. \eqno{ } $$"
 . id: "5e05ac2cb664bf5c95806088"
+. tag: "Real Analysis"
 
