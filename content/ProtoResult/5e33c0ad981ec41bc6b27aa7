@@ -1,14 +1,11 @@
 ProtoResult:
 . "Let $p(x) \in {\mathbb Q} $. Then \[ p(x) = \frac{r}{s}(a_0
-   + a_1 x + \cdots + a_n x^n), \] where $r, s, a_0, \ldots, 
-   a_n$ are integers, the $a_i$'s are relatively prime, and $r$
-   and $s$ are relatively prime."
++ a_1 x + \cdots + a_n x^n), \] where $r, s, a_0, \ldots,
+a_n$ are integers, the $a_i$'s are relatively prime, and $r$
+and $s$ are relatively prime."
 Metadata:
-. name: "x"
+. id: "5e33c0ad981ec41bc6b27aa7"
 . reference:
   . source: "@AbstractAlgebraTheoryAndApplications"
     page: "278"
-    offset: "288"
-. id: "5e33c0ad981ec41bc6b27aa7"
-. tag: "Abstract Algebra"
 

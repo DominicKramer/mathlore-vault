@@ -1,15 +1,14 @@
 ProtoResult:
-. "$[$The Exactness Condition$]$ \space Suppose $M$ and $N$ 
-   are continuous and have continuous partial derivatives $M_y$
-   and $N_x$ on an open rectangle $R$ Then $$ 
-   M(x,y)\,dx+N(x,y)\,dy=0 $$ is exact on $R$ if and only if 
-   \begin{equation} M_y(x,y)=N_x(x,y) \end{equation} for all 
-   $(x,y)$ in $R$."
+. "Suppose $M$ and $N$
+are continuous and have continuous partial derivatives $M_y$
+and $N_x$ on an open rectangle $R$ Then $$
+M(x,y)\,dx+N(x,y)\,dy=0 $$ is exact on $R$ if and only if
+\begin{equation} M_y(x,y)=N_x(x,y) \end{equation} for all
+$(x,y)$ in $R$."
 Metadata:
+. id: "5e34f055ed69043973713c43"
+. name: "The Exactness Condition"
 . reference:
   . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
     page: "73"
-    offset: "83"
-. id: "5e34f055ed69043973713c43"
-. tag: "Differential Equations"
 

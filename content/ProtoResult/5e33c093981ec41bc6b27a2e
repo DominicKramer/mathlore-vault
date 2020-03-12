@@ -1,21 +1,22 @@
 ProtoResult:
-. "Suppose that $f$ and $g$ are defined on a set $D$ 
-   $\mathbf{X}_0$ is a limit point of $D$ and $$ 
-   \lim_{\mathbf{X}\to\mathbf{X}_0} 
-   f(\mathbf{X})=L_1,\quad\lim_{\mathbf{X}\to\mathbf{X}_0} 
-   g(\mathbf{X})=L_2. $$ Then \begin{eqnarray} 
-   \lim_{\mathbf{X}\to\mathbf{X}_0}(f+g)(\mathbf{X}) =L_1+L_2, 
-   \\ \lim_{\mathbf{X}\to\mathbf{X}_0}(f-g)(\mathbf{X}) 
-   =L_1-L_2, \\ 
-   \lim_{\mathbf{X}\to\mathbf{X}_0}(fg)(\mathbf{X}) =L_1L_2, \\
-   and, if $L_2\ne0$ \\ 
-   \lim_{\mathbf{X}\to\mathbf{X}_0}\left(\frac{f}{ 
-   g}\right)(\mathbf{X}) =\frac{L_1}{ L_2}. \end{eqnarray}"
+. "Suppose that $f$ and $g$ are defined on a set $D$
+$\mathbf{X}_0$ is a limit point of $D$ and $$
+\lim_{\mathbf{X}\to\mathbf{X}_0}
+f(\mathbf{X})=L_1,\quad\lim_{\mathbf{X}\to\mathbf{X}_0}
+g(\mathbf{X})=L_2. $$ Then
+$$
+\lim_{\mathbf{X}\to\mathbf{X}_0}(f+g)(\mathbf{X}) =L_1+L_2,
+\\ \lim_{\mathbf{X}\to\mathbf{X}_0}(f-g)(\mathbf{X})
+=L_1-L_2, \\
+\lim_{\mathbf{X}\to\mathbf{X}_0}(fg)(\mathbf{X}) =L_1L_2, \\
+$$ and, if $ L_2\ne0$
+$$
+\lim_{\mathbf{X}\to\mathbf{X}_0}\left(\frac{f}{
+g}\right)(\mathbf{X}) =\frac{L_1}{ L_2}.
+$$"
 Metadata:
+. id: "5e33c093981ec41bc6b27a2e"
 . reference:
   . source: "@TrenchRealAnalysis"
     page: "307"
-    offset: "316"
-. id: "5e33c093981ec41bc6b27a2e"
-. tag: "Real Analysis"
 

@@ -1,15 +1,13 @@
 ProtoDefines:
-. "Let $p$ be an odd prime and let $a$ be an integer. Set $$ 
-   \left(\frac{a}{p}\right) = \begin{cases} 0 & if $\gcd(a,p) 
-   \neq 1$ ,\\ +1 & if $a$ is a quadratic residue, and \\ -1 & 
-   if $a$ is a quadratic nonresidue . \end{cases} $$ We call 
-   this symbol the \term{Legendre Symbol}."
+. "Let $p$ be an odd prime and let $a$ be an integer. Set $$
+\left(\frac{a}{p}\right) = \begin{cases} 0 & \textrm{if} \gcd(a,p)
+\neq 1 ,\\ +1 & \textrm{if } a \textrm{ is a quadratic residue, and} \\ -1 &
+\textrm{if } a \textrm{ is a quadratic nonresidue} . \end{cases} $$ We call
+this symbol the \term{Legendre Symbol}."
 Metadata:
+. id: "5e33c0f8981ec41bc6b27ba4"
 . name: "Legendre Symbol"
 . reference:
   . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
     page: "70"
-    offset: "77"
-. id: "5e33c0f8981ec41bc6b27ba4"
-. tag: "Number Theory"
 

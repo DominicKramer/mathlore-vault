@@ -1,0 +1,13 @@
+ProtoResult:
+. "Given a ring $R$, let $\mathfrak J = \mathfrak J(R)$ be the Jacobson radical of $R$. Then, for some finitely-generated left $R$-module $M$, $\mathfrak JM = M$ implies that $M=0$."
+Metadata:
+. id: "5e69a4076d985e7337a9ec50"
+. name: "Tadashi Nakayama"
+. concept: "Shows that elements of a finitely-generated module of a ring with coefficients only in the Jacobson radical of the ring can't be the whole module, unless the modules is a singleton."
+. reference:
+  . source: "@f661a16a0c2d46aea0527184eda4aeb1"
+    page: "60"
+. tag:
+  . "Abstract Algebra"
+  . "Ring Theory"
+

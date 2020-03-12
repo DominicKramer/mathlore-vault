@@ -17,9 +17,9 @@ means:
   . 'a*(b + c) = a*b + a*c'
   . '(a + b)*c = a*c + b*c'
 Metadata:
+. id: "5e05ac2bb664bf5c95806071"
 . reference:
   . source: "@AATA"
     page: "199"
-    offset: "213"
-. id: "5e05ac2bb664bf5c95806071"
+. tag: "Ring Theory"
 
