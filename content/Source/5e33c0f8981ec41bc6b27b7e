@@ -1,5 +1,6 @@
 [ElementaryNumberTheoryPrimesCongruencesAndSecrets]
 Source:
+. type: "Book"
 . name: "Elementary Number Theory: Primes, Congruences, and Secrets"
 . author: "William Stein"
 . date: "January 23, 2017"
@@ -7,4 +8,8 @@ Source:
 . offset: "7"
 Metadata:
 . id: "5e33c0f8981ec41bc6b27b7e"
+. tag:
+  . "Abstract Algebra"
+  . "Number Theory"
+  . "Algebra"
 

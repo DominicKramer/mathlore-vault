@@ -1,16 +1,15 @@
 ProtoResult:
-. "Suppose that $\mathbf{G}: \E^n\to \R^n$ is regular on a 
-   compact Jordan measurable set $S$ and $f$ is continuous and 
-   nonnegative on $\mathbf{G}(S)$ Let \begin{equation} 
-   Q(S)=\int_{\mathbf{G}(S)} f(\mathbf{X})\,d\mathbf{X}-\int_S 
-   f(\mathbf{G}(\mathbf{Y})) 
-   |J\mathbf{G}(\mathbf{Y})|\,d\mathbf{Y}. \end{equation} Then 
-   $Q(S)\le0$"
+. "Suppose that $\mathbf{G}: \mathbb{E}^n\to \mathbb{R}^n$ is regular on a
+compact Jordan measurable set $S$ and $f$ is continuous and
+nonnegative on $\mathbf{G}(S)$ Let \begin{equation}
+Q(S)=\int_{\mathbf{G}(S)} f(\mathbf{X})\,d\mathbf{X}-\int_S
+f(\mathbf{G}(\mathbf{Y}))
+|J\mathbf{G}(\mathbf{Y})|\,d\mathbf{Y}. \end{equation} Then
+$Q(S)\le0$"
 Metadata:
+. id: "5e33c093981ec41bc6b279de"
 . reference:
   . source: "@TrenchRealAnalysis"
     page: "502"
-    offset: "511"
-. id: "5e33c093981ec41bc6b279de"
 . tag: "Real Analysis"
 

@@ -1,19 +1,18 @@
 ProtoResult:
-. "Let $V$ be a vector space of dimension $n$. 
-   \begin{enumerate} \item \it If $S = \{v_1, \ldots, v_n \}$ 
-   is a set of linearly independent vectors for $V$, then $S$ 
-   is a basis for $V$. \item \it If $S = \{v_1, \ldots, v_n \}$
-   spans $V$, then $S$ is a basis for $V$. \item \it If $S = 
-   \{v_1, \ldots, v_k \}$ is a set of linearly independent 
-   vectors for $V$ with $k < n$, then there exist vectors 
-   $v_{k+1}, \ldots, v_n$ such that \[ \{v_1, \ldots, v_k, 
-   v_{k+1}, \ldots, v_n \} \] is a basis for $V$. 
-   \end{enumerate}"
+. "Let $V$ be a vector space of dimension $n$.
+\begin{enumerate} \item If $S = \{v_1, \ldots, v_n \}$
+is a set of linearly independent vectors for $V$, then $S$
+is a basis for $V$. \item If $S = \{v_1, \ldots, v_n \}$
+spans $V$, then $S$ is a basis for $V$. \item If $S =
+\{v_1, \ldots, v_k \}$ is a set of linearly independent
+vectors for $V$ with $k < n$, then there exist vectors
+$v_{k+1}, \ldots, v_n$ such that \[ \{v_1, \ldots, v_k,
+v_{k+1}, \ldots, v_n \} \] is a basis for $V$.
+\end{enumerate}"
 Metadata:
+. id: "5e33c0ad981ec41bc6b27aed"
 . reference:
   . source: "@AbstractAlgebraTheoryAndApplications"
     page: "330"
-    offset: "340"
-. id: "5e33c0ad981ec41bc6b27aed"
 . tag: "Abstract Algebra"
 

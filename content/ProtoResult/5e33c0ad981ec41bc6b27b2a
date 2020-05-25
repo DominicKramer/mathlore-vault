@@ -1,16 +1,15 @@
 ProtoResult:
-. "Let $\phi : R \rightarrow S$ be a ring homomorphism. 
-   \begin{enumerate} \item \it If $R$ is a commutative ring, 
-   then $\phi(R)$ is a commutative ring. \item \it $\phi( 0 ) =
-   0$. \item \it Let $1_R$ and $1_S$ be the identities for $R$ 
-   and $S$, respectively. If $\phi$ is onto, then $\phi(1_R) = 
-   1_S$. \item \it If $R$ is a field and $\phi(R) \neq \{ 0 
-   \}$, then $\phi(R)$ is a field. \end{enumerate}"
+. "Let $\phi : R \rightarrow S$ be a ring homomorphism.
+\begin{enumerate} \item If $R$ is a commutative ring,
+then $\phi(R)$ is a commutative ring. \item  $\phi( 0 ) =
+0$. \item Let $1_R$ and $1_S$ be the identities for $R$
+and $S$, respectively. If $\phi$ is onto, then $\phi(1_R) =
+1_S$. \item If $R$ is a field and $\phi(R) \neq \{ 0
+\}$, then $\phi(R)$ is a field. \end{enumerate}"
 Metadata:
+. id: "5e33c0ad981ec41bc6b27b2a"
 . reference:
   . source: "@AbstractAlgebraTheoryAndApplications"
     page: "252"
-    offset: "262"
-. id: "5e33c0ad981ec41bc6b27b2a"
 . tag: "Abstract Algebra"
 

@@ -1,17 +1,15 @@
 ProtoResult:
-. "Let $B$ be a Boolean algebra. Then \begin{enumerate} \item 
-   \it $a \vee I = I$ and $a \wedge O = O$ for all $a \in B$. 
-   \item \it If $a \vee b = a \vee c$ and $a \wedge b = a 
-   \wedge c$ for $a, b, c \in B$, then $b = c$. \item \it If $a
-   \vee b = I$ and $a \wedge b = O$, then $b = a'$. \item \it 
-   $(a')'=a$ for all $a \in B$. \item \it $I' = O$ and $O' = 
-   I$. \item \it $(a \vee b)' = a' \wedge b'$ and $(a \wedge 
-   b)' = a' \vee b'$ (De Morgan's Laws) . \end{enumerate}"
+. "Let $B$ be a Boolean algebra. Then \begin{enumerate} \item $a \vee I = I$ and $a \wedge O = O$ for all $a \in B$.
+\item If $a \vee b = a \vee c$ and $a \wedge b = a
+\wedge c$ for $a, b, c \in B$, then $b = c$. \item If $a
+\vee b = I$ and $a \wedge b = O$, then $b = a'$. \item 
+$(a')'=a$ for all $a \in B$. \item $I' = O$ and $O' =
+I$. \item $(a \vee b)' = a' \wedge b'$ and $(a \wedge
+b)' = a' \vee b'$ (De Morgan's Laws) . \end{enumerate}"
 Metadata:
+. id: "5e33c0ad981ec41bc6b27ae9"
 . reference:
   . source: "@AbstractAlgebraTheoryAndApplications"
     page: "314"
-    offset: "324"
-. id: "5e33c0ad981ec41bc6b27ae9"
 . tag: "Abstract Algebra"
 

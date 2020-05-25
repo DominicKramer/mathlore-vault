@@ -1,0 +1,32 @@
+ProtoResult:
+. "Suppose that $f$ is integrable on
+$$
+  S=\left \{(x,y,z) \: | \: u_1(y,z)\le x\le v_1(y,z),\ u_2(z)\le y \le v_2(z),\ c\le z\le d \right \},
+$$
+and let
+$$
+  S(z)=\left \{(x,y) \: | \: u_1(y,z)\le x\le v_1(y,z),\ u_2(z)\le y\le
+v_2(z) \right \}
+$$
+for each $z$ in $[c,d]$. Then
+$$ \int_S f(x,y,z)\,d(x,y,z)=\int_c^d dz\int^{v_2(z)}_{u_2(z)} dy
+\int^{v_1(y,z)}_{u_1(y,z)} f(x,y,z)\,dx,
+$$
+provided that
+$$
+  \int^{v_1(y,z)}_{u_1(y,z)} f(x,y,z)\,dx
+$$
+exists for all $(y,z)$ such that $$ c\le z\le d \quad and\quad u_2(z)\le
+y\le v_2(z),
+$$
+and
+$$
+  \int_{S(z)} f(x,y,z)\,d(x,y)
+$$ exists for all $z$ in $[c,d]$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "476"
+. tag: "Real Analysis"
+. id: "5e8a69955d52fd7bf3ff329d"
+

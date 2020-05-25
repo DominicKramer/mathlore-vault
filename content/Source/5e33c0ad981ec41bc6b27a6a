@@ -1,5 +1,6 @@
 [AbstractAlgebraTheoryAndApplications]
 Source:
+. type: "Book"
 . name: "Abstract Algebra Theory and Applications"
 . author: "Thomas W. Judson"
 . date: "August 15, 2014"
@@ -7,4 +8,7 @@ Source:
 . offset: "10"
 Metadata:
 . id: "5e33c0ad981ec41bc6b27a6a"
+. tag:
+  . "Abstract Algebra"
+  . "Algebra"
 

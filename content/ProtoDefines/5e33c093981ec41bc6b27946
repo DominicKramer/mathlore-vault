@@ -1,15 +1,13 @@
 ProtoDefines:
-. "A subset $E$ of $\R^n$ has zero content if for each 
-   $\epsilon>0$ there is a finite set of rectangles $T_1$, 
-   $T_2$, \dots, $T_m$ such that \begin{equation} 
-   E\subset\bigcup_{j=1}^m T_j \end{equation} and 
-   \begin{equation} \sum_{j=1}^m V(T_j)<\epsilon. 
-   \end{equation}"
+. "A subset $E$ of $\R^n$ has zero content if for each
+$\epsilon>0$ there is a finite set of rectangles $T_1, T_2, \dots, T_m$ such that \[
+E\subset\bigcup_{j=1}^m T_j \] and
+\[ \sum_{j=1}^m V(T_j)<\epsilon.
+\]"
 Metadata:
+. id: "5e33c093981ec41bc6b27946"
 . reference:
   . source: "@TrenchRealAnalysis"
     page: "449"
-    offset: "458"
-. id: "5e33c093981ec41bc6b27946"
 . tag: "Real Analysis"
 

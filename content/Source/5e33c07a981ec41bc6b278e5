@@ -1,5 +1,6 @@
 [TrenchLagrangeMultipliers]
 Source:
+. type: "Book"
 . name: "The Method of Lagrange Multipliers"
 . author: "William F. Trench"
 . date: "null"
@@ -7,4 +8,8 @@ Source:
 . offset: "0"
 Metadata:
 . id: "5e33c07a981ec41bc6b278e5"
+. tag:
+  . "Real Analysis"
+  . "Analysis"
+  . "Lagrange Multipliers"
 

@@ -1,15 +1,15 @@
 ProtoResult:
-. "Let $D$ be an integral domain and let $a, b \in D$. Then 
-   \begin{enumerate} \item\it $a \mid b \Leftrightarrow \langle
-   b \rangle \subset \langle a \rangle$. \item\it $a$ and $b$ 
-   are associates $\Leftrightarrow$ $\langle b \rangle = 
-   \langle a \rangle$. \item\it $a$ is a unit in $D$ 
-   $\Leftrightarrow$ $\langle a \rangle = D$. \end{enumerate}"
+. "Let $D$ be an integral domain and let $a, b \in D$. Then
+\begin{enumerate}
+  \item $a \mid b \Leftrightarrow \langle b \rangle \subset \langle a \rangle$. \item $a$ and $b$ are associates $\Leftrightarrow$ $\langle b \rangle =
+\langle a \rangle$.
+  \item $a$ is a unit in $D$
+$\Leftrightarrow$ $\langle a \rangle = D$.
+\end{enumerate}"
 Metadata:
+. id: "5e33c0ad981ec41bc6b27a87"
 . reference:
   . source: "@AbstractAlgebraTheoryAndApplications"
     page: "295"
-    offset: "305"
-. id: "5e33c0ad981ec41bc6b27a87"
 . tag: "Abstract Algebra"
 

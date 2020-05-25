@@ -1,11 +1,9 @@
 ProtoResult:
-. "If $D$ is a UFD, then $D $ is a UFD."
+. "If $D$ is a UFD, then $D[x]$ is a UFD."
 Metadata:
-. name: "x"
+. id: "5e33c0ad981ec41bc6b27af5"
 . reference:
   . source: "@AbstractAlgebraTheoryAndApplications"
     page: "301"
-    offset: "311"
-. id: "5e33c0ad981ec41bc6b27af5"
 . tag: "Abstract Algebra"
 

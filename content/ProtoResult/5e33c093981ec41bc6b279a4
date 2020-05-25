@@ -1,14 +1,18 @@
 ProtoResult:
-. "If $g$ and $h$ are defined on $S$ then \begin{eqnarray*} 
-   \|g+h\|_S \le\|g\|_S+\|h\|_S\\ and \\ \|gh\|_S 
-   \le\|g\|_S\|h\|_S. \end{eqnarray*} Moroever, if either $g$ 
-   or $h$ is bounded on $S$ then $$ 
-   \|g-h\|_S\ge\left|\|g\|_S-\|h\|_S\|\right|. $$"
+. "If $g$ and $h$ are defined on $S$ then
+\[
+  \|g+h\|_S \le\|g\|_S+\|h\|_S
+\]
+and
+\[
+  \|gh\|_S \le\|g\|_S\|h\|_S.
+\]
+Moroever, if either $g$ or $h$ is bounded on $S$ then $$
+\|g-h\|_S\ge\left|\|g\|_S-\|h\|_S\|\right|. $$"
 Metadata:
+. id: "5e33c093981ec41bc6b279a4"
 . reference:
   . source: "@TrenchRealAnalysis"
     page: "237"
-    offset: "246"
-. id: "5e33c093981ec41bc6b279a4"
 . tag: "Real Analysis"
 

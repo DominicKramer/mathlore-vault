@@ -1,0 +1,14 @@
+[af4604bf30344c68ba9504f2dc73002d]
+Source:
+. type: "Book"
+. name: "Single Variable Calculus Late Transcendentals"
+. author:
+  . "David Guichard"
+  . "Neal Koblitz"
+. homepage: "https://www.whitman.edu/mathematics/multivariable/index.cgi"
+. url: "https://www.whitman.edu/mathematics/calculus_late/calculus_late.pdf"
+. offset: "1"
+Metadata:
+. tag: "Calculus"
+. id: "5e82dfc4beba194f36a25e7e"
+

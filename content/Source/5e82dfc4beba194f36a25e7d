@@ -1,0 +1,14 @@
+[328273b623de472198422c2b9f7356df]
+Source:
+. type: "Book"
+. name: "Single Variable Calculus Early Transcendentals"
+. author:
+  . "David Guichard"
+  . "Neal Koblitz"
+. homepage: "https://www.whitman.edu/mathematics/multivariable/index.cgi"
+. url: "https://www.whitman.edu/mathematics/calculus/calculus.pdf"
+. offset: "1"
+Metadata:
+. tag: "Calculus"
+. id: "5e82dfc4beba194f36a25e7d"
+

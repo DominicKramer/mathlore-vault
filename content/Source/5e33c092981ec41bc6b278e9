@@ -1,5 +1,6 @@
 [TrenchRealAnalysis]
 Source:
+. type: "Book"
 . name: "Introduction to Real Analysis"
 . author: "William F. Trench"
 . date: "December 2013"
@@ -7,4 +8,7 @@ Source:
 . offset: "9"
 Metadata:
 . id: "5e33c092981ec41bc6b278e9"
+. tag:
+  . "Analysis"
+  . "Real Analysis"
 

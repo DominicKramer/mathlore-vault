@@ -1,11 +1,10 @@
 ProtoResult:
-. "Let $H$ be in ${\mathbb M}_{m \times n}({\mathbb Z}_2)$. 
-   Then the null space of $H$ is a group~code."
+. "Let $H$ be in ${\mathbb M}_{m \times n}({\mathbb Z}_2)$.
+Then the null space of $H$ is a group code."
 Metadata:
+. id: "5e33c0ad981ec41bc6b27a89"
 . reference:
   . source: "@AbstractAlgebraTheoryAndApplications"
     page: "127"
-    offset: "137"
-. id: "5e33c0ad981ec41bc6b27a89"
 . tag: "Abstract Algebra"
 

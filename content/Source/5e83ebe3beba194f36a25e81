@@ -1,0 +1,18 @@
+[b73f985941714aeb897fb35bac292b27]
+Source:
+. type: "Book"
+. name: "Dive into Deep Learning"
+. author:
+  . "Aston Zhang"
+  . "Zachary C. Lipton"
+  . "Mu Li"
+  . "and Alexander J. Smola"
+. homepage: "https://d2l.ai/"
+. url: "https://d2l.ai/d2l-en.pdf"
+. offset: "17"
+Metadata:
+. tag:
+  . "Deep Learning"
+  . "Machine Learning"
+. id: "5e83ebe3beba194f36a25e81"
+

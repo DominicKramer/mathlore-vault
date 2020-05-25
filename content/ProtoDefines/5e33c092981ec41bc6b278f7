@@ -1,15 +1,23 @@
 ProtoDefines:
 . "If $D_f\cap D_g\ne \emptyset$ then $f+g$ $f-g$ and $fg$ are
-   defined on $D_f\cap D_g$ by \begin{eqnarray*} (f+g)(x) = 
-   f(x)+g(x),\\ (f-g)(x) = f(x)-g(x),\\ and (fg)(x) = f(x)g(x).
-   \end{eqnarray*} The quotient $f/g$ is defined by $$ 
-   \left(\frac{f}{ g}\right) (x)=\frac{f(x)}{ g(x)} $$ for $x$ 
-   in $D_f\cap D_g$ such that $g(x)\ne0$"
+defined on $D_f\cap D_g$ by
+$$
+  (f+g)(x) = f(x)+g(x),
+$$
+$$
+  (f-g)(x) = f(x)-g(x)
+$$
+and
+$$
+  (fg)(x) = f(x)g(x)
+$$
+The quotient $f/g$ is defined by $$
+\left(\frac{f}{ g}\right) (x)=\frac{f(x)}{ g(x)} $$ for $x$
+in $D_f\cap D_g$ such that $g(x)\ne0$"
 Metadata:
+. id: "5e33c092981ec41bc6b278f7"
 . reference:
   . source: "@TrenchRealAnalysis"
     page: "32"
-    offset: "41"
-. id: "5e33c092981ec41bc6b278f7"
 . tag: "Real Analysis"
 

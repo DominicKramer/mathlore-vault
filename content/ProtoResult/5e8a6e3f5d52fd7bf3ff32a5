@@ -1,0 +1,15 @@
+ProtoResult:
+. "The set of equivalence classes of $S$, $F_D$, under the
+equivalence relation $\sim$, together with the operations of
+addition and multiplication defined by
+$$
+  [a, b] + [c, d] = [ad + b c, b d]
+$$
+and
+$$
+  {[ a, b]} \cdot [c, d] = [ac, b d],
+$$
+is a field."
+Metadata:
+. id: "5e8a6e3f5d52fd7bf3ff32a5"
+

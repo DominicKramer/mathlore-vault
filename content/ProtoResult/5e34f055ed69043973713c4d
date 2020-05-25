@@ -1,14 +1,12 @@
 ProtoResult:
-. "Let $g$ be defined on $[0,\infty)$ Suppose $\tau\ge0$ and 
-   ${\cal L}\left(g(t+\tau)\right)$ exists for $s>s_0$ Then 
-   ${\cal L}\left(u(t-\tau)g(t)\right)$ exists for $s>s_0$, and
-   $$ {\cal L}(u(t-\tau)g(t))=e^{-s\tau}{\cal 
-   L}\left(g(t+\tau)\right). $$"
+. "Let $g$ be defined on $[0,\infty)$ Suppose $\tau\ge0$ and
+$\mathcal{L}\left(g(t+\tau)\right)$ exists for $s>s_0$ Then
+$\mathcal{L}\left(u(t-\tau)g(t)\right)$ exists for $s>s_0$, and
+$$\mathcal{L}(u(t-\tau)g(t))=e^{-s\tau}\mathcal{L}\left(g(t+\tau)\right). $$"
 Metadata:
+. id: "5e34f055ed69043973713c4d"
 . reference:
   . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
     page: "421"
-    offset: "431"
-. id: "5e34f055ed69043973713c4d"
 . tag: "Differential Equations"
 

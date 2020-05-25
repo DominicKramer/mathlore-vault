@@ -1,5 +1,6 @@
 [ElementaryDiffEqnsWithBoundaryValueProblems]
 Source:
+. type: "Book"
 . name: "Elementary Differential Equations with Boundary Value Problems"
 . author: "William F. Trench"
 . date: "December 2013"
@@ -7,4 +8,8 @@ Source:
 . offset: "10"
 Metadata:
 . id: "5e34f054ed69043973713c26"
+. tag:
+  . "Analysis"
+  . "Real Analysis"
+  . "Differential Equations"
 

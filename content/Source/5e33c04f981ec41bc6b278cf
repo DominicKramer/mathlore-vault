@@ -1,5 +1,6 @@
 [TrenchImproperFunctions]
 Source:
+. type: "Book"
 . name: "Functions Defined By Improper Integrals"
 . author: "William F. Trench"
 . date: "null"
@@ -7,4 +8,8 @@ Source:
 . offset: "0"
 Metadata:
 . id: "5e33c04f981ec41bc6b278cf"
+. tag:
+  . "Real Analysis"
+  . "Improper Functions"
+  . "Analysis"
 

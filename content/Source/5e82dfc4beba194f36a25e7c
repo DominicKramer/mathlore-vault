@@ -1,0 +1,12 @@
+[7cecfcbd10ca4df48cae9e23e07c8ffb]
+Source:
+. type: "Book"
+. name: "Calculus"
+. author: "Gilbert Strang"
+. homepage: "https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/"
+. url: "http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf"
+. offset: "7"
+Metadata:
+. tag: "Calculus"
+. id: "5e82dfc4beba194f36a25e7c"
+

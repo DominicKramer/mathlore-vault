@@ -1,0 +1,15 @@
+[e4ab9c62199b4b2aa288df53161f28f5]
+Source:
+. type: "Article"
+. name: "Neural Machine Translation and Sequence-to-sequence Models: A Tutorial"
+. author: "Graham Neubig"
+. homepage: "https://arxiv.org/abs/1703.01619"
+. url: "https://arxiv.org/pdf/1703.01619.pdf"
+. offset: "1"
+Metadata:
+. tag:
+  . "Machine Learning"
+  . "Deep Learning"
+  . "Natural Language Processing"
+. id: "5e8bf7f85d52fd7bf3ff32ce"
+

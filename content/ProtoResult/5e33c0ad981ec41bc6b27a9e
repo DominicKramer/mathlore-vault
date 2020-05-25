@@ -1,11 +1,11 @@
 ProtoResult:
-. "bf{(Odd Order Theorem) } Every finite simple group of 
-   nonprime order must be of even order."
+. "Every finite simple group of
+nonprime order must be of even order."
 Metadata:
+. id: "5e33c0ad981ec41bc6b27a9e"
+. name: "Odd Order Theorem"
 . reference:
   . source: "@AbstractAlgebraTheoryAndApplications"
     page: "240"
-    offset: "250"
-. id: "5e33c0ad981ec41bc6b27a9e"
 . tag: "Abstract Algebra"
 

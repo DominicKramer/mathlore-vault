@@ -1,0 +1,14 @@
+ProtoDefines:
+. "A subset $S$ of the real line is \term{ of Lebesgue measure
+zero } if for every $\epsilon>0$ there is a finite or
+infinite sequence of open intervals $\{I_1, I_2, \dots\}$
+such that \begin{equation} S\subset\bigcup_j I_j
+\end{equation} and \begin{equation} \sum_{j=1}^n
+L(I_j)<\epsilon,\quad n\ge1. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "179"
+. tag: "Real Analysis"
+. id: "5e8a6cbe5d52fd7bf3ff32a0"
+

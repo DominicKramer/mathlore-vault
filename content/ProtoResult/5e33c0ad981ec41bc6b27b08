@@ -1,27 +1,26 @@
 ProtoResult:
-. "Let ${\mathbb Z}_n$ be the set of equivalence classes of 
-   the integers mod $n$ and $a, b, c \in {\mathbb Z}_n$. 
-   \begin{enumerate} \item \it Addition and multiplication are 
-   commutative: \begin{align*} a + b & \equiv b + a \pmod{ n} 
-   \\ a b & \equiv b a \pmod{ n}. \end{align*} \item \it 
-   Addition and multiplication are associative: \begin{align*} 
-   (a + b) + c & \equiv a + (b + c) \pmod{ n} \\ (a b) c & 
-   \equiv a (b c) \pmod{ n}. \end{align*} \item \it There are 
-   both an additive and a multiplicative identity: 
-   \begin{align*} a + 0 & \equiv a \pmod{ n} \\ a \cdot 1 & 
-   \equiv a \pmod{ n}. \end{align*} \item \it Multiplication 
-   distributes over addition: \[ a (b + c) \equiv a b + a c 
-   \pmod{ n}. \] \item \it For every integer $a$ there is an 
-   additive inverse $-a$: \[ a + (-a) \equiv 0 \pmod{ n}. \] 
-   \item \it Let $a$ be a nonzero integer. Then $\gcd(a,n) = 1$
-   if and only if there exists a multiplicative inverse $b$ for
-   $a \pmod{n}$; that is, a nonzero integer $b$ such that \[ a 
-   b \equiv 1 \pmod{ n}. \] \end{enumerate}"
+. "Let ${\mathbb Z}_n$ be the set of equivalence classes of
+the integers mod $n$ and $a, b, c \in {\mathbb Z}_n$.
+\begin{enumerate} \item Addition and multiplication are
+commutative: \begin{align*} a + b & \equiv b + a \pmod{ n}
+\\ a b & \equiv b a \pmod{ n}. \end{align*} \item 
+Addition and multiplication are associative: \begin{align*}
+(a + b) + c & \equiv a + (b + c) \pmod{ n} \\ (a b) c &
+\equiv a (b c) \pmod{ n}. \end{align*} \item There are
+both an additive and a multiplicative identity:
+\begin{align*} a + 0 & \equiv a \pmod{ n} \\ a \cdot 1 &
+\equiv a \pmod{ n}. \end{align*} \item Multiplication
+distributes over addition: \[ a (b + c) \equiv a b + a c
+\pmod{ n}. \] \item For every integer $a$ there is an
+additive inverse $-a$: \[ a + (-a) \equiv 0 \pmod{ n}. \]
+\item Let $a$ be a nonzero integer. Then $\gcd(a,n) = 1$
+if and only if there exists a multiplicative inverse $b$ for
+$a \pmod{n}$; that is, a nonzero integer $b$ such that \[ a
+b \equiv 1 \pmod{ n}. \] \end{enumerate}"
 Metadata:
+. id: "5e33c0ad981ec41bc6b27b08"
 . reference:
   . source: "@AbstractAlgebraTheoryAndApplications"
     page: "39"
-    offset: "49"
-. id: "5e33c0ad981ec41bc6b27b08"
 . tag: "Abstract Algebra"
 

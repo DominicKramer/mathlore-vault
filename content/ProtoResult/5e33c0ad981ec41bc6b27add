@@ -1,17 +1,22 @@
 ProtoResult:
-. "Let $f : A \rightarrow B$, $g : B \rightarrow C$, and $h : 
-   C \rightarrow D$. Then \begin{enumerate} \item\it The 
-   composition of mappings is associative; that is, $(h \circ 
-   g) \circ f = h \circ (g \circ f)$; \item\it If $f$ and $g$ 
-   are both one-to-one, then the mapping $g \circ f$ is 
-   one-to-one; \item\it If $f$ and $g$ are both onto, then the 
-   mapping $g \circ f$ is onto; \item\it If $f$ and $g$ are 
-   bijective, then so is $g \circ f$. \end{enumerate}"
+. "Let $f : A \rightarrow B$, $g : B \rightarrow C$, and $h :
+C \rightarrow D$. Then
+\begin{enumerate}
+  \item The
+composition of mappings is associative; that is, $(h \circ
+g) \circ f = h \circ (g \circ f)$;
+  \item If $f$ and $g$
+are both one-to-one, then the mapping $g \circ f$ is
+one-to-one;
+  \item If $f$ and $g$ are both onto, then the
+mapping $g \circ f$ is onto;
+  \item If $f$ and $g$ are
+bijective, then so is $g \circ f$.
+\end{enumerate}"
 Metadata:
+. id: "5e33c0ad981ec41bc6b27add"
 . reference:
   . source: "@AbstractAlgebraTheoryAndApplications"
     page: "12"
-    offset: "22"
-. id: "5e33c0ad981ec41bc6b27add"
 . tag: "Abstract Algebra"
 

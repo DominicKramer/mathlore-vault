@@ -1,19 +1,18 @@
 ProtoDefines:
 . "Let $\boldsymbol{\Phi}$ be a unit vector and $\mathbf{X}$ a
-   point in $\R^n$. \term{ The directional derivative of $f$ at 
-   $\mathbf{X}$ in the direction of } $\boldsymbol{\Phi}$ is 
-   defined by $$ \frac{ ial f(\mathbf{X})}{ 
-   ial\boldsymbol{\Phi}}=\lim_{t\to 0}\frac {f(\mathbf{X}+ 
-   t\boldsymbol{\Phi})-f(\mathbf{X})}{ t} $$ if the limit 
-   exists. That is, $ ial f(\mathbf{X})/ ial\boldsymbol{\Phi}$ 
-   is the ordinary derivative of the function $$ 
-   h(t)=f(\mathbf{X}+t\boldsymbol{\Phi}) $$ at $t=0$, if 
-   $h'(0)$ exists."
+point in $\R^n$. \term{ The directional derivative of $f$ at
+$\mathbf{X}$ in the direction of } $\boldsymbol{\Phi}$ is
+defined by $$ \frac{\partial f(\mathbf{X})}{
+\partial\boldsymbol{\Phi}}=\lim_{t\to 0}\frac {f(\mathbf{X}+
+t\boldsymbol{\Phi})-f(\mathbf{X})}{ t} $$ if the limit
+exists. That is, $\partial f(\mathbf{X})/\partial\boldsymbol{\Phi}$
+is the ordinary derivative of the function $$
+h(t)=f(\mathbf{X}+t\boldsymbol{\Phi}) $$ at $t=0$, if
+$h'(0)$ exists."
 Metadata:
+. id: "5e33c092981ec41bc6b2791b"
 . reference:
   . source: "@TrenchRealAnalysis"
     page: "319"
-    offset: "328"
-. id: "5e33c092981ec41bc6b2791b"
 . tag: "Real Analysis"
 
