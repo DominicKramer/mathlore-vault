@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ and $g$ are integrable on $[a,b]$ then so is the 
    product $fg$"
 Metadata:

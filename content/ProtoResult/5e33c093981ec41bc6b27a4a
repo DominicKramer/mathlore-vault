@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $\mathbf{A}$ be an $n\times n$ matrix. \begin{alist} 
    \item The sum of the products of the entries of a row of 
    $\mathbf{A}$ and their cofactors equals $\det(\mathbf{A})$ 

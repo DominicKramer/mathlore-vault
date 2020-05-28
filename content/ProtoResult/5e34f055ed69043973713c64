@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "$[$The Principle of Superposition$]$ Suppose for each $i=1$
    $2$ \dots, $r$, the function $y_{p_i}$ is a particular 
    solution of $Ly=F_i$ on $(a,b)$ Then $$ 

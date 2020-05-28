@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f_{x_1}$ $f_{x_2}$ \dots, $f_{x_n}$ exist on a 
    neighborhood of $\mathbf{X}_0$ and are continuous at 
    $\mathbf{X}_0$ then $f$ is differentiable at $\mathbf{X}_0$"

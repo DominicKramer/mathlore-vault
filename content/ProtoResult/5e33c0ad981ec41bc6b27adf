@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $F$ is a finite field, then the characteristic of $F$ is
    $p$, where $p$ is prime."
 Metadata:

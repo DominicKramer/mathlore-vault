@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $a_n\ge0$ and $b_n>0$ for $n\ge k$ Then 
    \begin{alist} \item $\dst{\sum a_n<\infty \quad if\quad \sum
    b_n< \infty \quad and\quad \limsup_{n\to\infty} 

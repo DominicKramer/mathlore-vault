@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose $Ly=F$ is normal on $(a,b)$, let $x_0$ be a point 
    in $(a,b)$ and let $k_0$, $k_1$, \dots, $k_{n-1}$ be 
    arbitrary real numbers. Then the initial value problem $$ 

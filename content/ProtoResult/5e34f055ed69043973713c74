@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $A$ be an $n\times n$ matrix with real entries. Let 
    $\lambda=\alpha+i\beta$ { (}$\beta\ne0${ }) be a complex 
    eigenvalue of $A$ and let ${\bf x}={\bf u}+i{\bf v}$ be an 

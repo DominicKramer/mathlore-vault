@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $f$ is infinitely differentiable on an 
    interval $I$ and \begin{equation} 
    \lim_{n\to\infty}\frac{r^n}{ n!}\|f^{(n)}\|_I=0. 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $E = F( \alpha )$ be a simple extension of $F$, where 
    $\alpha \in E$ is algebraic over $F$. Suppose that the 
    degree of $\alpha$ over $F$ is $n$. Then every element 

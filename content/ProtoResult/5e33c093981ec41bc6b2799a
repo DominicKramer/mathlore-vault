@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is continuous on a finite closed interval $[a,b]$ 
    then $f$ is bounded on $[a,b]$"
 Metadata:

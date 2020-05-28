@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $F$ be a field. An element $\alpha \in F$ is a zero of 
    $p(x) \in F $ if and only if $x - \alpha$ is a factor of 
    $p(x)$ in $F $."

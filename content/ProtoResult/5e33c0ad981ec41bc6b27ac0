@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let ${\mathbf e}_i$ be the binary $n$-tuple with a $1$ in 
    the $i$th coordinate and $0$'s elsewhere and suppose that $H
    \in {\mathbb M}_{m \times n}({\mathbb Z}_2)$. Then 

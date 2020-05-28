@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "The linear transformation $$ 
    \mathbf{U}=\mathbf{L}(\mathbf{X})=\mathbf{A}\mathbf{X}\quad 
    (\R^n\to \R^n) $$ is invertible if and only if $\mathbf{A}$ 

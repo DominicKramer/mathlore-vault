@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose the $n\times n$ matrix $A=A(t)$ is continuous on 
    $(a,b)$. Then a set $\{{\bf y}_1,{\bf y}_2,\dots,{\bf 
    y}_n\}$ of $n$ solutions of ${\bf y}'=A(t){\bf y}$ on 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $R$ be a commutative ring with identity and $\alpha \in
    R$. Then we have a ring homomorphism $\phi_{\alpha} : R 
    \rightarrow R$ defined by \[ \phi_{\alpha} (p(x) ) = p( 

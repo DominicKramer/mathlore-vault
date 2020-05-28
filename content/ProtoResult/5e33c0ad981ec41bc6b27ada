@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $G$ be a group acting on a set $X$ and $x \in X$. The 
    stabilizer group, $G_x$, of $x$ is a subgroup of $G$."
 Metadata:

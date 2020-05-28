@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f'(x)=0$ for all $x$ in $(a,b)$ then $f$ is constant on
    $(a,b)$"
 Metadata:

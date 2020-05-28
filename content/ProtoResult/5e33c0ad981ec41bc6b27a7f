@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $b \in B$ and $a_1, \ldots, a_n$ be the atoms of $B$ 
    such that $a_i \preceq b$. Then $b = a_1 \vee \cdots \vee 
    a_n$. Furthermore, if $a, a_1, \ldots, a_n$ are atoms of $B$

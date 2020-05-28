@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $Ly=0$ is normal on $(a,b)$, then a set 
    $\{y_1,y_2,\dots,y_n\}$ of $n$ solutions of $Ly=0$ on 
    $(a,b)$ is a fundamental set if and only if it's linearly 

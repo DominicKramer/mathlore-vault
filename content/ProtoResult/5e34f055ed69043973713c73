@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose the $n\times n$ constant matrix $A$ has $n$ real 
    eigenvalues $\lambda_1,\lambda_2,\ldots,\lambda_n$ { (}which
    need not be distinct{ )} with associated linearly 

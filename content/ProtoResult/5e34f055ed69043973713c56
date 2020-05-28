@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose $t_0\ge0$ For each positive number $h$ let $y_h$ be
    the solution of the initial value problem \begin{equation} 
    ay_h''+by_h'+cy_h=f_h(t), \quad y_h(0)=0,\quad y_h'(0)=0, 

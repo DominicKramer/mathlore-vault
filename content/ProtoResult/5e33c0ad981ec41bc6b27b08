@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let ${\mathbb Z}_n$ be the set of equivalence classes of
 the integers mod $n$ and $a, b, c \in {\mathbb Z}_n$.
 \begin{enumerate} \item Addition and multiplication are

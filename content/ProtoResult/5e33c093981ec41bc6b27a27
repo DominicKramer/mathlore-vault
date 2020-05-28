@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\mathbf{X}$ $\mathbf{Y}$ and $\mathbf{Z}$ are members 
    of $\R^n$ and $a$ is a scalar, then \begin{alist} \item 
    $|a\mathbf{X}|=|a|\,|\mathbf{X}|$ \item $|\mathbf{X}|\ge0$ 

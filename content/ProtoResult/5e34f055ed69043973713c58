@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose $p$ $q$ and $f$ are continuous on $(a,b)$ Let $y_p$
    be a particular solution of \begin{equation} 
    y''+p(x)y'+q(x)y=f(x) \end{equation} on $(a,b)$, and let 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $$ |f'(x)|\le M,\quad a<x<b, $$ then \begin{equation} 
    |f(x)-f(x')|\le M |x-x'|,\quad x, x'\in (a,b). 
    \end{equation}"

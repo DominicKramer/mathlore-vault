@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $G$ be a finite group and let $H$ be a subgroup of $G$.
    Then $|G|/|H| = [G : H]$ is the number of distinct left 
    cosets of $H$ in $G$. In particular, the number of elements 

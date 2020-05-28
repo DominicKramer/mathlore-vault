@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose the $n\times n$ matrix function $A$ and the 
    $n$-vector function ${\bf f}$ are continuous on $(a,b)$ Let 
    ${\bf y}_p$ be a particular solution of ${\bf y}'=A(t){\bf 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $V$ be a vector space over $F$. Then each of the
 following statements is true. \begin{enumerate} \item 
 $0v ={\mathbf 0}$ for all $v \in V$. \item $\alpha

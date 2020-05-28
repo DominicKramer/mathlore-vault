@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $(g, h) \in G \times H$. If $g$ and $h$ have finite 
    orders $r$ and $s$ respectively, then the order of $(g, h)$ 
    in $G \times H$ is the least common multiple of $r$ and 

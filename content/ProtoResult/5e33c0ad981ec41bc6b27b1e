@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $G$ be a group and $N$ be a subgroup of $G$. Then the 
    following statements are equivalent. \begin{enumerate} \item
    \it The subgroup $N$ is normal in $G$. \item \it For all $g 

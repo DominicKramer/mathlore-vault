@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "The map $\psi:(\Z/p\Z{})^*\to \{\pm 1\}$ given by $\psi(a) 
    = \left(\frac{a}{p}\right)$ is a surjective group 
    homomorphism."

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $$ \sum_{n=k}^\infty a_n=A \quad and\quad 
    \sum_{n=k}^\infty b_n=B, $$ where $A$ and $B$ are finite. 
    Then $$ \sum_{n=k}^\infty (ca_n)=cA $$ if $c$ is a constant,

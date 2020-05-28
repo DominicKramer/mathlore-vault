@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ and $g$ are locally integrable on $[a,b)$ and 
    \begin{equation} 0\le f(x)\le g(x),\quad a\le x<b, 
    \end{equation} then 3pt a $\dst\int_a^b f(x)\,dx<\infty 

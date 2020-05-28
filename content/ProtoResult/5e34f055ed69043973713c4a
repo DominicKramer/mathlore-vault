@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose $p$ and $q$ are continuous on $(a,b)$ Then a set 
    $\{y_1,y_2\}$ of solutions of \begin{equation} 
    y''+p(x)y'+q(x)y=0 \end{equation} on $(a,b)$ is a 

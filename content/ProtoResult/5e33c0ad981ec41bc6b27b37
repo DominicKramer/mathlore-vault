@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If a permutation $\sigma$ can be expressed as the product 
    of an even number of transpositions, then any other product 
    of transpositions equaling $\sigma$ must also contain an 

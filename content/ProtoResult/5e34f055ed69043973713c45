@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $M$ $N$ $M_y$ and $N_x$ be continuous on an open 
    rectangle $R$ Then$:$ \begin{alist} \item If $(M_y-N_x)/N$ 
    is independent of $y$ on $R$ and we define $$ 

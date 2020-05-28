@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is monotonic on $[a,b]$ then $f$ is integrable on 
    $[a,b]$."
 Metadata:

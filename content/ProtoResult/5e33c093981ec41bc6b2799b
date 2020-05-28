@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $f$ is continuous on a finite closed interval 
    $[a,b]$ Let $$ \alpha=\inf_{a\le x\le b}f(x) \quad and \quad
    \beta=\sup_{a\le x\le b}f(x). $$ Then $\alpha$ and $\beta$ 

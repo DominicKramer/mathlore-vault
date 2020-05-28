@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose the roots of the indicial equation \begin{equation}
    ar(r-1)+br+c=0 \end{equation} are $r_1$ and $r_2$. Then the 
    general solution of the Euler equation \begin{equation} 

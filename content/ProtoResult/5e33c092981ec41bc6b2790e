@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $\mathbf{G}: \mathbb{E}^n\to \mathbb{R}^n$ is regular on a
 compact Jordan measurable set $S$ and $f$ is continuous on
 $\mathbf{G}(S)$ Then \begin{equation} \int_{\mathbf{G}(S)}

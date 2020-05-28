@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Every sequence $\{s_n\}$ of real numbers has a unique limit
    superior, $\overline{s}$ and a unique limit inferior, 
    $\underline{s}$, in the extended reals, and \begin{equation}

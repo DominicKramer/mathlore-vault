@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $\mathbf{G}: \E^n\to \R^n$ is continuously 
    differentiable on a bounded open set $N$ containing the 
    compact Jordan measurable set $S$ and regular on $S^0$ 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $\{ v_1, v_2, \ldots, v_n \}$ be a set of linearly 
    independent vectors in a vector space. Suppose that \[ v = 
    \alpha_1 v_1 + \alpha_2 v_2 + \cdots + \alpha_n v_n = 

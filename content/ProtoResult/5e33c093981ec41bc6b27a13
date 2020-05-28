@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $\{F_n\}$ converges uniformly to $F$ on 
    $S=[a,b]$. Assume that $F$ and all $F_n$ are integrable on 
    $[a,b]$ Then \begin{equation} \int_a^b 

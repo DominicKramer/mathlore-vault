@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $a$ and $b$ be integers and $p$ be a prime number. If 
    $p \mid ab$, then either $p \mid a$ or $p \mid b$."
 Metadata:

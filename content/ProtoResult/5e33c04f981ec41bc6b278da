@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f=f(x,y)$ is continuous on either $[a,b)\times [c,d]$ 
    or $(a,b]\times [c,d]$ and \begin{equation} 
    F(y)=\int_{a}^{b}f(x,y)\,dx \end{equation} converges 

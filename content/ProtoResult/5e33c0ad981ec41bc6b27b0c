@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "The identity element in a group $G$ is unique; that is, 
    there exists only one element $e \in G$ such that $eg = ge =
    g$ for all $g \in G$."

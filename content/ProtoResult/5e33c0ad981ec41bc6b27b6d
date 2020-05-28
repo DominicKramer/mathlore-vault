@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $K$ be a field extension of $F$ such that $F = K_G$ for
    some finite group of automorphisms $G$ of $K$. Then $G = 
    G(K/F)$."

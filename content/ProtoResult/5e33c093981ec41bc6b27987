@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "A set $S$ is closed if and only if no point of $S^c$ is a 
    limit point of $S$"
 Metadata:

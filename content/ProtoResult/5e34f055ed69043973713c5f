@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $$ y_p=A(x)\cos\omega x+B(x)\sin\omega x, $$ where 
    $A(x)$ and $B(x)$ are polynomials with coefficients $A_0$ 
    \dots, $A_k$ and $B_0$, \dots, $B_k$ then the polynomials 

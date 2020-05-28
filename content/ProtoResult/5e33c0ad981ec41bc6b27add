@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $f : A \rightarrow B$, $g : B \rightarrow C$, and $h :
 C \rightarrow D$. Then
 \begin{enumerate}

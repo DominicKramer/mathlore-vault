@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $G$ be a group and $a$ be any element in $G$. Then the 
    set \[ \langle a \rangle = \{ a^k : k \in {\mathbb Z} \} \] 
    is a subgroup of $G$. Furthermore, $\langle a \rangle$ is 

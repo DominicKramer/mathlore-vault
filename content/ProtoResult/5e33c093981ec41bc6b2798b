@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is integrable on $[a,b] \times [c,d]$ then $$ 
    \int_a^b dx\int_c^d f(x,y)\,dy=\int_c^d dy\int_a^b 
    f(x,y)\,dx, $$ provided that $\int_c^d f(x,y)\,dy$ exists 

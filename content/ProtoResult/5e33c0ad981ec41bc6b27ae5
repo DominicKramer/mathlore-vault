@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "A lattice $L$ is distributive if and only if \[ a \vee ( b 
    \wedge c ) = ( a \vee b ) \wedge ( a \vee c ) \] for all $a,
    b, c \in L$."

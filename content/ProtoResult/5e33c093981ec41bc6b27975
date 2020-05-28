@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Under the assumptions of Theorem $ $ \begin{equation} 
    \frac{ ial h(\mathbf{U}_0)}{ ial u_i}=\sum_{j=1}^n \frac{ 
    ial f(\mathbf{X}_0) }{ ial x_j} \frac{ ial 

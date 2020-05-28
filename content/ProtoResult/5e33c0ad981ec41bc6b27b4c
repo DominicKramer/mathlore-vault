@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $f(x)$ be an irreducible polynomial over $F$. If the 
    characteristic of $F$ is $0$, then $f(x)$ is separable. If 
    the characteristic of $F$ is $p$ and $f(x) \neq g(x^p)$ for 

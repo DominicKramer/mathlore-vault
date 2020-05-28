@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "\begin{alist} \item If $\{s_n\}$ is nondecreasing, then 
    $\lim_{n\to\infty}s_n=\sup\{s_n\}$ \item If $\{s_n\}$ is 
    nonincreasing, then $\lim_{n\to\infty}s_n= \inf\{s_n\}$ 

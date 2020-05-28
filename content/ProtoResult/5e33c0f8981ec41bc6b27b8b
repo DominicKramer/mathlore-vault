@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $R$ is a complete set of residues modulo $n$ and 
    $a\in\mathbf{Z}$ with $\gcd(a,n)=1$, then $aR = \{ax : x \in
    R\}$ is also a complete set of residues modulo $n$."

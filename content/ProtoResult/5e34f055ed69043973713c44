@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "$[$Linearity Property$]$ If $F_1$ $F_2$ \dots, $F_n$ are 
    Laplace transforms and $c_1$ $c_2$ \dots, $c_n$ are 
    constants, then $$ {\cal 

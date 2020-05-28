@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $\phi : G_1 \rightarrow G_2$ be a homomorphism of
 groups. Then \begin{enumerate} \item If $e$ is the
 identity of $G_1$, then $\phi( e)$ is the identity of $G_2$;

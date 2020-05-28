@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "bf{(Fundamental Theorem of Finite Abelian Groups)} Every 
    finite abelian group $G$ is isomorphic to a direct product 
    of cyclic groups of the form \[ {\mathbb Z}_{p_1^{ \alpha_1 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $f$ is continuous on a finite closed interval 
    $I$ with endpoints $a$ and $b$ (that is, either $I=(a,b)$ or
    $I=(b,a))$ $f^{(n+1)}$ exists on the open interval $I^0$ 

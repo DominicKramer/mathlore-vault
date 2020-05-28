@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $I$ be an ideal of $R$. The factor group $R/I$ is a 
    ring with multiplication defined by \[ (r + I)(s + I) = rs +
    I. \]"

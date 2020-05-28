@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "A sequence $\{\mathbf{X}_r\}$ in $\R^n$ converges if and 
    only if for each $\epsilon>0$ there is an integer $K$ such 
    that $$ |\mathbf{X}_r-\mathbf{X}_s|<\epsilon \quad if\quad 

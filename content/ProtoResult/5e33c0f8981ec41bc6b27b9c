@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "For any integer $a$, $$ g_a = \left(\frac{a}{p}\right)g_1. 
    $$"
 Metadata:

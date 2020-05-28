@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If a nonempty set $S$ of real numbers is bounded above, 
    then $\sup S$ is the unique real number $\beta$ such that 
    \begin{alist} \item $x\le\beta$ for all $x$ in $S$ \item if 

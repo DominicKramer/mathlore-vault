@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $$ Ly=
 x^2(\alpha_0+\alpha_2x^2)y''+x(\beta_0+\beta_2x^2)y'
 +(\gamma_0+\gamma_2x^2)y, $$ where $\alpha_0\ne0$ and define

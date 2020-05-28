@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $n$ be an integer that is a product of distinct primes 
    and let $d,e\in\mathbf{N}$ be such that $p-1\mid de-1$ for 
    each prime $p\mid n$. Then $a^{de} \equiv a\pmod{n}$ for all

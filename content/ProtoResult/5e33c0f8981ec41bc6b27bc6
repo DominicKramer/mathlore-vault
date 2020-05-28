@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "For $n\geq 0$ with $n\leq m$ we have $$ [a_0, \ldots, a_n] 
    = \frac{p_n}{q_n}$$"
 Metadata:

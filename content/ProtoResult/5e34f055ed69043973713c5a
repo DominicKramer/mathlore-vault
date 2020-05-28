@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "$[$The Principle of Superposition$]$ Suppose $y_{p_1}$ is a
    particular solution of $$ y''+p(x)y'+q(x)y=f_1(x) $$ on 
    $(a,b)$ and $y_{p_2}$ is a particular solution of $$ 

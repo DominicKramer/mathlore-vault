@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $f_n$ is continuously differentiable on 
    $[a,b]$ for each $n\ge k$ $\sum_{n=k}^\infty f_n(x_0)$ 
    converges for some $x_0$ in $[a,b]$ and $\sum_{n=k}^\infty 

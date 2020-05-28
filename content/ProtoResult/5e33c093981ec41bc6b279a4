@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $g$ and $h$ are defined on $S$ then
 \[
   \|g+h\|_S \le\|g\|_S+\|h\|_S

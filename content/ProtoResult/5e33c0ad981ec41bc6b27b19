@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $G$ is a group and $a, b, c \in G$, then $ba = ca$ 
    implies $b = c$ and $ab = ac$ implies $b = c$."
 Metadata:

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $p$ is prime, then any subgroup of $S_p$ that contains a
    transposition and a cycle of length $p$ must be all of 
    $S_p$."

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If there is a primitive root modulo $n$, then there are 
    exactly $\varphi(\varphi(n))$ primitive roots modulo $n$."
 Metadata:

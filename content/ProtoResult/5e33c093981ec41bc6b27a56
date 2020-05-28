@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $\mathbf{F}: \R^n\to \R^n$ is regular on an 
    open set $S$ and let $\mathbf{G}=\mathbf{F}^{-1}_S$ Then 
    $\mathbf{F}(S)$ is open, $\mathbf{G}$ is continuously 

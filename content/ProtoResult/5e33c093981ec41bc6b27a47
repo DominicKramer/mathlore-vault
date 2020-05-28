@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\mathbf{A}$ $\mathbf{B}$ and $\mathbf{C}$ are $m\times 
    p$ $p\times q$ and $q\times n$ matrices, respectively, then 
    $(\mathbf{AB})\mathbf{C}=\mathbf{A}(\mathbf{BC})$"

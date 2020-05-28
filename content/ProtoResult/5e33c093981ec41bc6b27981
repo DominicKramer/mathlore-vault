@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If a nonempty set $S$ of real numbers is bounded below, 
    then $\inf S$ is the unique real number $\alpha$ such that 
    \begin{alist} \item $x\ge\alpha$ for all $x$ in $S$ \item if

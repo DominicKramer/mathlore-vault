@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "[Primitive Roots mod $p^n$] Let $p^n$ be a power of an odd 
    prime. Then there is a primitive root modulo $p^n$."
 Metadata:

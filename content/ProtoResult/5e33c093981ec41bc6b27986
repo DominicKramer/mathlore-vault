@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "\begin{alist} \item The union of open sets is open. \item 
    The intersection of closed sets is closed. \end{alist} These
    statements apply to arbitrary collections, finite or 

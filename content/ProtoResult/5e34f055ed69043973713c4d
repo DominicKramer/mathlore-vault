@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $g$ be defined on $[0,\infty)$ Suppose $\tau\ge0$ and
 $\mathcal{L}\left(g(t+\tau)\right)$ exists for $s>s_0$ Then
 $\mathcal{L}\left(u(t-\tau)g(t)\right)$ exists for $s>s_0$, and

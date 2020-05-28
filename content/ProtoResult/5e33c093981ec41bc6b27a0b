@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $P=\{a_{n_i}\}_1^\infty$ and $Q= \{a_{m_j}\}_1^\infty$ 
    are respectively the subsequences of all positive and 
    negative terms in a conditionally convergent series $\sum 

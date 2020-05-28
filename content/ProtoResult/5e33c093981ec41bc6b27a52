@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\mathbf{F}: \R^n\to\R^m$ is differentiable at 
    $\mathbf{X}_0$ then $\mathbf{F}$ is continuous at 
    $\mathbf{X}_0$"

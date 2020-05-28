@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is bounded on a rectangle $R$ and $$ 
    \underline{\int_R}\, f(\mathbf{X})\,d\mathbf{X}= 
    \overline{\int_R}\, f(\mathbf{X})\,d\mathbf{X}=L, $$ then 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\lim_{\mathbf{X}\to\mathbf{X}_0} f(\mathbf{X})$ exists,
    then it is unique."
 Metadata:

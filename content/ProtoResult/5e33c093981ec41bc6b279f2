@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "\begin{alist} \item If $\{s_n\}$ is bounded above and does 
    not diverge to $-\infty$ then there is a unique real number 
    $\overline{s}$ such that, if $\epsilon>0$ \begin{equation} 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $\phi : E \rightarrow F$ be an isomorphism of fields. 
    Let $K$ be an extension field of $E$ and $\alpha \in K$ be 
    algebraic over $E$ with minimal polynomial $p(x)$. Suppose 

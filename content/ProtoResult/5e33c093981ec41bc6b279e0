@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $\phi'$ is integrable and $\phi$ is monotonic 
    on $[c,d]$ and the transformation $x=\phi(t)$ maps $[c,d]$ 
    onto $[a,b]$ Let $f$ be bounded on $[a,b]$ Then $$ 

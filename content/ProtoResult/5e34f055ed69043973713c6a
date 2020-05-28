@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose the coefficient matrix $A$ and the forcing function
    ${\bf f}$ are continuous on $(a,b)$, let $t_0$ be in 
    $(a,b)$, and let ${\bf k}$ be an arbitrary constant 

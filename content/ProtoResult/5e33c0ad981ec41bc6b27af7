@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $a$ and $b$ be integers, with $b > 0$. Then there exist
    unique integers $q$ and $r$ such that \[ a = bq + r \] where
    $0 \leq r < b$."

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is a contraction of a complete metric space 
    $(A,\rho)$ then the equation \begin{equation} f(u)=u 
    \end{equation} has a unique solution."

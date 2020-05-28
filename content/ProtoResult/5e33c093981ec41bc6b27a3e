@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $f$ is defined in a neighborhood of
 $\mathbf{X}_0$ in $\R^n$ and $f_{x_1}(\mathbf{X}_0),
 f_{x_2}(\mathbf{X}_{0}), \dots, f_{x_n}(\mathbf{X}_{0})$

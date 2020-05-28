@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\mathbf{F}:\R^n\to\R^m$ is continuously differentiable 
    on an open set containing a compact set $D$ then there is a 
    constant $M$ such that \begin{equation} 

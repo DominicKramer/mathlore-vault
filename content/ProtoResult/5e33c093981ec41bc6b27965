@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\sum f_n$ converges uniformly on $S$ then 
    $\lim_{n\to\infty}\|f_n\|_S=0$"
 Metadata:

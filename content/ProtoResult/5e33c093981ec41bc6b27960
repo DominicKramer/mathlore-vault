@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "The series $\sum a_nb_n$ converges if $a_{n+1}\le a_n$ for 
    $n\ge k$ $\lim_{n\to\infty}a_n=0$ and $$ 
    |b_k+b_{k+1}+\cdots+b_n|\le M,\quad n\ge k, $$ for some 

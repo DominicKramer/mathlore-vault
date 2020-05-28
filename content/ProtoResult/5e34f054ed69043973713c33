@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $L$ and $\{a_n(r)\}$ be as in Theorem $ $ and suppose 
    the indicial equation $p_0(r)=0$ of $Ly=0$ has real roots 
    $r_1$ and $r_2$ where $r_1\ge r_2$ Then $$ 

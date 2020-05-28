@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\mathbf{A}$ and $\mathbf{B}$ are $n\times n$ matrices, 
    then $$ 
    \det(\mathbf{A}\mathbf{B})=\det(\mathbf{A})\det(\mathbf{B}).

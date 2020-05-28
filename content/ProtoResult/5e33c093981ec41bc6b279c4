@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $S$ is contained in a bounded set $T$ and $f$ 
    is integrable on $S$ Then $f_S$ (see $ )$ is integrable on 
    $T$ and $$ \int_T f_S(\mathbf{X})\,d\mathbf{X}=\int_S 

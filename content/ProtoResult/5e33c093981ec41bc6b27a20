@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $x_1$ and $x_2$ are in the interval of convergence of $$
    f(x)=\sum^\infty_{n=0} a_n(x-x_0)^n, $$ then $$ 
    \int_{x_1}^{x_2} f(x)\,dx=\sum^\infty_{n=0}\frac{a_n}{ 

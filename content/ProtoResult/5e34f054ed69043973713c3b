@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose $p$ and $f$ are continuous on an open interval 
    $(a,b)$ and let $y_1$ be any nontrivial solution of the 
    complementary equation $$ y'+p(x)y=0 $$ on $(a,b)$. Then$:$ 

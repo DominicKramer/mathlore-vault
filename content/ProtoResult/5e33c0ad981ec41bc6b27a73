@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $\alpha_1, \ldots, \alpha_n$ be elements in a field $F$
    with $n \geq 2$. Then \[ \det \begin{pmatrix} 1 & 1 & \cdots
    & 1 \\ \alpha_1 & \alpha_2 & \cdots & \alpha_n \\ \alpha_1^2

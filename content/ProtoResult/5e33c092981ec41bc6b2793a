@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $(A,\rho)$ is complete and $T$ is closed and totally 
    bounded, then $T$ is compact."
 Metadata:

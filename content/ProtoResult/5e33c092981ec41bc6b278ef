@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $u$ is continuous and $v$ is integrable and 
    nonnegative on a rectangle $R$ Then $$ \int_R 
    u(\mathbf{X})v(\mathbf{X})\,d\mathbf{X}= 

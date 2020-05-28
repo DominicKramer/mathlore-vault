@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $n_1, n_2, \ldots, n_k$ be positive integers such that
 $\gcd(n_i, n_j) = 1$ for $i \neq j$. Then for any integers
 $a_1, \ldots, a_k$, the system

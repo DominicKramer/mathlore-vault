@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "A set $B$ is a Boolean algebra if and only if there exist
 binary operations $\vee$ and $\wedge$ on $B$ satisfying the
 following axioms. \begin{enumerate} \item $a \vee b = b

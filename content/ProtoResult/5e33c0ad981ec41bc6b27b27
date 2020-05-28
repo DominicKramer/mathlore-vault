@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $p(x) \in {\mathbb Z} $ be a monic polynomial such that
    $p(x)$ factors into a product of two polynomials $\alpha(x)$
    and $\beta(x)$ in ${\mathbb Q} $, where the degrees of both 

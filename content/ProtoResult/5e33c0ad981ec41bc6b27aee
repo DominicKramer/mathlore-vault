@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $D$ be an integral domain. Then $D$ can be embedded in 
    a field of fractions $F_D$, where any element in $F_D$ can 
    be expressed as the quotient of two elements in $D$. 

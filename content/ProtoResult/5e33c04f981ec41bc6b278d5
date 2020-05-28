@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "({\bf Dirichlet's Test for Uniform Convergence I}) If $g$ 
    $g_{x}$ and $h$ are continuous on $[a,b)\times S$ then $$ 
    \int_{a}^{b}g(x,y)h(x,y)\,dx $$ converges uniformly on $S$ 

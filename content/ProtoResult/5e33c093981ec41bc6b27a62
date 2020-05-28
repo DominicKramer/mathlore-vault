@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $f$ is bounded on a bounded set $S$ and 
    continuous except on a subset $E$ of $S$ with zero content. 
    Suppose also that $ ial S$ has zero content. Then $f$ is 

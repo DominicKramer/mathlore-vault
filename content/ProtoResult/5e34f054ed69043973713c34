@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let \begin{equation} Ly= 
    x^2(\alpha_0+\alpha_1x+\alpha_2x^2)y''+x(\beta_0+\beta_1x+\beta_2x^2)y'
    +(\gamma_0+\gamma_1x+\gamma_2x^2)y, \end{equation} where 

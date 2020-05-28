@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $f$ be a real-valued function defined on a subset of 
    $\R^n$ and let the vector-valued function 
    $\mathbf{G}=(g_1,g_2, \dots,g_n)$ be defined on a domain 

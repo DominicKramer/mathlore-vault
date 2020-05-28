@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that \begin{equation} 0\le a_n\le b_n,\quad n\ge k.
    \end{equation} Then \begin{alist} \item $\sum a_n<\infty$ if
    $\sum b_n<\infty$. \item $\sum b_n=\infty$ if $\sum 

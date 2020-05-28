@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "{\bf(Weierstrass's Test for Absolute Uniform Convergence 
    II)} Suppose $M=M(x)$ is nonnegative on $(a,b]$ 
    $\int_{a}^{b}M(x)\,dx<\infty$ and $$ |f(x,y)| \le M(x), 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f^{(n)}(x_0)$ exists for some integer $n\ge1$ and $T_n$
    is the $n$th Taylor polynomial of $f$ about $x_0$ then 
    \begin{equation} \lim_{x\to 

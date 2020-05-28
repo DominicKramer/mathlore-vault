@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\mathbf{X}\in\R^n$ and $p_2>p_1\ge1$ then 
    \begin{equation} 
    \|\mathbf{X}\|_{p_2}\le\|\mathbf{X}\|_{p_1}; \end{equation} 

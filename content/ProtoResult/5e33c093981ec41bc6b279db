@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $u'$ and $v'$ are integrable on $[a,b]$ then 
    \begin{equation} \int_a^b 
    u(x)v'(x)\,dx=u(x)v(x)\bigg|^b_a-\int_a^b v(x)u'(x)\,dx. 

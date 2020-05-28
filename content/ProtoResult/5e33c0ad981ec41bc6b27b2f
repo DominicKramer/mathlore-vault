@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $E$ be a field extension of $F$. Then the following 
    statements are equivalent. \begin{enumerate} \item \it $E$ 
    is a finite, normal, separable extension of $F$. \item \it 

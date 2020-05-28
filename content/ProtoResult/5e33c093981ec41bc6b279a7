@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\mathbf{X}_1$ and $\mathbf{X}_2$ are in 
    $S_r(\mathbf{X}_0)$ for some $r>0$, then so is every point 
    on the line segment from $\mathbf{X}_1$ to $\mathbf{X}_2$"

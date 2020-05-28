@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $g$ is monotonic on $[a,b)$ and $\int_a^b 
    g(x)\,dx=\infty$ Let $f$ be locally integrable on $[a,b)$ 
    and $$ \int_{x_j}^{x_{j+1}} |f(x)|\,dx\ge\rho,\quad j\ge0, 

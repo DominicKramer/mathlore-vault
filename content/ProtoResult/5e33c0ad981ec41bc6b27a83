@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If a binary $n$-tuple $(x_{1}, \ldots, x_{n})$ is 
    transmitted across a binary symmetric channel with 
    probability $p$ that no error will occur in each coordinate,

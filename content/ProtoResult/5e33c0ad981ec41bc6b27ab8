@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $G$ and $H$ be groups. The set $G \times H$ is a group 
    under the operation $(g_1, h_1)(g_2, h_2) = (g_1 g_2, h_1 
    h_2)$ where $g_1, g_2 \in G$ and $h_1, h_2 \in H$."

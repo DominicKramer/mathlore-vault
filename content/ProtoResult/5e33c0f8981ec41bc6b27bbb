@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "We have $\left(\frac{a}{p}\right)=1$ if and only if $$ 
    a^{(p-1)/2}\equiv 1\pmod{p}. $$"
 Metadata:

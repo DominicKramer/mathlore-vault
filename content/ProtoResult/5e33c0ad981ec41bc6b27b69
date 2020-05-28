@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $F$ be a field. A nonzero polynomial $p(x)$ of degree 
    $n$ in $F $ can have at most $n$ distinct zeros in $F$."
 Metadata:

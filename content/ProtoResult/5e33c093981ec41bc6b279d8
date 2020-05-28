@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $F$ is continuous on the closed interval 
    $[a,b]$ and differentiable on the open interval $(a,b)$ and 
    $f$ is integrable on $[a,b]$ Suppose also that $$ 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose $p$ is a prime such that $(p-1)/2$ is also prime. 
    Then each element of $(\Z/p\Z{})^*$ has order one of $1$, 
    $2$, $(p-1)/2$, or $p-1$."

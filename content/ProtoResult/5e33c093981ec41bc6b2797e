@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\mathbf{F}$ is continuously differentiable on a 
    neighborhood of $\mathbf{X}_0$ and 
    $J\mathbf{F}(\mathbf{X}_0)\ne 0$ then there is an open 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $F$ be a subfield of ${\mathbb R}$. \begin{enumerate} 
    \item \it If a line contains two points in $F$, then it has 
    the equation $a x + by + c = 0$, where $a$, $b$, and $c$ are

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is integrable on $[a,b]$ and $a\le c\le b$ then the 
    function $F$ defined by $$ F(x)=\int_c^x f(t)\,dt $$ 
    satisfies a Lipschitz condition on $[a,b]$ and is therefore 

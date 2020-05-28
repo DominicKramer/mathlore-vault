@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $G$ be a finite group. Then $G$ is a $p$-group if and 
    only if $|G| = p^n$."
 Metadata:

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose $a,b$, and $c$ are constants $(a\ne0)$ and $f$ is 
    piecewise continuous on $[0,\infty)$ with jump 
    discontinuities at $t_1$ \dots, $t_n$ where $$ 

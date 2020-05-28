@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $I_j=[a_j,b_j]$ $1\le j\le n$, and suppose that $f$ is 
    integrable on $R=I_1\times I_2 \times\cdots\times I_n$ 
    Suppose also that the integrals $$ F_p(x_{p+1}, 

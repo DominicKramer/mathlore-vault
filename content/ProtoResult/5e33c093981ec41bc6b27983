@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $f:\R^{n+1}\to \R$ is continuously 
    differentiable on an open set containing 
    $(\mathbf{X}_0,u_0)$ with $f(\mathbf{X}_0,u_0)=0$ and 

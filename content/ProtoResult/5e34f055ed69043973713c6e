@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "\begin{alist} \item If $$ \sum_{n=0}^\infty 
    a_n(x-x_0)^n=\sum_{n=0}^\infty b_n(x-x_0)^n $$ for all $x$ 
    in an open interval that contains $x_0$ then $a_n=b_n$ for 

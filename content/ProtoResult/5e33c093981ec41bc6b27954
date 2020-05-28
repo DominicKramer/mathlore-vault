@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\sum a_n$ converges, then $\lim_{n\to\infty}a_n=0$"
 Metadata:
 . reference:

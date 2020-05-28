@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\psi : G \rightarrow H$ is a group homomorphism with $K
    =\ker \psi$, then $K$ is normal in $G$. Let $\phi: G 
    \rightarrow G/K$ be the canonical homomorphism. Then there 

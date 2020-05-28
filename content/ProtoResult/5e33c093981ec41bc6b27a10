@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\{F_n\}$ converges uniformly to $F$ on $S$ then 
    $\{F_n\}$ converges pointwise to $F$ on $S$ The converse is 
    false$$ that is, pointwise convergence does not imply 

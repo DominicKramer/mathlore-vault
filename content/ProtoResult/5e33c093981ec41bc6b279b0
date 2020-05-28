@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is continuous on the closed interval $[a,b]$ and 
    differentiable on the open interval $(a,b)$ then $$ 
    f'(c)=\frac{f(b)-f(a)}{ b-a} $$ for some $c$ in $(a,b)$"

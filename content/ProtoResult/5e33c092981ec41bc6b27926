@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If a sequence $\{u_n\}$ in a metric space $(A,\rho)$ is 
    convergent, then it is a Cauchy sequence."
 Metadata:

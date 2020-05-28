@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "The series $\sum ^\infty_{n=k} a_nb_n$ converges if 
    $\lim_{n\to\infty} a_n= 0$ \begin{equation} \sum 
    |a_{n+1}-a_n|<\infty, \end{equation} and \begin{equation} 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose $P_0$, $P_1$, and $P_2$ are polynomials with no 
    common factor and $P_0$ isn't identically zero. Let $x_0$ be
    a point such that $P_0(x_0)\ne0$ and let $\rho$ be the 

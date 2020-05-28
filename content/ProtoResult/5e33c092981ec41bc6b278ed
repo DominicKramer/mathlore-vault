@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is integrable on $S$ then so is $|f|$ and $$ 
    \left|\int_S f(\mathbf{X})\,d\mathbf{X}\right|\le\int_S 
    |f(\mathbf{X})|\,d\mathbf{X}. $$"

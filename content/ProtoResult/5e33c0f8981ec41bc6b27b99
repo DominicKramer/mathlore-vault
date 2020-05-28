@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $x$ and $y$ are arbitrary integers, then $$ 
    \sum_{n=0}^{p-1} \zeta^{(x-y)n} = \begin{cases} p & if 
    $x\equiv y\pmod{p}$ ,\\ 0 & otherwise . \end{cases} $$"

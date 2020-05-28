@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\gcd(x,n)=1$, then $$ x^{\varphi(n)} \equiv 1\pmod{n}. 
    $$"
 Metadata:

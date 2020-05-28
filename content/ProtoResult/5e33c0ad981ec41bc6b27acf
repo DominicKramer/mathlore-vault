@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $G$ be a finite group acting on a set $X$ and let $k$ 
    denote the number of orbits of $X$. Then \[ k = 
    \frac{1}{|G|} \sum_{g \in G} |X_g|. \]"

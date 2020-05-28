@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $R$ be a ring and $I$ and $J$ be ideals of $R$ where $J
    \subset I$. Then \[ R/I \cong \frac{R/J}{I/J}. \]"
 Metadata:

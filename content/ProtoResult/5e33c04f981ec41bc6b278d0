@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "{\bf (Cauchy Criterion for Uniform Convergence II)} The 
    improper integral $$ \int_{a}^{b}f(x,y)\,dx =\lim_{r\to 
    a+}\int_{r}^{b}f(x,y)\,dx $$ converges uniformly on $S$ if 

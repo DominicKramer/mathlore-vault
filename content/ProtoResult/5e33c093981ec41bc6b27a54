@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $\mathbf{F}: \R^n\to\R^m$ is differentiable at
    $\mathbf{X}_0$ $\mathbf{G}:\R^k\to\R^n$ is differentiable at
    $\mathbf{U}_0$ and $\mathbf{X}_0=\mathbf{G}(\mathbf{U}_0)$ 

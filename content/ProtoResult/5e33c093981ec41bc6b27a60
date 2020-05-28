@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is continuous on a rectangle $R$ in $\R^n$ then $f$ 
    is integrable on $R$"
 Metadata:

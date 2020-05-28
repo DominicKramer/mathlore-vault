@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $p$ be a prime and suppose that \[ f(x) = a_n x^n + 
    \cdots + a_0 \in {\mathbb Z} . \] If $p \mid a_i$ for $i = 
    0, 1, \ldots, n-1$, but $p {\not{\mid}} a_n$ and $p^2 

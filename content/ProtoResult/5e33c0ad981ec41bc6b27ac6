@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $p(x) \in F $ be a nonconstant polynomial. Then there 
    exists a splitting field $E$ for $p(x)$."
 Metadata:

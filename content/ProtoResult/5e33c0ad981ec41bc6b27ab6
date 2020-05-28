@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If the identity is written as the product of $r$ 
    transpositions, \[ id = \tau_1 \tau_2 \cdots \tau_r, \] then
    $r$ is an even number."

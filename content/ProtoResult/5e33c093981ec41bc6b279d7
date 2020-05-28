@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is integrable on $[a,b]$ and $a\le c\le b$ then 
    $F(x)=\int_c^x f(t)\,dt$ is differentiable at any point 
    $x_0$ in $(a,b)$ where $f$ is continuous, with 

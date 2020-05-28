@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $x\in\mathbf{R}$ be a real number. Then $x$ is the 
    value of the (possibly infinite) simple continued fraction $
    [a_0, a_1, a_2, \ldots] $ produced by the continued fraction

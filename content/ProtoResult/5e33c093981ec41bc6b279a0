@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $f$ be bounded on $[a,b]$ and define $$ 
    E_\rho=\set{x\in [a,b]}{w_f(x)\ge\rho}. $$ Then $E_\rho$ is 
    closed, and $f$ is integrable on $[a,b]$ if and only if for 

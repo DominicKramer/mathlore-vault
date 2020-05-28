@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $I_1$, $I_2, \dots, I_n$ be closed intervals and
 suppose that $f$ is integrable on $R=I_1\times
 I_2\times\cdots\times I_n$ Suppose that there is an integer

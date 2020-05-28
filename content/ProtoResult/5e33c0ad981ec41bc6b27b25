@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "bf{(Division Algorithm)} Let $f(x)$ and $g(x)$ be 
    polynomials in $F $, where $F$ is a field and $g(x)$ is a 
    nonzero polynomial. Then there exist unique polynomials 

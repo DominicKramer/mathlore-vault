@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "A set $\{ v_1, v_2, \dots, v_n \}$ of vectors in a vector 
    space $V$ is linearly dependent if and only if one of the 
    $v_i$'s is a linear combination of the rest."

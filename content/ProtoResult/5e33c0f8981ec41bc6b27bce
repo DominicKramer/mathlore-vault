@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $a, b\in\mathbf{Z}$ and $n,m\in\mathbf{N}$ such that 
    $\gcd(n,m)=1$. Then there exists $x\in\mathbf{Z}$ such that 
    \begin{align*} x&\equiv a\pmod{m},\\ x&\equiv b\pmod{n}. 

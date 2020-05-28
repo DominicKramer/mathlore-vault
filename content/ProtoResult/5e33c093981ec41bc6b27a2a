@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $S_1$ $S_2$ \dots\ are closed nonempty subsets of $\R^n$
    such that \begin{equation} S_1\supset 
    S_2\supset\cdots\supset S_r\supset\cdots \end{equation} and 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $E$ be an extension field of $F$. The set of elements 
    in $E$ that are algebraic over $F$ form a field."
 Metadata:

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $A$ and $B$ be sets. Then \begin{enumerate} \item
 $(A \cup B)' = A' \cap B'$; \item $(A \cap B)' = A' \cup
 B'$. \end{enumerate}"

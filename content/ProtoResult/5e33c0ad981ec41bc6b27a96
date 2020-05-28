@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $G$ be a finite group and $p$ a prime dividing $|G|$. 
    Then all Sylow $p$-subgroups of $G$ are conjugate. That is, 
    if $P_1$ and $P_2$ are two Sylow $p$-subgroups, there exists

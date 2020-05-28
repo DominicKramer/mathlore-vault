@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "A nonsingular $n\times n$ matrix $\mathbf{A}$ can be 
    written as \begin{equation} 
    \mathbf{A}=\mathbf{E}_k\mathbf{E}_{k-1}\cdots\mathbf{E}_1, 

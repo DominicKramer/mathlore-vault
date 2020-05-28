@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $z = r \operatorname{cis} \theta$ and $w = s 
    \operatorname{cis} \phi$ be two nonzero complex numbers. 
    Then \[ zw = r s \operatorname{cis}( \theta + \phi). \]"

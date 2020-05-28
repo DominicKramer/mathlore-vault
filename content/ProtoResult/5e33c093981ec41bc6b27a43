@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $f$ satisfies the hypotheses of Theorem $ $ 
    with $k\ge2$ and \begin{equation} d^{(r)}_{\mathbf{X}_0} 
    f\equiv0\quad (1\le r\le k-1),\quad d^{(k)}_\mathbf{X_0} 

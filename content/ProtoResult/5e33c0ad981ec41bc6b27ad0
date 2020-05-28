@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $H$ be a subgroup of $G$ with $g \in G$ and define a 
    map $\phi:H \rightarrow gH$ by $\phi(h) = gh$. The map 
    $\phi$ is bijective; hence, the number of elements in $H$ is

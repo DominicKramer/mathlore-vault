@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "An integer $p>1$ is prime if and only if for \term{ every} 
    $a\not\equiv 0\pmod{p}$, $$ a^{p-1}\equiv 1\pmod{p}. $$"
 Metadata:

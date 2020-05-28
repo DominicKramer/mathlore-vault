@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $\mu_1, \mu_2, \dots, \mu_n$ and $\nu_1,
 \nu_2, \dots, \nu_n$ are nonnegative numbers. Let $p>1$
 and $q=p/(p-1)$ thus, \begin{equation}

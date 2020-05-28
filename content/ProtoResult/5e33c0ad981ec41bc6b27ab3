@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $F$ be a field and let $p(x)$ be a nonconstant 
    polynomial in $F $. Then there exists an extension field $E$
    of $F$ and an element $\alpha \in E$ such that $p(\alpha) = 

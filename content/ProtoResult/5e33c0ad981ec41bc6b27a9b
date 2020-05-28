@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $R$ be a ring with identity. If 1 has order $n$, then 
    the characteristic of $R$ is $n$."
 Metadata:

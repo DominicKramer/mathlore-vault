@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $\mathbf{F}:\R^n\to\R^m$ is continuously 
    differentiable on a neighborhood $N$ of $\mathbf{X}_0$ Then,
    for every $\epsilon>0$ there is a $\delta>0$ such that 

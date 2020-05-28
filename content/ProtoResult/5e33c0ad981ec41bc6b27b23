@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $R$ be a ring with $a, b \in R$. Then \begin{enumerate}
    \item \it $a0 = 0a = 0$; \item \it $a(-b) = (-a)b = -ab$; 
    \item \it $(-a)(-b) =ab$. \end{enumerate}"

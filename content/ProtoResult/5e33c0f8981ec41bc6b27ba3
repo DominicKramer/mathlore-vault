@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $a$ and $b$ are integers with $b\neq 0$. Then 
    there exists unique integers $q$ and $r$ such that $0\leq r<
    |b|$ and $a = bq + r$."

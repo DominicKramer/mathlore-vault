@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is continuous on a compact set $T$ then $f$ is 
    uniformly continuous on $T$."
 Metadata:

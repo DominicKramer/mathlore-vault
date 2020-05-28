@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "A series $\sum f_n$ converges uniformly on a set $S$ if and
    only if for each $\epsilon>0$ there is an integer $N$ such 
    that 0pt \begin{equation} 

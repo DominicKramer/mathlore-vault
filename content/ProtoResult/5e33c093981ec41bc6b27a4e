@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "The homogeneous system $ $ of $n$ equations in $n$ unknowns
    has a nontrivial solution if and only if 
    $\det(\mathbf{A})=0$"

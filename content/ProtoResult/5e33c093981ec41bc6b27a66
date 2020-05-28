@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is integrable on $S$ and $c$ is a constant, then 
    $cf$ is integrable on $S$ and $$ 
    \int_S(cf)(\mathbf{X})\,d\mathbf{X}=c\int_S 

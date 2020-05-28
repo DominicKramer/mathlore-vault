@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $a_n\ge0$ and $b_n>0$ for $n\ge k$ and $$ 
    \lim_{n\to\infty}\frac{a_n}{ b_n}=L, $$ where $0<L<\infty$ 
    Then $\sum a_n$ and $\sum b_n$ converge or diverge 

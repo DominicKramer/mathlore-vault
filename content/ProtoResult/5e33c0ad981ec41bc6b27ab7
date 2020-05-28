@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $E$ be an extension field of a field $F$ and $\alpha 
    \in E$ with $\alpha$ algebraic over $F$. Then there is a 
    unique irreducible monic polynomial $p(x) \in F $ of 

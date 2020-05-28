@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $p(x) = x^n + a_{n-1} x^{n-1} + \cdots + a_0$ be a 
    polynomial with coefficients in ${\mathbb Z}$ and $a_0 \neq 
    0$. If $p(x)$ has a zero in ${\mathbb Q}$, then $p(x)$ also 

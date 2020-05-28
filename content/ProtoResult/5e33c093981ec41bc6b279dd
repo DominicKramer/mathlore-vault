@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that the transformation $x=\phi(t)$ maps the 
    interval $c\le t\le d$ into the interval $a\le x\le b$ with 
    $\phi(c)=\alpha$ and $\phi(d)=\beta$ and let $f$ be 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "The order of any finite Boolean algebra must be $2^n$ for 
    some positive integer $n$."
 Metadata:

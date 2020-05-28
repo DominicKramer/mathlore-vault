@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let ${\mathbf x}$, ${\mathbf y}$, and ${\mathbf z}$ be
 binary $n$-tuples. Then \begin{enumerate} \item
 $w({\mathbf x}) = d( {\mathbf x}, {\mathbf 0})$; \item

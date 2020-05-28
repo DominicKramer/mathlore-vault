@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is integrable on disjoint sets $S_1$ and $S_2$ then 
    $f$ is integrable on $S_1\cup S_2$ and \begin{equation} 
    \int_{S_1\cup S_2} f(\mathbf{X})\,d\mathbf{X}= \int_{S_1} 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is integrable on $[a,b]$ then $$ 
    \underline{\int_a^b}f(x)\,dx=\overline{\int_a^b}f(x)\,dx=\int_a^b
    f(x)\,dx. $$"

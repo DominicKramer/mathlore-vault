@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $F$ is a finite field of characteristic $p$, then the 
    order of $F$ is $p^n$ for some $n \in {\mathbb N}$."
 Metadata:

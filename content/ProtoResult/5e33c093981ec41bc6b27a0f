@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $\{F_n\}$ be defined on $S$ Then \begin{alist} \item 
    $\{F_n\}$ converges pointwise to $F$ on $S$ if and only if 
    there is, for each $\epsilon>0$ and $x\in S$, an integer $N$

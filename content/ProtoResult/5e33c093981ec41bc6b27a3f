@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that the real-valued function $f$ is differentiable
    at $\mathbf{X}_0$ in $\R^n$ the vector-valued function 
    $\mathbf{G} =(g_1,g_2, \dots,g_n)$ is differentiable at 

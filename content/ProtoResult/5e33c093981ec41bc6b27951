@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is continuous on a set $T$ then $f$ is uniformly 
    continuous on any finite closed interval contained in $T$"
 Metadata:

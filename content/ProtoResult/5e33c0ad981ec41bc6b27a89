@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $H$ be in ${\mathbb M}_{m \times n}({\mathbb Z}_2)$.
 Then the null space of $H$ is a group code."
 Metadata:

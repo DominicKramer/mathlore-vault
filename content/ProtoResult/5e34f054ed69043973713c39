@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $$ Ly= x^2(\alpha_0+\alpha_1x)y''+x(\beta_0+\beta_1x)y'
    +(\gamma_0+\gamma_1x)y, $$ where $\alpha_0\ne0$ and define 
    \begin{eqnarray*} 

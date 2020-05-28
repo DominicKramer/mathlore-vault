@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $D$ is a UFD, then $D[x]$ is a UFD."
 Metadata:
 . id: "5e33c0ad981ec41bc6b27af5"

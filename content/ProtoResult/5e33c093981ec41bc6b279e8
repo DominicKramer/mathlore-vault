@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $u$ is continuous on $[a,b)$ and 
    $\int_a^bu(x)\,dx$ diverges. Let $v$ be positive and 
    differentiable on $[a,b)$ and suppose that $\lim_{x\to 

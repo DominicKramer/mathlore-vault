@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $\sum_{n=k}^\infty a_n=A$ where $-\infty \le 
    A\le\infty$ Let $\{n_j\}_1^\infty$ be an increasing sequence
    of integers, with $n_1\ge k$. Define \begin{eqnarray*} b_1 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $f$ be continuous on a region $S$ in $\R^n$ Suppose 
    that $\mathbf{A}$ and $\mathbf{B}$ are in $S$ and $$ 
    f(\mathbf{A})<u<f(\mathbf{B}). $$ Then $f(\mathbf{C})=u$ for

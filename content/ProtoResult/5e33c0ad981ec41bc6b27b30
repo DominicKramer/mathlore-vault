@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $F$ be a
 finite field or a field of characteristic zero. If $E$ is a
 finite normal extension of $F$ with Galois group $G(E/F)$,

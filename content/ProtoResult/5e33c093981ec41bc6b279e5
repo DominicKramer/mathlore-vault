@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $f$ and $g$ are locally integrable on $[a,b)$ 
    $g(x)>0$ and $f(x)\ge0$ on some subinterval $[a_1,b)$ of 
    $[a,b)$ and \begin{equation} \lim_{x\to b-}\frac{f(x)}{ 

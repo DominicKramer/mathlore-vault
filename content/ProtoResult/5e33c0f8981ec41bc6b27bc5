@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $p$ be a prime and $a, b\in \mathbf{N}$. If $p\mid ab$ 
    then $p\mid a$ or $p\mid b$."
 Metadata:

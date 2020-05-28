@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $G$ be the internal direct product of subgroups $H$ and
    $K$. Then $G$ is isomorphic to $H \times K$."
 Metadata:

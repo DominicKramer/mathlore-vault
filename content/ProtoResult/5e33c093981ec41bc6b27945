@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $\widehat u\in\overline D_f$ Then 
    \begin{equation} \lim_{u\to \widehat u}f(u)=\widehat v 
    \end{equation} if and only if \begin{equation} 

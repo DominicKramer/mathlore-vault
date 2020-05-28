@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "A bounded function $f$ is integrable on $[a,b]$ if and only
    if $$ 
    \underline{\int_a^b}f(x)\,dx=\overline{\int_a^b}f(x)\,dx. 

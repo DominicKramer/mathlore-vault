@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\mathbf{A}$ and $\mathbf{B}$ are $m\times n$ matrices 
    and $r$ and $s$ are real numbers, then a $r(s\mathbf{A}) 
    =(rs)\mathbf{A}$ b $(r+s)\mathbf{A}=r\mathbf{A}+s\mathbf{A}$

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose there's an integer $N$ such that $a_n\ne0$ if $n\ge
    N$ and $$ \lim_{n\to\infty}\left|a_{n+1}\over a_n\right|=L, 
    $$ where $0\le L\le\infty$ Then the radius of convergence of

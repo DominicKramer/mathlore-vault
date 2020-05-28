@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $G$ be a group of order $p^n$ where $p$ is prime. Then 
    $G$ has a nontrivial center."
 Metadata:

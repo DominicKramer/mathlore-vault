@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f'$ exists and does not change sign on $(a,b)$ then $f$
    is monotonic on $(a,b):$ increasing, nondecreasing, 
    decreasing, or nonincreasing as $$ f'(x)>0,\quad 

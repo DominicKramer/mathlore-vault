@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $G$ be a permutation group of $X$ and $\widetilde{X}$ 
    the set of functions from $X$ to $Y$. Then there exists a 
    permutation group $\widetilde{G}$ acting on $\widetilde{X}$,

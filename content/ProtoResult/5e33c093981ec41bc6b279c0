@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is bounded on $[a,b]$ then \begin{equation} 
    \underline{\int_a^b}f(x)\,dx\le\overline{\int_a^b}f(x)\,dx. 
    \end{equation}"

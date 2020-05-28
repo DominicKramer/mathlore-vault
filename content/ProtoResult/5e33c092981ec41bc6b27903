@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "A bounded set $S$ is Jordan measurable if and only if the 
    boundary of $S$ has zero content."
 Metadata:

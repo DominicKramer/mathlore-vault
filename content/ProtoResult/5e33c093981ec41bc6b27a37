@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f_{x_i} (\mathbf{X})$ and $g_{x_i} (\mathbf{X})$ exist,
    then \begin{eqnarray*} \frac{ ial (f+g)(\mathbf{X})}{ ial 
    x_i} =f_{x_i}(\mathbf{X})+ g_{x_i}(\mathbf{X}),\\ \frac{ ial

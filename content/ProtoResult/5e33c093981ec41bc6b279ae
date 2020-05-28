@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ and $g$ are continuous on the closed interval 
    $[a,b]$ and differentiable on the open interval $(a,b)$ then
    \begin{equation} [g(b)-g(a)]f'(c)=[f(b)-f(a)]g'(c) 

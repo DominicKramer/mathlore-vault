@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $g$ is any element in a group $G$, then the inverse of 
    $g$, $g^{-1}$, is unique."
 Metadata:

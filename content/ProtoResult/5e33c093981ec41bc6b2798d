@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\lim_{x\to x_0} f(x)$ exists, then it is unique$\,$ 
    that is, if \begin{equation} \lim_{x\to x_0} f(x)=L_1 \quad 
    and \quad \lim_{x\to x_0} f(x)= L_2, \end{equation} then 

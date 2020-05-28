@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $S$ is Jordan measurable and $\epsilon$ 
    $\rho>0$ Then there are cubes $C_1$ $C_2$ \dots, $C_r$ in 
    $S$ with edge lengths $<\rho$ such that $C_j\subset S$ $1\le

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $R$ be a ring and $M$ be a finitely-generated left $R$-module. Then, if $\mathfrak JM = M$, $M=0$."
 Metadata:
 . id: "5e653c24b4f92d78c2e93ab9"

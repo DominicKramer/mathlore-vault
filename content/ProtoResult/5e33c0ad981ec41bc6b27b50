@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $\{\sigma_i : i \in I \}$ be a collection of 
    automorphisms of a field $F$. Then \[ F_{ \{\sigma_i \} } = 
    \{ a \in F : \sigma_i(a) = a for all $\sigma_i$ \} \] is a 

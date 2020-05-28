@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "[Mazur, 1976] Let $E$ be an elliptic curve over 
    $\mathbf{Q}$. Then $E(\mathbf{Q})_{ rm{tor}}$ is isomorphic 
    to one of the following 15 groups: \begin{align*} \Z/n\Z{} &

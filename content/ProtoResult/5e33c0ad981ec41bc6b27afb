@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $\phi : G \rightarrow H$ be a group homomorphism. Then 
    the kernel of $\phi$ is a normal subgroup of $G$."
 Metadata:

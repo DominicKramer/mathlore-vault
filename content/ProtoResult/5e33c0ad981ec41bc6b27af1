@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $S= \{v_1, v_2, \ldots, v_n \}$ be vectors in a vector 
    space $V$. Then the span of $S$ is a subspace of $V$."
 Metadata:

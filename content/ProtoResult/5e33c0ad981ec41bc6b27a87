@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $D$ be an integral domain and let $a, b \in D$. Then
 \begin{enumerate}
   \item $a \mid b \Leftrightarrow \langle b \rangle \subset \langle a \rangle$. \item $a$ and $b$ are associates $\Leftrightarrow$ $\langle b \rangle =

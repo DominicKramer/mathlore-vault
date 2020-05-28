@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose $\omega$ is a positive number and $P$ and $Q$ are 
    polynomials. Let $k$ be the larger of the degrees of $P$ and
    $Q$ Then the equation $$ ay''+by'+cy=P(x)\cos \omega 

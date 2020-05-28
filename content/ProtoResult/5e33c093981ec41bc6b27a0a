@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\sum_{n=1}^\infty b_n$ is a rearrangement of an 
    absolutely convergent series $\sum_{n=1}^\infty a_n$ then 
    $\sum_{n=1}^\infty b_n$ also converges absolutely, and to 

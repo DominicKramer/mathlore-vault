@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $n$ be an integer such that $n > 1$. Then \[ n = p_1 
    p_2 \cdots p_k, \] where $p_1, \ldots, p_k$ are primes (not 
    necessarily distinct). Furthermore, this factorization is 

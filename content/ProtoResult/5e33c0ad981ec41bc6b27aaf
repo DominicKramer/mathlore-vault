@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Two cycles $\tau$ and $\mu$ in $S_n$ have the same length 
    if and only if there exists a $\sigma \in S_n$ such that 
    $\mu = \sigma \tau \sigma^{-1}$."

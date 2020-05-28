@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $D$ be a UFD and $F$ its field of fractions. If $p(x)$ 
    is a monic polynomial in $D $ with $p(x) = f(x) g(x)$ in $F 
    $, then $p(x) = f_1(x) g_1(x)$, where $f_1(x)$ and $g_1(x)$ 

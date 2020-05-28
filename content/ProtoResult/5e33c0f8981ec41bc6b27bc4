@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "For any $a$ not divisible by $p$, $$ \displaystyle g_a^2 = 
    (-1)^{(p-1)/2}p. $$"
 Metadata:

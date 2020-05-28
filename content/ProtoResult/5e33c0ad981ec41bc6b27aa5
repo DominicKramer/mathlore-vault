@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $z = r \operatorname{cis} \theta$ be a nonzero complex 
    number. Then \[ [r \operatorname{cis} \theta ]^n = r^n 
    \operatorname{cis}( n \theta) \] for $n = 1, 2, \ldots$."

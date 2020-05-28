@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $V$ be a vector space of dimension $n$.
 \begin{enumerate} \item If $S = \{v_1, \ldots, v_n \}$
 is a set of linearly independent vectors for $V$, then $S$

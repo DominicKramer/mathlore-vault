@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "A number $n\in\mathbf{Z}$ is divisible by $3$ if and only 
    if the sum of the digits of $n$ is divisible by $3$."
 Metadata:

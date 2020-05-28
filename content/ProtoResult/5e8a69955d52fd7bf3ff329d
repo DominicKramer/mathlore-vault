@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $f$ is integrable on
 $$
   S=\left \{(x,y,z) \: | \: u_1(y,z)\le x\le v_1(y,z),\ u_2(z)\le y \le v_2(z),\ c\le z\le d \right \},

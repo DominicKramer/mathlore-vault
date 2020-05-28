@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $p$ and $q$ are distinct primes with $p <q $, then every
    group $G$ of order $pq$ has a single subgroup of order $q$ 
    and this subgroup is normal in $G$. Hence, $G$ cannot be 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is differentiable at $\mathbf{X}_0$ then $$ 
    f(\mathbf{X})-f(\mathbf{X}_0)=(d_{\mathbf{X}_0}f)(\mathbf{X}-\mathbf{X}_0)
    +E(\mathbf{X})|\mathbf{X}-\mathbf{X}_0|, $$ where $E$ is 

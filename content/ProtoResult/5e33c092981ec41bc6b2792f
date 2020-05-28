@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $\rho$ and $\sigma$ are equivalent metrics on 
    $A$ Then \begin{alist} \item A sequence $\{u_n\}$ converges 
    to $u$ in $(A,\rho)$ if and only if it converges to $u$ in 

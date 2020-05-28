@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $g$ is differentiable at $x_0$ and $f$ is 
    differentiable at $g(x_0)$ Then the composite function 
    $h=f\circ g$ defined by $$ h(x)=f(g(x)), $$ is 

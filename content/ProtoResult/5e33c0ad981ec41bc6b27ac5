@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $C$ be an $(n,k)$-linear code given by the matrix $H$ 
    and suppose that ${\mathbf x}$ and ${\mathbf y}$ are in 
    ${\mathbb Z}_2^n$. Then ${\mathbf x}$ and ${\mathbf y}$ are 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is monotonic and nonconstant on $[a,b]$ then $f$ is 
    continuous on $[a,b]$ if and only if its range 
    $R_f=\set{f(x)}{x\in[a,b]}$ is the closed interval with 

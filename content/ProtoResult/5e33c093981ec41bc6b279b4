@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $\mathbf{F}:\R^n\to\R^n$ is continuously 
    differentiable on a neighborhood of $\mathbf{X}_0$ and 
    $\mathbf{F}'(\mathbf{X}_0)$ is nonsingular. Let 

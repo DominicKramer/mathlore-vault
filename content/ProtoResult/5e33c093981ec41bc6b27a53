@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $\mathbf{F}=(f_1,f_2, \dots,f_m):\R^n\to\R^m$ and 
    suppose that the partial derivatives \begin{equation} \frac{
    ial f_i}{ ial x_j},\quad 1\le i\le m,\quad 1\le j\le n, 

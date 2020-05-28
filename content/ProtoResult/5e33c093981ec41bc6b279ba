@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is bounded on a rectangle $R$ and $\epsilon>0$ there
    is a $\delta>0$ such that $$ \overline{\int_R}\, 
    f(\mathbf{X})\,d\mathbf{X}\le S({\bf P})<\overline{\int_R}\,

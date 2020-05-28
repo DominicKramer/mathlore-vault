@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $I$ be a subring of a ring $R$ and $J$ an ideal of $R$.
    Then $I \cap J$ is an ideal of $I$ and \[ I / I \cap J \cong
    (I+ J) /J. \]"

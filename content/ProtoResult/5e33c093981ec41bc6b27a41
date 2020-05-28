@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "[Taylor's Theorem for Functions of $\mathbf n$ Variables] 
    Suppose \\that $f$ and its partial derivatives of order $\le
    k$ are differentiable at $\mathbf{X}_0$ and $\mathbf{X}$ in 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $\mathbf{G}:\E^n\to \R^n$ is regular on a cube
    $C$ in $\E^n$ and let $\mathbf{A}$ be a nonsingular $n\times
    n$ matrix. Then \begin{equation} V(\mathbf{G}(C))\le 

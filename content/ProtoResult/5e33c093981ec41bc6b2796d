@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "The series $\sum_{n=k}^\infty f_ng_n$ converges uniformly 
    on $S$ if $$ f_{n+1}(x)\le f_n(x),\quad x\in S,\quad n\ge k,
    $$ $\{f_n\}$ converges uniformly to zero on $S$ and $$ 

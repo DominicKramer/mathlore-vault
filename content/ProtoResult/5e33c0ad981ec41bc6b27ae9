@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $B$ be a Boolean algebra. Then \begin{enumerate} \item $a \vee I = I$ and $a \wedge O = O$ for all $a \in B$.
 \item If $a \vee b = a \vee c$ and $a \wedge b = a
 \wedge c$ for $a, b, c \in B$, then $b = c$. \item If $a

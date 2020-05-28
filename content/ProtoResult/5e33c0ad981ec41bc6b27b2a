@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $\phi : R \rightarrow S$ be a ring homomorphism.
 \begin{enumerate} \item If $R$ is a commutative ring,
 then $\phi(R)$ is a commutative ring. \item  $\phi( 0 ) =

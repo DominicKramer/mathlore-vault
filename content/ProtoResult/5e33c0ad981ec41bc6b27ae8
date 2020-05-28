@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $A$, $B$, and $C$ be sets. Then
 \begin{enumerate}
   \item $A \cup A = A$, $A \cap A = A$, and $A \setminus A

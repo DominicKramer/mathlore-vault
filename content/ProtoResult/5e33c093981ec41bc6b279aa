@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is differentiable at a local extreme point $x_0\in 
    D_{f}^{0}$ then $f'(x_0)=~0$"
 Metadata:

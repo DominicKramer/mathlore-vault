@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "$[$The Convolution Theorem$]$ If ${\cal L}(f)=F$ and ${\cal
    L}(g)=G$ then $$ {\cal L}(f*g)=FG. $$"
 Metadata:

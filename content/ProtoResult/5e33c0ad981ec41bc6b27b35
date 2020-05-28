@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "The symmetric group on $n$ letters, $S_n$, is a group with 
    $n!$ elements, where the binary operation is the composition
    of maps."

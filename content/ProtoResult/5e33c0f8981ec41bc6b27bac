@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\gcd(a,n)=1$, then the equation $ ax\equiv b\pmod{n} $ 
    has a solution, and that solution is unique modulo $n$."
 Metadata:

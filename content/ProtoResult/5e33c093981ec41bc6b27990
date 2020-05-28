@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is differentiable at $x_0$ then \begin{equation} 
    f(x)=f(x_0)+[f'(x_0)+E(x)](x-x_0), \end{equation} where $E$ 
    is defined on a neighborhood of $x_0$ and $$ \lim_{x\to x_0}

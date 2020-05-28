@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "A real number $\alpha$ is a constructible number if and 
    only if there exists a sequence of fields \[ {\mathbb Q} = 
    F_0 \subset F_1 \subset \cdots \subset F_k \] such that $F_i

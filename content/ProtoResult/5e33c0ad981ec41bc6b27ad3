@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Every subfield of the Galois field $\operatorname{GF}(p^n)$
    has $p^m$ elements, where $m$ divides $n$. Conversely, if $m
    \mid n$ for $m > 0$, then there exists a unique subfield of 

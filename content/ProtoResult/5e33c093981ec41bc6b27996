@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "*{6pt} \begin{alist} \item A function $f$ is continuous at 
    $x_0$ if and only if $f$ is defined on an open interval 
    $(a,b)$ containing $x_0$ and for each $\epsilon>0$ there is 

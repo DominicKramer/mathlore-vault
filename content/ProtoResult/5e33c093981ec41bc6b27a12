@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\{F_n\}$ converges uniformly to $F$ on $S$ and each 
    $F_n$ is continuous at a point $x_0$ in $S$ then so is $F$. 
    Similar statements hold for continuity from the right and 

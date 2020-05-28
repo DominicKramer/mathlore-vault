@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ and $g$ are integrable on $S$ and $f(\mathbf{X})\le 
    g(\mathbf{X})$ for $\mathbf{X}$ in $S$ then $$ \int_S 
    f(\mathbf{X})\,d\mathbf{X}\le\int_S 

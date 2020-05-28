@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $\mathbf{X}_0$ is in, and a limit point of, 
    the domain of $\mathbf{F}: \R^n\to\R^m$ Then $\mathbf{F}$ is
    continuous at $\mathbf{X}_0$ if and only if for each 

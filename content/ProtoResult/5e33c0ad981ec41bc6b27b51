@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $p(x)$ be a polynomial in $F $. Then there exists a 
    splitting field $K$ of $p(x)$ that is unique up to 
    isomorphism."

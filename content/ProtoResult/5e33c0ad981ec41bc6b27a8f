@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $H$ be an $m \times n$ binary matrix. Then the null 
    space of $H$ is a single error-detecting code if and only if
    no column of $H$ consists entirely of zeros."

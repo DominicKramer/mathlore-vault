@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $F$ be a field and $f(x) \in F $. Then $f(x)$ is 
    separable if and only if $f(x)$ and $f'(x)$ are relatively 
    prime."

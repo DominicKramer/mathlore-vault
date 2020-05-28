@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $m$ is a positive integer, then \begin{equation} 
    \{e^{ax}, xe^{ax},\dots, x^{m-1}e^{ax}\} \end{equation} is a
    fundamental set of solutions of \begin{equation} (D-a)^my=0.

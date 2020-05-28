@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "For any integers $a$ and $b$, we have $$ \gcd(a,b)= 
    \gcd(b,a) = \gcd(\pm a, \pm b) = \gcd(a,b-a) = \gcd(a,b+a). 
    $$"

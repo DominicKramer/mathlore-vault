@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\mathbf{X}$ and $\mathbf{Y}$ are in $\R^n$ then $$ 
    |\mathbf{X}-\mathbf{Y}|\ge\left| 
    |\mathbf{X}|-|\mathbf{Y}|\right|. $$"

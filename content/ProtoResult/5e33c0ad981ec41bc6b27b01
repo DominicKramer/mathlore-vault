@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $G$ be a group and $N$ and $H$ be normal subgroups of 
    $G$ with $N \subset H$. Then \[ G/H \cong \frac{G/N}{H/N}. 
    \]"

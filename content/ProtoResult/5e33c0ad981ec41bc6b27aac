@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $H$ be a subgroup of a group $G$. The number of left 
    cosets of $H$ in $G$ is the same as the number of right 
    cosets of $H$ in $G$."

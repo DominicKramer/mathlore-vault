@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "The series $$ \sum_{n=k}^\infty f_ng_n $$ converges 
    uniformly on $S$ if $\{f_n\}$ converges uniformly to zero on
    $S$ $\sum (f_{n+1}-f_n)$ converges absolutely uniformly on 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $n$ be a rational number. There is a bijection between 
    $$ A = \left\{(a,b,c) \in \mathbf{Q}^3 \,:\, \frac{ab}{2} = 
    n,\, a^2 + b^2 = c^2\right\} $$ and $$ B = \left\{(x,y) \in 

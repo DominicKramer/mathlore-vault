@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "A function $f$ is continuous at $\widehat u$ if and only if
    $$ \lim_{u\to\widehat u} f(u)=f(\widehat u). $$"
 Metadata:

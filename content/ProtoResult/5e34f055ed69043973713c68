@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\omega \ne0$ and $m$ is a positive integer, then $$ 
    begin{array} \{e^{\lambda x}\cos\omega x, xe^{\lambda 
    x}\cos\omega x, &\dots, x^{m-1}e^{\lambda x}\cos\omega x,\\ 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "The group ${\mathbb Z}_m \times {\mathbb Z}_n$ is 
    isomorphic to ${\mathbb Z}_{mn}$ if and only if 
    $\gcd(m,n)=1$."

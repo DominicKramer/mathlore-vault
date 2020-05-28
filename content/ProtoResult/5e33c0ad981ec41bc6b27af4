@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $D$ be a UFD and let $f(x)$ and $g(x)$ be primitive 
    polynomials in $D $. Then $f(x) g(x)$ is primitive."
 Metadata:

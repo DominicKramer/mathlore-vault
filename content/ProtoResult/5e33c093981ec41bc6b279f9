@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "*{3pt} \begin{alist} \item If $\{x_n\}$ is bounded, then 
    $\{x_n\}$ has a convergent subsequence. *{3pt} \item If 
    $\{x_n\}$ is unbounded above, then $\{x_n\}$ has a 

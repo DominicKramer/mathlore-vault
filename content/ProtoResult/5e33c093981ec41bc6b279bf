@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $f$ be bounded on $[a,b]$, and let $P$ be a partition 
    of $[a,b]$ Then \begin{alist} \item The upper sum $S(P)$ of 
    $f$ over $P$ is the supremum of the set of all Riemann sums 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $y_1$ and $y_2$ are solutions of the homogeneous 
    equation \begin{equation} y''+p(x)y'+q(x)y=0 \end{equation} 
    on $(a,b)$ then any linear combination \begin{equation} 

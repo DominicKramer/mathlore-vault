@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "A metric space $(A,\rho)$ is complete if and only if every 
    nested sequence $\{T_n\}$ of nonempty closed subsets of $A$ 
    such that $\lim_{n\to\infty}d(T_n)=0$ has a nonempty 

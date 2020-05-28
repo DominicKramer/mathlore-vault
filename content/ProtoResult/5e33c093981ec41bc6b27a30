@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ and $g$ are continuous on a set $S$ in $\R^n$ then 
    so are $f+g$ $f-g$ and $fg$ Also, $f/g$ is continuous at 
    each $\mathbf{X}_0$ in $S$ such that $g(\mathbf{X}_0)\ne0$"

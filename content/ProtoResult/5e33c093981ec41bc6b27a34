@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $f$ be continuous on a compact set $S$ in $\R^n$ and $$
    \alpha=\inf_{\mathbf{X}\in S}f(\mathbf{X}),\quad\beta= 
    \sup_{\mathbf{X}\in S}f(\mathbf{X}). $$ Then $$ 

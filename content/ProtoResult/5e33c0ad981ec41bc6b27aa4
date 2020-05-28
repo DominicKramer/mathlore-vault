@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $N$ be a normal subgroup of $A_n$, where $n \geq 3$. If
    $N$ contains a $3$-cycle, then $N = A_n$."
 Metadata:

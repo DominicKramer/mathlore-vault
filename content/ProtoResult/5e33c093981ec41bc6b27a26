@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\mathbf{X}$ and $\mathbf{Y}$ are in $\R^n$ then 
    \begin{equation} |\mathbf{X}+\mathbf{Y}|\le 
    |\mathbf{X}|+|\mathbf{Y}|, \end{equation} with equality if 

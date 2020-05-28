@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $D$ be a PID. Let $I_1, I_2, \ldots$ be a set of ideals
    such that $I_1 \subset I_2 \subset \cdots$. Then there 
    exists an integer $N$ such that $I_n = I_N$ for all $n \geq 

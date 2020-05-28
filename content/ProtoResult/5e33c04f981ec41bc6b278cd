@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose $g$ is locally integrable on $(a,b]$ and denote $$ 
    G(r)=\int_{r}^{b}g(x)\,dx,\quad a\le r<b. $$ Then the 
    improper integral $\int_{a}^{b}g(x)\,dx$ converges if and 

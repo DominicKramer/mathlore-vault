@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f_1$ $f_2$ \dots, $f_n$ are integrable on $[a,b]$ and 
    $c_1$ $c_2$ \dots, $c_n$ are constants, then 
    $c_1f_1+c_2f_2+\cdots+ c_nf_n$ is integrable on $[a,b]$ and 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $\sum_{n=1}^\infty a_n$ is conditionally 
    convergent and $\mu$ and $\nu$ are arbitrarily given in the 
    extended reals, with $\mu\le\nu$ Then the terms of 

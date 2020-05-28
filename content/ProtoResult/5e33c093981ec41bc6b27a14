@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $\{F_n\}$ converges pointwise to $F$ and each 
    $F_n$ is integrable on $[a,b]$ \begin{alist} \item If the 
    convergence is uniform, then $F$ is integrable on $[a,b]$ 

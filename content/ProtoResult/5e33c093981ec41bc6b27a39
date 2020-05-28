@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $f$ and all its partial derivatives of order 
    $\le r$ are continuous on an open subset $S$ of $\R^n$ Then 
    \begin{equation} f_{x_{i_1}x_{i_2}, \dots, 

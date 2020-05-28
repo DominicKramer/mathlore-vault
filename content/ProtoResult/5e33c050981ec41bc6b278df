@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is continuous on $[0,\infty)$ and 
    $H(x)=\int_{0}^{\infty}e^{-s_{0}u}f(u)\,du$ is bounded on 
    $[0,\infty)$ then the Laplace transform of $f$ converges 

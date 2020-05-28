@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "A bounded function $f$ is integrable on a finite interval 
    $[a,b]$ if and only if the set $S$ of discontinuities of $f$
    in $[a,b]$ is of Lebesgue measure zero."

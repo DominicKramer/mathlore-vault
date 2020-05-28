@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $L$ is a lattice, then the binary operations $\vee$ and
 $\wedge$ satisfy the following properties for $a, b, c \in
 L$.

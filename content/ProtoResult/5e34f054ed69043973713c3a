@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $p$ is continuous on $(a,b)$ then the general solution 
    of the homogeneous equation \begin{equation} y'+p(x)y=0 
    \end{equation} on $(a,b)$ is $$ y=ce^{-P(x)}, $$ where 

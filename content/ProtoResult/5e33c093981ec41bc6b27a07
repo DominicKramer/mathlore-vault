@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\sum a_n$ converges absolutely, then $\sum a_n$ 
    converges."
 Metadata:

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\rho$ and $\sigma$ are equivalent metrics on a set $A$ 
    then $(A,\rho)$ and $(A,\sigma)$ have the same open sets."
 Metadata:

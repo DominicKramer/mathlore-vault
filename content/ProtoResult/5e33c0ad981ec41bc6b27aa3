@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $G$ be a cyclic group of order $n$ and suppose that $a 
    \in G$ is a generator of the group. If $b = a^k$, then the 
    order of $b$ is $n /d$, where $d = \gcd(k,n)$."

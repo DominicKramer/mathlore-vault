@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is continuous on $$ R=[a_1,b_1]\times 
    [a_2,b_2]\times\cdots\times [a_n,b_n], $$ then $\int_R 
    f(\mathbf{X})\,d\mathbf{X}$ can be evaluated by iterated 

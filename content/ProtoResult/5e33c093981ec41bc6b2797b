@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $a$ and $b$ are any two real numbers, then 
    \begin{equation} |a+b|\le |a|+|b|. \end{equation}"
 Metadata:

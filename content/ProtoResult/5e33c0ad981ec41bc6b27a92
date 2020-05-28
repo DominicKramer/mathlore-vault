@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $H \in {\mathbb M}_{ m \times n} ( {\mathbb Z}_2)$ and 
    suppose that the linear code corresponding to $H$ is single 
    error-correcting. Let ${\mathbf r}$ be a received $n$-tuple 

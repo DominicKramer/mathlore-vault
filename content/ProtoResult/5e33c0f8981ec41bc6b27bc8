@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "For $n\geq 0$ with $n\leq m$ we have \begin{equation} p_n 
    q_{n-1} - q_n p_{n-1} = (-1)^{n-1} \end{equation} and 
    \begin{equation} p_nq_{n-2} - q_n p_{n-2} = (-1)^n a_n. 

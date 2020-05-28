@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "The function $\pi(x)$ is asymptotic to $x/\log(x)$, in the 
    sense that $$\lim_{x\rightarrow \infty} \frac{\pi(x)}{ 
    x/\log(x)} = 1$$"

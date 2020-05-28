@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose $a,b,n\in\mathbf{Z}$ are such that $n\mid a$ and 
    $n\mid b$. Then $n\mid \gcd(a,b)$."
 Metadata:

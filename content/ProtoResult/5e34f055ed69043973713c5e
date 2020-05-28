@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose $Ly=0$ is normal on $(a,b)$ and let $y_1$, $y_2$, 
    \dots, $y_n$ be $n$ solutions of $Ly=0$ on $(a,b)$. Then the
    following statements are equivalent$$ that is, they are 

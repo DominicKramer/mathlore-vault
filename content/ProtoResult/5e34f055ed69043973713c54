@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose $f$ is continuous on $[0,\infty)$ and has a Laplace
    transform. Then the solution of the initial value problem 
    \begin{equation} ay''+by'+cy=f(t),\quad y(0)=k_0,\quad 

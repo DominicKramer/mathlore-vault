@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is unbounded on $[a,b]$ then $f$ is not integrable 
    on $[a,b]$"
 Metadata:

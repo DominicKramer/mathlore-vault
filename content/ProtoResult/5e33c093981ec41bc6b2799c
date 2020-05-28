@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $f$ is continuous on $[a,b]$ $f(a)\ne f(b)$ 
    and $\mu$ is between $f(a)$ and $f(b)$ Then $f(c)=\mu$ for 
    some $c$ in $(a,b)$"

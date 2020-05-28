@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is bounded on $[a,b]$ then $f$ is integrable on 
    $[a,b]$ if and only if for each $\epsilon>0$ there is a 
    partition $P$ of $[a,b]$ for which \begin{equation} 

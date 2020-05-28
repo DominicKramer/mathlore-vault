@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "A sequence $\{s_n\}$ of real numbers converges if and only 
    if, for every $\epsilon>0$ there is an integer $N$ such that
    \begin{equation} |s_n-s_m|<\epsilon \quad if\quad m,n\ge N. 

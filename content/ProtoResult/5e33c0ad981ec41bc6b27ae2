@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $Y$ be a nonempty subset of a poset $X$. If $Y$ has a 
    least upper bound, then $Y$ has a unique least upper bound. 
    If $Y$ has a greatest lower bound, then $Y$ has a unique 

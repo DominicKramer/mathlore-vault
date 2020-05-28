@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $x$ and $y$ are vectors in a normed vector space $(A,N)$
    then \begin{equation} |N(x)-N(y)|\le N(x-y). \end{equation}"
 Metadata:

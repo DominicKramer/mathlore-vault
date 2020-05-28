@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $a_0, a_1, a_2, \ldots $ be a sequence of real numbers 
    such that $a_n > 0$ for all $n\geq 1$, and for each $n\geq 
    0$, set $c_n = [a_0, a_1, \ldots a_n]$ Then 

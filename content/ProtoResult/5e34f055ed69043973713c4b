@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose $f$ and $f'$ are continuous on $[0,\infty)$ and of 
    exponential order $s_0$ and that $f''$ is piecewise 
    continuous on $[0,\infty)$ Then $f$, $f'$, and $f''$ have 

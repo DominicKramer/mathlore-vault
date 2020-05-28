@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $a$ and $b$ be two integers that are relatively prime. 
    Then there exist integers $r$ and $s$ such that $ar + bs = 
    1$."

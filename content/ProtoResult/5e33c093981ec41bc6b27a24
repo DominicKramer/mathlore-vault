@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $f$ be defined by a power series $ $ with finite radius
    of convergence $R$ \begin{alist} \item If $\sum^\infty_{n=0}
    a_nR^n$ converges, then $$ \lim_{x\to 

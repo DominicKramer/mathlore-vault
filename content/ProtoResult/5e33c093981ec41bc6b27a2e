@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $f$ and $g$ are defined on a set $D$
 $\mathbf{X}_0$ is a limit point of $D$ and $$
 \lim_{\mathbf{X}\to\mathbf{X}_0}

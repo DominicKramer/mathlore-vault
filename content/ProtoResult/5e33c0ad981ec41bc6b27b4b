@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $F_i$ is a field for $i = 1, \dots, k$ and $F_{i+1}$ is 
    a finite extension of $F_i$, then $F_k$ is a finite 
    extension of $F_1$ and \[ [F_k : F_1] = [F_k : F_{k-1} ] 

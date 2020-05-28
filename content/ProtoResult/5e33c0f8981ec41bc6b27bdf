@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "A positive integer $n$ is a sum of two squares if and only 
    if all prime factors of $p\mid n$ such that $p\equiv 
    3\pmod{4}$ have even exponent in the prime factorization of 

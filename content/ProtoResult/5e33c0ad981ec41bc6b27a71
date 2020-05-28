@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Every group is isomorphic to a group of permutations."
 Metadata:
 . name: "Cayley"

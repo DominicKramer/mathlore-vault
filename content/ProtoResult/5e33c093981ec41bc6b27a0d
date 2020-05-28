@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $$ \sum_{n=0}^\infty a_n=A \quad and\quad 
    \sum_{n=0}^\infty b_n=B, $$ where $A$ and $B$ are finite, 
    and at least one term of each series is nonzero. Then 

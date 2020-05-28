@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $G' = \langle a b a^{-1} b^{-1} : a, b \in G \rangle$ 
    be the subgroup consisting of all finite products of 
    elements of the form $aba^{-1}b^{-1}$ in a group $G$. Then 

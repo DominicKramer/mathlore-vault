@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $p$ be an odd prime and let $a$ be an integer 
    $\not\equiv 0\pmod{p}$. Form the numbers $$ a,\, 2a,\, 3a,\,
    \ldots,\, \frac{p-1}{2} a $$ and reduce them modulo $p$ to 

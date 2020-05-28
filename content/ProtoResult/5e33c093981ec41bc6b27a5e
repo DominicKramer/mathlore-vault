@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "A bounded function $f$ is integrable on a rectangle $R$ if 
    and only if $$ \underline{\int_R}\, 
    f(\mathbf{X})\,d\mathbf{X}=\overline{\int_R}\, 

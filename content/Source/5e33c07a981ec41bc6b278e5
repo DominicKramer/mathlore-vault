@@ -1,5 +1,5 @@
 [TrenchLagrangeMultipliers]
-Source:
+Resource:
 . type: "Book"
 . name: "The Method of Lagrange Multipliers"
 . author: "William F. Trench"

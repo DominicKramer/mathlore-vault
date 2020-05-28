@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $D$ be a UFD and $F$ its field of fractions. Suppose 
    that $p(x) \in D $ and $p(x) = f(x) g(x)$, where $f(x)$ and 
    $g(x)$ are in $F $. Then $p(x) = f_1(x) g_1(x)$, where 

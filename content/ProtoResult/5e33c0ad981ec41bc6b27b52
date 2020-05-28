@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $E$ be a splitting field over $F$ of a separable 
    polynomial. Then $E_{G(E/F)} = F$."
 Metadata:

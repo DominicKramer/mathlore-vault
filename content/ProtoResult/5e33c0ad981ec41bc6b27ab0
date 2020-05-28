@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $U(n)$ be the group of units in ${\mathbb Z}_n$. Then 
    $|U(n)| = \phi(n)$."
 Metadata:

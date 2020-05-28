@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $E$ be an extension field of $F$. If $\alpha \in E$ is 
    algebraic over $F$ with minimal polynomial $p(x)$ and $\beta
    \in F( \alpha )$ with minimal polynomial $q(x)$, then $\deg 

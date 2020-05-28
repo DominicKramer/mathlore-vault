@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "The rational number $n$ is a congruent number if and only 
    if there is a point $P=(x,y)\in E_n(\mathbf{Q})$ with $y\neq
    0$."

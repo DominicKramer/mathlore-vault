@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is integrable on $[a,b]$ and $[b,c]$ then $f$ is 
    integrable on $[a,c]$ and \begin{equation} 
    \int_a^cf(x)\,dx=\int_a^bf(x)\,dx+\int_b^cf(x)\,dx. 

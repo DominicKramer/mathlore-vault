@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $E$ be a field extension of $F$ and $f(x)$ be a 
    polynomial in $F $. Then any automorphism in $G(E/F)$ 
    defines a permutation of the roots of $f(x)$ that lie in 

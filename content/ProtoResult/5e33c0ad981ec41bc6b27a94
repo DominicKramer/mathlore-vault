@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $G$ be a finite group and $p$ a prime such that $p^r$ 
    divides $|G|$. Then $G$ contains a subgroup of order $p^r$."
 Metadata:

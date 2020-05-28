@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $G$ be the internal direct product of subgroups $H_i$, 
    where $i = 1, 2, \ldots, n$. Then $G$ is isomorphic to 
    $\prod_i H_i$."

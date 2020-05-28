@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that ${\mathcal F}$ is an infinite uniformly 
    bounded and equicontinuous family of functions on $[a,b]$ 
    Then there is a sequence $\{f_n\}$ in ${\mathcal F}$ that 

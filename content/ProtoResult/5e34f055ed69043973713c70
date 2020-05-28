@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose the $n\times n$ matrix $A$ has an eigenvalue 
    $\lambda_1$ of multiplicity $\ge 3$ and the associated 
    eigenspace is one-dimensional$$ that is, all eigenvectors 

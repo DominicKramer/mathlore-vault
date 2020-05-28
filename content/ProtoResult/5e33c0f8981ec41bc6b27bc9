@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $a$ and $b$ be integers with $\gcd(a,b)=1$. Then there 
    are infinitely many primes of the form $ax+b$."
 Metadata:

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $f(x)$ be in $F $, where $\operatorname{char} F = 0$. 
    If $f(x)$ is solvable by radicals, then the Galois group of 
    $f(x)$ over $F$ is solvable."

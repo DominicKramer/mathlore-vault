@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose we consider the amplitude $R$ of the steady state 
    component of the solution of $$ my''+cy'+ky=F_0\cos\omega t 
    $$ as a function of $\omega$. \indent{ (a)} If 

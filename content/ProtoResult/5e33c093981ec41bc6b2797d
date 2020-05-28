@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\rho$ and $\epsilon$ are positive, then 
    $n\epsilon>\rho$ for some integer $n$"
 Metadata:

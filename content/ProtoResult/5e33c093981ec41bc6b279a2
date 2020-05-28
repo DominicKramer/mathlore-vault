@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is differentiable at $x_0$ then $f$ is continuous at
    $x_0$"
 Metadata:

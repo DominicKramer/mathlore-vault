@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is bounded on a rectangle $R$ then $$ 
    \underline{\int_R}\, f(\mathbf{X})\,d\mathbf{X} 
    \le\overline{\int_R}\, f(\mathbf{X})\,d\mathbf{X}. $$"

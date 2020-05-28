@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose $a,b,n\in\mathbf{Z}$. Then $\gcd(a,b) = 
    \gcd(a,b-an)$."
 Metadata:

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $f^{(n+1)}$ exists on an open interval $I$ 
    about $x_0$ and let $x$ be in $I$ Then the remainder $$ 
    R_n(x)=f(x)-T_n(x) $$ can be written as $$ 

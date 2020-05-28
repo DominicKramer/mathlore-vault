@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "~ Suppose $g=g(x)$ is continous on $(a,b)$ and $h=h(y)$ are
    continuous on $(c,d)$ Let $G$ be an antiderivative of $g$ on
    $(a,b)$ and let $H$ be an antiderivative of $h$ on $(c,d)$ 

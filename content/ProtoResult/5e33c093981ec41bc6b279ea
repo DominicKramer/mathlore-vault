@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $\phi$ is monotonic and $\phi'$ is locally 
    integrable on either of the half-open intervals $I=[c,d)$ or
    $(c,d]$ and let $x=\phi(t)$ map $I$ onto either of the 

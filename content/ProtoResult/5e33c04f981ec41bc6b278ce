@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "{\bf(Cauchy Criterion for Uniform Convergence I)} The 
    improper integral in converges uniformly on $S$ if and only 
    if, for each $\epsilon>0$ there is an $r_{0} \in [a,b)$ such

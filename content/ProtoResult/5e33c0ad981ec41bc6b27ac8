@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $G$ be a cyclic group of order $n$ and suppose that $a$
    is a generator for $G$. Then $a^k=e$ if and only if $n$ 
    divides $k$."

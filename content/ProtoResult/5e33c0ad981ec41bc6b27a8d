@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $H = (A \mid I_m )$ be an $m \times n$ canonical 
    parity-check matrix and let $G = \left( \frac{I_{n-m} }{A} 
    \right) $ be the $n \times (n-m)$ standard generator matrix 

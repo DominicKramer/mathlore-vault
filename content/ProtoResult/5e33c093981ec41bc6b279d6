@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\mathbf{G}:\E^n\rightarrow \R^n$ is regular on a cube 
    $C$ in $\R^n$ then \begin{equation} 
    V(\mathbf{G}(C))\le\int_C |JG(\mathbf{Y})|\,d\mathbf{Y}. 

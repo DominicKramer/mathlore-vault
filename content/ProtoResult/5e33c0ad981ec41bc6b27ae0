@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Given an equivalence relation $\sim$ on a set $X$, the 
    equivalence classes of $X$ form a partition of $X$. 
    Conversely, if ${\mathcal P} = \{ X_i\}$ is a partition of a

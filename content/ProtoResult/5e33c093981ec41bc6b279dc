@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $f'$ is nonnegative and integrable and $g$ is 
    continuous on $[a,b]$ Then \begin{equation} \int_a^b 
    f(x)g(x)\,dx=f(a)\int_a^c g(x)\,dx+f(b)\int_c^b g(x)\,dx 

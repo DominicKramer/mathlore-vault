@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\mathbf{X}$ $\mathbf{Y}$ and $\mathbf{Z}$ are in $\R^n$
    and $a$ and $b$ are real numbers, then \begin{alist} \item 
    $\mathbf{X}+\mathbf{Y}=\mathbf{Y}+\mathbf{X}$ (vector 

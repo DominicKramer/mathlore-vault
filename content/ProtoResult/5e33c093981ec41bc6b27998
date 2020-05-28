@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ and $g$ are continuous on a set $S$ then so are
 $f+g$, $f-g$ and $fg$. In addition, $f/g$ is continuous at
 each $x_0$ in $S$ such that $g(x_0)\ne0$"

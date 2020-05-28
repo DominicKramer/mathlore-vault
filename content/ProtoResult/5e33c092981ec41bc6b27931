@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "An infinite subset $T$ of $A$ is compact if and only if 
    every infinite subset of $T$ has a limit point in $T$"
 Metadata:

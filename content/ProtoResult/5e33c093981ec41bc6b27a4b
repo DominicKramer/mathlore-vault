@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $\mathbf{A}$ be an $n\times n$ matrix. If 
    $\det(\mathbf{A})=0$ then $\mathbf{A}$ is singular. If 
    $\det(\mathbf{A})\ne0$ then $\mathbf{A}$ is nonsingular, and

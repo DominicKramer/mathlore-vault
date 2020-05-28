@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose $f$ is locally integrable on $[0,\infty)$ and 
    $|f(x)|\le M e^{s_{0}x}$ for sufficiently large $x$. Then 
    the Laplace transform of $F$ converges uniformly on 

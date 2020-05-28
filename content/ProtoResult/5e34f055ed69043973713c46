@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose \begin{equation} 
    F(s)={P(s)\over(s-s_1)(s-s_2)\cdots(s-s_n)}, \end{equation} 
    where $s_1$, $s_2$ \dots, $s_n$ are distinct and $P$ is a 

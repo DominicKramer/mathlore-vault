@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $a_0,a_1,\ldots$ define a simple continued fraction, 
    and let $x=[a_0,a_1,\ldots]\in\mathbf{R}$ be its value. Then
    for all $m$, $$ \left| x - \frac{p_m}{q_m}\right| < 

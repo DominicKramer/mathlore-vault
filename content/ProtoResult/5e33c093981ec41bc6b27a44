@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "A transformation $\mathbf{L}: \R^n \to \R^m$ defined on all
    of $\R^n$ is linear if and only if \begin{equation} 
    \mathbf{L}(\mathbf{X})=\left[begin{array} 

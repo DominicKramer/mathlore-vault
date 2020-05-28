@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\mathbf{A}$ $\mathbf{B}$ and $\mathbf{C}$ are $m\times 
    n$ matrices, then $$ 
    (\mathbf{A}+\mathbf{B})+\mathbf{C}=\mathbf{A}+(\mathbf{B} 

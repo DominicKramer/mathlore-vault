@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "For a vector-valued function $\mathbf{G}$ $$ 
    \lim_{\mathbf{U}\to\mathbf{U}_0}\mathbf{G}(\mathbf{U})=\mathbf{L}
    $$ if and only if for each $\epsilon>0$ there is a 

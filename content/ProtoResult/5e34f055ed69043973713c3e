@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "$[$Linearity Property$]$ Suppose ${\cal L}(f_i)$ is defined
    for $s>s_i$ $1\le i\le n)$ Let $s_0$ be the largest of the 
    numbers $s_1$, $s_{2}$ \dots$s_n$ and let $c_1$, 

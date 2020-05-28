@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let the $m \times n$ binary matrix $H$ determine a linear 
    code and let ${\mathbf x}$ be the received $n$-tuple. Write 
    ${\mathbf x}$ as ${\mathbf x} = {\mathbf c} +{\mathbf e}$, 

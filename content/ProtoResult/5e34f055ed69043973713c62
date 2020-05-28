@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose $Ly=F$ is normal on $(a,b)$ Let $y_p$ be a 
    particular solution of $Ly=F$ on $(a,b)$ and let 
    $\{y_1,y_2,\dots,y_n\}$ be a fundamental set of solutions of

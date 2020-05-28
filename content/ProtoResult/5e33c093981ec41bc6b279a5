@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ and $g$ are differentiable at $x_0$ then so are 
    $f+g$ $f-g$ and $fg$ with \begin{alist} \item 
    $(f+g)'(x_0)=f'(x_0)+g'(x_0)$ \item 

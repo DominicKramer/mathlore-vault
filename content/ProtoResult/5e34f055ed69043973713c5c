@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose the homogeneous linear $n$th order equation 
    \begin{equation} 
    P_0(x)y^{(n)}+P_1(x)y^{n-1}+\cdots+P_n(x)y=0 \end{equation} 

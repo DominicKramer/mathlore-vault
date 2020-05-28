@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $G$ be a finite group of automorphisms of $E$ and let 
    $F = E_G$. Then $[E:F] \leq |G|$."
 Metadata:

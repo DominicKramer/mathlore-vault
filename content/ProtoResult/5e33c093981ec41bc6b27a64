@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $S$ is a bounded set in $\R^n$ with boundary 
    consisting of a finite number of differentiable surfaces. 
    Let $f$ be bounded on $S$ and continuous except on a set of 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "The rational numbers are dense in the reals$\,$ that is, if
    $a$ and $b$ are real numbers with $a<b$ there is a rational 
    number $p/q$ such that $a<p/q<b$."

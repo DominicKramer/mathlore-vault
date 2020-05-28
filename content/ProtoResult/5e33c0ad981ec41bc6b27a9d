@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $m$ and $n$ be positive integers such that $\gcd( m, n)
 = 1$. Then for $a, b \in {\mathbb Z}$ the system
 \[

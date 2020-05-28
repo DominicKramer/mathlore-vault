@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If \begin{equation} \lim_{n\to\infty}s_n=s\quad (-\infty\le
    s\le\infty), \end{equation} then \begin{equation} 
    \lim_{k\to\infty} s_{n_k}=s \end{equation} for every 

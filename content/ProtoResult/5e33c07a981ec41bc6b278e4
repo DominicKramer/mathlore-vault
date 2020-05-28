@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $n>2$. If $\mathbf{X}_{0}$ is a local extreme
 point of $f$ subject to $g_{1}(\mathbf{X})=g_{2}(\mathbf{X})=0$
 and

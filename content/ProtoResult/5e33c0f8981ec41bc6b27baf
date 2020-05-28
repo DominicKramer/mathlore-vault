@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "An integer $p>1$ is prime if and only if $(p-1)! \equiv -1 
    \pmod{p}$"
 Metadata:

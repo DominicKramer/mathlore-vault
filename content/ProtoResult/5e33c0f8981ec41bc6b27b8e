@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose $a,b\in(\Z/n\Z{})^*$ have orders $r$ and $s$, 
    respectively, and that $\gcd(r,s)=1$. Then $ab$ has order 
    $rs$."

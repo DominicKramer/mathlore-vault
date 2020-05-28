@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $N$ be a normal subgroup of a group $G$. The cosets of 
    $N$ in $G$ form a group $G/N$ of order $[G:N]$."
 Metadata:

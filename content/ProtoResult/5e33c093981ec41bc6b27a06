@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $a_n\ge 0$ for $n\ge k$ then \begin{alist} \item $\sum 
    a_n<\infty$ if $\limsup_{n\to\infty} a^{1/n}_n<1$ \item 
    $\sum a_n=\infty$ if $\limsup_{n\to\infty} a^{1/n}_n>1$ 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "In a group, the usual laws of exponents hold; that is, for 
    all $g, h \in G$, \begin{enumerate} \item \it $g^mg^n = 
    g^{m+n}$ for all $m, n \in {\mathbb Z}$; \item \it $(g^m)^n 

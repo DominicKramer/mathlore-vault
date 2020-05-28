@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $F$ be a field of characteristic zero and let \[ F = 
    F_0 \subseteq F_1 \subseteq F_2 \subseteq \cdots \subseteq 
    F_r = E \] a radical extension of $F$. Then there exists a 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ and $g$ are integrable on $S$ then so is $f+g$ and 
    $$ \int_S(f+g)(\mathbf{X})\,d\mathbf{X}=\int_S 
    f(\mathbf{X})\,d\mathbf{X}+ \int_S 

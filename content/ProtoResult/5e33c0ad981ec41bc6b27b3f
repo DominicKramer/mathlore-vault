@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $n_1, \ldots, n_k$ be positive integers. Then \[ 
    \prod_{i=1}^k {\mathbb Z}_{n_i} \cong {\mathbb Z}_{n_1 
    \cdots n_k} \] if and only if $\gcd( n_i, n_j) =1$ for $i 

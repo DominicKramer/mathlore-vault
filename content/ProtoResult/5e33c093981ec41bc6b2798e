@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If \begin{equation} \lim_{x\to x_0} f(x)=L_1 \quad and 
    \quad \lim_{x\to x_0} g(x)= L_2, \end{equation} then 
    \begin{eqnarray} \lim_{x\to x_0} (f+g)(x) = L_1+L_2, \\ 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\mathbf{X}$ $\mathbf{Y}$ and $\mathbf{Z}$ are in $\R^n$
    then $$ |\mathbf{X}-\mathbf{Z}|\le 
    |\mathbf{X}-\mathbf{Y}|+|\mathbf{Y}-\mathbf{Z}|. $$"

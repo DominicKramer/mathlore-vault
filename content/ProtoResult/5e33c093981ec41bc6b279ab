@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $f$ is continuous on the closed interval 
    $[a,b]$ and differentiable on the open interval $(a,b)$ and 
    $f(a)=f(b)$ Then $f'(c)=0$ for some $c$ in the open interval

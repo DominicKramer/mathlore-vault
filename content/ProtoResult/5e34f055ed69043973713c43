@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose $M$ and $N$
 are continuous and have continuous partial derivatives $M_y$
 and $N_x$ on an open rectangle $R$ Then $$

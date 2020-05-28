@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $f$ and its partial derivatives of order $\le 
    k-1$ are differentiable in a neighborhood $N$ of a point 
    $\mathbf{X}_0$ in $\R^n$ and all $k$th-order partial 

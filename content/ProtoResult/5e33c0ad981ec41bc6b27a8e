@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $D$ be a UFD, and let $p(x)$ and $q(x)$ be in $D $. 
    Then the content of $p(x) q(x)$ is equal to the product of 
    the contents of $p(x)$ and $q(x)$."

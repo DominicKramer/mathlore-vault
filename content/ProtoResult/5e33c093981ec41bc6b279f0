@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $\lim_{x\to\infty} f(x)=L$ where $L$ is in the extended
    reals, and suppose that $s_n=f(n)$ for large $n$ Then $$ 
    \lim_{n\to\infty}s_n=L. $$"

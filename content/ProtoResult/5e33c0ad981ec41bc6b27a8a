@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $H \in {\mathbb M}_{m \times n}({\mathbb Z}_2)$ is a
 canonical parity-check matrix, then $\textrm{Null}(H)$ consists of
 all ${\mathbf x} \in {\mathbb Z}_2^n$ whose first $n-m$ bits

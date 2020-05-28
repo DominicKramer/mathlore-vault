@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "The number of even permutations in $S_n$, $n \geq 2$, is 
    equal to the number of odd permutations; hence, the order of
    $A_n$ is $n!/2$."

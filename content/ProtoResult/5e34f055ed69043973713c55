@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $p(r)=ar^2+br+c$ be the characteristic polynomial of 
    \begin{equation} ay''+by'+cy=0. \end{equation} Then$:$ 
    \begin{alist} \item If $p(r)=0$ has distinct real roots 

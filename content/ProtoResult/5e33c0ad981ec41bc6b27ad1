@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "For every prime $p$ and every positive integer $n$, there 
    exists a finite field $F$ with $p^n$ elements. Furthermore, 
    any field of order $p^n$ is isomorphic to the splitting 

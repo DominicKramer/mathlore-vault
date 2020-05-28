@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ and $g$ are differentiable at $\mathbf{X}_0$ then so
    are $f+g$ and $fg$. The same is true of $f/g$ if 
    $g(\mathbf{X}_0)\ne0$. The differentials are given by 

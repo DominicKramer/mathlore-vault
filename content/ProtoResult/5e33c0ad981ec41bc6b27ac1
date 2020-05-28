@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "A field $F$ is algebraically closed if and only if every 
    nonconstant polynomial in $F $ factors into linear factors 
    over $F $."

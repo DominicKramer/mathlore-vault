@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "A linear code $C$ in ${\mathbb Z}_2^n$ is cyclic if and 
    only if it is an ideal in $R_n = {\mathbb Z} / \langle x^n -
    1 \rangle$."

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $G$ is a group of order $p$, where $p$ is a prime 
    number, then $G$ is isomorphic to ${\mathbb Z}_p$."
 Metadata:

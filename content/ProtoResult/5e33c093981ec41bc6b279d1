@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $u$ is continuous and $v$ is integrable and 
    nonnegative on $[a,b]$ Then \begin{equation} \int_a^b 
    u(x)v(x)\,dx=u(c)\int_a^b v(x)\,dx \end{equation} for some 

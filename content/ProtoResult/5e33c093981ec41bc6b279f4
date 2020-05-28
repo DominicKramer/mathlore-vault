@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\{s_n\}$ is a sequence of real numbers, then 
    \begin{equation} \lim_{n\to\infty} s_n=s \end{equation} if 
    and only if \begin{equation} 

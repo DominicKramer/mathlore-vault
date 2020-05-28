@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Given a ring $R$, let $\mathfrak J = \mathfrak J(R)$ be the Jacobson radical of $R$. Then, for some finitely-generated left $R$-module $M$, $\mathfrak JM = M$ implies that $M=0$."
 Metadata:
 . id: "5e69a4076d985e7337a9ec50"

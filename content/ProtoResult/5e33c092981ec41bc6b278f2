@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $f$ is integrable on $R= [a,b]\times [c,d]$ 
    and $$ F(y)=\int_a^b f(x,y)\,dx $$ exists for each $y$ in 
    $[c,d]$ Then $F$ is integrable on $[c,d]$ and 

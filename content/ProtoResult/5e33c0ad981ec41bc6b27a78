@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $a$ and $b$ be atoms in a finite Boolean algebra $B$ 
    such that $a \neq b$. Then $a \wedge b = O$."
 Metadata:

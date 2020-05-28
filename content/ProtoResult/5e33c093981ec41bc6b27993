@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is bounded on $[a,x_0)$ then $\alpha=\liminf_{x\to 
    x_0-}f(x)$ exists and is the unique real number with the 
    following properties: \begin{alist} \item If $\epsilon>0$ 

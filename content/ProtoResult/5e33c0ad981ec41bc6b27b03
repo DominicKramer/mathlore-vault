@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $\{ e_1, e_2, \ldots, e_m \}$ and $\{ f_1, f_2, \ldots,
    f_n \}$ be two bases for a vector space $V$. Then $m=n$."
 Metadata:

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "For any power series $$ \sum_{n=0}^\infty a_n(x-x_0)^n, $$ 
    exactly one of the these statements is true$:$ 
    \begin{rmlist} \item The power series converges only for 

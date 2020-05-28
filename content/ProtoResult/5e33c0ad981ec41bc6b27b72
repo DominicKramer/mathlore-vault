@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $H$ and $K$ be subgroups of $G$. The number of distinct
    $H$-conjugates of $K$ is $[H:N(K) \cap H]$."
 Metadata:

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "The even indexed convergents $c_{2n}$ increase strictly 
    with $n$, and the odd indexed convergents $c_{2n+1}$ 
    decrease strictly with $n$. Also, the odd indexed 

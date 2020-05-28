@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let ${\mathbf x}$ and ${\mathbf y}$ be binary $n$-tuples. 
    Then $w({\mathbf x} + {\mathbf y}) = d({\mathbf x}, {\mathbf
    y})$."

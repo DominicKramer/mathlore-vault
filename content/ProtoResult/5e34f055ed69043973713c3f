@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "\begin{alist} \item If $f$ is continuous on an open 
    rectangle $$ R: \{ a < x < b, c < y < d \} $$ that contains 
    $(x_0,y_0)$ then the initial value problem \begin{equation} 

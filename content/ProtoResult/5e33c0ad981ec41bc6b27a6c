@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $p$ be prime and $D$ be an integral domain of 
    characteristic $p$. Then \[ a^{p^n} + b^{p^n} = (a + 
    b)^{p^n} \] for all positive integers $n$."

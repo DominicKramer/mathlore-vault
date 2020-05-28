@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "The group $E(\mathbf{Q})$ is finitely generated. That is, 
    there are points $P_1,\ldots, P_s \in E(\mathbf{Q})$ such 
    that every element of $E(\mathbf{Q})$ is of the form $n_1 

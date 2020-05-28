@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "For any integers $a,b,n$, we have $$\gcd(an,bn) = 
    \gcd(a,b)\cdot |n|$$"
 Metadata:

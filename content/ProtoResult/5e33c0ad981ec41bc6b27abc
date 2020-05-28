@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $E$ is a finite extension of $F$ and $K$ is a finite 
    extension of $E$, then $K$ is a finite extension of $F$ and 
    \[ [K:F]= [K:E] [E:F]. \]"

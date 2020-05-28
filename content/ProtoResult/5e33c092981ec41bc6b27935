@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $T$ is compact, then every Cauchy sequence 
    $\{t_n\}_{n=1}^\infty$ in $T$ converges to a limit in $T$"
 Metadata:

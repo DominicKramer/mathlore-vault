@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $G$ be a group and $a$ and $b$ be any two elements in 
    $G$. Then the equations $ax = b$ and $xa = b$ have unique 
    solutions in $G$."

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $G$ is a finite subgroup of $F^\ast$, the multiplicative
    group of nonzero elements of a field $F$, then $G$ is 
    cyclic."

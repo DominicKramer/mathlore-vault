@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that \begin{equation} |f(x)|\le M,\quad a\le x\le 
    b, \end{equation} and let $P'$ be a partition of $[a,b]$ 
    obtained by adding $r$ points to a partition $P=\{x_0,x_1, 

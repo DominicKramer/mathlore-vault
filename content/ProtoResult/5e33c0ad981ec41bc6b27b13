@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $\phi : R \rightarrow S$ be a ring homomorphism. Then 
    $\ker \phi$ is an ideal of $R$. If 
    $\psi~:~R~\rightarrow~R/\ker \phi$ is the canonical 

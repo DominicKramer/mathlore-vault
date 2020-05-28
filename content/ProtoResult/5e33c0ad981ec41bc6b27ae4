@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $L$ be a nonempty set with two binary operations $\vee$
    and $\wedge$ satisfying the commutative, associative, 
    idempotent, and absorption laws. We can define a partial 

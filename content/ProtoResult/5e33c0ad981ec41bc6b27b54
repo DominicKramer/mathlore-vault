@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $\sigma$ and $\tau$ be two disjoint cycles in $S_X$. 
    Then $\sigma \tau = \tau \sigma$."
 Metadata:

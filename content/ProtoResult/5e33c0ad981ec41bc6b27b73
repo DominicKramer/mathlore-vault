@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $H$ and $K$ be finite subgroups of a group $G$. Then \[
    |HK| = \frac{|H| \cdot |K|}{|H \cap K|}. \]"
 Metadata:

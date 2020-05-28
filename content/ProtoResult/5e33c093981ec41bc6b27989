@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If ${\mathcal H}$ is an open covering of a closed and 
    bounded subset $S$ of the real line, then $S$ has an open 
    covering $\widetilde{\mathcal H}$ consisting of finitely 

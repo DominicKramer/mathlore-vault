@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is differentiable at $\mathbf{X}_0=(x_{10},x_{20}, 
    \dots,x_{n0})$ then $f_{x_1}(\mathbf{X}_0)$ 
    $f_{x_2}(\mathbf{X}_{0})$ \dots, $f_{x_n}(\mathbf{X}_0)$ 

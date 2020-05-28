@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $C = \langle g(t) \rangle$ be a cyclic code in $R_n$ 
    and suppose that $x^n - 1 = g(x) h(x)$. Then $G$ and $H$ are
    generator and parity-check matrices for $C$, respectively. 

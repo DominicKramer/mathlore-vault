@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Every permutation in $S_n$ can be written as the product of
    disjoint cycles."
 Metadata:

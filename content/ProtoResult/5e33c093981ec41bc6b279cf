@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is integrable on $[a,b]$ then so is $|f|$, and 
    \begin{equation} \left|\int_a^b f(x)\,dx\right|\le\int_a^b 
    |f(x)|\,dx. \end{equation}"

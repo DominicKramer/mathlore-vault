@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $\mathbf{F}: \R^n\to \R^n$ be continuously 
    differentiable on an open set $S$ and suppose that 
    $J\mathbf{F}(\mathbf{X})\ne0$ on $S$ Then, if 

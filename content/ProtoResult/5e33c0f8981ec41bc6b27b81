@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $[a_0,a_1,\ldots,a_m]$ is a simple continued fraction, 
    so each $a_i$ is an integer, then the $p_n$ and $q_n$ are 
    integers and the fraction $p_n/q_n$ is in lowest terms."

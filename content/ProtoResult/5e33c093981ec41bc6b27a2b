@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If ${\mathcal H}$ is an open covering of a compact subset 
    $S$ then $S$ can be covered by finitely many sets from 
    ${\mathcal H}$"

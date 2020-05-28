@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $\mathbf{F}:\R^{n+m}\to \R^m$ is continuously 
    differentiable on an open set $S$ of $\R^{n+m}$ containing 
    $(\mathbf{X}_0,\mathbf{U}_0)$ Let 

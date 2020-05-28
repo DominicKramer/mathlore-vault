@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $f$ and $g$ are differentiable and $g'$ has no
    zeros on $(a,b)$ Let \begin{equation} \lim_{x\to 
    b-}f(x)=\lim_{x\to b-}g(x)=0 \end{equation} or 

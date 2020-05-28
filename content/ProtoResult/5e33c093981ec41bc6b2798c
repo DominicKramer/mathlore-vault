@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is bounded and continuous on a bounded Jordan 
    measurable set $S$ then $f$ is integrable on $S$"
 Metadata:

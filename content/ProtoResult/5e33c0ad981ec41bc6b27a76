@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $B$ be a finite Boolean algebra. If $b$ is a nonzero 
    element of $B$, then there is an atom $a$ in $B$ such that 
    $a \preceq b$."

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "A series $\sum a_n$ converges if and only if for every 
    $\epsilon>0$ there is an integer $N$ such that 
    \begin{equation} |a_n+a_{n+1}+\cdots+a_m|<\epsilon \quad 

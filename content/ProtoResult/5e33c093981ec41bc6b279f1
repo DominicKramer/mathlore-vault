@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let \begin{equation} \lim_{n\to\infty} s_n=s \quad and\quad
    \lim_{n\to\infty} t_n=t, \end{equation} where $s$ and $t$ 
    are finite. Then \begin{equation} \lim_{n\to\infty} 

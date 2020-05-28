@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "The equation $ax\equiv b\pmod{n}$ has a solution if and 
    only if $\gcd(a,n)$ divides $b$."
 Metadata:

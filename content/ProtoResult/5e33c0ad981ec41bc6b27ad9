@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $C = \langle g(t) \rangle$ be a cyclic code in $R_n$.
 The following statements are equivalent. \begin{enumerate}
 \item The code $C$ is a BCH code whose minimum distance

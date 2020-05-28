@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $H$ be a subgroup of a group $G$ and suppose that $g_1,
    g_2 \in G$. The following conditions are equivalent. 
    \begin{enumerate} \item \it $g_1 H = g_2 H$; \item \it $H 

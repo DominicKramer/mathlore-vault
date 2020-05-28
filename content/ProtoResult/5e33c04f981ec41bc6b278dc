@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ and $f_{y}$ are continuous on $[a,b]\times [c,d]$ 
    then \begin{equation} F(y)=\int_{a}^{b}f(x,y)\,dx, \quad c 
    \le y \le d, \end{equation} is continuously differentiable 

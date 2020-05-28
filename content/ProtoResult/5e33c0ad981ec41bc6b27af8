@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $a$ and $b$ be nonzero integers. Then there exist 
    integers $r$ and $s$ such that \[ \gcd( a, b) = ar + bs. \] 
    Furthermore, the greatest common divisor of $a$ and $b$ is 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $f$ is monotonic on $(a,b)$ and define $$ 
    \alpha=\inf_{a<x<b}f(x) \quad and \quad 
    \beta=\sup_{a<x<b}f(x). $$ \begin{alist} \item If $f$ is 

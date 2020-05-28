@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $G$ be a finite abelian $p$-group and suppose that $g
 \in G$ has maximal order. Then $G$ is isomorphic to $\langle
 g \rangle \times H$ for some subgroup $H$ of $G$."

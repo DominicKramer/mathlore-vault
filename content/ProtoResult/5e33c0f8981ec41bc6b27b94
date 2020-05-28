@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $a, b\in\mathbf{Q}$. Then for any integer $n$, 
    $$\#\left((a,b)\cap \mathbf{Z}\right) \equiv 
    \#\left((a,b+2n)\cap \mathbf{Z}\right) \pmod{2}$$ and $$ 

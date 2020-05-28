@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f^{(n)}(x_0)$ exists, then \begin{equation} 
    f(x)=\sum_{r=0}^n\frac{f^{(r)}(x_0)}{ r!} 
    (x-x_0)^r+E_n(x)(x-x_0)^n, \end{equation} where $$ 

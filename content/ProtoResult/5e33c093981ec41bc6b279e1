@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $f_1$ $f_2$ \dots, $f_n$ are locally 
    integrable on $[a,b)$ and that $\int_a^bf_1(x)\,dx$ 
    $\int_a^bf_2(x)\,dx$ \dots, $\int_a^bf_n(x)\,dx$ converge. 

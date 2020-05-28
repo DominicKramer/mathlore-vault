@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $F$ be a field and let $G$ be a subgroup of 
    $\operatorname{Aut}(F)$. Then \[ F_G = \{ \alpha \in F : 
    \sigma( \alpha ) = \alpha for all $\sigma \in G$ \} \] is a 

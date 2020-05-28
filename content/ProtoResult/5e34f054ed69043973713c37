@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $L$ be as in Theorem~{ } and suppose the indicial 
    equation $p_0(r)=0$ has a repeated real root $r_1$ Then $$ 
    y_1(x)=y(x,r_1)=x^{r_1}\sum_{n=0}^\infty a_n(r_1)x^n $$ and 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "The kernel of any ring homomorphism $\phi : R \rightarrow 
    S$ is an ideal in $R$."
 Metadata:

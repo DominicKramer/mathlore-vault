@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $n$ is a congruent number, then there are infinitely 
    many distinct right triangles with rational side lengths and
    area $n$."

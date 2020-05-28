@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f$ is continuous on a compact set $S$ in $\R^n$ then 
    $f$ is bounded on $S$"
 Metadata:

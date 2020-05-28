@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $I$ be an ideal of $R$. The map $\psi : R \rightarrow 
    R/I$ defined by $\psi( r ) = r + I$ is a ring homomorphism 
    of $R$ onto $R/I$ with kernel $I$."

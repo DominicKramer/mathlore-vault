@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $E$ be a finite separable extension of a field $F$. 
    Then there exists an $\alpha \in E$ such that $E=F( \alpha 
    )$."

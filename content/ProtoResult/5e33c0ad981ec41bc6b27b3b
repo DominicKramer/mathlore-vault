@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $F$ be a field and suppose that $d(x)$ is the greatest 
    common divisor of two polynomials $p(x)$ and $q(x)$ in $F $.
    Then there exist polynomials $r(x)$ and $s(x)$ such that \[ 

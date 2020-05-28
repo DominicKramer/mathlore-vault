@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose $p$ and $q$ are continuous on an open interval 
    $(a,b)$ let $x_0$ be any point in $(a,b)$ and let $k_0$ and 
    $k_1$ be arbitrary real numbers. Then the initial value 

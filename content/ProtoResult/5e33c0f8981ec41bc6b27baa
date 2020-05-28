@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $\gcd(c,n)=1$ and $$ ac\equiv bc\pmod{n}, $$ then $a 
    \equiv b\pmod{n}$."
 Metadata:

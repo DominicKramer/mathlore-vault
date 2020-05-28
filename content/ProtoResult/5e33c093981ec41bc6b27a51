@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "A transformation $\mathbf{F}=(f_1,f_2, \dots,f_m)$ defined 
    in a neighborhood of $\mathbf{X}_0\in\R^n$ is differentiable
    at $\mathbf{X}_0$ if and only if there is a constant 

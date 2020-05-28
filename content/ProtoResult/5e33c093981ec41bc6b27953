@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "If $f'$ is integrable on $[a,b]$ then $$ \int_a^b 
    f'(x)\,dx=f(b)-f(a). $$"
 Metadata:

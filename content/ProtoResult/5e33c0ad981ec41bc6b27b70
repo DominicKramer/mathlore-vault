@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $H = (A \mid I_m )$ be an $m \times n$ canonical 
    parity-check matrix and $G = \left( \frac{I_{n-m} }{A} 
    \right)$ be the corresponding $n \times (n-m)$ standard 

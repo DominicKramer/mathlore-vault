@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "There is a primitive root modulo any prime $p$. In 
    particular, the group $(\Z/p\Z{})^*$ is cyclic."
 Metadata:

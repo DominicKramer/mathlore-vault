@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $H$ be a binary matrix. The null space of $H$ is a 
    single error-correcting code if and only if $H$ does not 
    contain any zero columns and no two columns of $H$ are 

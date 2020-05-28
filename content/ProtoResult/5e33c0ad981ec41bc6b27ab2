@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $p$ be any prime number and suppose that $p 
    {\not{\mid}} a$. Then \[ a^{p-1} \equiv 1 \pmod{ p }. \] 
    Furthermore, for any integer $b$, $b^p \equiv b \pmod{ p}$."

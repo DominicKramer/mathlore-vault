@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $f$ be defined on a closed interval $[a,b]$ containing 
    $\overline{x}$ Then $f$ is continuous at $\overline{x}$ 
    (from the right if $\overline{x}=a$ from the left if 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $E$ be an extension field of $F$ and $\alpha \in E$. 
    Then $\alpha$ is transcendental over $F$ if and only if $F( 
    \alpha )$ is isomorphic to $F(x)$, the field of fractions of

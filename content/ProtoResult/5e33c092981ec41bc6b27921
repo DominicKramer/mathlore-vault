@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "The limit of a convergent sequence is unique.  Also, if $\lim_{n\to\infty}u_n=u$ then every subsequence of $\{u_n\}$ converges to $u$."
 Metadata:
 . id: "5e33c092981ec41bc6b27921"

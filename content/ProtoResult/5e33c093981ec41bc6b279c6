@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $\mathbf{G}: \R^n\to \R^n$ is continuously 
    differentiable on a bounded open set $S$ and let $K$ be a 
    closed subset of $S$ with zero content. Then $\mathbf{G}(K)$

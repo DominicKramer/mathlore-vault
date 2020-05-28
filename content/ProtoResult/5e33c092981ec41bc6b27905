@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $\mathbf{G}:\R^n\to \R^n$ is regular on a 
    compact Jordan measurable set $S$ Then $\mathbf{G}(S)$ is 
    compact and Jordan measurable."

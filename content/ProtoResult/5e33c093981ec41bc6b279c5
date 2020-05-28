@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $K$ is a bounded set with zero content and 
    $\epsilon$ $\rho>0$ Then there are cubes $C_1$ $C_2$ \dots, 
    $C_r$ with edge lengths $<\rho$ such that $C_j\cap 

@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose that $F'_n$ is continuous on $[a,b]$ for all 
    $n\ge1$ and $\{F'_n\}$ converges uniformly on $[a,b]$ 
    Suppose also that $\{F_n(x_0)\}$ converges for some $x_0$ in

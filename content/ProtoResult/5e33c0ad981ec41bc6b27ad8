@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $C = \langle g(t) \rangle$ be a cyclic code in $R_n$ 
    and suppose that $\omega$ is a primitive $n$th root of unity
    over ${\mathbb Z}_2$. If $s$ consecutive powers of $\omega$ 

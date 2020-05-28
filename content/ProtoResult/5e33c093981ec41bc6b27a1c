@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "In connection with the power series $ $ define $R$ in the 
    extended reals by \begin{equation} \frac{1}{ 
    R}=\limsup_{n\to\infty} |a_n|^{1/n}. \end{equation} In 

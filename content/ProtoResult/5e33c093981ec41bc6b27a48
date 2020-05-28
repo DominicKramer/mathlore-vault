@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "\\ \begin{alist} \item If we regard the vector $$ 
    \mathbf{X}=\left[begin{array} x_1\\ x_2\\\vdots\\ 
    x_nend{array}\right] $$ as an $n\times 1$ matrix, then the 

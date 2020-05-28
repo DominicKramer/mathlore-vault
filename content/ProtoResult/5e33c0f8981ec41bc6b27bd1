@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Suppose $P_i=(x_i,y_i)$, $i=1,2$ are distinct points on an 
    elliptic curve $y^2=x^3+ax+b$, and that $x_1\neq x_2$. Let 
    $L$ be the unique line through $P_1$ and $P_2$. Then $L$ 

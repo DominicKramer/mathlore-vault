@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $d_{\min}$ be the minimum distance for a group code 
    $C$. Then $d_{\min}$ is the minimum of all the nonzero 
    weights of the nonzero codewords in $C$. That is, \[ 

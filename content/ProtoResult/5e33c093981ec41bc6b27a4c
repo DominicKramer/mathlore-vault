@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "The system $ $ has a solution $\mathbf{X}$ for any given 
    $\mathbf{Y}$ if and only if $\mathbf{A}$ is nonsingular. In 
    this case, the solution is unique and is given by 

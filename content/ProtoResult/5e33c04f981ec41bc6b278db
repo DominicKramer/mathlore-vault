@@ -1,4 +1,4 @@
-ProtoResult:
+ProtoTheorem:
 . "Let $f$ and $f_{y}$ be continuous on either $[a,b)\times 
    [c,d]$ or $(a,b]\times [c,d]$ Suppose that the improper 
    integral $$ F(y)=\int_{a}^{b}f(x,y)\,dx $$ converges for 
