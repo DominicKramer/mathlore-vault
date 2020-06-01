@@ -1,0 +1,11 @@
+[e3cf603a9f7242e480cf9a805d2bdd20]
+Resource:
+. type: "Book"
+. name: "Advanced Calculus"
+. author: "Lynn H. Loomis, Shlomo Sternberg"
+. url: "http://people.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf"
+. related: "https://realnotcomplex.com/analysis/calculus/advanced-calculus-by-lynn-h-loomis-and-shlomo-sternberg"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177f9"
+

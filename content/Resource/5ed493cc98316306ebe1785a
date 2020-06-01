@@ -1,0 +1,11 @@
+[caf0e8199d874393b9eec9cc8acac52d]
+Resource:
+. type: "Book"
+. name: "Category Theory for Computing Science"
+. author: "Michael Barr, Charles Wells"
+. url: "http://www.math.mcgill.ca/barr/papers/ctcs.pdf"
+. related: "https://realnotcomplex.com/logic-and-foundations/category-theory/category-theory-for-computing-science-by-michael-barr-and-charles-wells"
+Metadata:
+. tag: "Category Theory"
+. id: "5ed493cc98316306ebe1785a"
+

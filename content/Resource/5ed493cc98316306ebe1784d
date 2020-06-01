@@ -1,0 +1,12 @@
+[b83e369773844321a40d6b5dade37d5a]
+Resource:
+. type: "Book"
+. name: "A Friendly Introduction to Mathematical Logic"
+. author: "Christopher Leary, Lars Kristiansen"
+. homepage: "https://textbooks.opensuny.org/a-friendly-introduction-to-mathematical-logic/"
+. url: "https://textbooks.opensuny.org/download/friendly-intro-2e-update19-pdf/"
+. related: "https://realnotcomplex.com/logic-and-foundations/logic/a-friendly-introduction-to-mathematical-logic-by-christopher-leary-and-lars-kristiansen"
+Metadata:
+. tag: "Logic"
+. id: "5ed493cc98316306ebe1784d"
+

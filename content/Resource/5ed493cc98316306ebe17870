@@ -1,0 +1,12 @@
+[aff2a0cbe60b40c5ba6e7f169e66c92c]
+Resource:
+. type: "Book"
+. name: "The Elements of Statistical Learning: Data Mining, Inference, and Prediction"
+. author: "Trevor Hastie, Robert Tibshirani, Jerome Friedman"
+. homepage: "https://web.stanford.edu/~hastie/ElemStatLearn/"
+. url: "https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/statistical-and-machine-learning/the-elements-of-statistical-learning-data-mining-inference-and-prediction-by-trevor-hastie-and-robert-tibshirani-and-jerome-friedman"
+Metadata:
+. tag: "Statistical & Machine Learning"
+. id: "5ed493cc98316306ebe17870"
+

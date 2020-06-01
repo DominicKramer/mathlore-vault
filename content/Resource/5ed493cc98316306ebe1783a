@@ -1,0 +1,12 @@
+[19578170f4e745b99ed474f4fefa5447]
+Resource:
+. type: "Book"
+. name: "Introduction to Vector Spaces, Vector Algebras, and Vector Geometries"
+. author: "Richard A. Smith"
+. homepage: "https://arxiv.org/abs/1110.3350"
+. url: "https://arxiv.org/pdf/1110.3350.pdf"
+. related: "https://realnotcomplex.com/algebra/linear-algebra/introduction-to-vector-spaces-vector-algebras-and-vector-geometries-by-richard-a-smith"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe1783a"
+

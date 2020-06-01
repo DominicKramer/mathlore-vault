@@ -1,0 +1,12 @@
+[c0e5cc2c89ca45b5a9355370b9d4cc56]
+Resource:
+. type: "Book"
+. name: "Topology Without Tears"
+. author: "Sidney A. Morris"
+. homepage: "http://www.topologywithouttears.net/"
+. url: "http://www.topologywithouttears.net/topbook.pdf"
+. related: "https://realnotcomplex.com/geometry-and-topology/topology/topology-without-tears-by-sidney-a-morris"
+Metadata:
+. tag: "Topology"
+. id: "5ed493cc98316306ebe1789b"
+

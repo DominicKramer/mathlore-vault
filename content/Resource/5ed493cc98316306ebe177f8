@@ -1,0 +1,12 @@
+[caec720b80c1430bb692e11021460de0]
+Resource:
+. type: "Book"
+. name: "Vector Calculus"
+. author: "Michael Corral"
+. homepage: "http://www.mecmath.net/"
+. url: "http://www.mecmath.net/calc3book.pdf"
+. related: "https://realnotcomplex.com/analysis/calculus/vector-calculus-by-michael-corral"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177f8"
+

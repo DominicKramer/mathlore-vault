@@ -1,0 +1,12 @@
+[5eded2eb303a4574bcc21a3cd95bd819]
+Resource:
+. type: "Book"
+. name: "Galois Theory - A First Course"
+. author: "Brent Everitt"
+. homepage: "https://arxiv.org/abs/1804.04657"
+. url: "https://arxiv.org/pdf/1804.04657.pdf"
+. related: "https://realnotcomplex.com/algebra/galois-theory/galois-theory---a-first-course-by-brent-everitt"
+Metadata:
+. tag: "Galois Theory"
+. id: "5ed493cc98316306ebe17848"
+

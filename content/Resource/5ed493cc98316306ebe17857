@@ -1,0 +1,12 @@
+[8450509f8d6649bba0975d31cdfdfdc5]
+Resource:
+. type: "Book"
+. name: "Elementary Set Theory"
+. author: "Richard P. Millspaugh"
+. homepage: "https://commons.und.edu/oers/7/"
+. url: "https://commons.und.edu/cgi/viewcontent.cgi?article=1006&context=oers"
+. related: "https://realnotcomplex.com/logic-and-foundations/set-theory/elementary-set-theory-by-richard-p-millspaugh"
+Metadata:
+. tag: "Set Theory"
+. id: "5ed493cc98316306ebe17857"
+

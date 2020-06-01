@@ -1,0 +1,12 @@
+[562abce2d0fd4228b6ccd390e7cb9c3d]
+Resource:
+. type: "Book"
+. name: "Abstract Algebra: Theory and Applications"
+. author: "Tom Judson"
+. homepage: "http://abstract.ups.edu/"
+. url: "http://abstract.ups.edu/download/aata-20190710.pdf"
+. related: "https://realnotcomplex.com/algebra/abstract-algebra/abstract-algebra-theory-and-applications-by-tom-judson"
+Metadata:
+. tag: "Abstract Algebra"
+. id: "5ed493cc98316306ebe1781e"
+

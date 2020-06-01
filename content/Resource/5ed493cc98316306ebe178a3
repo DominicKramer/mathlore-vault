@@ -1,0 +1,12 @@
+[ccc046dccc984323bcac1ef9b427edb4]
+Resource:
+. type: "Lecture Notes"
+. name: "Introduction to Algebraic Topology"
+. author: "Martin Čadek"
+. homepage: "http://www.math.muni.cz/~cadek/at.html"
+. url: "http://www.math.muni.cz/~cadek/at/at.pdf"
+. related: "https://realnotcomplex.com/geometry-and-topology/algebraic-topology/introduction-to-algebraic-topology-by-martin-čadek"
+Metadata:
+. tag: "Algebraic Topology"
+. id: "5ed493cc98316306ebe178a3"
+

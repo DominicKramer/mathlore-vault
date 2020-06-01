@@ -1,0 +1,12 @@
+[d7170858428b44ddbc62e9b6f936bb8a]
+Resource:
+. type: "Book"
+. name: "Algebraic Geometry: A Start Up Course"
+. author: "A. L. Gorodentsev"
+. homepage: "http://gorod.bogomolov-lab.ru/ps/stud/projgeom/1718/list.html"
+. url: "http://gorod.bogomolov-lab.ru/ps/stud/projgeom/1718/lec_total.pdf"
+. related: "https://realnotcomplex.com/geometry-and-topology/algebraic-geometry/algebraic-geometry-a-start-up-course-by-a-l-gorodentsev"
+Metadata:
+. tag: "Algebraic Geometry"
+. id: "5ed493cc98316306ebe17898"
+

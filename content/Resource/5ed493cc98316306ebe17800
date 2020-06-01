@@ -1,0 +1,11 @@
+[be87853b0e744f86aa2400a0f829aec8]
+Resource:
+. type: "Book"
+. name: "Mathematical Analysis"
+. author: "Elias Zakon"
+. url: "http://www.trillia.com/dA/zakon-analysisI-a4-one.pdf"
+. related: "https://realnotcomplex.com/analysis/real-analysis/mathematical-analysis-by-elias-zakon"
+Metadata:
+. tag: "Real Analysis"
+. id: "5ed493cc98316306ebe17800"
+

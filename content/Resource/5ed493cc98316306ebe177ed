@@ -1,0 +1,12 @@
+[2522898eeba44abcbb363c26b1e1b42f]
+Resource:
+. type: "Book"
+. name: "Active Calculus Multivariable"
+. author: "Matthew Boelkins"
+. homepage: "https://activecalculus.org/ACM.html"
+. url: "https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1019&context=books"
+. related: "https://realnotcomplex.com/analysis/calculus/active-calculus-multivariable-by-matthew-boelkins"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177ed"
+

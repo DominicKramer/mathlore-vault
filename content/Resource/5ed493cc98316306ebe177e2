@@ -1,0 +1,14 @@
+[afe19a16ed254e9584e08d0b273c4ee9]
+Resource:
+. type: "Book"
+. name: "Precalculus: An Investigation of Functions"
+. author: "David Lippman and Melonie Rasmussen"
+. homepage: "http://www.opentextbookstore.com/precalc/"
+. url: "http://www.opentextbookstore.com/precalc/2.1/Precalc.pdf"
+. related:
+  . "https://realnotcomplex.com/basics/precalculus/precalculus-an-investigation-of-functions-by-david-lippman-and-melonie-rasmussen"
+  . "http://www.opentextbookstore.com/precalc/2.1/Precalc%20Solutions.pdf"
+Metadata:
+. tag: "Precalculus"
+. id: "5ed493cc98316306ebe177e2"
+

@@ -1,0 +1,11 @@
+[35b42dbb7a554f4c80e642649d5edd99]
+Resource:
+. type: "Book"
+. name: "Introduction to Calculus I and II"
+. author: "J. H. Heinbockel"
+. homepage: "http://www.math.odu.edu/~jhh/counter10.html"
+. related: "https://realnotcomplex.com/analysis/calculus/introduction-to-calculus-i-and-ii-by-j-h-heinbockel"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177eb"
+

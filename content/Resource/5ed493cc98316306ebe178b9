@@ -1,0 +1,11 @@
+[226e0d6cda334bfdab6443ae579c6ba0]
+Resource:
+. type: "Book"
+. name: "Combinatorics: The Art of Counting"
+. author: "Bruce Sagan"
+. url: "https://users.math.msu.edu/users/bsagan/Books/Aoc/aoc.pdf"
+. related: "https://realnotcomplex.com/discrete-mathematics/combinatorics/combinatorics-the-art-of-counting-by-bruce-sagan"
+Metadata:
+. tag: "Combinatorics"
+. id: "5ed493cc98316306ebe178b9"
+

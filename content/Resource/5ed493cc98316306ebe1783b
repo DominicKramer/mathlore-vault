@@ -1,0 +1,12 @@
+[029e2ffecceb40d396ba556d4c246975]
+Resource:
+. type: "Book"
+. name: "Linear Algebra As an Introduction to Abstract Mathematics"
+. author: "Isaiah Lankham, Bruno Nachtergaele, Anne Schilling"
+. homepage: "https://www.math.ucdavis.edu/~anne/linear_algebra/index.html"
+. url: "https://www.math.ucdavis.edu/~anne/linear_algebra/mat67_course_notes.pdf"
+. related: "https://realnotcomplex.com/algebra/linear-algebra/linear-algebra-as-an-introduction-to-abstract-mathematics-by-isaiah-lankham-and-bruno-nachtergaele-and-anne-schilling"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe1783b"
+

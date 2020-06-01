@@ -1,0 +1,12 @@
+[c0e9c9e8f0014a65b28d0be639e3caab]
+Resource:
+. type: "Book"
+. name: "Topics in Linear and Nonlinear Functional Analysis"
+. author: "Gerald Teschl"
+. homepage: "https://www.mat.univie.ac.at/~gerald/ftp/book-fa/index.html"
+. url: "https://www.mat.univie.ac.at/~gerald/ftp/book-fa/fa.pdf"
+. related: "https://realnotcomplex.com/analysis/functional-analysis/topics-in-linear-and-nonlinear-functional-analysis-by-gerald-teschl"
+Metadata:
+. tag: "Functional Analysis"
+. id: "5ed493cc98316306ebe17811"
+

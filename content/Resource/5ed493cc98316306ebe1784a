@@ -1,0 +1,12 @@
+[0c35736d527249dea5dd9c5d19f82c03]
+Resource:
+. type: "Book"
+. name: "forall x"
+. author: "P. D. Magnus"
+. homepage: "https://www.fecundity.com/logic/"
+. url: "https://www.fecundity.com/codex/forallx.pdf"
+. related: "https://realnotcomplex.com/logic-and-foundations/logic/forall-x-by-p-d-magnus"
+Metadata:
+. tag: "Logic"
+. id: "5ed493cc98316306ebe1784a"
+

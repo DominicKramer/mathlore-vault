@@ -1,0 +1,12 @@
+[4e1b1886cd6e45b480a2434ff4d96931]
+Resource:
+. type: "Book"
+. name: "An Introduction to the Theory of Numbers"
+. author: "Leo Moser"
+. homepage: "http://www.trillia.com/moser-number.html"
+. url: "http://www.trillia.com/dA/moser-number-us-one.pdf"
+. related: "https://realnotcomplex.com/number-theory/number-theory/an-introduction-to-the-theory-of-numbers-by-leo-moser"
+Metadata:
+. tag: "Number Theory"
+. id: "5ed493cc98316306ebe17883"
+

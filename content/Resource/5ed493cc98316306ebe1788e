@@ -1,0 +1,11 @@
+[532eb143065e40d19a7261fd06ff5f2e]
+Resource:
+. type: "Book"
+. name: "Topics in Differential Geometry"
+. author: "Peter W. Michor"
+. url: "https://www.mat.univie.ac.at/~michor/dgbook.pdf"
+. related: "https://realnotcomplex.com/geometry-and-topology/differential-geometry/topics-in-differential-geometry-by-peter-w-michor"
+Metadata:
+. tag: "Differential Geometry"
+. id: "5ed493cc98316306ebe1788e"
+

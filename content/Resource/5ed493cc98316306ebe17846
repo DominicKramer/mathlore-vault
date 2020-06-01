@@ -1,0 +1,12 @@
+[67f97f3b0fc243cdbfd32e74a045f0d7]
+Resource:
+. type: "Book"
+. name: "Fields and Galois Theory"
+. author: "J.S. Milne"
+. homepage: "https://www.jmilne.org/math/CourseNotes/ft.html"
+. url: "https://www.jmilne.org/math/CourseNotes/FT.pdf"
+. related: "https://realnotcomplex.com/algebra/galois-theory/fields-and-galois-theory-by-js-milne"
+Metadata:
+. tag: "Galois Theory"
+. id: "5ed493cc98316306ebe17846"
+

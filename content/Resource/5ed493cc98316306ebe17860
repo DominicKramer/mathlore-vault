@@ -1,0 +1,12 @@
+[c006e0667f454b4f80fe03af50333375]
+Resource:
+. type: "Video"
+. name: "Introduction to Probability"
+. author: "MIT OCW, John Tsitsiklis, Patrick Jaillet"
+. homepage: "https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/"
+. url: "https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6"
+. related: "https://realnotcomplex.com/probability-and-statistics/probability-theory/introduction-to-probability-by-mit-ocw-and-john-tsitsiklis-and-patrick-jaillet"
+Metadata:
+. tag: "Probability Theory"
+. id: "5ed493cc98316306ebe17860"
+

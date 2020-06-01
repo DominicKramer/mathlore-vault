@@ -1,0 +1,12 @@
+[f87bba167ebb44d4b794b7a862eaa4d3]
+Resource:
+. type: "Book"
+. name: "Proofs and Concepts"
+. author: "Dave Witte Morris, Joy Morris"
+. homepage: "http://people.uleth.ca/~dave.morris/books/proofs+concepts.html"
+. url: "http://people.uleth.ca/~dave.morris/books/proofs+concepts.pdf"
+. related: "https://realnotcomplex.com/logic-and-foundations/logic/proofs-and-concepts-by-dave-witte-morris-and-joy-morris"
+Metadata:
+. tag: "Logic"
+. id: "5ed493cc98316306ebe1784b"
+

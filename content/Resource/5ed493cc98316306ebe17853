@@ -1,0 +1,12 @@
+[89f84c1bb84b4adbb78459abee05995a]
+Resource:
+. type: "Book"
+. name: "Sets, relations, functions"
+. author: "Ivo Düntsch, Günther Gediga"
+. homepage: "http://www.cosc.brocku.ca/~duentsch/papers/methprimer1.html"
+. url: "http://www.cosc.brocku.ca/~duentsch/archive/methprimer1.pdf"
+. related: "https://realnotcomplex.com/logic-and-foundations/set-theory/sets-relations-functions-by-ivo-düntsch-and-günther-gediga"
+Metadata:
+. tag: "Set Theory"
+. id: "5ed493cc98316306ebe17853"
+

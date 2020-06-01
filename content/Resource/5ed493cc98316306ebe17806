@@ -1,0 +1,11 @@
+[c968c1a2be6e4399b146fe7744f4c4b5]
+Resource:
+. type: "Book"
+. name: "Modern Real Analysis"
+. author: "William P. Ziemer, Monica Torres"
+. url: "https://www.math.purdue.edu/~torresm/pubs/Modern-real-analysis.pdf"
+. related: "https://realnotcomplex.com/analysis/real-analysis/modern-real-analysis-by-william-p-ziemer-and-monica-torres"
+Metadata:
+. tag: "Real Analysis"
+. id: "5ed493cc98316306ebe17806"
+

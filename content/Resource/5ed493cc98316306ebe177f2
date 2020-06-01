@@ -1,0 +1,12 @@
+[94197999bb8740abbcc666dd87b1cacf]
+Resource:
+. type: "Book"
+. name: "Calculus One"
+. author: "Jim Fowler, Bart Snapp"
+. homepage: "https://mooculus.osu.edu/"
+. url: "https://mooculus.osu.edu/textbook/mooculus.pdf"
+. related: "https://realnotcomplex.com/analysis/calculus/calculus-one-by-jim-fowler-and-bart-snapp"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177f2"
+

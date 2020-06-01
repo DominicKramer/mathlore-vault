@@ -1,0 +1,11 @@
+[62bfc6cf176c4a07a013151d8613bfe2]
+Resource:
+. type: "Book"
+. name: "Calculus I, II, and III"
+. author: "Jerrold E. Marsden, Alan Weinstein"
+. homepage: "http://www.cds.caltech.edu/~marsden/volume/Calculus/"
+. related: "https://realnotcomplex.com/analysis/calculus/calculus-i-ii-and-iii-by-jerrold-e-marsden-and-alan-weinstein"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177f7"
+

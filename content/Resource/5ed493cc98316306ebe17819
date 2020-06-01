@@ -1,0 +1,11 @@
+[9ff5616b65664b259ec9b4d8a435fee9]
+Resource:
+. type: "Book"
+. name: "Analysis, Measure, and Probability: A Visual Introduction"
+. author: "Marcus Pivato"
+. url: "http://euclid.trentu.ca/pivato/Teaching/measure.pdf"
+. related: "https://realnotcomplex.com/analysis/measure-theory/analysis-measure-and-probability-a-visual-introduction-by-marcus-pivato"
+Metadata:
+. tag: "Measure Theory"
+. id: "5ed493cc98316306ebe17819"
+

@@ -1,0 +1,12 @@
+[9b216551b8b744f295a9c344c20c6bfd]
+Resource:
+. type: "Book"
+. name: "The Calculus of Functions of Several Variables"
+. author: "Dan Sloughter"
+. homepage: "http://www.synechism.org/wp/the-calculus-of-functions-of-several-variables/"
+. url: "http://cfsv.synechism.org/cfsv.pdf"
+. related: "https://realnotcomplex.com/analysis/calculus/the-calculus-of-functions-of-several-variables-by-dan-sloughter"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177f3"
+

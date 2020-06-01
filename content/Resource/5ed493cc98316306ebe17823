@@ -1,0 +1,12 @@
+[f3167e1970654cd2aafdeb6ea826e809]
+Resource:
+. type: "Book"
+. name: "Basic Algebra"
+. author: "Anthony W. Knapp"
+. homepage: "http://www.math.stonybrook.edu/~aknapp/download.html"
+. url: "http://www.math.stonybrook.edu/~aknapp/download/b2-alg-coverandinside.pdf"
+. related: "https://realnotcomplex.com/algebra/abstract-algebra/basic-algebra-by-anthony-w-knapp"
+Metadata:
+. tag: "Abstract Algebra"
+. id: "5ed493cc98316306ebe17823"
+

@@ -1,0 +1,12 @@
+[63bd676f02e947de806ac5165543d22f]
+Resource:
+. type: "Book"
+. name: "Axioms and Set Theory"
+. author: "Robert Andre"
+. homepage: "https://www.math.uwaterloo.ca/~randre/"
+. url: "https://www.math.uwaterloo.ca/~randre/1aaset_theory_140613.pdf"
+. related: "https://realnotcomplex.com/logic-and-foundations/set-theory/axioms-and-set-theory-by-robert-andre"
+Metadata:
+. tag: "Set Theory"
+. id: "5ed493cc98316306ebe17854"
+

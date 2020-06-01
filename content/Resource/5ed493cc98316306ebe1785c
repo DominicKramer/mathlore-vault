@@ -1,0 +1,12 @@
+[01680a2a7f21430fb7244c8a19a04fe7]
+Resource:
+. type: "Book"
+. name: "Seven Sketches in Compositionality: An Invitation to Applied Category Theory"
+. author: "Brendan Fong, David I. Spivak"
+. homepage: "http://math.mit.edu/~dspivak/teaching/sp18/"
+. url: "http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf"
+. related: "https://realnotcomplex.com/logic-and-foundations/category-theory/seven-sketches-in-compositionality-an-invitation-to-applied-category-theory-by-brendan-fong-and-david-i-spivak"
+Metadata:
+. tag: "Category Theory"
+. id: "5ed493cc98316306ebe1785c"
+

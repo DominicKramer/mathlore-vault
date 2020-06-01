@@ -1,0 +1,12 @@
+[6c2fb67628664d76b63ed3d3f82e0669]
+Resource:
+. type: "Book"
+. name: "A Problem Course in Mathematical Logic"
+. author: "Stefan Bilaniuk"
+. homepage: "http://euclid.trentu.ca/math/sb/pcml/pcml.html"
+. url: "http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf"
+. related: "https://realnotcomplex.com/logic-and-foundations/logic/a-problem-course-in-mathematical-logic-by-stefan-bilaniuk"
+Metadata:
+. tag: "Logic"
+. id: "5ed493cc98316306ebe1784c"
+

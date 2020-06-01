@@ -1,0 +1,12 @@
+[1676a56fcecb4530bef7fee4bd616611]
+Resource:
+. type: "Book"
+. name: "Basic Real Analysis"
+. author: "Anthony W. Knapp"
+. homepage: "http://www.math.stonybrook.edu/~aknapp/download.html"
+. url: "http://www.math.stonybrook.edu/~aknapp/download/b2-realanal-coverandinside.pdf"
+. related: "https://realnotcomplex.com/analysis/real-analysis/basic-real-analysis-by-anthony-w-knapp"
+Metadata:
+. tag: "Real Analysis"
+. id: "5ed493cc98316306ebe17804"
+

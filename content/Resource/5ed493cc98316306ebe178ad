@@ -1,0 +1,12 @@
+[9e352bdb6cea4dd8beb2c290bcf3396f]
+Resource:
+. type: "Video"
+. name: "Differential Equations"
+. author: "Khan Academy"
+. homepage: "https://www.khanacademy.org/math/differential-equations"
+. url: "https://www.youtube.com/playlist?list=PL96AE8D9C68FEB902"
+. related: "https://realnotcomplex.com/differential-equations/ordinary-differential-equations/differential-equations-by-khan-academy"
+Metadata:
+. tag: "Ordinary Differential Equations"
+. id: "5ed493cc98316306ebe178ad"
+

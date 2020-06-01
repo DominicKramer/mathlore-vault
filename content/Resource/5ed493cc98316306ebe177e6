@@ -1,0 +1,12 @@
+[88e632e928ad4a4086d651e1459a4cee]
+Resource:
+. type: "Book"
+. name: "Geometry Unbound"
+. author: "Kiran S. Kedlaya"
+. homepage: "https://kskedlaya.org/geometryunbound/"
+. url: "https://kskedlaya.org/geometryunbound/gu-060118.pdf"
+. related: "https://realnotcomplex.com/basics/geometry/geometry-unbound-by-kiran-s-kedlaya"
+Metadata:
+. tag: "Geometry"
+. id: "5ed493cc98316306ebe177e6"
+

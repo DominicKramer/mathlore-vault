@@ -1,0 +1,12 @@
+[2683185e90a84f94a09ae9f100b423dd]
+Resource:
+. type: "Book"
+. name: "Analysis of Functions of a Single Variable"
+. author: "Lawrence Baggett"
+. homepage: "https://spot.colorado.edu/~baggett/analysis.html"
+. url: "https://spot.colorado.edu/~baggett/book.pdf"
+. related: "https://realnotcomplex.com/analysis/real-analysis/analysis-of-functions-of-a-single-variable-by-lawrence-baggett"
+Metadata:
+. tag: "Real Analysis"
+. id: "5ed493cc98316306ebe17802"
+

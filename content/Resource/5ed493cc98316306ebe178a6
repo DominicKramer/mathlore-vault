@@ -1,0 +1,12 @@
+[4a85c77f0d454b08bfc51546c77a4406]
+Resource:
+. type: "Book"
+. name: "Ordinary Differential Equations and Dynamical Systems"
+. author: "Gerald Teschl"
+. homepage: "https://www.mat.univie.ac.at/~gerald/ftp/book-ode/"
+. url: "https://www.mat.univie.ac.at/~gerald/ftp/book-ode/ode.pdf"
+. related: "https://realnotcomplex.com/differential-equations/ordinary-differential-equations/ordinary-differential-equations-and-dynamical-systems-by-gerald-teschl"
+Metadata:
+. tag: "Ordinary Differential Equations"
+. id: "5ed493cc98316306ebe178a6"
+

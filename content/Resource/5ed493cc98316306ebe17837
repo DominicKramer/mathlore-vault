@@ -1,0 +1,12 @@
+[b2e68b93dd1e4d6bbade6a383298fb53]
+Resource:
+. type: "Book"
+. name: "An Intuitive Overview of Linear Algebra Fundamentals"
+. author: "Nikola Miljkovic"
+. homepage: "https://github.com/photonlines/Intuitive-Overview-of-Linear-Algebra-Fundamentals"
+. url: "https://github.com/photonlines/Intuitive-Overview-of-Linear-Algebra-Fundamentals/raw/master/PDF/An%20Intuitive%20Overview%20of%20Linear%20Algebra%20Fundamentals.pdf"
+. related: "https://realnotcomplex.com/algebra/linear-algebra/an-intuitive-overview-of-linear-algebra-fundamentals-by-nikola-miljkovic"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe17837"
+

@@ -1,0 +1,12 @@
+[562f6e64e42c46ca8946c233b02acf07]
+Resource:
+. type: "Book"
+. name: "Elementary Calculus"
+. author: "Michael Corral"
+. homepage: "http://www.mecmath.net/calculus/index.html"
+. url: "http://www.mecmath.net/calculus/calc12book-part1.pdf"
+. related: "https://realnotcomplex.com/analysis/calculus/elementary-calculus-by-michael-corral"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177f6"
+

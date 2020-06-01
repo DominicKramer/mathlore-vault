@@ -1,0 +1,12 @@
+[b195fbb4e3fb40efa232262271c6ade2]
+Resource:
+. type: "Book"
+. name: "An Introduction to Measure Theory"
+. author: "Terrence Tao"
+. homepage: "https://terrytao.wordpress.com/books/an-introduction-to-measure-theory/"
+. url: "https://terrytao.files.wordpress.com/2012/12/gsm-126-tao5-measure-book.pdf"
+. related: "https://realnotcomplex.com/analysis/measure-theory/an-introduction-to-measure-theory-by-terrence-tao"
+Metadata:
+. tag: "Measure Theory"
+. id: "5ed493cc98316306ebe17817"
+

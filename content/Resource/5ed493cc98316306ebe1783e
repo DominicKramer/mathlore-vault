@@ -1,0 +1,14 @@
+[d54dd8ab8b1e4a1d9dd2213ac471502c]
+Resource:
+. type: "Lecture Notes"
+. name: "Elementary Linear Algebra"
+. author: "Keith Matthews"
+. homepage: "http://www.numbertheory.org/book/"
+. url: "http://www.numbertheory.org/book/mp103.pdf"
+. related:
+  . "https://realnotcomplex.com/algebra/linear-algebra/elementary-linear-algebra-by-keith-matthews"
+  . "http://www.numbertheory.org/book/sol.pdf"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe1783e"
+

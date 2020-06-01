@@ -1,0 +1,12 @@
+[ae14601840164a018c545623d2b8136c]
+Resource:
+. type: "Book"
+. name: "Olympiad Number Theory Through Challenging Problems"
+. author: "Justin Stevens"
+. homepage: "https://numbertheoryguy.com/publications/olympiad-number-theory-book/"
+. url: "https://s3.amazonaws.com/aops-cdn.artofproblemsolving.com/resources/articles/olympiad-number-theory.pdf"
+. related: "https://realnotcomplex.com/number-theory/number-theory/olympiad-number-theory-through-challenging-problems-by-justin-stevens"
+Metadata:
+. tag: "Number Theory"
+. id: "5ed493cc98316306ebe17882"
+

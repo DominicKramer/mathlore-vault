@@ -1,0 +1,12 @@
+[eae961f512ad47f59e3134f71c7b08d4]
+Resource:
+. type: "Book"
+. name: "A First Course in Complex Analysis"
+. author: "Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka"
+. homepage: "http://math.sfsu.edu/beck/complex.html"
+. url: "http://math.sfsu.edu/beck/papers/complex.pdf"
+. related: "https://realnotcomplex.com/analysis/complex-analysis/a-first-course-in-complex-analysis-by-matthias-beck-and-gerald-marchesi-and-dennis-pixton-and-lucas-sabalka"
+Metadata:
+. tag: "Complex Analysis"
+. id: "5ed493cc98316306ebe1780a"
+

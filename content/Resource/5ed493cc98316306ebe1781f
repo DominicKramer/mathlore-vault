@@ -1,0 +1,11 @@
+[430a960d157042089e47debe596b1696]
+Resource:
+. type: "Book"
+. name: "Introduction to Modern Algebra"
+. author: "David Joyce"
+. url: "https://mathcs.clarku.edu/~djoyce/ma225/algebra.pdf"
+. related: "https://realnotcomplex.com/algebra/abstract-algebra/introduction-to-modern-algebra-by-david-joyce"
+Metadata:
+. tag: "Abstract Algebra"
+. id: "5ed493cc98316306ebe1781f"
+

@@ -1,0 +1,12 @@
+[2419affb22b546819a3fd01d63c3dfe6]
+Resource:
+. type: "Book"
+. name: "Markov Chains and Mixing Times"
+. author: "David A. Levin, Yuval Peres, Elizabeth L. Wilmer"
+. homepage: "https://pages.uoregon.edu/dlevin/MARKOV/"
+. url: "https://pages.uoregon.edu/dlevin/MARKOV/mcmt2e.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/stochastic-processes/markov-chains-and-mixing-times-by-david-a-levin-and-yuval-peres-and-elizabeth-l-wilmer"
+Metadata:
+. tag: "Stochastic Processes"
+. id: "5ed493cc98316306ebe17877"
+

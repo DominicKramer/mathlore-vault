@@ -1,0 +1,12 @@
+[63da6cfd4e624ebd9f0ea5407290adde]
+Resource:
+. type: "Book"
+. name: "Active Calculus"
+. author: "Matthew Boelkins"
+. homepage: "https://activecalculus.org/ACS.html"
+. url: "https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1018&context=books"
+. related: "https://realnotcomplex.com/analysis/calculus/active-calculus-by-matthew-boelkins"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177ec"
+

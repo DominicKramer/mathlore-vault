@@ -1,0 +1,11 @@
+[39041bf20db74540a3b8b47e8a8efbf8]
+Resource:
+. type: "Book"
+. name: "A Course In Algebraic Number Theory"
+. author: "Robert B. Ash"
+. homepage: "https://faculty.math.illinois.edu/~r-ash/ANT.html"
+. related: "https://realnotcomplex.com/number-theory/algebraic-number-theory/a-course-in-algebraic-number-theory-by-robert-b-ash"
+Metadata:
+. tag: "Algebraic Number Theory"
+. id: "5ed493cc98316306ebe17887"
+

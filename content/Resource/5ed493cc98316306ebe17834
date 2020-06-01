@@ -1,0 +1,12 @@
+[ea50028533844b5f98c68d1644ab29de]
+Resource:
+. type: "Book"
+. name: "Linear Algebra with Applications"
+. author: "W. Keith Nicholson"
+. homepage: "https://lyryx.com/linear-algebra-applications/"
+. url: "https://lila1.lyryx.com/textbooks/OPEN_LAWA_1/marketing/Nicholson-OpenLAWA-2019A.pdf"
+. related: "https://realnotcomplex.com/algebra/linear-algebra/linear-algebra-with-applications-by-w-keith-nicholson"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe17834"
+

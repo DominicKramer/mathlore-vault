@@ -1,0 +1,12 @@
+[22cb91f80c704fc4b6aabc1ba48ebfb7]
+Resource:
+. type: "Book"
+. name: "Combinatorics Through Guided Discovery"
+. author: "Kenneth P. Bogart"
+. homepage: "https://bogart.openmathbooks.org/"
+. url: "https://bogart.openmathbooks.org/pdf/ctgd.pdf"
+. related: "https://realnotcomplex.com/discrete-mathematics/combinatorics/combinatorics-through-guided-discovery-by-kenneth-p-bogart"
+Metadata:
+. tag: "Combinatorics"
+. id: "5ed493cc98316306ebe178b6"
+

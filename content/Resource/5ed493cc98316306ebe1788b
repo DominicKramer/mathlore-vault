@@ -1,0 +1,14 @@
+[9118ea020ccd4044b0b7ea23bc8d64ee]
+Resource:
+. type: "Lecture Notes"
+. name: "Analytic Number Theory - Lecture Notes Based on Davenport's Book"
+. author: "Andreas Strömbergsson"
+. homepage: "http://www2.math.uu.se/~astrombe/analtalt08/analtalt08.html"
+. url: "https://faculty.math.illinois.edu/~hildebr/ant/main.pdf"
+. related:
+  . "https://realnotcomplex.com/number-theory/analytic-number-theory/analytic-number-theory---lecture-notes-based-on-davenport's-book-by-andreas-strömbergsson"
+  . "http://www2.math.uu.se/~astrombe/analtalt08/www_solutions.pdf"
+Metadata:
+. tag: "Analytic Number Theory"
+. id: "5ed493cc98316306ebe1788b"
+

@@ -1,0 +1,12 @@
+[bec204b75a624fe6a091029c9bb218c9]
+Resource:
+. type: "Book"
+. name: "Elementary Number Theory: Primes, Congruences, and Secrets"
+. author: "William Stein"
+. homepage: "https://wstein.org/ent/"
+. url: "https://wstein.org/ent/ent.pdf"
+. related: "https://realnotcomplex.com/number-theory/number-theory/elementary-number-theory-primes-congruences-and-secrets-by-william-stein"
+Metadata:
+. tag: "Number Theory"
+. id: "5ed493cc98316306ebe1787e"
+

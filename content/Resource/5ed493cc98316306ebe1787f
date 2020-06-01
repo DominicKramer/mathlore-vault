@@ -1,0 +1,12 @@
+[23fbd85b2a3e49978f3e26f682ae8835]
+Resource:
+. type: "Book"
+. name: "Elementary Number Theory"
+. author: "W. Edwin Clark"
+. homepage: "http://shell.cas.usf.edu/~wclark/#ELEMENTARY_NUMBER_THEORY"
+. url: "http://shell.cas.usf.edu/~wclark/elem_num_th_book.pdf"
+. related: "https://realnotcomplex.com/number-theory/number-theory/elementary-number-theory-by-w-edwin-clark"
+Metadata:
+. tag: "Number Theory"
+. id: "5ed493cc98316306ebe1787f"
+

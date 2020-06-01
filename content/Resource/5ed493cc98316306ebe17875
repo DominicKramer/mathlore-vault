@@ -1,0 +1,11 @@
+[ec4b427d751746d0b96eace7d50a7fc0]
+Resource:
+. type: "Book"
+. name: "Applied Stochastic Processes in Science and Engineering"
+. author: "Matt Scott"
+. url: "https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/stochastic-processes/applied-stochastic-processes-in-science-and-engineering-by-matt-scott"
+Metadata:
+. tag: "Stochastic Processes"
+. id: "5ed493cc98316306ebe17875"
+

@@ -1,0 +1,11 @@
+[56ed4545b7a743c8a0147ef73c2311bd]
+Resource:
+. type: "Lecture Notes"
+. name: "Statistical Learning Theory"
+. author: "Percy Liang"
+. url: "https://web.stanford.edu/class/cs229t/notes.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/statistical-and-machine-learning/statistical-learning-theory-by-percy-liang"
+Metadata:
+. tag: "Statistical & Machine Learning"
+. id: "5ed493cc98316306ebe17873"
+

@@ -1,0 +1,12 @@
+[044f507e15c54e8e94ce2b892a41e083]
+Resource:
+. type: "Book"
+. name: "Boxes and Diamonds"
+. author: "Open Logic Project"
+. homepage: "https://bd.openlogicproject.org/"
+. url: "https://bd.openlogicproject.org/bd-screen.pdf"
+. related: "https://realnotcomplex.com/logic-and-foundations/logic/boxes-and-diamonds-by-open-logic-project"
+Metadata:
+. tag: "Logic"
+. id: "5ed493cc98316306ebe17850"
+

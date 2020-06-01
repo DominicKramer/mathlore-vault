@@ -1,0 +1,12 @@
+[1042791c9a6947fdb2a55a6b06a1d4c1]
+Resource:
+. type: "Book"
+. name: "Advanced Real Analysis"
+. author: "Anthony W. Knapp"
+. homepage: "http://www.math.stonybrook.edu/~aknapp/download.html"
+. url: "http://www.math.stonybrook.edu/~aknapp/download/a2-1-realanal-coverandinside.pdf"
+. related: "https://realnotcomplex.com/analysis/real-analysis/advanced-real-analysis-by-anthony-w-knapp"
+Metadata:
+. tag: "Real Analysis"
+. id: "5ed493cc98316306ebe17805"
+

@@ -1,0 +1,12 @@
+[37f9fdb5c21d40ae9323bc4701c7b982]
+Resource:
+. type: "Book"
+. name: "Yet Another Introductory Number Theory Textbook"
+. author: "Jonathan A. Poritz"
+. homepage: "https://www.poritz.net/jonathan/share/yaintt/"
+. url: "https://www.poritz.net/jonathan/share/yaintt.pdf"
+. related: "https://realnotcomplex.com/number-theory/number-theory/yet-another-introductory-number-theory-textbook-by-jonathan-a-poritz"
+Metadata:
+. tag: "Number Theory"
+. id: "5ed493cc98316306ebe17881"
+

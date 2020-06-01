@@ -1,0 +1,11 @@
+[818f4e027895499da11918777acc5d01]
+Resource:
+. type: "Book"
+. name: "Notes on Discrete Mathematics"
+. author: "James Aspnes"
+. url: "https://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf"
+. related: "https://realnotcomplex.com/discrete-mathematics/discrete-mathematics/notes-on-discrete-mathematics-by-james-aspnes"
+Metadata:
+. tag: "Discrete Mathematics"
+. id: "5ed493cc98316306ebe178b3"
+

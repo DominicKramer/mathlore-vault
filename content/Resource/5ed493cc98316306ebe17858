@@ -1,0 +1,11 @@
+[338b7f6365b84a6aaaad5732b1a6ca92]
+Resource:
+. type: "Book"
+. name: "Introduction to Modern Set Theory"
+. author: "Judith Roitman"
+. url: "http://www.people.vcu.edu/~clarson/roitman-set-theory.pdf"
+. related: "https://realnotcomplex.com/logic-and-foundations/set-theory/introduction-to-modern-set-theory-by-judith-roitman"
+Metadata:
+. tag: "Set Theory"
+. id: "5ed493cc98316306ebe17858"
+

@@ -1,0 +1,12 @@
+[b4a3af1dd6044cefbd9b7ab37e949ade]
+Resource:
+. type: "Book"
+. name: "Elementary Algebra"
+. author: "Open Stax"
+. homepage: "https://openstax.org/details/books/elementary-algebra-2e"
+. url: "https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/ElementaryAlgebra2e-WEB_1.pdf"
+. related: "https://realnotcomplex.com/basics/algebra/elementary-algebra-by-open-stax"
+Metadata:
+. tag: "Algebra"
+. id: "5ed493cc98316306ebe177d1"
+

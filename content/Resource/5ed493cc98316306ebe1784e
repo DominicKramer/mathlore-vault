@@ -1,0 +1,12 @@
+[b578238821b94067975815bf10de0b58]
+Resource:
+. type: "Book"
+. name: "Sets, Logic, Computation"
+. author: "Open Logic Project"
+. homepage: "https://slc.openlogicproject.org/"
+. url: "https://slc.openlogicproject.org/slc-screen.pdf"
+. related: "https://realnotcomplex.com/logic-and-foundations/logic/sets-logic-computation-by-open-logic-project"
+Metadata:
+. tag: "Logic"
+. id: "5ed493cc98316306ebe1784e"
+

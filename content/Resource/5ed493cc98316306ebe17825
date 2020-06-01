@@ -1,0 +1,12 @@
+[7b7b668894d844c88cddb371b4e978c6]
+Resource:
+. type: "Book"
+. name: "Abstract Algebra"
+. author: "Paul Garrett"
+. homepage: "http://www-users.math.umn.edu/~garrett/m/algebra/"
+. url: "http://www-users.math.umn.edu/~garrett/m/algebra/Whole_with_TOC.pdf"
+. related: "https://realnotcomplex.com/algebra/abstract-algebra/abstract-algebra-by-paul-garrett"
+Metadata:
+. tag: "Abstract Algebra"
+. id: "5ed493cc98316306ebe17825"
+

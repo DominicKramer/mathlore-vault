@@ -1,0 +1,12 @@
+[e125ca0467dd493a939044a2b1f36e3b]
+Resource:
+. type: "Lecture Notes"
+. name: "Stochastic Processes"
+. author: "Amir Dembo, Kevin Ross"
+. homepage: "http://statweb.stanford.edu/~adembo/math-136/"
+. url: "http://statweb.stanford.edu/~adembo/math-136/nnotes.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/stochastic-processes/stochastic-processes-by-amir-dembo-and-kevin-ross"
+Metadata:
+. tag: "Stochastic Processes"
+. id: "5ed493cc98316306ebe1787b"
+

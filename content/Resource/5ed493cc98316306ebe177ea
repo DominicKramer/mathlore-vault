@@ -1,0 +1,12 @@
+[e4d8775063d1411ab49c5881fad33c8e]
+Resource:
+. type: "Book"
+. name: "Single and Multivariable Calculus"
+. author: "David Guichard, Neal Koblitz"
+. homepage: "https://www.whitman.edu/mathematics/multivariable/index.cgi"
+. url: "https://www.whitman.edu/mathematics/multivariable/multivariable.pdf"
+. related: "https://realnotcomplex.com/analysis/calculus/single-and-multivariable-calculus-by-david-guichard-and-neal-koblitz"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177ea"
+

@@ -1,0 +1,11 @@
+[73c41cb33662402398d86b6664a7ab7c]
+Resource:
+. type: "Book"
+. name: "An Introduction to Functional Analysis"
+. author: "Laurent W. Marcoux"
+. url: "https://www.math.uwaterloo.ca/~lwmarcou/notes/pmath453.pdf"
+. related: "https://realnotcomplex.com/analysis/functional-analysis/an-introduction-to-functional-analysis-by-laurent-w-marcoux"
+Metadata:
+. tag: "Functional Analysis"
+. id: "5ed493cc98316306ebe1780f"
+

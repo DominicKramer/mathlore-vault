@@ -1,0 +1,12 @@
+[f7dae9c3fb444833b50e056422009414]
+Resource:
+. type: "Other"
+. name: "Analytic Combinatorics"
+. author: "Philippe Flajolet, Robert Sedgewick"
+. homepage: "http://algo.inria.fr/flajolet/Publications/AnaCombi/anacombi.html"
+. url: "http://algo.inria.fr/flajolet/Publications/AnaCombi/book.pd"
+. related: "https://realnotcomplex.com/discrete-mathematics/combinatorics/analytic-combinatorics-by-philippe-flajolet-and-robert-sedgewick"
+Metadata:
+. tag: "Combinatorics"
+. id: "5ed493cc98316306ebe178b8"
+

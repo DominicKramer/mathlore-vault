@@ -1,0 +1,11 @@
+[621bcde73e2046bda505e957c8826789]
+Resource:
+. type: "Book"
+. name: "Foundations of Algebraic Geometry"
+. author: "Ravi Vakil"
+. url: "http://math.stanford.edu/~vakil/216blog/FOAGnov1817public.pdf"
+. related: "https://realnotcomplex.com/geometry-and-topology/algebraic-geometry/foundations-of-algebraic-geometry-by-ravi-vakil"
+Metadata:
+. tag: "Algebraic Geometry"
+. id: "5ed493cc98316306ebe17894"
+

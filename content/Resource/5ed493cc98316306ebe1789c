@@ -1,0 +1,12 @@
+[74826eb9703443d7a6120cce7e28b62b]
+Resource:
+. type: "Book"
+. name: "Topology And Groupoids"
+. author: "Ronald Brown"
+. homepage: "https://groupoids.org.uk/orderbook.html"
+. url: "https://groupoids.org.uk/pdffiles/topgrpds-e.pdf"
+. related: "https://realnotcomplex.com/geometry-and-topology/topology/topology-and-groupoids-by-ronald-brown"
+Metadata:
+. tag: "Topology"
+. id: "5ed493cc98316306ebe1789c"
+

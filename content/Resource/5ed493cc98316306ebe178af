@@ -1,0 +1,12 @@
+[570e1b402d074535bf4f1d1127f1e026]
+Resource:
+. type: "Book"
+. name: "An Introduction to Partial Differential Equations"
+. author: "Per Kristen Jakobsen"
+. homepage: "https://arxiv.org/abs/1901.03022"
+. url: "https://arxiv.org/pdf/1901.03022.pdf"
+. related: "https://realnotcomplex.com/differential-equations/partial-differential-equations/an-introduction-to-partial-differential-equations-by-per-kristen-jakobsen"
+Metadata:
+. tag: "Partial Differential Equations"
+. id: "5ed493cc98316306ebe178af"
+

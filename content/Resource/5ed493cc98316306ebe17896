@@ -1,0 +1,12 @@
+[787806d9c0214ddea68e3b7da7c9d10c]
+Resource:
+. type: "Book"
+. name: "Advanced Algebra"
+. author: "Anthony W. Knapp"
+. homepage: "http://www.math.stonybrook.edu/~aknapp/download.html"
+. url: "http://www.math.stonybrook.edu/~aknapp/download/a2-alg-coverandinside.pdf"
+. related: "https://realnotcomplex.com/geometry-and-topology/algebraic-geometry/advanced-algebra-by-anthony-w-knapp"
+Metadata:
+. tag: "Algebraic Geometry"
+. id: "5ed493cc98316306ebe17896"
+

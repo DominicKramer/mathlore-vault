@@ -1,0 +1,11 @@
+[31c6f18d900b49868df385ca737eb503]
+Resource:
+. type: "Book"
+. name: "Convergence of Stochastic Processes"
+. author: "David Pollard"
+. url: "http://www.stat.yale.edu/~pollard/Books/1984book/pollard1984.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/stochastic-processes/convergence-of-stochastic-processes-by-david-pollard"
+Metadata:
+. tag: "Stochastic Processes"
+. id: "5ed493cc98316306ebe17878"
+

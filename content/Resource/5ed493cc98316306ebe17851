@@ -1,0 +1,12 @@
+[c41f60803d0d428099aa366f66157dee]
+Resource:
+. type: "Book"
+. name: "Logic in Action"
+. author: "Johan van Benthem, Hans van Ditmarsch, Jan van Eijck, Jan Jaspars"
+. homepage: "http://www.logicinaction.org/"
+. url: "http://www.logicinaction.org/docs/lia.pdf"
+. related: "https://realnotcomplex.com/logic-and-foundations/logic/logic-in-action-by-johan-van-benthem-and-hans-van-ditmarsch-and-jan-van-eijck-and-jan-jaspars"
+Metadata:
+. tag: "Logic"
+. id: "5ed493cc98316306ebe17851"
+

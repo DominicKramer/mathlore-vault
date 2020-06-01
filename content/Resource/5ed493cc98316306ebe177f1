@@ -1,0 +1,12 @@
+[ad162de735ab4e4d973b5941bde23ba0]
+Resource:
+. type: "Book"
+. name: "Yet Another Calculus Text"
+. author: "Dan Sloughter"
+. homepage: "http://www.synechism.org/wp/yet-another-calculus-text/"
+. url: "http://yact.synechism.org/yact-05102007.pdf"
+. related: "https://realnotcomplex.com/analysis/calculus/yet-another-calculus-text-by-dan-sloughter"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177f1"
+

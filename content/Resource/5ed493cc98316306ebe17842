@@ -1,0 +1,12 @@
+[bc94a3ecbc554e6faf92cf5003aba802]
+Resource:
+. type: "Book"
+. name: "Group Theory"
+. author: "J.S. Milne"
+. homepage: "https://www.jmilne.org/math/CourseNotes/gt.html"
+. url: "https://www.jmilne.org/math/CourseNotes/GT.pdf"
+. related: "https://realnotcomplex.com/algebra/group-theory/group-theory-by-js-milne"
+Metadata:
+. tag: "Group Theory"
+. id: "5ed493cc98316306ebe17842"
+

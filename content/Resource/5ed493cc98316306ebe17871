@@ -1,0 +1,12 @@
+[0c87ea5b175e41f18ab5468f270d0cd6]
+Resource:
+. type: "Book"
+. name: "Mathematics for Machine Learning"
+. author: "Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong"
+. homepage: "https://mml-book.com"
+. url: "https://mml-book.github.io/book/mml-book.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/statistical-and-machine-learning/mathematics-for-machine-learning-by-marc-peter-deisenroth-and-a-aldo-faisal-and-cheng-soon-ong"
+Metadata:
+. tag: "Statistical & Machine Learning"
+. id: "5ed493cc98316306ebe17871"
+

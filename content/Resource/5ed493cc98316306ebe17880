@@ -1,0 +1,12 @@
+[4439c87305744e30a7115543b24fb49d]
+Resource:
+. type: "Book"
+. name: "A Computational Introduction to Number Theory and Algebra"
+. author: "Victor Shoup"
+. homepage: "https://shoup.net/ntb/"
+. url: "https://shoup.net/ntb/ntb-v2.pdf"
+. related: "https://realnotcomplex.com/number-theory/number-theory/a-computational-introduction-to-number-theory-and-algebra-by-victor-shoup"
+Metadata:
+. tag: "Number Theory"
+. id: "5ed493cc98316306ebe17880"
+

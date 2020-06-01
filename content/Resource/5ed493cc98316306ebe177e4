@@ -1,0 +1,12 @@
+[a544074e505844afb04bee4f49dacb93]
+Resource:
+. type: "Book"
+. name: "Essential Precalculus"
+. author: "Sean Fitzpatrick"
+. homepage: "http://www.apexcalculus.com/other-texts"
+. url: "http://www.cs.uleth.ca/~fitzpat/Textbooks/Essential_Precalculus.pdf"
+. related: "https://realnotcomplex.com/basics/precalculus/essential-precalculus-by-sean-fitzpatrick"
+Metadata:
+. tag: "Precalculus"
+. id: "5ed493cc98316306ebe177e4"
+

@@ -1,0 +1,12 @@
+[28a86d0f4fa94ad1ae8eba4c3e5b8264]
+Resource:
+. type: "Book"
+. name: "Elementary Topology. Textbook in Problems"
+. author: "O. Ya. Viro, O. A. Ivanov, V. M. Kharlamov, N. Y. Netsvetaev"
+. homepage: "http://www.pdmi.ras.ru/~olegviro/topoman/index.html"
+. url: "http://www.pdmi.ras.ru/~olegviro/topoman/eng-book-nopfs.pdf"
+. related: "https://realnotcomplex.com/geometry-and-topology/topology/elementary-topology-textbook-in-problems-by-o-ya-viro-and-o-a-ivanov-and-v-m-kharlamov-and-n-y-netsvetaev"
+Metadata:
+. tag: "Topology"
+. id: "5ed493cc98316306ebe17899"
+

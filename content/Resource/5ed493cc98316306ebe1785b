@@ -1,0 +1,11 @@
+[dafb2a4990414480b29763084781c057]
+Resource:
+. type: "Book"
+. name: "Category Theory in Context"
+. author: "Emily Riehl"
+. url: "http://www.math.jhu.edu/~eriehl/context.pdf"
+. related: "https://realnotcomplex.com/logic-and-foundations/category-theory/category-theory-in-context-by-emily-riehl"
+Metadata:
+. tag: "Category Theory"
+. id: "5ed493cc98316306ebe1785b"
+

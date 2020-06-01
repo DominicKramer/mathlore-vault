@@ -1,0 +1,11 @@
+[b89692bb4db044158e78e29fda7ef7b3]
+Resource:
+. type: "Book"
+. name: "Differential Geometry and Lie Groups, I & II"
+. author: "Jean Gallier, Jocelyn Quaintance"
+. homepage: "https://www.cis.upenn.edu/~jean/gbooks/manif.html"
+. related: "https://realnotcomplex.com/geometry-and-topology/differential-geometry/differential-geometry-and-lie-groups-i-&-ii-by-jean-gallier-and-jocelyn-quaintance"
+Metadata:
+. tag: "Differential Geometry"
+. id: "5ed493cc98316306ebe1788d"
+

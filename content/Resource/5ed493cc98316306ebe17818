@@ -1,0 +1,11 @@
+[ecc9fb0f941d470294559182b484e9b4]
+Resource:
+. type: "Book"
+. name: "Measure, Integration & Real Analysis"
+. author: "Sheldon Axler"
+. url: "https://link.springer.com/content/pdf/10.1007%2F978-3-030-33143-6.pdf"
+. related: "https://realnotcomplex.com/analysis/measure-theory/measure-integration-&-real-analysis-by-sheldon-axler"
+Metadata:
+. tag: "Measure Theory"
+. id: "5ed493cc98316306ebe17818"
+

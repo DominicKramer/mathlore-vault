@@ -1,0 +1,11 @@
+[972db605bed740b7bf4b570f3a44b02f]
+Resource:
+. type: "Book"
+. name: "Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning"
+. author: "Jean Gallier, Jocelyn Quaintance"
+. homepage: "https://www.cis.upenn.edu/~jean/gbooks/geomath.html"
+. related: "https://realnotcomplex.com/probability-and-statistics/statistical-and-machine-learning/algebra-topology-differential-calculus-and-optimization-theory-for-computer-science-and-machine-learning-by-jean-gallier-and-jocelyn-quaintance"
+Metadata:
+. tag: "Statistical & Machine Learning"
+. id: "5ed493cc98316306ebe17872"
+

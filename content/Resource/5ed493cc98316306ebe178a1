@@ -1,0 +1,11 @@
+[6d2b0ab2730e455596c15ab579b9f622]
+Resource:
+. type: "Book"
+. name: "A Concise Course in Algebraic Topology"
+. author: "J. P. May"
+. url: "https://www.math.uchicago.edu/~may/CONCISE/ConciseRevised.pdf"
+. related: "https://realnotcomplex.com/geometry-and-topology/algebraic-topology/a-concise-course-in-algebraic-topology-by-j-p-may"
+Metadata:
+. tag: "Algebraic Topology"
+. id: "5ed493cc98316306ebe178a1"
+

@@ -1,0 +1,12 @@
+[0bbd8f26dd8748f48424387cccab8a92]
+Resource:
+. type: "Book"
+. name: "A Gentle Introduction to Abstract Algebra"
+. author: "B. A. Sethuraman"
+. homepage: "http://www.csun.edu/~asethura/GIAAFILES/GIAAMain.html"
+. url: "http://www.csun.edu/%7Easethura/GIAAFILES/GIAAV2.01-B/GIAAV2.01-B.pdf"
+. related: "https://realnotcomplex.com/algebra/abstract-algebra/a-gentle-introduction-to-abstract-algebra-by-b-a-sethuraman"
+Metadata:
+. tag: "Abstract Algebra"
+. id: "5ed493cc98316306ebe1782b"
+

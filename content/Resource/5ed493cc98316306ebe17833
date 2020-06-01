@@ -1,0 +1,12 @@
+[18ed1b71f6224b45b842827f32b71194]
+Resource:
+. type: "Book"
+. name: "Linear Algebra Done Wrong"
+. author: "Sergei Treil"
+. homepage: "https://sites.google.com/a/brown.edu/sergei-treil-homepage/linear-algebra-done-wrong"
+. url: "https://www.math.brown.edu/~treil/papers/LADW/LADW_2017-09-04.pdf"
+. related: "https://realnotcomplex.com/algebra/linear-algebra/linear-algebra-done-wrong-by-sergei-treil"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe17833"
+

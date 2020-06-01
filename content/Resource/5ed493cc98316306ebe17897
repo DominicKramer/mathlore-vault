@@ -1,0 +1,11 @@
+[f52ec52e6b9547f390cae2d7c2b146be]
+Resource:
+. type: "Book"
+. name: "Algebraic Curves: An Introduction to Algebraic Geometry"
+. author: "William Fulton"
+. url: "http://www.math.lsa.umich.edu/~wfulton/CurveBook.pdf"
+. related: "https://realnotcomplex.com/geometry-and-topology/algebraic-geometry/algebraic-curves-an-introduction-to-algebraic-geometry-by-william-fulton"
+Metadata:
+. tag: "Algebraic Geometry"
+. id: "5ed493cc98316306ebe17897"
+

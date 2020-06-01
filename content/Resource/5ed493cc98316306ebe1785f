@@ -1,0 +1,14 @@
+[be41d0a24de84ff582ceb7fb62e18cbf]
+Resource:
+. type: "Book"
+. name: "Basic Probability Theory"
+. author: "Robert B. Ash"
+. homepage: "https://faculty.math.illinois.edu/~r-ash/BPT.html"
+. url: "https://faculty.math.illinois.edu/~r-ash/BPT/BPT.pdf"
+. related:
+  . "https://realnotcomplex.com/probability-and-statistics/probability-theory/basic-probability-theory-by-robert-b-ash"
+  . "https://faculty.math.illinois.edu/~r-ash/BPT/BPTSolMan.pdf"
+Metadata:
+. tag: "Probability Theory"
+. id: "5ed493cc98316306ebe1785f"
+

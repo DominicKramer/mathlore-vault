@@ -1,0 +1,11 @@
+[b1f1c4153bca43968df1016ed286156e]
+Resource:
+. type: "Book"
+. name: "A Crash Course on the Lebesgue Integral and Measure Theory"
+. author: "Steve Cheng"
+. url: "https://www.gold-saucer.org/math/lebesgue/lebesgue-new.pdf"
+. related: "https://realnotcomplex.com/analysis/measure-theory/a-crash-course-on-the-lebesgue-integral-and-measure-theory-by-steve-cheng"
+Metadata:
+. tag: "Measure Theory"
+. id: "5ed493cc98316306ebe17815"
+

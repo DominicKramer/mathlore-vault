@@ -1,0 +1,12 @@
+[d711be7e9cd44498b1b863291cd47322]
+Resource:
+. type: "Book"
+. name: "generatingfunctionology"
+. author: "Herbert S. Wilf"
+. homepage: "https://www.math.upenn.edu/~wilf/DownldGF.html"
+. url: "https://www.math.upenn.edu/~wilf/gfology2.pdf"
+. related: "https://realnotcomplex.com/discrete-mathematics/combinatorics/generatingfunctionology-by-herbert-s-wilf"
+Metadata:
+. tag: "Combinatorics"
+. id: "5ed493cc98316306ebe178b7"
+

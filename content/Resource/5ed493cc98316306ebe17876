@@ -1,0 +1,11 @@
+[73e65f7f801347b08eacc2bd231314c9]
+Resource:
+. type: "Book"
+. name: "An Introduction to Stochastic Processes in Continuous Time"
+. author: "Flora Spieksma"
+. url: "http://pub.math.leidenuniv.nl/~spieksmafm/colleges/sp-master/sp-hvz1.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/stochastic-processes/an-introduction-to-stochastic-processes-in-continuous-time-by-flora-spieksma"
+Metadata:
+. tag: "Stochastic Processes"
+. id: "5ed493cc98316306ebe17876"
+

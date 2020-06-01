@@ -1,0 +1,12 @@
+[8a81c6935e364fc5857b830fd4b0eed2]
+Resource:
+. type: "Book"
+. name: "Set Theory: An Open Introduction"
+. author: "Open Logic Project"
+. homepage: "http://builds.openlogicproject.org/courses/set-theory/"
+. url: "http://builds.openlogicproject.org/courses/set-theory/settheory-screen.pdf"
+. related: "https://realnotcomplex.com/logic-and-foundations/set-theory/set-theory-an-open-introduction-by-open-logic-project"
+Metadata:
+. tag: "Set Theory"
+. id: "5ed493cc98316306ebe17856"
+

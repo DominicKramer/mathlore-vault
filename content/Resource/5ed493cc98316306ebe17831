@@ -1,0 +1,12 @@
+[b77adf9ed3f4438ab8068a05d012d41e]
+Resource:
+. type: "Book"
+. name: "Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares"
+. author: "Stephen Boyd, Lieven Vandenberghe"
+. homepage: "https://web.stanford.edu/~boyd/vmls/"
+. url: "https://web.stanford.edu/~boyd/vmls/vmls.pdf"
+. related: "https://realnotcomplex.com/algebra/linear-algebra/introduction-to-applied-linear-algebra-–-vectors-matrices-and-least-squares-by-stephen-boyd-and-lieven-vandenberghe"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe17831"
+

@@ -1,0 +1,12 @@
+[fc3016921c4b497884da4a7e580ec1aa]
+Resource:
+. type: "Book"
+. name: "Incompleteness and Computability"
+. author: "Open Logic Project"
+. homepage: "https://ic.openlogicproject.org/"
+. url: "https://ic.openlogicproject.org/ic-screen.pdf"
+. related: "https://realnotcomplex.com/logic-and-foundations/logic/incompleteness-and-computability-by-open-logic-project"
+Metadata:
+. tag: "Logic"
+. id: "5ed493cc98316306ebe1784f"
+

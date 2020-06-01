@@ -1,0 +1,11 @@
+[7577a1c446fe4131bfeaa65faead20af]
+Resource:
+. type: "Book"
+. name: "Algebra for First Year Graduate Students"
+. author: "George F. McNulty"
+. url: "http://people.math.sc.edu/mcnulty/algebrafirst.pdf"
+. related: "https://realnotcomplex.com/algebra/abstract-algebra/algebra-for-first-year-graduate-students-by-george-f-mcnulty"
+Metadata:
+. tag: "Abstract Algebra"
+. id: "5ed493cc98316306ebe17829"
+

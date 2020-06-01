@@ -1,0 +1,12 @@
+[b59a0f2b2185402c895da1efbcfccb85]
+Resource:
+. type: "Book"
+. name: "Introduction to Statistical Thought"
+. author: "Michael Lavine"
+. homepage: "https://people.math.umass.edu/~lavine/Book/book.html"
+. url: "https://people.math.umass.edu/~lavine/Book/book.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/statistics/introduction-to-statistical-thought-by-michael-lavine"
+Metadata:
+. tag: "Statistics"
+. id: "5ed493cc98316306ebe17867"
+

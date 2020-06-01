@@ -1,0 +1,12 @@
+[01f77664379a4d73a886a94b6841d1ea]
+Resource:
+. type: "Book"
+. name: "A First Course in Linear Algebra"
+. author: "Lyryx Learning, K. Kuttler"
+. homepage: "https://lyryx.com/first-course-linear-algebra/"
+. url: "https://lila1.lyryx.com/textbooks/KUTTLER_1/marketing/Kuttler-LinearAlgebra-AFirstCourse-2017A.pdf"
+. related: "https://realnotcomplex.com/algebra/linear-algebra/a-first-course-in-linear-algebra-by-lyryx-learning-and-k-kuttler"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe17830"
+

@@ -1,0 +1,11 @@
+[24af2f43430b49e38cecee8bc57001f4]
+Resource:
+. type: "Lecture Notes"
+. name: "Fundamentals Of Linear Algebra"
+. author: "James B. Carrell"
+. url: "http://www.math.ubc.ca/~carrell/NB.pdf"
+. related: "https://realnotcomplex.com/algebra/linear-algebra/fundamentals-of-linear-algebra-by-james-b-carrell"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe1783d"
+

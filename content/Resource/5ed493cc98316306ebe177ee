@@ -1,0 +1,12 @@
+[0482992afecd42e699d4e01af2b75f09]
+Resource:
+. type: "Book"
+. name: "Elementary Calculus: An Infinitesimal Approach"
+. author: "Jerome Keisler"
+. homepage: "http://www.math.wisc.edu/~keisler/calc.html"
+. url: "http://www.math.wisc.edu/~keisler/keislercalc-09-04-19.pdf"
+. related: "https://realnotcomplex.com/analysis/calculus/elementary-calculus-an-infinitesimal-approach-by-jerome-keisler"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177ee"
+

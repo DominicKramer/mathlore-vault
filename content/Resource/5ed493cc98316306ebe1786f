@@ -1,0 +1,12 @@
+[a8038406fecd43f693ecc89e9197cdb8]
+Resource:
+. type: "Book"
+. name: "An Introduction to Statistical Learning with Applications in R"
+. author: "Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani"
+. homepage: "http://faculty.marshall.usc.edu/gareth-james/ISL/"
+. url: "http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/statistical-and-machine-learning/an-introduction-to-statistical-learning-with-applications-in-r-by-gareth-james-and-daniela-witten-and-trevor-hastie-and-robert-tibshirani"
+Metadata:
+. tag: "Statistical & Machine Learning"
+. id: "5ed493cc98316306ebe1786f"
+

@@ -1,0 +1,12 @@
+[c3693801343440279e19c136164cb5cb]
+Resource:
+. type: "Book"
+. name: "Elements of Abstract and Linear Algebra"
+. author: "Edwin H. Connell"
+. homepage: "https://www.math.miami.edu/~ec/book/"
+. url: "https://www.math.miami.edu/~ec/book/book.pdf"
+. related: "https://realnotcomplex.com/algebra/linear-algebra/elements-of-abstract-and-linear-algebra-by-edwin-h-connell"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe17832"
+

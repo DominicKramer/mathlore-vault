@@ -1,0 +1,12 @@
+[0dc60fc5f9bd4389b847c5bb1f0ae7f5]
+Resource:
+. type: "Book"
+. name: "Applied Combinatorics"
+. author: "Mitchel T. Keller, William T. Trotter"
+. homepage: "http://people.math.gatech.edu/~trotter/math-3012/toppage.html"
+. url: "http://people.math.gatech.edu/~trotter/book.pdf"
+. related: "https://realnotcomplex.com/discrete-mathematics/combinatorics/applied-combinatorics-by-mitchel-t-keller-and-william-t-trotter"
+Metadata:
+. tag: "Combinatorics"
+. id: "5ed493cc98316306ebe178b5"
+
