@@ -1,13 +1,14 @@
 ProtoDefines:
-. "A \term{field} $K$ is a ring such that for every nonzero 
-   element $a\in K$ there is an element $b\in K$ such that 
-   $ab=1$."
+. "A \term{field} $K$ is a ring such that for every nonzero
+element $a\in K$ there is an element $b\in K$ such that
+$ab=1$."
 Metadata:
+. id: "5e33c0f8981ec41bc6b27b8f"
 . name: "Field"
 . reference:
   . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
-    page: "22"
-    offset: "29"
-. id: "5e33c0f8981ec41bc6b27b8f"
-. tag: "Number Theory"
+    page: "23"
+. tag:
+  . "Number Theory"
+  . "Abstract Algebra"
 
