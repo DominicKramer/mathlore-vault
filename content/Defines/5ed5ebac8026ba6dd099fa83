@@ -1,0 +1,35 @@
+[\metric:on{V}]
+Defines: d(x, y)
+assuming:
+. 'V is \nonempty.set'
+means:
+. 'd is \function:on{V \set.cartesian.product V}to{\closed.interval:above{\positive.infinity}}'
+. for: x
+  where:
+  . 'x \in V'
+  then:
+  . 'd(x, x) = 0'
+. for: x, y
+  where:
+  . 'x, y \in V'
+  then:
+  . if:
+    . 'd(x, y) = 0'
+    then:
+    . 'x = y'
+. for: x, y
+  where:
+  . 'x, y \in V'
+  then:
+  . 'd(x, y) = d(y, x)'
+. for: x, y, z
+  where:
+  . 'x, y, z \in V'
+  then:
+  . 'd(x, z) \leq d(x, y) + d(y, z)'
+Metadata:
+. reference:
+  . source: "@ecc9fb0f941d470294559182b484e9b4"
+    offset: "147"
+. id: "5ed5ebac8026ba6dd099fa83"
+

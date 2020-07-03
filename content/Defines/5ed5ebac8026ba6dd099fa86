@@ -1,0 +1,10 @@
+[\metric.space]
+Defines: (V, d)
+means:
+. 'V is \nonempty.set'
+. 'd is \metric:on{V}'
+Metadata:
+. id: "5ed5ebac8026ba6dd099fa86"
+. reference:
+  . source: "@ecc9fb0f941d470294559182b484e9b4"
+

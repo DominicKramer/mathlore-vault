@@ -1,0 +1,17 @@
+[\explicit.finite.hilbert.space{n}]
+Defines: H
+assuming:
+. 'n is \positive.integer'
+means:
+. or:
+  . 'H is \finite.hilbert.space{n}:over{\reals}'
+  . 'H is \finite.hilbert.space{n}:over{\complexes}'
+Metadata:
+. name: "Real or Complex $N$-dimensional Hilbert Space"
+. written: "\mathcal{H}^{N&}"
+. reference:
+  . source: "@9dbff6446e1a4aeaaea5ab251569b173"
+    page: "5"
+. tag: "Frame Theory"
+. id: "5ed5e6fc8026ba6dd099fa81"
+

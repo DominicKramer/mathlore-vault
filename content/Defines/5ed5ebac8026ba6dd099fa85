@@ -1,0 +1,10 @@
+[\positive.infinity]
+Defines: X
+means:
+. for: x
+  then:
+  . 'X > x'
+Metadata:
+. written: "\infty"
+. id: "5ed5ebac8026ba6dd099fa85"
+

@@ -1,0 +1,20 @@
+ProtoTheorem:
+. "Suppose $f$ is an entire function with $f(0) \neq 0$.  Let $z_1, z_2,\ldots$ be the zeros of $f$ (allowing repitition), and $p_1, p_2, \ldots$ be any sequence of nonnegative integers such that
+\[
+r > 0 \implies \sum_{n=1}^\infty \left ( \frac{r}{|z_n|} \right)^{1+p_n} < \infty
+\]
+Then there exists an entire function $g$ such that
+\[
+f(z) = e^{g(z)}\prod_{n=1}^\infty E_{p_n}\left(\frac{z}{z_n}\right)
+\]
+where $E_{p_n}$ is the $p_n$ elementary function."
+Metadata:
+. id: "5ee3e89f8026ba6dd099fa93"
+. name: "Weierstrass Factorization Theorem"
+. reference:
+  . source: "@5ea55120e0a94835be2a46da87fdab31"
+    page: "0"
+. tag:
+  . "Real Analysis"
+  . "Complex Analysis"
+

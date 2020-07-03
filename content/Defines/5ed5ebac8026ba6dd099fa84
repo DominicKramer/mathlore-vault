@@ -1,0 +1,15 @@
+[\closed.interval:above{a}]
+Defines: X
+assuming:
+. 'a is \real'
+means:
+. 'X is \set[x]{x}{x \geq a}'
+Metadata:
+. written:
+  . "[a&"
+  . " \infty)"
+. tag:
+  . "Analysis"
+  . "Real Analysis"
+. id: "5ed5ebac8026ba6dd099fa84"
+

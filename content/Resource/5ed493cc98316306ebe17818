@@ -5,7 +5,8 @@ Resource:
 . author: "Sheldon Axler"
 . url: "https://link.springer.com/content/pdf/10.1007%2F978-3-030-33143-6.pdf"
 . related: "https://realnotcomplex.com/analysis/measure-theory/measure-integration-&-real-analysis-by-sheldon-axler"
+. offset: "19"
 Metadata:
-. tag: "Measure Theory"
 . id: "5ed493cc98316306ebe17818"
+. tag: "Measure Theory"
 
