@@ -7,10 +7,9 @@ means:
 . 'c \in A'
 . 'c \in B'
 Metadata:
-. written: "A& \cap B&"
+. id: "5e05ac29b664bf5c95806050"
+. written: "A?? \cap B??"
 . reference:
   . source: "@AATA"
     page: "4"
-    offset: "18"
-. id: "5e05ac29b664bf5c95806050"
 

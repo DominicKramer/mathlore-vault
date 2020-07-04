@@ -6,10 +6,9 @@ means:
 . 'c \in A'
 . 'c \notin B'
 Metadata:
-. written: "A& \setminus B&"
+. id: "5e05ac29b664bf5c95806053"
+. written: "A?? \setminus B??"
 . reference:
   . source: "@AATA"
     page: "5"
-    offset: "19"
-. id: "5e05ac29b664bf5c95806053"
 

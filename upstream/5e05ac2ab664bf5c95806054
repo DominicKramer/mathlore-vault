@@ -6,10 +6,9 @@ means:
 . 'x \in A'
 . 'y \in B'
 Metadata:
-. written: "A& \times B&"
+. id: "5e05ac2ab664bf5c95806054"
+. written: "A?? \times B??"
 . reference:
   . source: "@AATA"
     page: "6"
-    offset: "20"
-. id: "5e05ac2ab664bf5c95806054"
 

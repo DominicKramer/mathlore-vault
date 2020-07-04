@@ -10,10 +10,9 @@ means:
 . 'g is \function:on{B}to{A}'
 . '(g \of f) = \identity.function:on{A}'
 Metadata:
-. written: "f&^{-1}"
+. id: "5e05ac2ab664bf5c9580605d"
+. written: "f??^{-1}"
 . reference:
   . source: "@AATA"
     page: "10"
-    offset: "24"
-. id: "5e05ac2ab664bf5c9580605d"
 

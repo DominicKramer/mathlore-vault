@@ -6,10 +6,9 @@ means:
 . 'x \in U'
 . 'x \notin A'
 Metadata:
-. written: "A&^{C}"
+. id: "5e05ac29b664bf5c95806052"
+. written: "A??^C"
 . reference:
   . source: "@AATA"
     page: "5"
-    offset: "19"
-. id: "5e05ac29b664bf5c95806052"
 

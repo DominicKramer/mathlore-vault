@@ -8,10 +8,9 @@ means:
   . 'c \in A'
   . 'c \in B'
 Metadata:
-. written: "A& \cup B&"
+. id: "5e05ac29b664bf5c9580604f"
+. written: "A?? \cup B??"
 . reference:
   . source: "@AATA"
     page: "4"
-    offset: "18"
-. id: "5e05ac29b664bf5c9580604f"
 

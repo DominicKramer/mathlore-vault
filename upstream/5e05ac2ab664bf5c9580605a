@@ -11,10 +11,9 @@ means:
 . 'h is \function:on{A}to{C}'
 . 'h(x) = g(f(x))'
 Metadata:
-. written: "g& \circ f&"
+. id: "5e05ac2ab664bf5c9580605a"
+. written: "g?? \circ f??"
 . reference:
   . source: "@AATA"
     page: "8"
-    offset: "22"
-. id: "5e05ac2ab664bf5c9580605a"
 

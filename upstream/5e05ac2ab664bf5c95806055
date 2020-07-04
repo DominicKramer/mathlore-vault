@@ -9,10 +9,9 @@ assuming:
 means:
 . 'X := A'
 Metadata:
-. written: "\textrm{Dom}(f&)"
+. id: "5e05ac2ab664bf5c95806055"
+. written: "\textrm{Dom}(f?)"
 . reference:
   . source: "@AATA"
     page: "7"
-    offset: "21"
-. id: "5e05ac2ab664bf5c95806055"
 
