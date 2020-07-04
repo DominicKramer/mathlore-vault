@@ -1,9 +1,13 @@
-[\set[x...]{form...}{condition}...]
-Defines: A := {a...}
+[\set[x...]:of{form...}where{condition}...]
+Defines: A := {a...#form...}
 means:
-. 'a... := form...'
-. 'condition...'
+. expands: a..., form...
+  as:
+  . 'a := form'
+. expands: condition...
+  as:
+  . condition
 Metadata:
-. written: "\left \{ form{<?,?>}& \: : \: condition{<?\:and\:?>}& \right \}"
+. written: "\left \{ form{...,...}? \: : \: condition{...\text{ and }...}? \right \}"
 . id: "5e07a7be0fa6157d55509a7e"
 
