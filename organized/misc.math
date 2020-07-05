@@ -1,0 +1,1247 @@
+[\function:on{A}to{B}]
+Defines: f(x)
+assuming:
+. 'A, B is \set'
+means:
+. for: a
+  where:
+  . 'a \in A'
+  then:
+  . exists: b
+    suchThat:
+    . 'b is \unique'
+    . 'f(a) = b'
+Metadata:
+. id: "5e05ac2cb664bf5c9580608e"
+. written: "\cdot \: : \: A?? \rightarrow B??"
+
+
+[\real.bounded.above.sequence:by{b}]
+Defines: S(n)
+assuming:
+. 'b is \real'
+means:
+. 'S is \sequence'
+. for: n
+  then:
+  . 'S(n) <= b'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "181"
+    offset: "190"
+    content: "Definition: A sequence $\{s_n\}$ is bounded above if there
+              is a real number $b$ such that $$ s_n\le b , $$ bounded
+              below if there is a real number $a$ such that $$ s_n\ge a ,
+              $$ or bounded if there is a real number $r$ such that $$
+              |s_n|\le r . $$"
+. id: "5e05ac2cb664bf5c9580608b"
+. tag: "Real Analysis"
+
+
+[a < b]
+Defines: <
+means:
+. if:
+  . 'a, b is \real'
+  then:
+  . '< := \real.order'
+Metadata:
+. id: "5e05ac2cb664bf5c9580607f"
+
+
+[a \gt b]
+Defines: gt
+means:
+. 'gt := >'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e05ac2cb664bf5c95806082"
+. tag: "Real Analysis"
+
+
+[\real.open.interval:on{a, b}]
+Defines: I
+assuming:
+. 'a, b is \real'
+means:
+. 'I := \set[x]{x}{x > a}{x < b}'
+Metadata:
+. id: "5e05ac2cb664bf5c95806085"
+
+
+[\finite.group]
+Defines: G := (X, *, e)
+means:
+. 'G is \group'
+. 'X is \finite \set'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "36"
+    offset: "50"
+. id: "5e05ac2bb664bf5c9580606d"
+
+
+[\real.bounded.above.sequence]
+Defines: S
+means:
+. exists: b
+  suchThat:
+  . 'S is \real.bounded.above.sequence:by{b}'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "181"
+    offset: "190"
+    content: "Definition: A sequence $\{s_n\}$ is bounded above if there
+              is a real number $b$ such that $$ s_n\le b , $$ bounded
+              below if there is a real number $a$ such that $$ s_n\ge a ,
+              $$ or bounded if there is a real number $r$ such that $$
+              |s_n|\le r . $$"
+. id: "5e05ac2cb664bf5c9580608c"
+. tag: "Real Analysis"
+
+
+[\real.bounded.sequence]
+Defines: S
+means:
+. exists: a, b
+  suchThat:
+  . 'S is \real.bounded.above.sequence:by{b}'
+  . 'S is \real.bounded.below.sequence:by{a}'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "181"
+    offset: "190"
+    content: "Definition: A sequence $\{s_n\}$ is bounded above if there
+              is a real number $b$ such that $$ s_n\le b , $$ bounded
+              below if there is a real number $a$ such that $$ s_n\ge a ,
+              $$ or bounded if there is a real number $r$ such that $$
+              |s_n|\le r . $$"
+. id: "5e05ac2cb664bf5c9580608d"
+. tag: "Real Analysis"
+
+
+[a >= b]
+Defines: >=
+means:
+. or:
+  . 'a > b'
+  . 'a = b'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e05ac2cb664bf5c95806084"
+. tag: "Real Analysis"
+
+
+[\infinite.group]
+Defines: G := (X, *, e)
+means:
+. 'G is \group'
+. 'X is \infinite \set'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "36"
+    offset: "50"
+. id: "5e05ac2bb664bf5c9580606e"
+
+
+[\infinite.set]
+Defines: X
+means:
+. 'X is \set'
+. not:
+  . 'X is \finite \set'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "36"
+    offset: "50"
+. id: "5e05ac2bb664bf5c9580606b"
+
+
+[a <= b]
+Defines: <=
+means:
+. or:
+  . 'a < b'
+  . 'a = b'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e05ac2cb664bf5c95806083"
+. tag: "Real Analysis"
+
+
+[\function.range:of{f}]
+Defines: X
+assuming:
+. 'f is \function'
+means:
+. 'X = \set[x]{f(x)}{f \in \function.domain:of{f}}'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "7"
+    offset: "21"
+. id: "5e05ac2ab664bf5c95806056"
+
+
+[\positive.integer]
+Defines: n
+means:
+. 'n is \integer'
+. 'n > 0'
+Metadata:
+. written: "\mathbb{Z}^+"
+. id: "5e05ac2ab664bf5c95806060"
+
+
+[A * B]
+Defines: *
+means:
+. if:
+  . 'A, B is \matrix'
+  then:
+  . 'A * B is \matrix'
+Metadata:
+. id: "5e05ac2ab664bf5c95806067"
+
+
+[\injective.function:on{A}to{B}]
+Defines: f
+means:
+. 'f is \function:on{A}to{B}'
+. for: a1, a2
+  where:
+  . 'a1, a2 \in A'
+  then:
+  . if:
+    . 'a1 \neq a2'
+    then:
+    . 'f(a1) \neq f(a2)'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "8"
+    offset: "22"
+. id: "5e05ac2ab664bf5c95806058"
+
+
+[\integer]
+Defines: n
+means:
+. "$n&$ is a whole number"
+Metadata:
+. id: "5e05ac2ab664bf5c9580605f"
+
+
+[g \of f]
+Defines: h(x)
+assuming:
+. for: A, B, C
+  where:
+  . 'A, B, C is \set'
+  then:
+  . 'f is \function:on{A}to{B}'
+  . 'g is \function:on{B}to{C}'
+means:
+. 'h is \function:on{A}to{C}'
+. 'h(x) = g(f(x))'
+Metadata:
+. id: "5e05ac2ab664bf5c9580605a"
+. written: "g?? \circ f??"
+. reference:
+  . source: "@AATA"
+    page: "8"
+
+
+[\identity.matrix{n}]
+Defines: M(i, j)
+assuming:
+. 'i, j is \positive \integer'
+means:
+. 'M is \matrix'
+. if:
+  . 'i \neq j'
+  then:
+  . 'M(i, j) = 0'
+. 'M(i, i) = 1'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "35"
+    offset: "49"
+. id: "5e05ac2ab664bf5c95806066"
+
+
+[\bijective.function]
+Defines: f
+means:
+. 'f is \injective \surjective \function'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "8"
+    offset: "22"
+. id: "5e05ac2ab664bf5c95806059"
+
+
+[\nonzero]
+Defines: x
+means:
+. 'x \neq 0'
+Metadata:
+. id: "5e05ac2ab664bf5c95806061"
+
+
+[\surjective.function:on{A}to{B}]
+Defines: f
+means:
+. 'f is \function:on{A}to{B}'
+. for: b
+  where:
+  . 'b \in B'
+  then:
+  . exists: a
+    suchThat:
+    . 'f(a) = b'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "8"
+    offset: "22"
+. id: "5e05ac2ab664bf5c95806057"
+
+
+[\invertible.matrix]
+Defines: M
+means:
+. 'M is \matrix'
+. exists: A
+  suchThat:
+  . 'M * A = \identity.matrix'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "35"
+    offset: "49"
+. id: "5e05ac2ab664bf5c95806068"
+
+
+[A \union B]
+Defines: C := {c}
+assuming:
+. 'A, B is \set'
+means:
+. 'C is \set'
+. or:
+  . 'c \in A'
+  . 'c \in B'
+Metadata:
+. id: "5e05ac29b664bf5c9580604f"
+. written: "A?? \cup B??"
+. reference:
+  . source: "@AATA"
+    page: "4"
+
+
+[\complement:of{A}in{U}]
+Defines: X := {x}
+assuming:
+. 'A, U is \set'
+means:
+. 'x \in U'
+. 'x \notin A'
+Metadata:
+. id: "5e05ac29b664bf5c95806052"
+. written: "A??^C"
+. reference:
+  . source: "@AATA"
+    page: "5"
+
+
+[\metric.space]
+Defines: (V, d)
+means:
+. 'V is \nonempty.set'
+. 'd is \metric:on{V}'
+Metadata:
+. id: "5ed5ebac8026ba6dd099fa86"
+. reference:
+  . source: "@ecc9fb0f941d470294559182b484e9b4"
+
+
+[\explicit.finite.hilbert.space{n}]
+Defines: H
+assuming:
+. 'n is \positive.integer'
+means:
+. or:
+  . 'H is \finite.hilbert.space{n}:over{\reals}'
+  . 'H is \finite.hilbert.space{n}:over{\complexes}'
+Metadata:
+. name: "Real or Complex $N$-dimensional Hilbert Space"
+. written: "\mathcal{H}^{N&}"
+. reference:
+  . source: "@9dbff6446e1a4aeaaea5ab251569b173"
+    page: "5"
+. tag: "Frame Theory"
+. id: "5ed5e6fc8026ba6dd099fa81"
+
+
+[A \set.difference B]
+Defines: C := {c}
+assuming:
+. 'A, B is \set'
+means:
+. 'c \in A'
+. 'c \notin B'
+Metadata:
+. id: "5e05ac29b664bf5c95806053"
+. written: "A?? \setminus B??"
+. reference:
+  . source: "@AATA"
+    page: "5"
+
+
+[\ordered.field]
+Defines: (X, +, *, 0, 1, <)
+means:
+. for: F
+  where:
+  . 'F := (X, +, *, 0, 1)'
+  then:
+  . 'F is \field'
+  . '< is \order.relation:on{F}'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e05ac2bb664bf5c9580607a"
+. tag: "Real Analysis"
+
+
+[\transitive.relation:on{X}]
+Defines: <
+assuming:
+. 'X is \set'
+means:
+. '< is \binary.operation:on{X}'
+. for: a, b, c
+  where:
+  . 'a, b, c \in X'
+  then:
+  . if:
+    . 'a < b'
+    . 'b < c'
+    then:
+    . 'a < c'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e05ac2bb664bf5c95806078"
+. tag: "Real Analysis"
+
+
+[\division.with.identity.ring]
+Defines: R := (X, +, *, 0, 1)
+means:
+. 'R is \ring'
+. for: x
+  where:
+  . 'x \in X'
+  . 'x \neq 0'
+  then:
+  . 'x is \ring.unit:in{R}'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "200"
+    offset: "214"
+. id: "5e05ac2bb664bf5c95806076"
+
+
+[\ring]
+Defines: R := (X, +, *, 0)
+assuming:
+. 'X is \nonempty \set'
+. '+, * is \binary.operation:on{X}'
+means:
+. '(X, +, 0) is \abelian.group'
+. for: a, b, c
+  where:
+  . 'a, b, c \in X'
+  then:
+  . '(a*b)*c = a*(b*c)'
+. for: a, b, c
+  where:
+  . 'a, b, c \in X'
+  then:
+  . 'a*(b + c) = a*b + a*c'
+  . '(a + b)*c = a*c + b*c'
+Metadata:
+. id: "5e05ac2bb664bf5c95806071"
+. reference:
+  . source: "@AATA"
+    page: "199"
+. tag: "Ring Theory"
+
+
+[\nonempty.set]
+Defines: X
+means:
+. 'X is \set'
+. exists: x
+  suchThat:
+  . 'x \in X'
+Metadata:
+. id: "5e05ac2bb664bf5c95806070"
+
+
+[\field]
+Defines: F := (X, +, *, 0, 1)
+means:
+. '(X, +, *, 0) is \commutative \ring'
+. '(X, +, *, 0, 1) is \division \with.identity.ring'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "200"
+    offset: "214"
+. id: "5e05ac2bb664bf5c95806077"
+
+
+[\order.relation:on{F := (X, +, *, 0, 1)}]
+Defines: <
+assuming:
+. 'F is \field'
+means:
+. '< is \binary.operation:on{X}'
+. '< is \transitive.relation:on{X}'
+. for: a, b
+  where:
+  . 'a, b \in X'
+  then:
+  . or:
+    . 'a = b'
+    . 'a < b'
+    . 'b < a'
+. for: a, b, c
+  where:
+  . 'a, b, c \in X'
+  then:
+  . if:
+    . 'a < b'
+    then:
+    . 'a + c < b + c'
+. for: a, b, c
+  where:
+  . 'a, b, c \in X'
+  . '0 < c'
+  then:
+  . if:
+    . 'a < b'
+    then:
+    . 'a * c < b * c'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e05ac2bb664bf5c95806079"
+. tag: "Real Analysis"
+
+
+[\real.open.interval]
+Defines: I
+means:
+. exists: a, b
+  suchThat:
+  . 'I is \real.open.interval:on{a, b}'
+Metadata:
+. id: "5e05ac2cb664bf5c95806086"
+
+
+[a > b]
+Defines: >
+means:
+. 'b < a'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e05ac2cb664bf5c95806081"
+. tag: "Real Analysis"
+
+
+[\uniformly.continuous.function:on{S}]
+Defines: f(x)
+assuming:
+. 'S \subset \function.domain:of{f}'
+means:
+. for: epsilon
+  where:
+  . 'epsilon > 0'
+  then:
+  . exists: delta
+    suchThat:
+    . 'delta > 0'
+    . for: x, y
+      where:
+      . 'x, y \in S'
+      then:
+      . if:
+        . '\abs{x - y} < delta'
+        then:
+        . '\abs{f(x) - f(y)} < epsilon'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "65"
+    offset: "74"
+    content: "Definition: A function $f$ is uniformly continuous on a
+              subset $S$ of its domain if, for every $\epsilon >0$, there
+              is a $\delta>0$ such that $$ |f(x)-f(x')|<\epsilon \
+              |x-x'|<\delta \ x,x'\in S. \eqno{ } $$"
+. id: "5e05ac2cb664bf5c95806088"
+. tag: "Real Analysis"
+
+
+[\real.bounded.below.sequence]
+Defines: S
+means:
+. exists: a
+  suchThat:
+  . 'S is \real.bounded.below.sequence:by{a}'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "181"
+    offset: "190"
+    content: "Definition: A sequence $\{s_n\}$ is bounded above if there
+              is a real number $b$ such that $$ s_n\le b , $$ bounded
+              below if there is a real number $a$ such that $$ s_n\ge a ,
+              $$ or bounded if there is a real number $r$ such that $$
+              |s_n|\le r . $$"
+. id: "5e05ac2cb664bf5c9580608a"
+. tag: "Real Analysis"
+
+
+[\general.linear.group{n}:over{F}]
+Defines: X
+assuming:
+. or:
+  . 'F = \reals'
+  . 'F = \complexes'
+. 'n is \integer'
+means:
+. 'X = \set[M]{M}{M is \invertible.matrix}'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "35"
+    offset: "49"
+. id: "5e05ac2bb664bf5c95806069"
+
+
+[\real.bounded.below.sequence:by{a}]
+Defines: S(n)
+assuming:
+. 'a is \real'
+means:
+. 'S is \sequence'
+. for: n
+  then:
+  . 'S(n) >= a'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "181"
+    offset: "190"
+    content: "Definition: A sequence $\{s_n\}$ is bounded above if there
+              is a real number $b$ such that $$ s_n\le b , $$ bounded
+              below if there is a real number $a$ such that $$ s_n\ge a ,
+              $$ or bounded if there is a real number $r$ such that $$
+              |s_n|\le r . $$"
+. id: "5e05ac2cb664bf5c95806089"
+. tag: "Real Analysis"
+
+
+[\finite.set]
+Defines: X
+means:
+. 'X is \set'
+. "$X&$ has a finite number of elements"
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "36"
+    offset: "50"
+. id: "5e05ac2bb664bf5c9580606a"
+
+
+[a \lt b]
+Defines: lt
+means:
+. 'lt := <'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e05ac2cb664bf5c95806080"
+. tag: "Real Analysis"
+
+
+[\real.dense.set]
+Defines: D
+means:
+. 'D is \set'
+. for: I
+  where:
+  . 'I is \real.open.interval'
+  then:
+  . exists: x
+    suchThat:
+    . 'x \in I'
+    . 'x \in D'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "5"
+    offset: "14"
+    content: "Definition: A set $D$ is dense in the reals if every open
+              interval $(a,b)$ contains a member of $D$."
+. id: "5e05ac2cb664bf5c95806087"
+. tag: "Real Analysis"
+
+
+[\group.order:of{G := (X, *)}]
+Defines: n
+assuming:
+. 'G is \group'
+means:
+. 'n = \set.cardinality:of{X}'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "36"
+    offset: "50"
+. id: "5e05ac2bb664bf5c9580606f"
+
+
+[\permutation:of{S}]
+Defines: f
+assuming:
+. 'S is \set'
+means:
+. 'f is \bijective \function:on{S}to{S}'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "9"
+    offset: "23"
+. id: "5e05ac2ab664bf5c9580605b"
+
+
+[\equivalence.relation:on{X}]
+Defines: R := {a, b}
+assuming:
+. 'X is \set'
+means:
+. 'R \subset (X \set.cartesian.product X)'
+. for: x
+  where:
+  . 'x \in X'
+  then:
+  . '(x, x) \in R'
+. for: x, y
+  where:
+  . 'x, y \in X'
+  then:
+  . if:
+    . '(x, y) \in R'
+    then:
+    . '(y, x) \in R'
+. for: x, y, z
+  where:
+  . 'x, y, z \in X'
+  then:
+  . if:
+    . '(x, y) \in R'
+    . '(y, z) \in R'
+    then:
+    . '(x, z) \in R'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "11"
+    offset: "25"
+. id: "5e05ac2ab664bf5c9580605e"
+
+
+[\function.domain:of{f}]
+Defines: X
+assuming:
+. for: A, B
+  where:
+  . 'A, B is \set'
+  then:
+  . 'f is \function:on{A}to{B}'
+means:
+. 'X := A'
+Metadata:
+. id: "5e05ac2ab664bf5c95806055"
+. written: "\textrm{Dom}(f?)"
+. reference:
+  . source: "@AATA"
+    page: "7"
+
+
+[\abelian.group]
+Defines: G := (X, *, e)
+means:
+. 'G is \group'
+. for: a, b
+  where:
+  . 'a, b \in X'
+  then:
+  . 'a * b = b * a'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "34"
+    offset: "48"
+. id: "5e05ac2ab664bf5c95806064"
+
+
+[\group]
+Defines: G := (X, *, e)
+assuming:
+. 'X is \set'
+. '* is \binary.operator:on{X}'
+means:
+. for: a, b, c
+  where:
+  . 'a, b, c \in X'
+  then:
+  . '(a * b) * c = a * (b * c)'
+. 'e \in X'
+. for: a
+  where:
+  . 'x \in X'
+  then:
+  . 'a * e = e * a = a'
+. for: a
+  where:
+  . 'a \in X'
+  then:
+  . exists: b
+    suchThat:
+    . 'b \in X'
+    . 'a * b = b * a = e'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "34"
+    offset: "48"
+. id: "5e05ac2ab664bf5c95806063"
+
+
+[\inverse.function:of{f}]
+Defines: g(x)
+assuming:
+. for: A, B
+  where:
+  . 'A, B is \set'
+  then:
+  . 'f is \function:on{A}to{B}'
+means:
+. 'g is \function:on{B}to{A}'
+. '(g \of f) = \identity.function:on{A}'
+Metadata:
+. id: "5e05ac2ab664bf5c9580605d"
+. written: "f??^{-1}"
+. reference:
+  . source: "@AATA"
+    page: "10"
+
+
+[\identity.function:on{A}]
+Defines: f(x)
+assuming:
+. 'A \in \set'
+means:
+. 'f is \function:on{A}to{A}'
+. for: x
+  then:
+  . 'f(x) = x'
+Metadata:
+. written: "\textrm{Id}"
+. reference:
+  . source: "@AATA"
+    page: "10"
+    offset: "24"
+. id: "5e05ac2ab664bf5c9580605c"
+
+
+[x \binary.operation:on{G} y]
+Defines: *
+assuming:
+. 'G is \set'
+means:
+. '* is \function:on{G \set.cartesian.product G}to{G}'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "33"
+    offset: "47"
+. id: "5e05ac2ab664bf5c95806062"
+
+
+[\matrix{m, n}:over{F}]
+Defines: M
+assuming:
+. 'F is \set'
+. 'm, n is \positive \integer'
+means:
+. "an $m&$ by $n&$ grid of elements from the set $F&$"
+Metadata:
+. id: "5e05ac2ab664bf5c95806065"
+
+
+[A \set.cartesian.product B]
+Defines: C := {x, y}
+assuming:
+. 'A, B is \set'
+means:
+. 'x \in A'
+. 'y \in B'
+Metadata:
+. id: "5e05ac2ab664bf5c95806054"
+. written: "A?? \times B??"
+. reference:
+  . source: "@AATA"
+    page: "6"
+
+
+[\empty.set]
+Defines: E
+means:
+. 'E is \set'
+. not:
+  . exists: x
+    suchThat:
+    . 'x \in E'
+Metadata:
+. written: "\emptyset"
+. reference:
+  . source: "@AATA"
+    page: "4"
+    offset: "18"
+. id: "5e05ac29b664bf5c9580604e"
+
+
+[\disjoint.set]
+Defines: (A, B)
+assuming:
+. 'A, B is \set'
+means:
+. '(A \intersect B) = \empty.set'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "5"
+    offset: "19"
+. id: "5e05ac29b664bf5c95806051"
+
+
+[\positive.infinity]
+Defines: X
+means:
+. for: x
+  then:
+  . 'X > x'
+Metadata:
+. written: "\infty"
+. id: "5ed5ebac8026ba6dd099fa85"
+
+
+[\metric:on{V}]
+Defines: d(x, y)
+assuming:
+. 'V is \nonempty.set'
+means:
+. 'd is \function:on{V \set.cartesian.product V}to{\closed.interval:above{\positive.infinity}}'
+. for: x
+  where:
+  . 'x \in V'
+  then:
+  . 'd(x, x) = 0'
+. for: x, y
+  where:
+  . 'x, y \in V'
+  then:
+  . if:
+    . 'd(x, y) = 0'
+    then:
+    . 'x = y'
+. for: x, y
+  where:
+  . 'x, y \in V'
+  then:
+  . 'd(x, y) = d(y, x)'
+. for: x, y, z
+  where:
+  . 'x, y, z \in V'
+  then:
+  . 'd(x, z) \leq d(x, y) + d(y, z)'
+Metadata:
+. reference:
+  . source: "@ecc9fb0f941d470294559182b484e9b4"
+    offset: "147"
+. id: "5ed5ebac8026ba6dd099fa83"
+
+
+[\closed.interval:above{a}]
+Defines: X
+assuming:
+. 'a is \real'
+means:
+. 'X is \set[x]{x}{x \geq a}'
+Metadata:
+. written:
+  . "[a&"
+  . " \infty)"
+. tag:
+  . "Analysis"
+  . "Real Analysis"
+. id: "5ed5ebac8026ba6dd099fa84"
+
+
+[A \intersect B]
+Defines: C := {c}
+assuming:
+. 'A, B is \set'
+means:
+. 'C is \set'
+. 'c \in A'
+. 'c \in B'
+Metadata:
+. id: "5e05ac29b664bf5c95806050"
+. written: "A?? \cap B??"
+. reference:
+  . source: "@AATA"
+    page: "4"
+
+
+[\with.unity.ring]
+Defines: R := (X, +, *, 0, 1)
+means:
+. 'R is \ring'
+. for: x
+  where:
+  . 'x \in X'
+  then:
+  . '1*x = x*1 = x'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "199"
+    offset: "213"
+. id: "5e05ac2bb664bf5c95806072"
+
+
+[\ring.unit:in{R := (X, +, *, 0, 1)}]
+Defines: u
+assuming:
+. 'R is \with.identity.ring'
+means:
+. 'u \neq 0'
+. exists: b
+  suchThat:
+  . 'b is \unique'
+  . 'u*b = b*u = 1'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "200"
+    offset: "214"
+. id: "5e05ac2bb664bf5c95806075"
+
+
+[\real.order]
+Defines: op
+means:
+. for: R := (X, +, *, 0, 1, <)
+  where:
+  . 'R is \real.field'
+  then:
+  . 'op := <'
+Metadata:
+. id: "5e05ac2bb664bf5c9580607e"
+
+
+[\real.field]
+Defines: R := (X, +, *, 0, 1, <)
+means:
+. 'R is \ordered.field'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e05ac2bb664bf5c9580607b"
+. tag: "Real Analysis"
+
+
+[\integral.domain]
+Defines: R := (X, +, *, 0, 1)
+means:
+. '(X, +, *, 0) is \commutative \ring'
+. '(X, +, *, 0, 1) is \with.unity \ring'
+. for: x, y
+  where:
+  . 'x, y \in X'
+  then:
+  . if:
+    . 'x*y = 0'
+    then:
+    . or:
+      . 'x = 0'
+      . 'y = 0'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "200"
+    offset: "214"
+. id: "5e05ac2bb664bf5c95806074"
+
+
+[\commutative.ring]
+Defines: R := (X, +, *, 0)
+means:
+. 'R is \ring'
+. for: x, y
+  where:
+  . 'x, y \in X'
+  then:
+  . 'x*y = y*x'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "199"
+    offset: "213"
+. id: "5e05ac2bb664bf5c95806073"
+
+
+[\reals]
+Defines: R
+means:
+. for: Rb := (X, +, *, 0, 1, <)
+  where:
+  . 'Rb is \real.field'
+  then:
+  . 'R := X'
+Metadata:
+. written: "\mathbb{R}"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e05ac2bb664bf5c9580607c"
+. tag: "Real Analysis"
+
+
+[\real]
+Defines: r
+means:
+. 'r \in \reals'
+Metadata:
+. id: "5e05ac2bb664bf5c9580607d"
+
+[A \subset B]
+Represents:
+assuming:
+. 'A, B is \set'
+that:
+. for: a
+  where:
+  . 'a \in A'
+  then:
+  . 'a \in B'
+Metadata:
+. written: "A& \subset B&"
+. reference:
+  . source: "@AATA"
+    page: "4"
+    offset: "18"
+. id: "5e05ac2cb664bf5c95806090"
+
+
+[x \neq y]
+Represents:
+that:
+. 'x != y'
+Metadata:
+. written: "x& \neq y&"
+. id: "5e05ac2cb664bf5c95806091"
+
+
+[a \in X]
+Represents:
+assuming:
+. 'X is \set'
+that:
+. "$a&$ is an element of $X&$"
+Metadata:
+. written: "a& \in X&"
+. reference:
+  . source: "@AATA"
+    page: "4"
+    offset: "18"
+. id: "5e05ac2cb664bf5c9580608f"
+
+
+[x \notin X]
+Represents:
+assuming:
+. 'X is \set'
+that:
+. not:
+  . 'x \in X'
+Metadata:
+. written: "x& \notin X&"
+. id: "5e05ac2cb664bf5c95806093"
+
+
+[A \proper.subset B]
+Represents:
+assuming:
+. 'A, B is \set'
+that:
+. 'A \subset B'
+. 'A \neq B'
+Metadata:
+. written: "A& \subsetneq B&"
+. reference:
+  . source: "@AATA"
+    page: "4"
+    offset: "18"
+. id: "5e05ac2cb664bf5c95806092"
