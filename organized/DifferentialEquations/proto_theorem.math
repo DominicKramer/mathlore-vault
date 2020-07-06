@@ -1,0 +1,1334 @@
+ProtoTheorem:
+. "Suppose $p$ and $q$ are continuous on $(a,b)$ let $y_1$ and
+   $y_2$ be solutions of \begin{equation} y''+p(x)y'+q(x)y=0 
+   \end{equation} on $(a,b)$, and define \begin{equation} 
+   W=y_1y_2'-y_1'y_2. \end{equation} Let $x_0$ be any point in 
+   $(a,b)$ Then \begin{equation} W(x)=W(x_0) 
+   e^{-\int^x_{x_0}p(t)\, dt}, \quad a<x<b. \end{equation} 
+   Therefore either $W$ has no zeros in $(a,b)$ or $W\equiv0$ 
+   on $(a,b)$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "199"
+    offset: "209"
+. id: "5e34f055ed69043973713c4c"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Let $g$ be defined on $[0,\infty)$ Suppose $\tau\ge0$ and
+$\mathcal{L}\left(g(t+\tau)\right)$ exists for $s>s_0$ Then
+$\mathcal{L}\left(u(t-\tau)g(t)\right)$ exists for $s>s_0$, and
+$$\mathcal{L}(u(t-\tau)g(t))=e^{-s\tau}\mathcal{L}\left(g(t+\tau)\right). $$"
+Metadata:
+. id: "5e34f055ed69043973713c4d"
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "421"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "$[$Linearity Property$]$ If $F_1$ $F_2$ \dots, $F_n$ are 
+   Laplace transforms and $c_1$ $c_2$ \dots, $c_n$ are 
+   constants, then $$ {\cal 
+   L}^{-1}(c_1F_1+c_2F_2+\cdots+c_nF_n)=c_1{\cal 
+   L}^{-1}(F_1)+c_2{\cal L}^{-1}(F_2)+\cdots+c_n{\cal 
+   L}^{-1}F_n. $$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "405"
+    offset: "415"
+. id: "5e34f055ed69043973713c44"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Let \begin{equation} Ly= 
+   x^2(\alpha_0+\alpha_1x+\alpha_2x^2)y''+x(\beta_0+\beta_1x+\beta_2x^2)y'
+   +(\gamma_0+\gamma_1x+\gamma_2x^2)y, \end{equation} where 
+   $\alpha_0\ne0$ and define \begin{eqnarray*} 
+   p_0(r)&=&\alpha_0r(r-1)+\beta_0r+\gamma_0,\\ 
+   p_1(r)&=&\alpha_1r(r-1)+\beta_1r+\gamma_1,\\ 
+   p_2(r)&=&\alpha_2r(r-1)+\beta_2r+\gamma_2.\\ \end{eqnarray*}
+   Suppose $r$ is a real number such that $p_0(n+r)$ is nonzero
+   for all positive integers $n$, and define $$ begin{array} 
+   a_0(r)&=&1,\\ a_1(r)&=&-\dst{p_1(r)\over p_0(r+1)},\\ 
+   a_n(r)&=&-\dst{p_1(n+r-1)a_{n-1}(r)+p_2(n+r-2)a_{n-2}(r)\over
+   p_0(n+r)},\quad n\ge2. end{array} $$ Then the Frobenius 
+   series \begin{equation} y(x,r)=x^r\sum_{n=0}^\infty 
+   a_n(r)x^n \end{equation} satisfies \begin{equation} 
+   Ly(x,r)=p_0(r)x^r. \end{equation} Moreover, \begin{equation}
+   { ial y\over ial r}(x,r)=y(x,r)\ln x+x^r\sum_{n=1}^\infty 
+   a_n'(r) x^n, \end{equation} and \begin{equation} L\left({ 
+   ial y\over ial r}(x,r)\right)=p'_0(r)x^r+x^rp_0(r)\ln x. 
+   \end{equation}"
+Metadata:
+. name: "5pt"
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "364"
+    offset: "374"
+. id: "5e34f054ed69043973713c34"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Let $L$ and $\{a_n(r)\}$ be as in Theorem $ $ and suppose 
+   the indicial equation $p_0(r)=0$ of $Ly=0$ has real roots 
+   $r_1$ and $r_2$ where $r_1\ge r_2$ Then $$ 
+   y_1(x)=y(x,r_1)=x^{r_1}\sum_{n=0}^\infty a_n(r_1)x^n $$ is a
+   Frobenius solution of $Ly=0$. Moreover, if $r_1-r_2$ isn't 
+   an integer then $$ y_2(x)=y(x,r_2)=x^{r_2}\sum_{n=0}^\infty 
+   a_n(r_2)x^n $$ is also a Frobenius solution of $Ly=0$ and 
+   $\{y_1,y_2\}$ is a fundamental set of solutions."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "351"
+    offset: "361"
+. id: "5e34f054ed69043973713c33"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose the $n\times n$ matrix $A$ has an eigenvalue 
+   $\lambda_1$ of multiplicity $\ge 3$ and the associated 
+   eigenspace is two-dimensional; that is, all eigenvectors of 
+   $A$ associated with $\lambda_1$ are linear combinations of 
+   two linearly independent eigenvectors ${\bf x}_1$ and ${\bf 
+   x}_2$. Then there are constants $\alpha$ and $\beta$ (not 
+   both zero) such that if \begin{equation} {\bf 
+   x}_3=\alpha{\bf x}_1+\beta{\bf x}_2, \end{equation} then 
+   there are infinitely many vectors ${\bf u}$ such that 
+   \begin{equation} (A-\lambda_1I){\bf u}={\bf x}_3. 
+   \end{equation} If ${\bf u}$ satisfies { }, then 
+   \begin{eqnarray} {\bf y}_1&=&{\bf x}_1 e^{\lambda_1t}, \\ 
+   {\bf y}_2&=&{\bf x}_2e^{\lambda_1t}, and \\ {\bf y}_3&=&{\bf
+   u}e^{\lambda_1t}+{\bf x}_3te^{\lambda_1t} , \end{eqnarray} 
+   are linearly independent solutions of ${\bf y}'=A{\bf y}$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "550"
+    offset: "560"
+. id: "5e34f055ed69043973713c72"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose $p$ and $q$ are continuous on an open interval 
+   $(a,b)$ let $y_1$ and $y_2$ be solutions of \begin{equation}
+   y''+p(x)y'+q(x)y=0 \end{equation} on $(a,b)$ and let 
+   $W=y_1y_2'-y_1'y_2$ Then $y_1$ and $y_2$ are linearly 
+   independent on $(a,b)$ if and only if $W$ has no zeros on 
+   $(a,b)$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "201"
+    offset: "211"
+. id: "5e34f055ed69043973713c4e"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose $p$ and $f$ are continuous on an open interval 
+   $(a,b)$ and let $y_1$ be any nontrivial solution of the 
+   complementary equation $$ y'+p(x)y=0 $$ on $(a,b)$. Then$:$ 
+   \begin{alist} \item The general solution of the 
+   nonhomogeneous equation \begin{equation} y'+p(x)y=f(x) 
+   \end{equation} on $(a,b)$ is \begin{equation} 
+   y=y_1(x)\left(c +\int f(x)/y_1(x)\,dx\right). \end{equation}
+   \item If $x_0$ is an arbitrary point in $(a,b)$ and $y_0$ is
+   an arbitrary real number, then the initial value problem $$ 
+   y'+p(x)y=f(x),\quad y(x_0)=y_0 $$ has the unique solution $$
+   y=y_1(x)\left({y_0\over y_1(x_0)} +\int^x_{x_0} {f(t)\over 
+   y_1(t)}\, dt\right) $$ on $(a,b)$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "39"
+    offset: "49"
+. id: "5e34f054ed69043973713c3b"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose $f$ and $f'$ are continuous on $[0,\infty)$ and of 
+   exponential order $s_0$ and that $f''$ is piecewise 
+   continuous on $[0,\infty)$ Then $f$, $f'$, and $f''$ have 
+   Laplace transforms for $s > s_0$, \begin{equation} {\cal 
+   L}(f')=s {\cal L}(f)-f(0), \end{equation} and 
+   \begin{equation} {\cal L}(f'')=s^2{\cal L}(f)-f'(0)-sf(0). 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "414"
+    offset: "424"
+. id: "5e34f055ed69043973713c4b"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose the $n\times n$ constant matrix $A$ has $n$ real 
+   eigenvalues $\lambda_1,\lambda_2,\ldots,\lambda_n$ { (}which
+   need not be distinct{ )} with associated linearly 
+   independent eigenvectors ${\bf x}_1,{\bf x}_2,\ldots,{\bf 
+   x}_n$. Then the functions $$ {\bf y}_1={\bf x}_1e^{\lambda_1
+   t},\, {\bf y}_2={\bf x}_2e^{\lambda_2 t},\, \dots,\, {\bf 
+   y}_n={\bf x}_ne^{\lambda_n t} $$ form a fundamental set of 
+   solutions of ${\bf y}'=A{\bf y}$ that is, the general 
+   solution of this system is $$ {\bf y}=c_1{\bf 
+   x}_1e^{\lambda_1 t}+c_2{\bf x}_2e^{\lambda_2 t} 
+   +\cdots+c_n{\bf x}_ne^{\lambda_n t}. $$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "531"
+    offset: "541"
+. id: "5e34f055ed69043973713c73"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Let $A$ be an $n\times n$ matrix with real entries. Let 
+   $\lambda=\alpha+i\beta$ { (}$\beta\ne0${ }) be a complex 
+   eigenvalue of $A$ and let ${\bf x}={\bf u}+i{\bf v}$ be an 
+   associated eigenvector, where ${\bf u}$ and ${\bf v}$ have 
+   real components. Then ${\bf u}$ and ${\bf v}$ are both 
+   nonzero and $$ {\bf y}_1=e^{\alpha t}({\bf u}\cos\beta 
+   t-{\bf v}\sin\beta t) \quad and\quad {\bf y}_2=e^{\alpha 
+   t}({\bf u}\sin\beta t+{\bf v}\cos\beta t), $$ which are the 
+   real and imaginary parts of \begin{equation} e^{\alpha 
+   t}(\cos\beta t+i\sin\beta t)({\bf u}+i{\bf v}), 
+   \end{equation} are linearly independent solutions of ${\bf 
+   y}'=A{\bf y}$."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "557"
+    offset: "567"
+. id: "5e34f055ed69043973713c74"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "If $f$ is piecewise continuous on $[0,\infty)$ and of 
+   exponential order $s_0$ then ${\cal L}(f)$ is defined for 
+   $s>s_0$."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "400"
+    offset: "410"
+. id: "5e34f055ed69043973713c42"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Let $M$ $N$ $M_y$ and $N_x$ be continuous on an open 
+   rectangle $R$ Then$:$ \begin{alist} \item If $(M_y-N_x)/N$ 
+   is independent of $y$ on $R$ and we define $$ 
+   p(x)={M_y-N_x\over N} $$ then \begin{equation} \mu(x)=\pm 
+   e^{\int p(x)\,dx} \end{equation} is an integrating factor 
+   for \begin{equation} M(x,y)\,dx+N(x,y)\,dy=0 \end{equation} 
+   on $R$ \item If $(N_x-M_y)/M$ is independent of $x$ on $R$ 
+   and we define $$ q(y)={N_x-M_y\over M}, $$ then 
+   \begin{equation} \mu(y)=\pm e^{\int q(y)\,dy} \end{equation}
+   is an integrating factor for on $R$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "83"
+    offset: "93"
+. id: "5e34f055ed69043973713c45"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose $p$ $q$ and $f$ are continuous on $(a,b)$ Let $y_p$
+   be a particular solution of \begin{equation} 
+   y''+p(x)y'+q(x)y=f(x) \end{equation} on $(a,b)$, and let 
+   $\{y_1,y_2\}$ be a fundamental set of solutions of the 
+   complementary equation \begin{equation} y''+p(x)y'+q(x)y=0 
+   \end{equation} on $(a,b)$. Then $y$ is a solution of $ $ on 
+   $(a,b)$ if and only if \begin{equation} y=y_p+c_1y_1+c_2y_2,
+   \end{equation} where $c_1$ and $c_2$ are constants."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "220"
+    offset: "230"
+. id: "5e34f055ed69043973713c58"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose there's an integer $N$ such that $a_n\ne0$ if $n\ge
+   N$ and $$ \lim_{n\to\infty}\left|a_{n+1}\over a_n\right|=L, 
+   $$ where $0\le L\le\infty$ Then the radius of convergence of
+   $\sum_{n=0}^\infty a_n(x-x_0)^n$ is $R=1/ L$ which should be
+   interpreted to mean that $R=0$ if $L=\infty$ or $R=\infty$ 
+   if $L=0$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "307"
+    offset: "317"
+. id: "5e34f055ed69043973713c67"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose $c$ is in $(a,b)$ and $\alpha_{1}$ $\alpha_{2}$ 
+   \dots, are real numbers, not all zero. Under the assumptions
+   of Theorem~ , suppose $y_{1}$ and $y_{2}$ are solutions of 
+   such that \begin{equation} \alpha y_{i}(c)+ y_{i}'(c)+\cdots
+   +y_{i}^{(n-1)}(c)=0,\quad 1\le i\le n. \end{equation} Then 
+   $\{y_{1},y_{2},\dots y_{n}\}$ isn't linearly independent on 
+   $(a,b)$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "469"
+    offset: "479"
+. id: "5e34f055ed69043973713c60"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "A power series $$ f(x)=\sum_{n=0}^\infty a_n(x-x_0)^n $$ 
+   with positive radius of convergence $R$ has derivatives of 
+   all orders in its open interval of convergence, and 
+   successive derivatives can be obtained by repeatedly 
+   differentiating term by term$$ that is, \begin{eqnarray} 
+   f'(x)&=&\dst{\sum_{n=1}^\infty na_n(x-x_0)^{n-1}} ,\\ 
+   f''(x)&=&\dst{\sum_{n=2}^\infty n(n-1)a_n(x-x_0)^{n-2}}, \\ 
+   &\vdots& \\ f^{(k)}(x)&=&\dst{\sum_{n=k}^\infty 
+   n(n-1)\cdots(n-k+1)a_n(x-x_0)^{n-k}} . \end{eqnarray} 
+   Moreover, all of these series have the same radius of 
+   convergence $R$"
+Metadata:
+. name: "10pt"
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "308"
+    offset: "318"
+. id: "5e34f055ed69043973713c69"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose $t_0\ge0$ For each positive number $h$ let $y_h$ be
+   the solution of the initial value problem \begin{equation} 
+   ay_h''+by_h'+cy_h=f_h(t), \quad y_h(0)=0,\quad y_h'(0)=0, 
+   \end{equation} where \begin{equation} 
+   f_h(t)=\left\{begin{array} 0,&0\le t<t_0,\\[2\jot] 
+   1/h,&t_0\le t< t_0+h,\\[2\jot] 0,&t\ge 
+   t_0+h,end{array}\right. \end{equation} so $f_h$ has unit 
+   total impulse equal to the area of the shaded rectangle in $
+   $. Then \begin{equation} 
+   \lim_{h\to0+}y_h(t)=u(t-t_0)w(t-t_0), \end{equation} where 
+   $$ w={\cal L}^{-1}\left(1\over as^2+bs+c\right). $$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "453"
+    offset: "463"
+. id: "5e34f055ed69043973713c56"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Let $$ Ly=
+x^2(\alpha_0+\alpha_2x^2)y''+x(\beta_0+\beta_2x^2)y'
++(\gamma_0+\gamma_2x^2)y, $$ where $\alpha_0\ne0$ and define
+\[
+\begin{aligned}
+p_0(r)&=&\alpha_0r(r-1)+\beta_0r+\gamma_0,\\
+p_2(r)&=&\alpha_2r(r-1)+\beta_2r+\gamma_2.
+\end{aligned}
+\]
+Suppose $r$ is a real number such that $p_0(2m+r)$ is
+nonzero for all positive integers $m$ and define
+\[
+  \begin{aligned} a_0(r)&=&1,\\
+a_{2m}(r)&=&-\textrm{dst}{p_2(2m+r-2)\over
+p_0(2m+r)}a_{2m-2}(r),\quad m\ge1.
+\end{aligned}
+\]
+Let $r_1$ and $r_2$ be the roots of the indicial equation
+$p_0(r)=0$ and suppose $r_1=r_2+2k$ where $k$ is a positive
+integer. Then $$ y_1=x^{r_1}\sum_{m=0}^\infty
+a_{2m}(r_1)x^{2m} $$ is a Frobenius solution of $Ly=0$.
+Moreover, if we define
+\[
+\begin{aligned} a_0(r_2)&=&1,\\
+a_{2m}(r_2)&=&-\textrm{dst}{p_2(2m+r_2-2)\over
+p_0(2m+r_2)}a_{2m-2}(r_2),\quad 1\le m\le k-1
+\end{aligned}
+\]
+and
+\[
+C=-{p_2(r_1-2)\over2k\alpha_0}a_{2k-2}(r_2),
+\]
+then
+\[
+y_2=x^{r_2}\sum_{m=0}^{k-1}a_{2m}(r_2)x^{2m}+C\left(y_1\ln
+x+x^{r_1}\sum_{m=1}^\infty a_{2m}'(r_1)x^{2m}\right)
+\]
+is also a solution of $Ly=0$ and
+$\{y_1,y_2\}$ is a fundamental set of solutions."
+Metadata:
+. id: "5e34f055ed69043973713c3c"
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "384"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "~ Suppose $g=g(x)$ is continous on $(a,b)$ and $h=h(y)$ are
+   continuous on $(c,d)$ Let $G$ be an antiderivative of $g$ on
+   $(a,b)$ and let $H$ be an antiderivative of $h$ on $(c,d)$ 
+   Let $x_0$ be an arbitrary point in $(a,b)$ let $y_0$ be a 
+   point in $(c,d)$ such that $h(y_0)\ne0$ and define 
+   \begin{equation} c=H(y_0)-G(x_0). \end{equation} Then 
+   there's a function $y=y(x)$ defined on some open interval 
+   $(a_1,b_1)$ where $a\le a_1<x_0<b_1\le b$ such that 
+   $y(x_0)=y_0$ and \begin{equation} H(y)=G(x)+c \end{equation}
+   for $a_1<x<b_1$. Therefore $y$ is a solution of the initial 
+   value problem \begin{equation} h(y)y'=g(x),\quad y(x_0)=x_0.
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "46"
+    offset: "56"
+. id: "5e34f055ed69043973713c3d"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose $a,b$, and $c$ are constants $(a\ne0)$ and $f$ is 
+   piecewise continuous on $[0,\infty)$ with jump 
+   discontinuities at $t_1$ \dots, $t_n$ where $$ 
+   0<t_1<\cdots<t_n. $$ Let $k_0$ and $k_1$ be arbitrary real 
+   numbers. Then there is a unique function $y$ defined on 
+   $[0,\infty)$ with these properties: \begin{alist} \item 
+   $y(0)=k_0$ and $y'(0)=k_1$. \item $y$ and $y'$ are 
+   continuous on $[0,\infty)$. \item $y''$ is defined on every 
+   open subinterval of $[0,\infty)$ that does not contain any 
+   of the points $t_1$ \dots, $t_n$, and $$ ay''+by'+cy=f(t) $$
+   on every such subinterval. \item $y''$ has limits from the 
+   right and left at $t_1$ \dots, $t_n$. \end{alist}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "430"
+    offset: "440"
+. id: "5e34f055ed69043973713c51"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "$[$The Principle of Superposition$]$ Suppose $y_{p_1}$ is a
+   particular solution of $$ y''+p(x)y'+q(x)y=f_1(x) $$ on 
+   $(a,b)$ and $y_{p_2}$ is a particular solution of $$ 
+   y''+p(x)y'+q(x)y=f_2(x) $$ on $(a,b)$. Then $$ 
+   y_p=y_{p_1}+y_{p_2} $$ is a particular solution of $$ 
+   y''+p(x)y'+q(x)y=f_1(x)+f_2(x) $$ on $(a,b)$."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "224"
+    offset: "234"
+. id: "5e34f055ed69043973713c5a"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose the roots of the indicial equation \begin{equation}
+   ar(r-1)+br+c=0 \end{equation} are $r_1$ and $r_2$. Then the 
+   general solution of the Euler equation \begin{equation} 
+   ax^2y''+bxy'+cy=0 \end{equation} on $(0,\infty)$ is 
+   \begin{eqnarray*} y&=&c_1x^{r_1}+c_2x^{r_2} if $r_1$ and 
+   $r_2$ are distinct real numbers ; \\ y&=&x^{r_1}(c_1+c_2\ln 
+   x) if $r_1=r_2$ ; \\ 
+   y&=&x^{\lambda}\left[c_1\cos\left(\omega\ln x\right)+ 
+   c_2\sin\left(\omega\ln x \right)\right] if 
+   $r_1,r_2=\lambda\pm i\omega$ with $\omega>0$ . 
+   \end{eqnarray*}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "344"
+    offset: "354"
+. id: "5e34f054ed69043973713c2a"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Let $$ Ly= 
+   x^2(\alpha_0+\alpha_1x+\alpha_2x^2)y''+x(\beta_0+\beta_1x+\beta_2x^2)y'
+   +(\gamma_0+\gamma_1x+\gamma_2x^2)y, $$ where $\alpha_0\ne0$ 
+   and define \begin{eqnarray*} 
+   p_0(r)&=&\alpha_0r(r-1)+\beta_0r+\gamma_0,\\[1\jot] 
+   p_1(r)&=&\alpha_1r(r-1)+\beta_1r+\gamma_1,\\[1\jot] 
+   p_2(r)&=&\alpha_2r(r-1)+\beta_2r+\gamma_2.\\ \end{eqnarray*}
+   Suppose $r$ is a real number such that $p_0(n+r)$ is nonzero
+   for all positive integers $n$ Define \begin{equation} 
+   begin{array} a_0(r)&=&1,\\ a_1(r)&=&-\dst{p_1(r)\over 
+   p_0(r+1)},\\[2\jot] 
+   a_n(r)&=&-\dst{p_1(n+r-1)a_{n-1}(r)+p_2(n+r-2)a_{n-2}(r)\over
+   p_0(n+r)},\quad n\ge2. end{array} \end{equation} Then the 
+   Frobenius series \begin{equation} 
+   y(x,r)=x^r\sum_{n=0}^\infty a_n(r)x^n \end{equation} 
+   converges and satisfies \begin{equation} Ly(x,r)=p_0(r)x^r 
+   \end{equation} on the interval $(0,\rho)$ where $\rho$ is 
+   the distance from the origin to the nearest zero of 
+   $A(x)=\alpha_0+\alpha_1 x+\alpha_2 x^2$ in the complex 
+   plane. (If $A$ is constant, then $\rho=\infty.)$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "350"
+    offset: "360"
+. id: "5e34f054ed69043973713c2f"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "If $$ y_p=A(x)\cos\omega x+B(x)\sin\omega x, $$ where 
+   $A(x)$ and $B(x)$ are polynomials with coefficients $A_0$ 
+   \dots, $A_k$ and $B_0$, \dots, $B_k$ then the polynomials 
+   multiplying $\sin\omega x$ in $$ y_p',\quad y_p'',\quad 
+   ay_p''+by_p'+cy_p \quad and \quad y_p''+\omega^2 y_p $$ can 
+   be obtained by replacing $A_0$, \dots, $A_k$ by $B_0$ \dots,
+   $B_k$ and $B_0$ \dots, $B_k$ by $-A_0$ \dots, $-A_k$ in the 
+   corresponding polynomials multiplying $\cos\omega x$."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "241"
+    offset: "251"
+. id: "5e34f055ed69043973713c5f"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose $p$ and $q$ are continuous on an open interval 
+   $(a,b)$ and let $y_1$ and $y_2$ be solutions of 
+   \begin{equation} y''+p(x)y'+q(x)y=0 \end{equation} on 
+   $(a,b)$ Then the following statements are equivalent$; $ 
+   that is, they are either all true or all false. 
+   \begin{alist} \item The general solution of $ $ on $(a,b)$ 
+   is $y=c_1y_1+c_2y_2$. \item $\{y_1,y_2\}$ is a fundamental 
+   set of solutions of $ $ on $(a,b)$ \item $\{y_1,y_2\}$ is 
+   linearly independent on $(a,b)$ \item The Wronskian of 
+   $\{y_1,y_2\}$ is nonzero at some point in $(a,b)$ \item The 
+   Wronskian of $\{y_1,y_2\}$ is nonzero at all points in 
+   $(a,b)$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "201"
+    offset: "211"
+. id: "5e34f055ed69043973713c50"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "$[$Linearity Property$]$ Suppose ${\cal L}(f_i)$ is defined
+   for $s>s_i$ $1\le i\le n)$ Let $s_0$ be the largest of the 
+   numbers $s_1$, $s_{2}$ \dots$s_n$ and let $c_1$, 
+   $c_2$,\dots, $c_n$ be constants. Then $$ {\cal 
+   L}(c_1f_1+c_2f_2+\cdots+c_nf_n)=c_1{\cal L}(f_1)+c_2{\cal 
+   L}(f_2) +\cdots+c_n{\cal L}(f_n) for s>s_0. $$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "396"
+    offset: "406"
+. id: "5e34f055ed69043973713c3e"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "If $\omega \ne0$ and $m$ is a positive integer, then $$ 
+   begin{array} \{e^{\lambda x}\cos\omega x, xe^{\lambda 
+   x}\cos\omega x, &\dots, x^{m-1}e^{\lambda x}\cos\omega x,\\ 
+   e^{\lambda x}\sin\omega x, xe^{\lambda x}\sin\omega x,& 
+   \dots, x^{m-1}e^{\lambda x}\sin\omega x\} end{array} $$ is a
+   fundamental set of solutions of $$ 
+   [(D-\lambda)^2+\omega^2]^my=0. $$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "482"
+    offset: "492"
+. id: "5e34f055ed69043973713c68"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "The coefficients $\{a_n\}$ in any solution 
+   $y=\sum_{n=0}^\infty a_n(x-x_0)^n$ of \begin{equation} 
+   \left(1+\alpha(x-x_0)^2\right)y''+\beta(x-x_0) y'+\gamma y=0
+   \end{equation} satisfy the recurrence relation 
+   \begin{equation} a_{n+2}=-{p(n) \over(n+2)(n+1)}a_n,\quad 
+   n\ge0, \end{equation} where \begin{equation} p(n)=\alpha 
+   n(n-1) +\beta n+\gamma. \end{equation} Moreover, the 
+   coefficients of the even and odd powers of $x-x_0$ can be 
+   computed separately as \begin{eqnarray} 
+   a_{2m+2}&=&-{p(2m)\over(2m+2)(2m+1)}a_{2m},\quad m\ge0 \\ 
+   and \\ a_{2m+3}&=&-{p(2m+1)\over(2m+3)(2m+2)}a_{2m+1},\quad 
+   m\ge0, \end{eqnarray} where $a_0$ and $a_1$ are arbitrary."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "325"
+    offset: "335"
+. id: "5e34f054ed69043973713c27"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose $p$ $,q$ and $f$ are continuous on an open interval
+   $(a,b)$ let $x_0$ be any point in $(a,b)$ and let $k_0$ and 
+   $k_1$ be arbitrary real numbers. Then the initial value 
+   problem $$ y''+p(x)y'+q(x)y=f(x), \quad y(x_0)=k_0,\quad 
+   y'(x_0)=k_1 $$ has a unique solution on $(a,b)$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "220"
+    offset: "230"
+. id: "5e34f055ed69043973713c57"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose we consider the amplitude $R$ of the steady state 
+   component of the solution of $$ my''+cy'+ky=F_0\cos\omega t 
+   $$ as a function of $\omega$. \indent{ (a)} If 
+   $c\ge\sqrt{2mk}$, the maximum amplitude is $R_{\max}=F_0/k$ 
+   and it's attained when $\omega= \omega_{\max}=0$. \indent { 
+   (b)} If $c<\sqrt{2mk}$, the maximum amplitude is 
+   \begin{equation} R_{\max}={2m F_0\over c\sqrt{4mk-c^2}}, 
+   \end{equation} and it's attained when \begin{equation} 
+   \omega=\omega_{\max}=\sqrt{{k\over m}\left(1-{c^2\over 
+   2km}\right)}. \end{equation}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "286"
+    offset: "296"
+. id: "5e34f055ed69043973713c61"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose $Ly=F$ is normal on $(a,b)$, let $x_0$ be a point 
+   in $(a,b)$ and let $k_0$, $k_1$, \dots, $k_{n-1}$ be 
+   arbitrary real numbers. Then the initial value problem $$ 
+   Ly=F, \quad y(x_0)=k_0,\quad y'(x_0)=k_1,\dots,\quad 
+   y^{(n-1)}(x_0)=k_{n-1} $$ has a unique solution on $(a,b)$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "465"
+    offset: "475"
+. id: "5e34f055ed69043973713c59"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "If $m$ is a positive integer, then \begin{equation} 
+   \{e^{ax}, xe^{ax},\dots, x^{m-1}e^{ax}\} \end{equation} is a
+   fundamental set of solutions of \begin{equation} (D-a)^my=0.
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "481"
+    offset: "491"
+. id: "5e34f055ed69043973713c66"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose the $n\times n$ matrix $A$ has an eigenvalue 
+   $\lambda_1$ of multiplicity $\ge2$ and the associated 
+   eigenspace has dimension $1$ that is, all 
+   $\lambda_1$-eigenvectors of $A$ are scalar multiples of an 
+   eigenvector ${\bf x}$ Then there are infinitely many vectors
+   ${\bf u}$ such that \begin{equation} (A-\lambda_1I){\bf 
+   u}={\bf x}. \end{equation} Moreover, if ${\bf u}$ is any 
+   such vector then \begin{equation} {\bf y}_1={\bf 
+   x}e^{\lambda_1t}\quad and \quad {\bf y}_2={\bf 
+   u}e^{\lambda_1t}+{\bf x}te^{\lambda_1t} \end{equation} are 
+   linearly independent solutions of ${\bf y}'=A{\bf y}$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "544"
+    offset: "554"
+. id: "5e34f055ed69043973713c6f"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose the coefficient matrix $A$ and the forcing function
+   ${\bf f}$ are continuous on $(a,b)$, let $t_0$ be in 
+   $(a,b)$, and let ${\bf k}$ be an arbitrary constant 
+   $n$-vector. Then the initial value problem $$ {\bf 
+   y}'=A(t){\bf y}+{\bf f}(t), \quad {\bf y}(t_0)={\bf k} $$ 
+   has a unique solution on $(a,b)$."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "517"
+    offset: "527"
+. id: "5e34f055ed69043973713c6a"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "$[$First Shifting Theorem$]$ If \begin{equation} 
+   F(s)=\int_0^\infty e^{-st} f(t)\,dt \end{equation} is the 
+   Laplace transform of $f(t)$ for $s>s_0$, then $F(s-a)$ is 
+   the Laplace transform of $e^{at}f(t)$ for $s >s_0+a$."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "397"
+    offset: "407"
+. id: "5e34f055ed69043973713c40"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose $p$ and $q$ are continuous on an open interval 
+   $(a,b)$ let $x_0$ be any point in $(a,b)$ and let $k_0$ and 
+   $k_1$ be arbitrary real numbers. Then the initial value 
+   problem $$ y''+p(x)y'+q(x)y=0,\ y(x_0)=k_0,\ y'(x_0)=k_1 $$ 
+   has a unique solution on $(a,b)$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "193"
+    offset: "203"
+. id: "5e34f055ed69043973713c47"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Let $L$ be as in Theorem~{ } and suppose the indicial 
+   equation $p_0(r)=0$ has a repeated real root $r_1$ Then $$ 
+   y_1(x)=y(x,r_1)=x^{r_1}\sum_{n=0}^\infty a_n(r_1)x^n $$ and 
+   \begin{equation} y_2(x)={ ial y\over ial r}(x,r_1)=y_1(x)\ln
+   x+x^{r_1}\sum_{n=1}^\infty a_n'(r_1)x^n \end{equation} form 
+   a fundamental set of solutions of $Ly=0$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "365"
+    offset: "375"
+. id: "5e34f054ed69043973713c37"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose the $n\times n$ matrix $A=A(t)$ is continuous on 
+   $(a,b)$ and let ${\bf y}_1$, ${\bf y}_2$, \dots${\bf y}_n$ 
+   be solutions of ${\bf y}'=A(t){\bf y}$ on $(a,b)$. Then the 
+   following statements are equivalent; that is, they are 
+   either all true or all false: \begin{alist} \item The 
+   general solution of ${\bf y}'=A(t){\bf y}$ on $(a,b)$ is 
+   ${\bf y}=c_1{\bf y}_1+c_2{\bf y}_2+\cdots+c_n{\bf y}_n$, 
+   where $c_1$, $c_2$, \dots, $c_n$ are arbitrary constants. 
+   \item $\{{\bf y}_1,{\bf y}_2,\dots,{\bf y}_n\}$ is a 
+   fundamental set of solutions of ${\bf y}'=A(t){\bf y}$ on 
+   $(a,b)$. \item $\{{\bf y}_1,{\bf y}_2,\dots,{\bf y}_n\}$ is 
+   linearly independent on $(a,b)$. \item The Wronskian of 
+   $\{{\bf y}_1,{\bf y}_2,\dots,{\bf y}_n\}$ is nonzero at some
+   point in $(a,b)$. \item The Wronskian of $\{{\bf y}_1,{\bf 
+   y}_2,\dots,{\bf y}_n\}$ is nonzero at all points in $(a,b)$.
+   \end{alist}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "525"
+    offset: "535"
+. id: "5e34f055ed69043973713c71"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Let $$ Ly= x^2(\alpha_0+\alpha_1x)y''+x(\beta_0+\beta_1x)y'
+   +(\gamma_0+\gamma_1x)y, $$ where $\alpha_0\ne0$ and define 
+   \begin{eqnarray*} 
+   p_0(r)&=&\alpha_0r(r-1)+\beta_0r+\gamma_0,\\ 
+   p_1(r)&=&\alpha_1r(r-1)+\beta_1r+\gamma_1. \end{eqnarray*} 
+   Suppose $r$ is a real number such that $p_0(n+r)$ is nonzero
+   for all positive integers $n$ and define \begin{equation} 
+   begin{array} a_0(r)&=&1,\\ a_n(r)&=&-\dst{p_1(n+r-1)\over 
+   p_0(n+r)}a_{n-1}(r),\quad n\ge1. end{array} \end{equation} 
+   Let $r_1$ and $r_2$ be the roots of the indicial equation 
+   $p_0(r)=0$ and suppose $r_1=r_2+k$ where $k$ is a positive 
+   integer. Then $$ y_1=x^{r_1}\sum_{n=0}^\infty a_n(r_1)x^n $$
+   is a Frobenius solution of $Ly=0$. Moreover, if we define 
+   \begin{equation} begin{array} a_0(r_2)&=&1,\\ 
+   a_n(r_2)&=&-\dst{p_1(n+r_2-1)\over 
+   p_0(n+r_2)}a_{n-1}(r_2),\quad 1\le n\le k-1, end{array} 
+   \end{equation} and \begin{equation} C=-{p_1(r_1-1)\over 
+   k\alpha_0}a_{k-1}(r_2), \end{equation} then \begin{equation}
+   y_2=x^{r_2}\sum_{n=0}^{k-1}a_n(r_2)x^n+C\left(y_1\ln 
+   x+x^{r_1}\sum_{n=1}^\infty a_n'(r_1)x^n\right) 
+   \end{equation} is also a solution of $Ly=0$ and 
+   $\{y_1,y_2\}$ is a fundamental set of solutions."
+Metadata:
+. name: "5pt"
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "378"
+    offset: "388"
+. id: "5e34f054ed69043973713c39"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "If $y_1$ and $y_2$ are solutions of the homogeneous 
+   equation \begin{equation} y''+p(x)y'+q(x)y=0 \end{equation} 
+   on $(a,b)$ then any linear combination \begin{equation} 
+   y=c_1y_1+c_2y_2 \end{equation} of $y_1$ and $y_2$ is also a 
+   solution of $ $ on $(a,b)$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "197"
+    offset: "207"
+. id: "5e34f055ed69043973713c49"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose $f$ is continuous on $[0,\infty)$ and of 
+   exponential order $s_0$, and $f'$ is piecewise continuous on
+   $[0,\infty)$ Then $f$ and $f'$ have Laplace transforms for 
+   $s > s_0$ and \begin{equation} {\cal L}(f')=s {\cal 
+   L}(f)-f(0). \end{equation}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "413"
+    offset: "423"
+. id: "5e34f055ed69043973713c48"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose the $n\times n$ matrix $A$ has an eigenvalue 
+   $\lambda_1$ of multiplicity $\ge 3$ and the associated 
+   eigenspace is one-dimensional$$ that is, all eigenvectors 
+   associated with $\lambda_1$ are scalar multiples of the 
+   eigenvector ${\bf x}$ Then there are infinitely many vectors
+   ${\bf u}$ such that \begin{equation} (A-\lambda_1I){\bf 
+   u}={\bf x}, \end{equation} and, if ${\bf u}$ is any such 
+   vector, there are infinitely many vectors ${\bf v}$ such 
+   that \begin{equation} (A-\lambda_1I){\bf v}={\bf u}. 
+   \end{equation} If ${\bf u}$ satisfies { } and ${\bf v}$ 
+   satisfies { }, then \begin{eqnarray*} {\bf y}_1 &=&{\bf x} 
+   e^{\lambda_1t},\\ {\bf y}_2&=&{\bf u}e^{\lambda_1t}+{\bf x} 
+   te^{\lambda_1t}, and \\ {\bf y}_3&=&{\bf 
+   v}e^{\lambda_1t}+{\bf u}te^{\lambda_1t}+{\bf x} 
+   {t^2e^{\lambda_1t}\over2} \end{eqnarray*} are linearly 
+   independent solutions of ${\bf y}'=A{\bf y}$."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "548"
+    offset: "558"
+. id: "5e34f055ed69043973713c70"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose \begin{equation} 
+   F(s)={P(s)\over(s-s_1)(s-s_2)\cdots(s-s_n)}, \end{equation} 
+   where $s_1$, $s_2$ \dots, $s_n$ are distinct and $P$ is a 
+   polynomial of degree less than $n$ Then $$ F(s)={A_1\over 
+   s-s_1}+{A_2\over s-s_2}+\cdots+{A_n\over s-s_n}$$ where 
+   $A_i$ can be computed from by ignoring the factor $s-s_i$ 
+   and setting $s=s_i$ elsewhere."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "407"
+    offset: "417"
+. id: "5e34f055ed69043973713c46"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "If $F=F(x,y)$ has continuous partial derivatives $F_x$ and 
+   $F_y$, then \begin{equation} F(x,y)=c\qquad { (}$c$=constant
+   ) , \end{equation} is an implicit solution of the 
+   differential equation \begin{equation} 
+   F_x(x,y)\,dx+F_y(x,y)\,dy=0. \end{equation}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "73"
+    offset: "83"
+. id: "5e34f055ed69043973713c41"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "If $p$ is continuous on $(a,b)$ then the general solution 
+   of the homogeneous equation \begin{equation} y'+p(x)y=0 
+   \end{equation} on $(a,b)$ is $$ y=ce^{-P(x)}, $$ where 
+   \begin{equation} P(x)=\int p(x)\,dx \end{equation} is any 
+   antiderivative of $p$ on $(a,b)$ that is, \begin{equation} 
+   P'(x)=p(x),\quad a<x<b. \end{equation}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "32"
+    offset: "42"
+. id: "5e34f054ed69043973713c3a"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose $p$ and $q$ are continuous on $(a,b)$ Then a set 
+   $\{y_1,y_2\}$ of solutions of \begin{equation} 
+   y''+p(x)y'+q(x)y=0 \end{equation} on $(a,b)$ is a 
+   fundamental set if and only if $\{y_1,y_2\}$ is linearly 
+   independent on $(a,b)$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "197"
+    offset: "207"
+. id: "5e34f055ed69043973713c4a"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "$[$Second Shifting Theorem$]$ If $\tau\ge0$ and ${\cal 
+   L}(g)$ exists for $s>s_0$ then ${\cal 
+   L}\left(u(t-\tau)g(t-\tau)\right)$ exists for $s>s_0$ and $$
+   {\cal L}(u(t-\tau)g(t-\tau))=e^{-s\tau}{\cal L}(g(t)), $$ 
+   or, equivalently, \begin{equation} if g(t)\leftrightarrow 
+   G(s), then u(t-\tau)g(t-\tau)\leftrightarrow e^{-s\tau}G(s).
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "424"
+    offset: "434"
+. id: "5e34f055ed69043973713c4f"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "$[$Abel's Formula$]$ Suppose the $n\times n$ matrix 
+   $A=A(t)$ is continuous on $(a,b)$ let ${\bf y}_1$, ${\bf 
+   y}_2$, \dots, ${\bf y}_n$ be solutions of ${\bf y}'=A(t){\bf
+   y}$ on $(a,b)$ and let $t_0$ be in $(a,b)$. Then the 
+   Wronskian of $\{{\bf y}_1,{\bf y}_2,\dots,{\bf y}_n\}$ is 
+   given by \begin{equation} W(t)=W(t_0)\exp\left( 
+   \int^t_{t_0}\big[a_{11}(s)+a_{22}(s)+\cdots+a_{nn}(s)]\, 
+   ds\right), \quad a < t < b. \end{equation} Therefore, either
+   $W$ has no zeros in $(a,b)$ or $W\equiv0$ on $(a,b)$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "524"
+    offset: "534"
+. id: "5e34f055ed69043973713c6d"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "If the power series $$ f(x)=\sum_{n=0}^\infty a_n(x-x_0)^n 
+   $$ has a positive radius of convergence, then 
+   \begin{equation} a_n={f^{(n)}(x_0)\over n!}; \end{equation} 
+   that is, $\sum_{n=0}^\infty a_n(x-x_0)^n$ is the Taylor 
+   series of $f$ about $x_0$."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "309"
+    offset: "319"
+. id: "5e34f055ed69043973713c6c"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose $Ly=0$ is normal on $(a,b)$ and let $y_1$, $y_2$, 
+   \dots, $y_n$ be $n$ solutions of $Ly=0$ on $(a,b)$. Then the
+   following statements are equivalent$$ that is, they are 
+   either all true or all false$:$ \begin{alist} \item The 
+   general solution of $Ly=0$ on $(a,b)$ is 
+   $y=c_1y_1+c_2y_2+\cdots+c_ny_n$ \item 
+   $\{y_1,y_2,\dots,y_n\}$ is a fundamental set of solutions of
+   $Ly=0$ on $(a,b)$ \item $\{y_1,y_2,\dots,y_n\}$ is linearly 
+   independent on $(a,b)$ \item The Wronskian of 
+   $\{y_1,y_2,\dots,y_n\}$ is nonzero at some point in $(a,b)$ 
+   \item The Wronskian of $\{y_1,y_2,\dots,y_n\}$ is nonzero at
+   all points in $(a,b)$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "468"
+    offset: "478"
+. id: "5e34f055ed69043973713c5e"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "If $Ly=0$ is normal on $(a,b)$, then a set 
+   $\{y_1,y_2,\dots,y_n\}$ of $n$ solutions of $Ly=0$ on 
+   $(a,b)$ is a fundamental set if and only if it's linearly 
+   independent on $(a,b)$."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "465"
+    offset: "475"
+. id: "5e34f055ed69043973713c5b"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "$[$The Principle of Superposition$]$ Suppose for each $i=1$
+   $2$ \dots, $r$, the function $y_{p_i}$ is a particular 
+   solution of $Ly=F_i$ on $(a,b)$ Then $$ 
+   y_p=y_{p_1}+y_{p_2}+\cdots+y_{p_r} $$ is a particular 
+   solution of $$ Ly=F_1(x)+F_2(x)+\cdots+F_r(x) $$ on $(a,b)$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "471"
+    offset: "481"
+. id: "5e34f055ed69043973713c64"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose $c$ is in $(a,b)$ and $\alpha$ and $\beta$ are real
+   numbers, not both zero. Under the assumptions of Theorem~ , 
+   suppose $y_{1}$ and $y_{2}$ are solutions of such that 
+   \begin{equation} \alpha y_{1}(c)+\beta y_{1}'(c)=0 \; and\; 
+   \; \alpha y_{2}(c)+\beta y_{2}'(c)=0. \end{equation} Then 
+   $\{y_{1},y_{2}\}$ isn't linearly independent on $(a,b)$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "202"
+    offset: "212"
+. id: "5e34f055ed69043973713c52"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Let $p(r)=ar^2+br+c$ be the characteristic polynomial of 
+   \begin{equation} ay''+by'+cy=0. \end{equation} Then$:$ 
+   \begin{alist} \item If $p(r)=0$ has distinct real roots 
+   $r_1$ and $r_2$ then the general solution of $ $ is $$ 
+   y=c_1e^{r_1x}+c_2e^{r_2x}. $$ \item If $p(r)=0$ has a 
+   repeated root $r_1$ then the general solution of $ $ is $$ 
+   y=e^{r_1x}(c_1+c_2x). $$ \item If $p(r)=0$ has complex 
+   conjugate roots $r_1=\lambda+i\omega$ and 
+   $r_2=\lambda-i\omega$ (where $\omega>0)$ then the general 
+   solution of $ $ is $$ y=e^{\lambda x}(c_1\cos\omega 
+   x+c_2\sin\omega x). $$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "216"
+    offset: "226"
+. id: "5e34f055ed69043973713c55"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose the $n\times n$ matrix function $A$ and the 
+   $n$-vector function ${\bf f}$ are continuous on $(a,b)$ Let 
+   ${\bf y}_p$ be a particular solution of ${\bf y}'=A(t){\bf 
+   y}+{\bf f}(t)$ on $(a,b)$, and let $\{{\bf y}_1,{\bf 
+   y}_2,\dots,{\bf y}_n\}$ be a fundamental set of solutions of
+   the complementary equation ${\bf y}'=A(t){\bf y}$ on 
+   $(a,b)$. Then ${\bf y}$ is a solution of ${\bf y}'=A(t){\bf 
+   y}+{\bf f}(t)$ on $(a,b)$ if and only if $$ {\bf y}={\bf 
+   y}_p+c_1{\bf y}_1+c_2{\bf y}_2+\cdots+c_n{\bf y}_n, $$ where
+   $c_1$ $c_2$ \dots, $c_n$ are constants."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "569"
+    offset: "579"
+. id: "5e34f054ed69043973713c25"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose the homogeneous linear $n$th order equation 
+   \begin{equation} 
+   P_0(x)y^{(n)}+P_1(x)y^{n-1}+\cdots+P_n(x)y=0 \end{equation} 
+   is normal on $(a,b)$ let $y_1$ $y_2$ \dots, $y_n$ be 
+   solutions of on $(a,b)$ and let $x_0$ be in $(a,b)$. Then 
+   the Wronskian of $\{y_1,y_2,\dots,y_n\}$ is given by 
+   \begin{equation} 
+   W(x)=W(x_0)\exp\left\{-\int^x_{x_0}{P_1(t)\over P_0(t)}\, 
+   dt\right\},\quad a<x<b. \end{equation} Therefore, either $W$
+   has no zeros in $(a,b)$ or $W\equiv0$ on $(a,b)$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "468"
+    offset: "478"
+. id: "5e34f055ed69043973713c5c"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose $\omega$ is a positive number and $P$ and $Q$ are 
+   polynomials. Let $k$ be the larger of the degrees of $P$ and
+   $Q$ Then the equation $$ ay''+by'+cy=P(x)\cos \omega 
+   x+Q(x)\sin \omega x $$ has a particular solution 
+   \begin{equation} y_p=A(x)\cos\omega x+B(x)\sin\omega x, 
+   \end{equation} where $$ A(x)=A_0+A_1x+\cdots+A_kx^k \quad 
+   and \quad B(x)=B_0+B_1x+\cdots+B_kx^k, $$ provided that 
+   $\cos\omega x$ and $\sin\omega x$ are not solutions of the 
+   complementary equation. The solutions of $$ 
+   a(y''+\omega^2y)=P(x)\cos \omega x+Q(x)\sin \omega x $$ (for
+   which $\cos\omega x$ and $\sin\omega x$ are solutions of the
+   complementary equation) are of the form $ $ where $$ 
+   A(x)=A_0x+A_1x^2+\cdots+A_kx^{k+1} \quad and \quad 
+   B(x)=B_0x+B_1x^2+\cdots+B_kx^{k+1}. $$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "238"
+    offset: "248"
+. id: "5e34f055ed69043973713c5d"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose the $n\times n$ matrix $A=A(t)$ is continuous on 
+   $(a,b)$. Then a set $\{{\bf y}_1,{\bf y}_2,\dots,{\bf 
+   y}_n\}$ of $n$ solutions of ${\bf y}'=A(t){\bf y}$ on 
+   $(a,b)$ is a fundamental set if and only if it's linearly 
+   independent on $(a,b)$."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "522"
+    offset: "532"
+. id: "5e34f055ed69043973713c6b"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "\begin{alist} \item If $$ \sum_{n=0}^\infty 
+   a_n(x-x_0)^n=\sum_{n=0}^\infty b_n(x-x_0)^n $$ for all $x$ 
+   in an open interval that contains $x_0$ then $a_n=b_n$ for 
+   $n=0$, $1$, $2$, \dots. \item If $$ \sum_{n=0}^\infty 
+   a_n(x-x_0)^n=0 $$ for all $x$ in an open interval that 
+   contains $x_0$ then $a_n=0$ for $n=0$, $1$, $2$, \dots. 
+   \end{alist}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "309"
+    offset: "319"
+. id: "5e34f055ed69043973713c6e"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose $P_0$, $P_1$, and $P_2$ are polynomials with no 
+   common factor and $P_0$ isn't identically zero. Let $x_0$ be
+   a point such that $P_0(x_0)\ne0$ and let $\rho$ be the 
+   distance from $x_0$ to the nearest zero of $P_0$ in the 
+   complex plane. (If $P_0$ is constant, then $\rho=\infty.)$ 
+   Then every solution of \begin{equation} 
+   P_0(x)y''+P_1(x)y'+P_2(x)y=0 \end{equation} can be 
+   represented by a power series \begin{equation} 
+   y=\sum_{n=0}^\infty a_n(x-x_0)^n \end{equation} that 
+   converges at least on the open interval 
+   $(x_0-\rho,x_0+\rho)$. ( If $P_0$ is nonconstant, so that 
+   $\rho$ is necessarily finite, then the open interval of 
+   convergence of $ $ may be larger than $(x_0-\rho,x_0+\rho)$ 
+   If $P_0$ is constant then $\rho=\infty$ and 
+   $(x_0-\rho,x_0+\rho)=(-\infty,\infty).)$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "319"
+    offset: "329"
+. id: "5e34f054ed69043973713c24"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose $f$ is continuous on $[0,\infty)$ and has a Laplace
+   transform. Then the solution of the initial value problem 
+   \begin{equation} ay''+by'+cy=f(t),\quad y(0)=k_0,\quad 
+   y'(0)=k_1, \end{equation} is \begin{equation} 
+   y(t)=k_0y_1(t)+k_1y_2(t)+\int_0^tw(\tau)f(t-\tau)\,d\tau, 
+   \end{equation} where $y_1$ and $y_2$ satisfy 
+   \begin{equation} ay_1''+by_1'+cy_1=0,\quad y_1(0)=1,\quad 
+   y_1'(0)=0, \end{equation} and \begin{equation} 
+   ay_2''+by_2'+cy_2=0,\quad y_2(0)=0,\quad y_2'(0)=1, 
+   \end{equation} and \begin{equation} w(t)={1\over a}y_2(t). 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "446"
+    offset: "456"
+. id: "5e34f055ed69043973713c54"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "\begin{alist} \item If $f$ is continuous on an open 
+   rectangle $$ R: \{ a < x < b, c < y < d \} $$ that contains 
+   $(x_0,y_0)$ then the initial value problem \begin{equation} 
+   y'=f(x,y), \quad y(x_0)=y_0 \end{equation} has at least one 
+   solution on some open subinterval of $(a,b)$ that contains 
+   $x_0$ \item If both $f$ and $f_y$ are continuous on $R$ then
+   has a unique solution on some open subinterval of $(a,b)$ 
+   that contains $x_0$. \end{alist}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "55"
+    offset: "65"
+. id: "5e34f055ed69043973713c3f"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "$[$The Convolution Theorem$]$ If ${\cal L}(f)=F$ and ${\cal
+   L}(g)=G$ then $$ {\cal L}(f*g)=FG. $$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "441"
+    offset: "451"
+. id: "5e34f055ed69043973713c53"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "For any power series $$ \sum_{n=0}^\infty a_n(x-x_0)^n, $$ 
+   exactly one of the these statements is true$:$ 
+   \begin{rmlist} \item The power series converges only for 
+   $x=x_0$ \item The power series converges for all values of 
+   $x$ \item There's a positive number $R$ such that the power 
+   series converges if $|x-x_0|<R$ and diverges if $|x-x_0|>R$ 
+   \end{rmlist}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "306"
+    offset: "316"
+. id: "5e34f055ed69043973713c65"
+. tag: "Differential Equations"
+
+
+
+ProtoTheorem:
+. "Suppose $Ly=F$ is normal on $(a,b)$ Let $y_p$ be a 
+   particular solution of $Ly=F$ on $(a,b)$ and let 
+   $\{y_1,y_2,\dots,y_n\}$ be a fundamental set of solutions of
+   the complementary equation $Ly=0$ on $(a,b)$. Then $y$ is a 
+   solution of $Ly=F$ on $(a,b)$ if and only if $$ 
+   y=y_p+c_1y_1+c_2y_2+\cdots+c_ny_n, $$ where 
+   $c_1,c_2,\dots,c_n$ are constants."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "471"
+    offset: "481"
+. id: "5e34f055ed69043973713c62"
+. tag: "Differential Equations"
+
+
+

@@ -1,0 +1,158 @@
+ProtoTheorem:
+. "Suppose that $n>2$. If $\mathbf{X}_{0}$ is a local extreme
+point of $f$ subject to $g_{1}(\mathbf{X})=g_{2}(\mathbf{X})=0$
+and
+$$
+  \left|
+    \begin{array}{c}
+      \displaystyle{\frac{{\partial g_{1}(\mathbf{X}_{0})}}{{\partial
+x_{r}}}}& \displaystyle{\frac{{\partial g_{1}(\mathbf{X}_{0})}}{{
+\partial x_{s}}}}\\\\ \displaystyle{\frac{{\partial g_{2}(\mathbf{
+X}_{0})}}{{\partial x_{r}}}}& \displaystyle{\frac{{\partial
+g_{2}(\mathbf{X}_{0})}}{{\partial x_{s}}}} \\
+    \end{array}
+  \right|\ne0
+$$
+for some $r$ and $s$ in $\{1,2,\dots,n\}$
+then there are constants $\lambda$ and $\mu$ such that
+$$
+  \frac{{\partial f(\mathbf{X}_{0})}}{{\partial x_{i}}}-
+\lambda\frac{{\partial g_{1}(\mathbf{X}_{0})}}{{\partial x_{i}}}-
+\mu\frac{{\partial g_{2}(\mathbf{X}_{0})}}{{\partial x_{i}}}=0,
+$$
+$1\le i\le n$."
+Metadata:
+. id: "5e33c07a981ec41bc6b278e4"
+. reference:
+  . source: "@TrenchLagrangeMultipliers"
+    page: "11"
+. tag: "Lagrange Multipliers"
+
+
+
+ProtoTheorem:
+. "Suppose that $n>1$.  If ${\bf X}_{0}$ is a local extreme
+point of $f$ subject to $g({\bf X})=0$ and
+$g_{x_{r}}({\bf X}_{0}) \ne 0$ for some $r\in\{1,2,\dots,n\}$
+then there is a constant $\lambda$ such that
+\begin{equation}
+  f_{x_{i}}(\mathbf{X}_{0})-\lambda g_{x_{i}}(\mathbf{X}_{0})=0,\quad
+\end{equation}
+$1\le i\le n$ thus, ${\bf X}_{0}$ is a critical point of $f-\lambda g$."
+Metadata:
+. id: "5e33c07a981ec41bc6b278e3"
+. reference:
+  . source: "@TrenchLagrangeMultipliers"
+    page: "4"
+. tag: "Lagrange Multipliers"
+
+
+
+ProtoTheorem:
+. "Suppose that $n>m$.  If ${\bf X}_{0}$ is a local extreme
+point of $f$ subject to
+$$
+  g_{1}(\mathbf{X})=g_{2}(\mathbf{X}) = \cdots =g_{m}(\mathbf{X})=0
+$$
+and
+$$
+  \left |
+    \begin{array}{c}
+      \displaystyle{\frac{\partial{g_{1}(\mathbf{X}_{0})}}{\partial{x_{r_{1}}}}} &
+\displaystyle{\frac{\partial{g_{1}(\mathbf{X}_{0})}}{
+\partial{x_{r_{2}}}}}& &\cdots & \displaystyle{\frac{
+\partial{g_{1}(\mathbf{X}_{0})}}{\partial{x_{r_{m}}}}} \\ \\
+\displaystyle{\frac{\partial{g_{2}(\mathbf{X}_{0})}}{
+\partial{x_{r_{1}}}}} & \displaystyle{\frac{
+\partial{g_{2}(\mathbf{X}_{0})}}{\partial{x_{r_{2}}}}}& &\cdots &
+\displaystyle{\frac{\partial{g_{m}(\mathbf{X}_{0})}}{
+\partial{x_{r_{m}}}}} & \\ \vdots & \vdots &&\ddots&\vdots\\
+\displaystyle{\frac{\partial{g_{m}(\mathbf{X}_{0})}}{
+\partial{x_{r_{1}}}}} & \displaystyle{\frac{
+\partial{g_{m}(\mathbf{X}_{0})}}{\partial{x_{r_{2}}}}}& &\cdots &
+\displaystyle{\frac{\partial{g_{m}(\mathbf{X}_{0})}}{
+\partial{x_{r_{m}}}}} & \end{array}\right|\ne 0
+$$
+for at least one choice of $r_{1}<r_{2}<\dots <r_{m}$ in
+$\{1,2,\dots,n\}$ then there are constants $\lambda_{1}$
+$\lambda_{2}$ \dots, $\lambda_{m}$ such that $\mathbf{X}_{0}$
+is a critical point of
+$$
+  f-\lambda_{1}g_{1}-\lambda_{2}g_{2}-\cdots-\lambda_{m}
+g_{m};
+$$
+that is,
+$$
+  \frac{\partial{f({\bf X}_{0})}}{\partial
+x_{i}} -\lambda_{1}\frac{\partial{g_{1}({\bf X}_{0})}}{\partial
+x_{i}} -\lambda_{2}\frac{\partial{g_{2}({\bf X}_{0})}}{\partial
+x_{i}}-\cdots -\lambda_{m}\frac{\partial{g_{m}({\bf X}_{0})}}{
+\partial x_{i}}=0,
+$$
+$1\le i\le n$."
+Metadata:
+. id: "5e33c07a981ec41bc6b278e2"
+. reference:
+  . source: "@TrenchLagrangeMultipliers"
+    page: "3"
+. tag: "Lagrange Multipliers"
+
+
+
+ProtoTheorem:
+. "Suppose that ${\bf A}=[a_{rs}]_{r,s=1}^{n} \in {\mathbb
+R}^{n\times n}$ is symmetric and let
+$$
+  Q({\bf x})=\sum_{r,s=1}^{n}a_{rs}x_{r}x_{s}.
+$$
+Suppose also that
+$$
+  {\bf x}_{1} = \left [
+                  \begin{array}{c}
+                    x_{11} \\
+                    x_{21} \\
+                    \vdots \\
+                    x_{n1}
+                  \end{array}
+                \right ]
+$$
+minimizes $Q$ subject to $\sum_{i=1}^{n}x_{i}^{2}$. For
+$2\le r\le n$, suppose that
+$$
+  {\bf x}_{r} = \left [
+                  \begin{array}{c}
+                    x_{1r}\\
+                    x_{2r}\\
+                    \vdots\\
+                    x_{nr}
+                  \end{array}
+                \right ],
+$$
+minimizes $Q$ subject to
+$$
+  \sum_{i=1}^{n}x_{i}^{2} =1 \; and \;\;
+  \sum_{i=1}^{n}x_{is}x_{i}=0,
+  \quad 1\le s\le r-1.
+$$
+Denote
+$$
+  \lambda_{r}=\sum_{i,j=1}^{n}a_{ij}x_{ir}x_{jr},
+  \quad
+  1\le r\le n.
+$$
+Then
+$$
+  \lambda_{1}\le \lambda_{2} \le \cdots\le \lambda_{n}
+  \; and\;\;
+  Ax_{r}=\lambda_{r}x_{r},
+  \quad 1\le r\le n.
+$$"
+Metadata:
+. id: "5e33c07a981ec41bc6b278e1"
+. reference:
+  . source: "@TrenchLagrangeMultipliers"
+    page: "20"
+. tag: "Lagrange Multipliers"
+
+
+

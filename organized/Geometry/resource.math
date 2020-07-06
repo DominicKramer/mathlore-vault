@@ -1,0 +1,42 @@
+[686e1e654cb6485bbfd5009d6511940d]
+Resource:
+. type: "Video"
+. name: "Geometry"
+. author: "Khan Academy"
+. homepage: "https://www.khanacademy.org/math/geometry"
+. url: "https://www.youtube.com/playlist?list=PL26812DF9846578C3"
+. related: "https://realnotcomplex.com/basics/geometry/geometry-by-khan-academy"
+Metadata:
+. tag: "Geometry"
+. id: "5ed493cc98316306ebe177e8"
+
+
+
+[88e632e928ad4a4086d651e1459a4cee]
+Resource:
+. type: "Book"
+. name: "Geometry Unbound"
+. author: "Kiran S. Kedlaya"
+. homepage: "https://kskedlaya.org/geometryunbound/"
+. url: "https://kskedlaya.org/geometryunbound/gu-060118.pdf"
+. related: "https://realnotcomplex.com/basics/geometry/geometry-unbound-by-kiran-s-kedlaya"
+Metadata:
+. tag: "Geometry"
+. id: "5ed493cc98316306ebe177e6"
+
+
+
+[91d4b61e4e4f4b09805ca6321dfe0f4b]
+Resource:
+. type: "Book"
+. name: "Elementary College Geometry"
+. author: "Henry Africk"
+. homepage: "https://academicworks.cuny.edu/ny_oers/6/"
+. url: "https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1007&context=ny_oers"
+. related: "https://realnotcomplex.com/basics/geometry/elementary-college-geometry-by-henry-africk"
+Metadata:
+. tag: "Geometry"
+. id: "5ed493cc98316306ebe177e7"
+
+
+

@@ -1,0 +1,255 @@
+ProtoTheorem:
+. "{\bf( Weierstrass's Test for Absolute Uniform Convergence 
+   I)} Suppose $M=M(x)$ is nonnegative on $[a,b)$ 
+   $\int_{a}^{b}M(x)\,dx<\infty$ and \begin{equation} |f(x,y)| 
+   \le M(x), \quad y\in S,\quad a\le x<b. \end{equation} Then 
+   $\int_{a}^{b}f(x,y)\,dx$ converges absolutely uniformly on 
+   $S$"
+Metadata:
+. reference:
+  . source: "@TrenchImproperFunctions"
+    page: "11"
+    offset: "11"
+. id: "5e33c04f981ec41bc6b278d2"
+. tag: "Improper Functions"
+
+
+
+ProtoTheorem:
+. "({\bf Dirichlet's Test for Uniform Convergence I}) If $g$ 
+   $g_{x}$ and $h$ are continuous on $[a,b)\times S$ then $$ 
+   \int_{a}^{b}g(x,y)h(x,y)\,dx $$ converges uniformly on $S$ 
+   if the following conditions are satisfied$:$ \begin{alist} 
+   \item $\displaystyle{\lim_{x\to b-}\left\{\sup_{y\in 
+   S}|g(x,y)|\right\}=0}$ \item There is a constant $M$ such 
+   that $$ \sup_{y\in S}\left|\int_{a}^{x}h(u,y)\,du\right|< M,
+   \quad a\le x<b; $$ \item $\int_{a}^{b}|g_{x}(x,y)|\,dx$ 
+   converges uniformly on $S$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchImproperFunctions"
+    page: "13"
+    offset: "13"
+. id: "5e33c04f981ec41bc6b278d5"
+. tag: "Improper Functions"
+
+
+
+ProtoTheorem:
+. "Let $f$ and $f_{y}$ be continuous on either $[a,b)\times 
+   [c,d]$ or $(a,b]\times [c,d]$ Suppose that the improper 
+   integral $$ F(y)=\int_{a}^{b}f(x,y)\,dx $$ converges for 
+   some $y_{0} \in [c,d]$ and $$ 
+   G(y)=\int_{a}^{b}f_{y}(x,y)\,dx $$ converges uniformly on 
+   $[c,d]$ Then $F$ converges uniformly on $[c,d]$ and is given
+   explicitly by $$ F(y)=F(y_{0})+\int_{y_{0}}^{y} 
+   G(t)\,dt,\quad c\le y\le d. $$ Moreover, $F$ is continuously
+   differentiable on $[c,d]$; specifically, \begin{equation} 
+   F'(y)=G(y), \quad c \le y \le d, \end{equation} where 
+   $F'(c)$ and $f_{y}(x,c)$ are derivatives from the right, and
+   $F'(d)$ and $f_{y}(x,d)$ are derivatives from the left."
+Metadata:
+. reference:
+  . source: "@TrenchImproperFunctions"
+    page: "18"
+    offset: "18"
+. id: "5e33c04f981ec41bc6b278db"
+. tag: "Improper Functions"
+
+
+
+ProtoTheorem:
+. "{\bf(Weierstrass's Test for Absolute Uniform Convergence 
+   II)} Suppose $M=M(x)$ is nonnegative on $(a,b]$ 
+   $\int_{a}^{b}M(x)\,dx<\infty$ and $$ |f(x,y)| \le M(x), 
+   \quad y\in S, \quad x\in (a,b]. $$ Then 
+   $\int_{a}^{b}f(x,y)\,dx$ converges absolutely uniformly on 
+   $S$."
+Metadata:
+. reference:
+  . source: "@TrenchImproperFunctions"
+    page: "12"
+    offset: "12"
+. id: "5e33c04f981ec41bc6b278d4"
+. tag: "Improper Functions"
+
+
+
+ProtoTheorem:
+. "If $f$ and $f_{y}$ are continuous on $[a,b]\times [c,d]$ 
+   then \begin{equation} F(y)=\int_{a}^{b}f(x,y)\,dx, \quad c 
+   \le y \le d, \end{equation} is continuously differentiable 
+   on $[c,d]$ and $F'(y)$ can be obtained by differentiating 
+   under the integral sign with respect to $y$ that is, 
+   \begin{equation} F'(y)=\int_{a}^{b}f_{y}(x,y)\,dx, \quad c 
+   \le y \le d. \end{equation} Here $F'(a)$ and $f_{y}(x,a)$ 
+   are derivatives from the right and $F'(b)$ and $f_{y}(x,b)$ 
+   are derivatives from the left."
+Metadata:
+. reference:
+  . source: "@TrenchImproperFunctions"
+    page: "2"
+    offset: "2"
+. id: "5e33c04f981ec41bc6b278dc"
+. tag: "Improper Functions"
+
+
+
+ProtoTheorem:
+. "If $f$ is continuous on $[0,\infty)$ and 
+   $H(x)=\int_{0}^{\infty}e^{-s_{0}u}f(u)\,du$ is bounded on 
+   $[0,\infty)$ then the Laplace transform of $f$ converges 
+   uniformly on $[s_{1},\infty)$ if $s_{1}>s_{0}$"
+Metadata:
+. reference:
+  . source: "@TrenchImproperFunctions"
+    page: "20"
+    offset: "20"
+. id: "5e33c050981ec41bc6b278df"
+. tag: "Improper Functions"
+
+
+
+ProtoTheorem:
+. "{\bf(Cauchy Criterion for Uniform Convergence I)} The 
+   improper integral in converges uniformly on $S$ if and only 
+   if, for each $\epsilon>0$ there is an $r_{0} \in [a,b)$ such
+   that \begin{equation} 
+   \left|\int_{r}^{r_{1}}f(x,y)\,dx\right|< \epsilon, \quad 
+   y\in S,\quad r_{0}\le r,r_{1}<b. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchImproperFunctions"
+    page: "7"
+    offset: "7"
+. id: "5e33c04f981ec41bc6b278ce"
+. tag: "Improper Functions"
+
+
+
+ProtoTheorem:
+. "If $f$ is continuous on $[0,\infty)$ and $$ 
+   H(x)=\int_{0}^{x}e^{-s_{0}u}f(u)\,du $$ is bounded on 
+   $[0,\infty)$ then the Laplace transform of $f$ is infinitely
+   differentiable on $(s_{0},\infty)$ with \begin{equation} 
+   F^{(n)}(s)=(-1)^{n}\int_{0}^{\infty} e^{-sx} x^{n}f(x)\,dx; 
+   \end{equation} that is, the $n$-th derivative of the Laplace
+   transform of $f(x)$ is the Laplace transform of 
+   $(-1)^{n}x^{n}f(x)$."
+Metadata:
+. reference:
+  . source: "@TrenchImproperFunctions"
+    page: "21"
+    offset: "21"
+. id: "5e33c04f981ec41bc6b278cc"
+. tag: "Improper Functions"
+
+
+
+ProtoTheorem:
+. "Suppose $g$ is locally integrable on $(a,b]$ and denote $$ 
+   G(r)=\int_{r}^{b}g(x)\,dx,\quad a\le r<b. $$ Then the 
+   improper integral $\int_{a}^{b}g(x)\,dx$ converges if and 
+   only if, for each $\epsilon >0$ there is an $r_{0}\in(a,b]$ 
+   such that $$ |G(r)-G(r_{1})|<\epsilon,\quad a<r,r_{1}\le 
+   r_{0}. $$"
+Metadata:
+. name: "Cauchy Criterion for Convergence of an Improper Integral II"
+. reference:
+  . source: "@TrenchImproperFunctions"
+    page: "6"
+    offset: "6"
+. id: "5e33c04f981ec41bc6b278cd"
+. tag: "Improper Functions"
+
+
+
+ProtoTheorem:
+. "If $f=f(x,y)$ is continuous on either $[a,b)\times [c,d]$ 
+   or $(a,b]\times [c,d]$ and \begin{equation} 
+   F(y)=\int_{a}^{b}f(x,y)\,dx \end{equation} converges 
+   uniformly on $[c,d]$ then $F$ is continuous on $[c,d]$ 
+   Moreover, \begin{equation} 
+   \int_{c}^{d}\left(\int_{a}^{b}f(x,y)\,dx\right)\,dy 
+   =\int_{a}^{b}\left(\int_{c}^{d}f(x,y)\,dy\right)\,dx. 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchImproperFunctions"
+    page: "15"
+    offset: "15"
+. id: "5e33c04f981ec41bc6b278da"
+. tag: "Improper Functions"
+
+
+
+ProtoTheorem:
+. "({\bf Dirichlet's Test for Uniform Convergence II}) If $g$ 
+   $g_{x}$ and $h$ are continuous on $(a,b]\times S$ then $$ 
+   \int_{a}^{b}g(x,y)h(x,y)\,dx $$ converges uniformly on $S$ 
+   if the following conditions are satisfied$:$ \begin{alist} 
+   \item $\displaystyle{\lim_{x\to a+}\left\{\sup_{y\in 
+   S}|g(x,y)|\right\}=0}$ \item There is a constant $M$ such 
+   that $$ \sup_{y\in S}\left|\int_{x}^{b}h(u,y)\,du\right| \le
+   M, \quad a< x\le b; $$ \item $\int_{a}^{b}|g_{x}(x,y)|\,dx$ 
+   converges uniformly on $S$. \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchImproperFunctions"
+    page: "15"
+    offset: "15"
+. id: "5e33c04f981ec41bc6b278d8"
+. tag: "Improper Functions"
+
+
+
+ProtoTheorem:
+. "{\bf (Cauchy Criterion for Uniform Convergence II)} The 
+   improper integral $$ \int_{a}^{b}f(x,y)\,dx =\lim_{r\to 
+   a+}\int_{r}^{b}f(x,y)\,dx $$ converges uniformly on $S$ if 
+   and only if, for each $\epsilon>0$ there is an $r_{0}\in 
+   (a,b]$ such that $$ \left|\int_{r_{1}}^{r}f(x,y)\,dx\right|<
+   \epsilon,\quad y\in S,\quad a <r,r_{1}\le r_{0}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchImproperFunctions"
+    page: "9"
+    offset: "9"
+. id: "5e33c04f981ec41bc6b278d0"
+. tag: "Improper Functions"
+
+
+
+ProtoTheorem:
+. "Suppose $g$ is locally integrable on $[a,b)$ and denote $$ 
+   G(r)=\int_{a}^{r}g(x)\,dx,\quad a\le r<b. $$ Then the 
+   improper integral $\int_{a}^{b}g(x)\,dx$ converges if and 
+   only if, for each $\epsilon >0$ there is an $r_{0}\in[a,b)$ 
+   such that \begin{equation} |G(r)-G(r_{1})|<\epsilon,\quad 
+   r_{0}\le r,r_{1}<b. \end{equation}"
+Metadata:
+. name: " Cauchy Criterion for Convergence of an Improper Integral I"
+. reference:
+  . source: "@TrenchImproperFunctions"
+    page: "5"
+    offset: "5"
+. id: "5e33c050981ec41bc6b278dd"
+. tag: "Improper Functions"
+
+
+
+ProtoTheorem:
+. "Suppose $f$ is locally integrable on $[0,\infty)$ and 
+   $|f(x)|\le M e^{s_{0}x}$ for sufficiently large $x$. Then 
+   the Laplace transform of $F$ converges uniformly on 
+   $[s_{1},\infty)$ if $s_{1}>s_{0}$."
+Metadata:
+. reference:
+  . source: "@TrenchImproperFunctions"
+    page: "20"
+    offset: "20"
+. id: "5e33c050981ec41bc6b278de"
+. tag: "Improper Functions"
+
+
+

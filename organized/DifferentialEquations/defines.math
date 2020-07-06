@@ -1,0 +1,190 @@
+ProtoDefines:
+. "A function $f$ is said to be \term{ of exponential order } 
+   $s_0$ if there are constants $M$ and $t_0$ such that 
+   \begin{equation} |f(t)|\le Me^{s_0t},\quad t\ge t_0. 
+   \end{equation} In situations where the specific value of 
+   $s_0$ is irrelevant we say simply that $f$ is \term{ of 
+   exponential order }."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "400"
+    offset: "410"
+. id: "5e34f054ed69043973713c32"
+. tag: "Differential Equations"
+
+
+
+ProtoDefines:
+. "The \term{ convolution } $f*g$ of two functions $f$ and $g$ 
+   is defined by $$ (f*g)(t)=\int_0^t f(\tau)g(t-\tau)\,d\tau. 
+   $$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "440"
+    offset: "450"
+. id: "5e34f054ed69043973713c35"
+. tag: "Differential Equations"
+
+
+
+ProtoDefines:
+. "An equation that can be written in the form 
+   \begin{equation} H(x,y,c)=0 \end{equation} is said to define
+   a \term{ one-parameter family of curves } if, for each value 
+   of $c$ in in some nonempty set of real numbers, the set of 
+   points $(x,y)$ that satisfy forms a curve in the 
+   $xy$-plane."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "178"
+    offset: "188"
+. id: "5e34f054ed69043973713c28"
+. tag: "Differential Equations"
+
+
+
+ProtoDefines:
+. "If every curve in a one-parameter family defined by the 
+   equation \begin{equation} H(x,y,c)=0 \end{equation} is an 
+   integral curve of the first order differential equation 
+   \begin{equation} F(x,y,y')=0, \end{equation} then is said to
+   be a \term{ differential equation for the family. }"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "179"
+    offset: "189"
+. id: "5e34f054ed69043973713c29"
+. tag: "Differential Equations"
+
+
+
+ProtoDefines:
+. "Let $f$ be defined for $t\ge0$ and let $s$ be a real 
+   number. Then the \term{ Laplace transform} of $f$ is the 
+   function $F$ defined by \begin{equation} F(s)=\int_0^\infty 
+   e^{-st} f(t)\,dt, \end{equation} for those values of $s$ for
+   which the improper integral converges."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "393"
+    offset: "403"
+. id: "5e34f054ed69043973713c30"
+. tag: "Differential Equations"
+
+
+
+ProtoDefines:
+. "Suppose $\alpha$ is a nonzero constant and $f$ is piecewise
+   continuous on $[0,\infty)$. If $t_0>0$, then the solution of
+   the initial value problem $$ 
+   ay''+by'+cy=f(t)+\alpha\delta(t-t_0), \quad y(0)=k_0,\quad 
+   y'(0)=k_1 $$ is defined to be $$ y(t)=\hat y(t)+\alpha 
+   u(t-t_0)w(t-t_0), $$ where $\hat y$ is the solution of $$ 
+   ay''+by'+cy=f(t), \quad y(0)=k_0,\quad y'(0)=k_1. $$ This 
+   definition also applies if $t_0=0$, provided that the 
+   initial condition $y'(0)=k_1$ is replaced by $y_-'(0)=k_1$."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "456"
+    offset: "466"
+. id: "5e34f054ed69043973713c38"
+. tag: "Differential Equations"
+
+
+
+ProtoDefines:
+. "If $t_0>0$, then the solution of the initial value problem 
+   \begin{equation} ay''+by'+cy=\delta(t-t_0), \quad 
+   y(0)=0,\quad y'(0)=0, \end{equation} is defined to be $$ 
+   y=u(t-t_0)w(t-t_0), $$ where $$ w={\cal L}^{-1}\left(1\over 
+   as^2+bs+c\right). $$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "455"
+    offset: "465"
+. id: "5e34f054ed69043973713c36"
+. tag: "Differential Equations"
+
+
+
+ProtoDefines:
+. "\begin{rmlist} \item A function $f$ is said to be \term{ 
+   piecewise continuous} on a finite closed interval $[0,T]$ if
+   $f(0+)$ and $f(T-)$ are finite and $f$ is continuous on the 
+   open interval $(0,T)$ except possibly at finitely many 
+   points, where $f$ may have jump discontinuities or removable
+   discontinuities. \item A function $f$ is said to be \term{ 
+   piecewise continuous} on the infinite interval $[0,\infty)$ 
+   if it's piecewise continuous on $[0,T]$ for every $T>0$. 
+   \end{rmlist}"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "399"
+    offset: "409"
+. id: "5e34f054ed69043973713c31"
+. tag: "Differential Equations"
+
+
+
+ProtoDefines:
+. "An \term{ Euler equation } is an equation that can be 
+   written in the form \begin{equation} ax^2y''+bxy'+cy=0, 
+   \end{equation} where $a,b$, and $c$ are real constants and 
+   $a\ne0$."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "343"
+    offset: "353"
+. id: "5e34f054ed69043973713c2e"
+. tag: "Differential Equations"
+
+
+
+ProtoDefines:
+. "An infinite series of the form \begin{equation} 
+   \sum_{n=0}^\infty a_n(x-x_0)^n, \end{equation} where $x_0$ 
+   and $a_0$, $a_1$ \dots, $a_n$ \dots are constants, is called
+   a \term{ power series } in $x-x_0$ We say that the power 
+   series \term{ converges } for a given $x$ if the limit $$ 
+   \lim_{N\to\infty} \sum_{n=0}^Na_n(x-x_0)^n $$ exists$; $ 
+   otherwise, we say that the power series \term{ diverges } for
+   the given $x$"
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "306"
+    offset: "316"
+. id: "5e34f054ed69043973713c2b"
+. tag: "Differential Equations"
+
+
+
+ProtoDefines:
+. "Let $P_0$, $P_1$, and $P_2$ be polynomials with no common 
+   factor and suppose $P_0(x_0)=0$. Then $x_0$ is a \term{ 
+   regular singular point } of the equation \begin{equation} 
+   P_0(x)y''+P_1(x)y'+P_2(x)y=0 \end{equation} if $ $ can be 
+   written as \begin{equation} 
+   (x-x_0)^2A(x)y''+(x-x_0)B(x)y'+C(x)y=0 \end{equation} where 
+   $A$, $B$, and $C$ are polynomials and $A(x_0)\ne0$; 
+   otherwise, $x_0$ is an \term{ irregular } singular point of 
+   ."
+Metadata:
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "342"
+    offset: "352"
+. id: "5e34f054ed69043973713c2c"
+. tag: "Differential Equations"
+
+
+
