@@ -982,3 +982,71 @@ Metadata:
 
 
 
+ProtoTheorem:
+. "Let $p$ be an odd prime. Then $$
+\left(\frac{2}{p}\right) = \begin{cases} 1 & if p\equiv \pm
+1\pmod{8}\\ -1 & if p\equiv \pm 3\pmod{8}. \end{cases} $$"
+Metadata:
+. id: "5e33c0f8981ec41bc6b27bc2"
+. name: "Legendre Symbol of 2"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "80"
+
+
+
+ProtoTheorem:
+. "Suppose $M$ and $N$
+are continuous and have continuous partial derivatives $M_y$
+and $N_x$ on an open rectangle $R$ Then $$
+M(x,y)\,dx+N(x,y)\,dy=0 $$ is exact on $R$ if and only if
+\begin{equation} M_y(x,y)=N_x(x,y) \end{equation} for all
+$(x,y)$ in $R$."
+Metadata:
+. id: "5e34f055ed69043973713c43"
+. name: "The Exactness Condition"
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "73"
+
+
+
+ProtoTheorem:
+. "Let $$ Ly=
+x^2(\alpha_0+\alpha_1x+\alpha_2x^2)y''+x(\beta_0+\beta_1x+\beta_2x^2)y'
++(\gamma_0+\gamma_1x+\gamma_2x^2)y, $$ and define
+$$
+p_0(r)=\alpha_0r(r-1)+\beta_0r+\gamma_0,\\
+p_1(r)=\alpha_1r(r-1)+\beta_1r+\gamma_1,\\
+p_2(r)=\alpha_2r(r-1)+\beta_2r+\gamma_2.
+$$
+Suppose the series
+$$ y=\sum_{n=0}^\infty a_nx^{n+r} $$
+converges on $(0,\rho)$. Then
+$$ Ly=\sum_{n=0}^\infty b_nx^{n+r} $$ on $(0,\rho)$ where
+$$
+b_0=p_0(r)a_0,\\
+b_1=p_0(r+1)a_1+p_1(r)a_0,\\
+b_n=p_0(n+r)a_n+p_1(n+r-1)a_{n-1}+p_2(n+r-2)a_{n-2},\quad
+n\ge2.
+$$"
+Metadata:
+. id: "5e34f054ed69043973713c2d"
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "348"
+
+
+
+ProtoTheorem:
+. "The position vector of an object moving under a central
+force sweeps out equal areas in equal times$ $ more
+precisely, if $\theta(t_1)\le\theta(t_2)$ then the (signed)
+area of the sector $$ \{(x,y)=(r\cos\theta,r\sin\theta)\;
+:\; 0\le r\le r(\theta),\; \theta(t_1)\le\theta(t_2)\} $$ is given by $$ A={h(t_2-t_1)\over2}, $$ where
+$h=r^2\theta'$ which we have shown to be constant."
+Metadata:
+. id: "5e34f055ed69043973713c63"
+. reference:
+  . source: "@ElementaryDiffEqnsWithBoundaryValueProblems"
+    page: "298"

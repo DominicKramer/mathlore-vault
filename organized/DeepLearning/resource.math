@@ -1,0 +1,35 @@
+
+[e4ab9c62199b4b2aa288df53161f28f5]
+Resource:
+. type: "Article"
+. name: "Neural Machine Translation and Sequence-to-sequence Models: A Tutorial"
+. author: "Graham Neubig"
+. homepage: "https://arxiv.org/abs/1703.01619"
+. url: "https://arxiv.org/pdf/1703.01619.pdf"
+. offset: "1"
+Metadata:
+. tag:
+  . "Machine Learning"
+  . "Deep Learning"
+  . "Natural Language Processing"
+. id: "5e8bf7f85d52fd7bf3ff32ce"
+
+
+
+[b73f985941714aeb897fb35bac292b27]
+Resource:
+. type: "Book"
+. name: "Dive into Deep Learning"
+. author:
+  . "Aston Zhang"
+  . "Zachary C. Lipton"
+  . "Mu Li"
+  . "and Alexander J. Smola"
+. homepage: "https://d2l.ai/"
+. url: "https://d2l.ai/d2l-en.pdf"
+. offset: "17"
+Metadata:
+. tag:
+  . "Deep Learning"
+  . "Machine Learning"
+. id: "5e83ebe3beba194f36a25e81"

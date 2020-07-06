@@ -1593,3 +1593,46 @@ Metadata:
 
 
 
+ProtoDefines:
+. "Let $S$ be a subset of ${\mathcal R}$. Then \begin{alist}
+\item $x_0$ is a \term{ limit point } of $S$ if every deleted
+neighborhood of $x_0$ contains a point of $S$. \item $x_0$
+is a \term{ boundary point } of $S$ if every neighborhood of
+$x_0$ contains at least one point in $S$ and one not in $S$.
+The set of boundary points of $S$ is the \term{ boundary } of
+$S$, denoted by $\partial S$. The \term{ closure } of $S$, denoted
+by $\overline{S}$, is $\overline{S}=S\cup \partial S$. \item
+$x_0$ is an \emph{isolated point} of $S$ if $x_0\in S$ and
+there is a neighborhood of $x_0$ that contains no other
+point of $S$. \item $x_0$ is \emph{exterior} to $S$ if $x_0$
+is in the interior of $S^c$. The collection of such points
+is the \term{ exterior } of $S$. \end{alist}"
+Metadata:
+. id: "5e33c092981ec41bc6b278f4"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "23"
+
+
+
+ProtoDefines:
+. "Let $f$ and $g$ be defined on $[a,b]$. We say that $f$ is
+\term{ Riemann-Stieltjes integrable} with respect
+to $g$ on $[a,b]$ if there is a number $L$ with the
+following property: For every $\epsilon>0$, there is a
+$\delta>0$ such that $$ \left|\sum_{j=1}^n
+f(c_j)\left[g(x_j)-g(x_{j-1})\right]-L \right|< \epsilon,
+$$ provided only that $P=\{x_0,x_1, \dots,x_n\}$
+is a partition of $[a,b]$ such that $\|P\|<\delta$ and $$
+x_{j-1}\le c_j\le x_j,\quad j=1,2, \dots,n. $$ In this case,
+we say that $L$ is \term{ the Riemann-Stieltjes integral of
+$f$ with respect to $g$ over } $[a,b]$, and write $$
+\int_a^b f(x)\,dg (x)=L. $$ The sum $$ \sum_{j=1}^n
+f(c_j)\left[g(x_j)-g(x_{j-1})\right] $$ in is \term{ a
+Riemann-Stieltjes sum of $f$ with respect to $g$ over the
+partition $P$ }."
+Metadata:
+. id: "5e33c092981ec41bc6b27925"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "126"

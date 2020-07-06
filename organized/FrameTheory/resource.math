@@ -1,0 +1,15 @@
+[9dbff6446e1a4aeaaea5ab251569b173]
+Resource:
+. type: "Article"
+. name: "Introduction to Finite Frame Theory"
+. author:
+  . "Peter G. Casazza"
+  . "Gitta Kutyniok"
+  . "Friedrich Philipp"
+. url: "https://www.math.tu-berlin.de/fileadmin/i26_fg-kutyniok/Kutyniok/Papers/IntroductionToFiniteFrames.pdf"
+. offset: "1"
+Metadata:
+. tag:
+  . "Frame Theory"
+  . "Hilbert Space"
+. id: "5ed5e64a8026ba6dd099fa80"
