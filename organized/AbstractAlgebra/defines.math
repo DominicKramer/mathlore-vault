@@ -1,0 +1,501 @@
+
+[\finite.group]
+Defines: G := (X, *, e)
+means:
+. 'G is \group'
+. 'X is \finite \set'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "36"
+    offset: "50"
+. id: "5e05ac2bb664bf5c9580606d"
+
+
+
+[\infinite.group]
+Defines: G := (X, *, e)
+means:
+. 'G is \group'
+. 'X is \infinite \set'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "36"
+    offset: "50"
+. id: "5e05ac2bb664bf5c9580606e"
+
+
+
+[\positive.integer]
+Defines: n
+means:
+. 'n is \integer'
+. 'n > 0'
+Metadata:
+. written: "\mathbb{Z}^+"
+. id: "5e05ac2ab664bf5c95806060"
+
+
+
+[\integer]
+Defines: n
+means:
+. "$n&$ is a whole number"
+Metadata:
+. id: "5e05ac2ab664bf5c9580605f"
+
+
+
+[\identity.matrix{n}]
+Defines: M(i, j)
+assuming:
+. 'i, j is \positive \integer'
+means:
+. 'M is \matrix'
+. if:
+  . 'i \neq j'
+  then:
+  . 'M(i, j) = 0'
+. 'M(i, i) = 1'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "35"
+    offset: "49"
+. id: "5e05ac2ab664bf5c95806066"
+
+
+
+[\nonzero]
+Defines: x
+means:
+. 'x \neq 0'
+Metadata:
+. id: "5e05ac2ab664bf5c95806061"
+
+
+
+[\invertible.matrix]
+Defines: M
+means:
+. 'M is \matrix'
+. exists: A
+  suchThat:
+  . 'M * A = \identity.matrix'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "35"
+    offset: "49"
+. id: "5e05ac2ab664bf5c95806068"
+
+
+
+[\division.with.identity.ring]
+Defines: R := (X, +, *, 0, 1)
+means:
+. 'R is \ring'
+. for: x
+  where:
+  . 'x \in X'
+  . 'x \neq 0'
+  then:
+  . 'x is \ring.unit:in{R}'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "200"
+    offset: "214"
+. id: "5e05ac2bb664bf5c95806076"
+
+
+
+[\ring]
+Defines: R := (X, +, *, 0)
+assuming:
+. 'X is \nonempty \set'
+. '+, * is \binary.operation:on{X}'
+means:
+. '(X, +, 0) is \abelian.group'
+. for: a, b, c
+  where:
+  . 'a, b, c \in X'
+  then:
+  . '(a*b)*c = a*(b*c)'
+. for: a, b, c
+  where:
+  . 'a, b, c \in X'
+  then:
+  . 'a*(b + c) = a*b + a*c'
+  . '(a + b)*c = a*c + b*c'
+Metadata:
+. id: "5e05ac2bb664bf5c95806071"
+. reference:
+  . source: "@AATA"
+    page: "199"
+. tag: "Ring Theory"
+
+
+
+[\field]
+Defines: F := (X, +, *, 0, 1)
+means:
+. '(X, +, *, 0) is \commutative \ring'
+. '(X, +, *, 0, 1) is \division \with.identity.ring'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "200"
+    offset: "214"
+. id: "5e05ac2bb664bf5c95806077"
+
+
+
+[\order.relation:on{F := (X, +, *, 0, 1)}]
+Defines: <
+assuming:
+. 'F is \field'
+means:
+. '< is \binary.operation:on{X}'
+. '< is \transitive.relation:on{X}'
+. for: a, b
+  where:
+  . 'a, b \in X'
+  then:
+  . or:
+    . 'a = b'
+    . 'a < b'
+    . 'b < a'
+. for: a, b, c
+  where:
+  . 'a, b, c \in X'
+  then:
+  . if:
+    . 'a < b'
+    then:
+    . 'a + c < b + c'
+. for: a, b, c
+  where:
+  . 'a, b, c \in X'
+  . '0 < c'
+  then:
+  . if:
+    . 'a < b'
+    then:
+    . 'a * c < b * c'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e05ac2bb664bf5c95806079"
+. tag: "Real Analysis"
+
+
+
+[\general.linear.group{n}:over{F}]
+Defines: X
+assuming:
+. or:
+  . 'F = \reals'
+  . 'F = \complexes'
+. 'n is \integer'
+means:
+. 'X = \set[M]{M}{M is \invertible.matrix}'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "35"
+    offset: "49"
+. id: "5e05ac2bb664bf5c95806069"
+
+
+
+[\group.order:of{G := (X, *)}]
+Defines: n
+assuming:
+. 'G is \group'
+means:
+. 'n = \set.cardinality:of{X}'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "36"
+    offset: "50"
+. id: "5e05ac2bb664bf5c9580606f"
+
+
+
+[\permutation:of{S}]
+Defines: f
+assuming:
+. 'S is \set'
+means:
+. 'f is \bijective \function:on{S}to{S}'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "9"
+    offset: "23"
+. id: "5e05ac2ab664bf5c9580605b"
+
+
+
+[\equivalence.relation:on{X}]
+Defines: R := {a, b}
+assuming:
+. 'X is \set'
+means:
+. 'R \subset (X \set.cartesian.product X)'
+. for: x
+  where:
+  . 'x \in X'
+  then:
+  . '(x, x) \in R'
+. for: x, y
+  where:
+  . 'x, y \in X'
+  then:
+  . if:
+    . '(x, y) \in R'
+    then:
+    . '(y, x) \in R'
+. for: x, y, z
+  where:
+  . 'x, y, z \in X'
+  then:
+  . if:
+    . '(x, y) \in R'
+    . '(y, z) \in R'
+    then:
+    . '(x, z) \in R'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "11"
+    offset: "25"
+. id: "5e05ac2ab664bf5c9580605e"
+
+
+
+[\abelian.group]
+Defines: G := (X, *, e)
+means:
+. 'G is \group'
+. for: a, b
+  where:
+  . 'a, b \in X'
+  then:
+  . 'a * b = b * a'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "34"
+    offset: "48"
+. id: "5e05ac2ab664bf5c95806064"
+
+
+
+[\group]
+Defines: G := (X, *, e)
+assuming:
+. 'X is \set'
+. '* is \binary.operator:on{X}'
+means:
+. for: a, b, c
+  where:
+  . 'a, b, c \in X'
+  then:
+  . '(a * b) * c = a * (b * c)'
+. 'e \in X'
+. for: a
+  where:
+  . 'x \in X'
+  then:
+  . 'a * e = e * a = a'
+. for: a
+  where:
+  . 'a \in X'
+  then:
+  . exists: b
+    suchThat:
+    . 'b \in X'
+    . 'a * b = b * a = e'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "34"
+    offset: "48"
+. id: "5e05ac2ab664bf5c95806063"
+
+
+
+[x \binary.operation:on{G} y]
+Defines: *
+assuming:
+. 'G is \set'
+means:
+. '* is \function:on{G \set.cartesian.product G}to{G}'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "33"
+    offset: "47"
+. id: "5e05ac2ab664bf5c95806062"
+
+
+
+[\matrix{m, n}:over{F}]
+Defines: M
+assuming:
+. 'F is \set'
+. 'm, n is \positive \integer'
+means:
+. "an $m&$ by $n&$ grid of elements from the set $F&$"
+Metadata:
+. id: "5e05ac2ab664bf5c95806065"
+
+
+
+[\with.unity.ring]
+Defines: R := (X, +, *, 0, 1)
+means:
+. 'R is \ring'
+. for: x
+  where:
+  . 'x \in X'
+  then:
+  . '1*x = x*1 = x'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "199"
+    offset: "213"
+. id: "5e05ac2bb664bf5c95806072"
+
+
+
+[\ring.unit:in{R := (X, +, *, 0, 1)}]
+Defines: u
+assuming:
+. 'R is \with.identity.ring'
+means:
+. 'u \neq 0'
+. exists: b
+  suchThat:
+  . 'b is \unique'
+  . 'u*b = b*u = 1'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "200"
+    offset: "214"
+. id: "5e05ac2bb664bf5c95806075"
+
+
+
+[\integral.domain]
+Defines: R := (X, +, *, 0, 1)
+means:
+. '(X, +, *, 0) is \commutative \ring'
+. '(X, +, *, 0, 1) is \with.unity \ring'
+. for: x, y
+  where:
+  . 'x, y \in X'
+  then:
+  . if:
+    . 'x*y = 0'
+    then:
+    . or:
+      . 'x = 0'
+      . 'y = 0'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "200"
+    offset: "214"
+. id: "5e05ac2bb664bf5c95806074"
+
+
+
+[\commutative.ring]
+Defines: R := (X, +, *, 0)
+means:
+. 'R is \ring'
+. for: x, y
+  where:
+  . 'x, y \in X'
+  then:
+  . 'x*y = y*x'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "199"
+    offset: "213"
+. id: "5e05ac2bb664bf5c95806073"
+
+
+
+[x \binary.operator:on{S} y]
+Defines: *
+assuming: 'S is \set'
+means:
+. 'S is \function:on{S \cartesian.set.product S}to{S}'
+Metadata:
+. reference:
+  . source: "@FriendlyIntroToAbstractAlgebra"
+    page: "9"
+
+
+
+[x \commutative.binary.operator:on{S} y]
+Defines: *
+assuming: 'S is \set'
+means:
+. '* is \binary.operator:on{S}'
+. for: x, y
+  where: 'x, y \in S'
+  then: 'x * y = y * x'
+Metadata:
+. reference:
+  . source: "@FriendlyIntroToAbstractAlgebra"
+    page: "11"
+
+
+
+[x \noncommutative.binary.operator:on{S} y]
+Defines: *
+assuming: 'S is \set'
+means:
+. '* is \binary.operator:on{S}'
+. exists: x, y
+  suchThat:
+  . 'x, y \in S'
+  . 'x * y \neq y * x'
+Metadata:
+. reference:
+  . source: "@FriendlyIntroToAbstractAlgebra"
+    page: "11"
+
+
+
+[\integers.modulo{n}]
+Defines: Zn
+assuming:
+. 'n is \positive.integer'
+. 'n \geq 2'
+means:
+. 'Zn := \finite.set:of{0...(n-1)}'
+
+
+
+[x \associative.binary.operator:on{S} y]
+Defines: *
+assuming: 'S is \set'
+means: 
+. '* is \binary.operator:on{S}'
+. for: x, y, z
+  where: 'x, y, z \in S'
+  then:
+  . 'x * (y * z) = (x * y) * z'

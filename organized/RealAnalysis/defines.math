@@ -1,0 +1,359 @@
+[\real.bounded.above.sequence:by{b}]
+Defines: S(n)
+assuming:
+. 'b is \real'
+means:
+. 'S is \sequence'
+. for: n
+  then:
+  . 'S(n) <= b'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "181"
+    offset: "190"
+    content: "Definition: A sequence $\{s_n\}$ is bounded above if there
+              is a real number $b$ such that $$ s_n\le b , $$ bounded
+              below if there is a real number $a$ such that $$ s_n\ge a ,
+              $$ or bounded if there is a real number $r$ such that $$
+              |s_n|\le r . $$"
+. id: "5e05ac2cb664bf5c9580608b"
+. tag: "Real Analysis"
+
+
+
+[\real.open.interval:on{a, b}]
+Defines: I
+assuming:
+. 'a, b is \real'
+means:
+. 'I := \set[x]{x}{x > a}{x < b}'
+Metadata:
+. id: "5e05ac2cb664bf5c95806085"
+
+
+
+[\real.bounded.above.sequence]
+Defines: S
+means:
+. exists: b
+  suchThat:
+  . 'S is \real.bounded.above.sequence:by{b}'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "181"
+    offset: "190"
+    content: "Definition: A sequence $\{s_n\}$ is bounded above if there
+              is a real number $b$ such that $$ s_n\le b , $$ bounded
+              below if there is a real number $a$ such that $$ s_n\ge a ,
+              $$ or bounded if there is a real number $r$ such that $$
+              |s_n|\le r . $$"
+. id: "5e05ac2cb664bf5c9580608c"
+. tag: "Real Analysis"
+
+
+
+[\real.bounded.sequence]
+Defines: S
+means:
+. exists: a, b
+  suchThat:
+  . 'S is \real.bounded.above.sequence:by{b}'
+  . 'S is \real.bounded.below.sequence:by{a}'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "181"
+    offset: "190"
+    content: "Definition: A sequence $\{s_n\}$ is bounded above if there
+              is a real number $b$ such that $$ s_n\le b , $$ bounded
+              below if there is a real number $a$ such that $$ s_n\ge a ,
+              $$ or bounded if there is a real number $r$ such that $$
+              |s_n|\le r . $$"
+. id: "5e05ac2cb664bf5c9580608d"
+. tag: "Real Analysis"
+
+
+
+[\real]
+Defines: r
+means:
+. 'r \in \reals'
+Metadata:
+. id: "5e05ac2bb664bf5c9580607d"
+
+
+
+[\reals]
+Defines: R
+means:
+. for: Rb := (X, +, *, 0, 1, <)
+  where:
+  . 'Rb is \real.field'
+  then:
+  . 'R := X'
+Metadata:
+. written: "\mathbb{R}"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e05ac2bb664bf5c9580607c"
+. tag: "Real Analysis"
+
+
+
+[\real.order]
+Defines: op
+means:
+. for: R := (X, +, *, 0, 1, <)
+  where:
+  . 'R is \real.field'
+  then:
+  . 'op := <'
+Metadata:
+. id: "5e05ac2bb664bf5c9580607e"
+
+
+
+[\real.field]
+Defines: R := (X, +, *, 0, 1, <)
+means:
+. 'R is \ordered.field'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e05ac2bb664bf5c9580607b"
+. tag: "Real Analysis"
+
+
+
+[\positive.infinity]
+Defines: X
+means:
+. for: x
+  then:
+  . 'X > x'
+Metadata:
+. written: "\infty"
+. id: "5ed5ebac8026ba6dd099fa85"
+
+
+
+[\metric:on{V}]
+Defines: d(x, y)
+assuming:
+. 'V is \nonempty.set'
+means:
+. 'd is \function:on{V \set.cartesian.product V}to{\closed.interval:above{\positive.infinity}}'
+. for: x
+  where:
+  . 'x \in V'
+  then:
+  . 'd(x, x) = 0'
+. for: x, y
+  where:
+  . 'x, y \in V'
+  then:
+  . if:
+    . 'd(x, y) = 0'
+    then:
+    . 'x = y'
+. for: x, y
+  where:
+  . 'x, y \in V'
+  then:
+  . 'd(x, y) = d(y, x)'
+. for: x, y, z
+  where:
+  . 'x, y, z \in V'
+  then:
+  . 'd(x, z) \leq d(x, y) + d(y, z)'
+Metadata:
+. reference:
+  . source: "@ecc9fb0f941d470294559182b484e9b4"
+    offset: "147"
+. id: "5ed5ebac8026ba6dd099fa83"
+
+
+
+[\closed.interval:above{a}]
+Defines: X
+assuming:
+. 'a is \real'
+means:
+. 'X is \set[x]{x}{x \geq a}'
+Metadata:
+. written:
+  . "[a&"
+  . " \infty)"
+. tag:
+  . "Analysis"
+  . "Real Analysis"
+. id: "5ed5ebac8026ba6dd099fa84"
+
+
+
+[\real.open.interval]
+Defines: I
+means:
+. exists: a, b
+  suchThat:
+  . 'I is \real.open.interval:on{a, b}'
+Metadata:
+. id: "5e05ac2cb664bf5c95806086"
+
+
+
+[\uniformly.continuous.function:on{S}]
+Defines: f(x)
+assuming:
+. 'S \subset \function.domain:of{f}'
+means:
+. for: epsilon
+  where:
+  . 'epsilon > 0'
+  then:
+  . exists: delta
+    suchThat:
+    . 'delta > 0'
+    . for: x, y
+      where:
+      . 'x, y \in S'
+      then:
+      . if:
+        . '\abs{x - y} < delta'
+        then:
+        . '\abs{f(x) - f(y)} < epsilon'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "65"
+    offset: "74"
+    content: "Definition: A function $f$ is uniformly continuous on a
+              subset $S$ of its domain if, for every $\epsilon >0$, there
+              is a $\delta>0$ such that $$ |f(x)-f(x')|<\epsilon \
+              |x-x'|<\delta \ x,x'\in S. \eqno{ } $$"
+. id: "5e05ac2cb664bf5c95806088"
+. tag: "Real Analysis"
+
+
+[\real.bounded.below.sequence]
+Defines: S
+means:
+. exists: a
+  suchThat:
+  . 'S is \real.bounded.below.sequence:by{a}'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "181"
+    offset: "190"
+    content: "Definition: A sequence $\{s_n\}$ is bounded above if there
+              is a real number $b$ such that $$ s_n\le b , $$ bounded
+              below if there is a real number $a$ such that $$ s_n\ge a ,
+              $$ or bounded if there is a real number $r$ such that $$
+              |s_n|\le r . $$"
+. id: "5e05ac2cb664bf5c9580608a"
+. tag: "Real Analysis"
+
+
+
+[\real.bounded.below.sequence:by{a}]
+Defines: S(n)
+assuming:
+. 'a is \real'
+means:
+. 'S is \sequence'
+. for: n
+  then:
+  . 'S(n) >= a'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "181"
+    offset: "190"
+    content: "Definition: A sequence $\{s_n\}$ is bounded above if there
+              is a real number $b$ such that $$ s_n\le b , $$ bounded
+              below if there is a real number $a$ such that $$ s_n\ge a ,
+              $$ or bounded if there is a real number $r$ such that $$
+              |s_n|\le r . $$"
+. id: "5e05ac2cb664bf5c95806089"
+. tag: "Real Analysis"
+
+
+
+[\real.dense.set]
+Defines: D
+means:
+. 'D is \set'
+. for: I
+  where:
+  . 'I is \real.open.interval'
+  then:
+  . exists: x
+    suchThat:
+    . 'x \in I'
+    . 'x \in D'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "5"
+    offset: "14"
+    content: "Definition: A set $D$ is dense in the reals if every open
+              interval $(a,b)$ contains a member of $D$."
+. id: "5e05ac2cb664bf5c95806087"
+. tag: "Real Analysis"
+
+
+
+[\metric.space]
+Defines: (V, d)
+means:
+. 'V is \nonempty.set'
+. 'd is \metric:on{V}'
+Metadata:
+. id: "5ed5ebac8026ba6dd099fa86"
+. reference:
+  . source: "@ecc9fb0f941d470294559182b484e9b4"
+
+
+
+[\explicit.finite.hilbert.space{n}]
+Defines: H
+assuming:
+. 'n is \positive.integer'
+means:
+. or:
+  . 'H is \finite.hilbert.space{n}:over{\reals}'
+  . 'H is \finite.hilbert.space{n}:over{\complexes}'
+Metadata:
+. name: "Real or Complex $N$-dimensional Hilbert Space"
+. written: "\mathcal{H}^{N&}"
+. reference:
+  . source: "@9dbff6446e1a4aeaaea5ab251569b173"
+    page: "5"
+. tag: "Frame Theory"
+. id: "5ed5e6fc8026ba6dd099fa81"
+
+
+
+[\ordered.field]
+Defines: (X, +, *, 0, 1, <)
+means:
+. for: F
+  where:
+  . 'F := (X, +, *, 0, 1)'
+  then:
+  . 'F is \field'
+  . '< is \order.relation:on{F}'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e05ac2bb664bf5c9580607a"
+. tag: "Real Analysis"

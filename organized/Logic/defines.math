@@ -1,0 +1,20 @@
+[\or{X}...]
+Represents:
+that:
+. or:
+  . expands: X...
+    as: X
+Metadata:
+. written: "X{...\text{ or }...}?"
+
+
+
+[\exsts{x...}:suchThat{y}...]
+Represents:
+that:
+. exists: x...
+  suchThat:
+  . expands: y...
+    as: y
+Metadata:
+. written: "\exists \: x{...,...}? \: \text{ such that } y{...\text{ and }...}?"

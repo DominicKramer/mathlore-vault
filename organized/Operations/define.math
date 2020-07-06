@@ -1,0 +1,130 @@
+[a < b]
+Defines: <
+means:
+. if:
+  . 'a, b is \real'
+  then:
+  . '< := \real.order'
+Metadata:
+. id: "5e05ac2cb664bf5c9580607f"
+
+
+
+[a \gt b]
+Defines: gt
+means:
+. 'gt := >'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e05ac2cb664bf5c95806082"
+. tag: "Real Analysis"
+
+
+
+[a >= b]
+Defines: >=
+means:
+. or:
+  . 'a > b'
+  . 'a = b'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e05ac2cb664bf5c95806084"
+. tag: "Real Analysis"
+
+
+
+[a <= b]
+Defines: <=
+means:
+. or:
+  . 'a < b'
+  . 'a = b'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e05ac2cb664bf5c95806083"
+. tag: "Real Analysis"
+
+
+
+[x \neq y]
+Represents:
+that:
+. 'x != y'
+Metadata:
+. written: "x& \neq y&"
+. id: "5e05ac2cb664bf5c95806091"
+
+
+
+[a \lt b]
+Defines: lt
+means:
+. 'lt := <'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e05ac2cb664bf5c95806080"
+. tag: "Real Analysis"
+
+
+
+[A * B]
+Defines: *
+means:
+. if:
+  . 'A, B is \matrix'
+  then:
+  . 'A * B is \matrix'
+Metadata:
+. id: "5e05ac2ab664bf5c95806067"
+
+
+
+[\transitive.relation:on{X}]
+Defines: <
+assuming:
+. 'X is \set'
+means:
+. '< is \binary.operation:on{X}'
+. for: a, b, c
+  where:
+  . 'a, b, c \in X'
+  then:
+  . if:
+    . 'a < b'
+    . 'b < c'
+    then:
+    . 'a < c'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e05ac2bb664bf5c95806078"
+. tag: "Real Analysis"
+
+
+
+[a > b]
+Defines: >
+means:
+. 'b < a'
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e05ac2cb664bf5c95806081"
+. tag: "Real Analysis"

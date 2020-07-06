@@ -1,0 +1,191 @@
+
+[\set]
+Defines: X
+means:
+. "$X?$ is well defined collection of objects"
+Metadata:
+. id: "5e05ac29b664bf5c9580604d"
+. reference:
+  . source: "@AATA"
+    page: "3"
+    offset: "17"
+
+
+
+[\set.cardinality:of{X}]
+Defines: n
+assuming:
+. 'X is \set'
+means:
+. "$n?$ is the number of elements in $X?$"
+Metadata:
+. id: "5e05ac2bb664bf5c9580606c"
+
+
+
+[\set[x...]:of{form...}where{condition}...]
+Defines: A := {a...#form...}
+means:
+. expands: a..., form...
+  as:
+  . 'a := form'
+. expands: condition...
+  as: condition
+Metadata:
+. written: "\left \{ form{...,...}? \: : \: condition{...\text{ and }...}? \right \}"
+. id: "5e07a7be0fa6157d55509a7e"
+
+
+
+[A \proper.subset B]
+Represents:
+assuming:
+. 'A, B is \set'
+that:
+. 'A \subset B'
+. 'A \neq B'
+Metadata:
+. written: "A& \subsetneq B&"
+. reference:
+  . source: "@AATA"
+    page: "4"
+    offset: "18"
+. id: "5e05ac2cb664bf5c95806092"
+
+
+
+[a \in X]
+Represents:
+assuming:
+. 'X is \set'
+that:
+. "$a&$ is an element of $X&$"
+Metadata:
+. written: "a& \in X&"
+. reference:
+  . source: "@AATA"
+    page: "4"
+    offset: "18"
+. id: "5e05ac2cb664bf5c9580608f"
+
+
+
+[x \notin X]
+Represents:
+assuming:
+. 'X is \set'
+that:
+. not:
+  . 'x \in X'
+Metadata:
+. written: "x& \notin X&"
+. id: "5e05ac2cb664bf5c95806093"
+
+
+
+[A \subset B]
+Represents:
+assuming:
+. 'A, B is \set'
+that:
+. for: a
+  where:
+  . 'a \in A'
+  then:
+  . 'a \in B'
+Metadata:
+. written: "A& \subset B&"
+. reference:
+  . source: "@AATA"
+    page: "4"
+    offset: "18"
+. id: "5e05ac2cb664bf5c95806090"
+
+
+
+[A \intersect B]
+Defines: C := {c}
+assuming:
+. 'A, B is \set'
+means:
+. 'C is \set'
+. 'c \in A'
+. 'c \in B'
+Metadata:
+. id: "5e05ac29b664bf5c95806050"
+. written: "A?? \cap B??"
+. reference:
+  . source: "@AATA"
+    page: "4"
+
+
+
+[\disjoint.set]
+Defines: (A, B)
+assuming:
+. 'A, B is \set'
+means:
+. '(A \intersect B) = \empty.set'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "5"
+    offset: "19"
+. id: "5e05ac29b664bf5c95806051"
+
+
+
+[\infinite.set]
+Defines: X
+means:
+. 'X is \set'
+. not:
+  . 'X is \finite \set'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "36"
+    offset: "50"
+. id: "5e05ac2bb664bf5c9580606b"
+
+
+
+[\nonempty.set]
+Defines: X
+means:
+. 'X is \set'
+. exists: x
+  suchThat:
+  . 'x \in X'
+Metadata:
+. id: "5e05ac2bb664bf5c95806070"
+
+
+
+[\finite.set]
+Defines: X
+means:
+. 'X is \set'
+. "$X&$ has a finite number of elements"
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "36"
+    offset: "50"
+. id: "5e05ac2bb664bf5c9580606a"
+
+
+
+[A \set.difference B]
+Defines: C := {c}
+assuming:
+. 'A, B is \set'
+means:
+. 'c \in A'
+. 'c \notin B'
+Metadata:
+. id: "5e05ac29b664bf5c95806053"
+. written: "A?? \setminus B??"
+. reference:
+  . source: "@AATA"
+    page: "5"

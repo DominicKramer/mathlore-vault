@@ -1,0 +1,258 @@
+[\function:on{A}to{B}]
+Defines: f(x)
+assuming: 'A, B is \set'
+means:
+. for: a
+  where: 'a \in A'
+  then: 'f(a) \in B'
+. for: a, b1, b2
+  where:
+  . 'a \in A'
+  . 'b, b2 \in B'
+  . 'f(a) = b1'
+  . 'f(a) = b2'
+  then:
+  . 'b1 = b2'
+Metadata:
+. id: "5e05ac2cb664bf5c9580608e"
+. written: "\cdot : A? \rightarrow B?"
+
+
+
+[\function]
+Defines: f
+means:
+. exists: A, B
+  suchThat:
+  . 'A, B is \set'
+  . 'f is \function:on{A}to{B}'
+
+
+
+[\function.domain:of{f}]
+Defines: D
+assuming:
+. exists: X, Y
+  suchThat:
+  . 'f is \function:on{X}to{Y}'
+means:
+. 'D is \set'
+. 'D = X'
+Metadata:
+. written: "\text{Dom}(f?)"
+
+
+
+[\function.range:of{f}]
+Defines: R
+assuming:
+. exists: X, Y
+  suchThat:
+  . 'f is \function:on{X}to{Y}'
+means:
+. 'R := \set[y]:of{y}where{y \in Y}{\exsts{x}:suchThat{x \in X}{f(x) = y}}'
+Metadata:
+. written: "\text{Range}(f?)"
+. reference:
+  . source: "@AATA"
+    page: "7"
+    offset: "21"
+. id: "5e05ac2ab664bf5c95806056"
+
+
+
+[\injective.function:on{A}to{B}]
+Defines: f
+means:
+. 'f is \function:on{A}to{B}'
+. for: a1, a2
+  where:
+  . 'a1, a2 \in A'
+  then:
+  . if:
+    . 'a1 \neq a2'
+    then:
+    . 'f(a1) \neq f(a2)'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "8"
+    offset: "22"
+. id: "5e05ac2ab664bf5c95806058"
+
+
+
+[g \of f]
+Defines: h(x)
+assuming:
+. for: A, B, C
+  where:
+  . 'A, B, C is \set'
+  then:
+  . 'f is \function:on{A}to{B}'
+  . 'g is \function:on{B}to{C}'
+means:
+. 'h is \function:on{A}to{C}'
+. 'h(x) = g(f(x))'
+Metadata:
+. id: "5e05ac2ab664bf5c9580605a"
+. written: "g?? \circ f??"
+. reference:
+  . source: "@AATA"
+    page: "8"
+
+
+
+[\bijective.function]
+Defines: f
+means:
+. 'f is \injective \surjective \function'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "8"
+    offset: "22"
+. id: "5e05ac2ab664bf5c95806059"
+
+
+
+[\surjective.function:on{A}to{B}]
+Defines: f
+means:
+. 'f is \function:on{A}to{B}'
+. for: b
+  where:
+  . 'b \in B'
+  then:
+  . exists: a
+    suchThat:
+    . 'f(a) = b'
+Metadata:
+. reference:
+  . source: "@AATA"
+    page: "8"
+    offset: "22"
+. id: "5e05ac2ab664bf5c95806057"
+
+
+
+[A \union B]
+Defines: C := {c}
+assuming:
+. 'A, B is \set'
+means:
+. 'C is \set'
+. or:
+  . 'c \in A'
+  . 'c \in B'
+Metadata:
+. id: "5e05ac29b664bf5c9580604f"
+. written: "A?? \cup B??"
+. reference:
+  . source: "@AATA"
+    page: "4"
+
+
+
+[\complement:of{A}in{U}]
+Defines: X := {x}
+assuming:
+. 'A, U is \set'
+means:
+. 'x \in U'
+. 'x \notin A'
+Metadata:
+. id: "5e05ac29b664bf5c95806052"
+. written: "A??^C"
+. reference:
+  . source: "@AATA"
+    page: "5"
+
+
+
+[\function.domain:of{f}]
+Defines: X
+assuming:
+. for: A, B
+  where:
+  . 'A, B is \set'
+  then:
+  . 'f is \function:on{A}to{B}'
+means:
+. 'X := A'
+Metadata:
+. id: "5e05ac2ab664bf5c95806055"
+. written: "\textrm{Dom}(f?)"
+. reference:
+  . source: "@AATA"
+    page: "7"
+
+
+[\inverse.function:of{f}]
+Defines: g(x)
+assuming:
+. for: A, B
+  where:
+  . 'A, B is \set'
+  then:
+  . 'f is \function:on{A}to{B}'
+means:
+. 'g is \function:on{B}to{A}'
+. '(g \of f) = \identity.function:on{A}'
+Metadata:
+. id: "5e05ac2ab664bf5c9580605d"
+. written: "f??^{-1}"
+. reference:
+  . source: "@AATA"
+    page: "10"
+
+
+[\identity.function:on{A}]
+Defines: f(x)
+assuming:
+. 'A \in \set'
+means:
+. 'f is \function:on{A}to{A}'
+. for: x
+  then:
+  . 'f(x) = x'
+Metadata:
+. written: "\textrm{Id}"
+. reference:
+  . source: "@AATA"
+    page: "10"
+    offset: "24"
+. id: "5e05ac2ab664bf5c9580605c"
+
+
+
+[A \set.cartesian.product B]
+Defines: C := {x, y}
+assuming:
+. 'A, B is \set'
+means:
+. 'x \in A'
+. 'y \in B'
+Metadata:
+. id: "5e05ac2ab664bf5c95806054"
+. written: "A?? \times B??"
+. reference:
+  . source: "@AATA"
+    page: "6"
+
+
+[\empty.set]
+Defines: E
+means:
+. 'E is \set'
+. not:
+  . exists: x
+    suchThat:
+    . 'x \in E'
+Metadata:
+. written: "\emptyset"
+. reference:
+  . source: "@AATA"
+    page: "4"
+    offset: "18"
+. id: "5e05ac29b664bf5c9580604e"

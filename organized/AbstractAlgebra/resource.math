@@ -273,3 +273,10 @@ Metadata:
 
 
 
+[FriendlyIntroToAbstractAlgebra]
+Resource:
+. type: "book"
+. name: "A Friendly Introduction to Abstract Algebra"
+. author: "Emma Norbrothen Wright"
+. url: "https://digitalcommons.plymouth.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1002&context=oer"
+. offset: "14"
