@@ -1,0 +1,82 @@
+[0c87ea5b175e41f18ab5468f270d0cd6]
+Resource:
+. type: "Book"
+. name: "Mathematics for Machine Learning"
+. author: "Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong"
+. homepage: "https://mml-book.com"
+. url: "https://mml-book.github.io/book/mml-book.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/statistical-and-machine-learning/mathematics-for-machine-learning-by-marc-peter-deisenroth-and-a-aldo-faisal-and-cheng-soon-ong"
+Metadata:
+. tag: "Statistical & Machine Learning"
+. id: "5ed493cc98316306ebe17871"
+
+
+
+[aff2a0cbe60b40c5ba6e7f169e66c92c]
+Resource:
+. type: "Book"
+. name: "The Elements of Statistical Learning: Data Mining, Inference, and Prediction"
+. author: "Trevor Hastie, Robert Tibshirani, Jerome Friedman"
+. homepage: "https://web.stanford.edu/~hastie/ElemStatLearn/"
+. url: "https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/statistical-and-machine-learning/the-elements-of-statistical-learning-data-mining-inference-and-prediction-by-trevor-hastie-and-robert-tibshirani-and-jerome-friedman"
+Metadata:
+. tag: "Statistical & Machine Learning"
+. id: "5ed493cc98316306ebe17870"
+
+
+
+[972db605bed740b7bf4b570f3a44b02f]
+Resource:
+. type: "Book"
+. name: "Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning"
+. author: "Jean Gallier, Jocelyn Quaintance"
+. homepage: "https://www.cis.upenn.edu/~jean/gbooks/geomath.html"
+. related: "https://realnotcomplex.com/probability-and-statistics/statistical-and-machine-learning/algebra-topology-differential-calculus-and-optimization-theory-for-computer-science-and-machine-learning-by-jean-gallier-and-jocelyn-quaintance"
+Metadata:
+. tag: "Statistical & Machine Learning"
+. id: "5ed493cc98316306ebe17872"
+
+
+
+[fef167c524bd47a38828ef03ee7e756b]
+Resource:
+. type: "Video"
+. name: "Matrix Methods in Data Analysis, Signal Processing, and Machine Learning"
+. author: "MIT OCW, Gilbert Strang"
+. homepage: "https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/"
+. url: "https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k"
+. related: "https://realnotcomplex.com/probability-and-statistics/statistical-and-machine-learning/matrix-methods-in-data-analysis-signal-processing-and-machine-learning-by-mit-ocw-and-gilbert-strang"
+Metadata:
+. tag: "Statistical & Machine Learning"
+. id: "5ed493cc98316306ebe17874"
+
+
+
+[56ed4545b7a743c8a0147ef73c2311bd]
+Resource:
+. type: "Lecture Notes"
+. name: "Statistical Learning Theory"
+. author: "Percy Liang"
+. url: "https://web.stanford.edu/class/cs229t/notes.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/statistical-and-machine-learning/statistical-learning-theory-by-percy-liang"
+Metadata:
+. tag: "Statistical & Machine Learning"
+. id: "5ed493cc98316306ebe17873"
+
+
+
+[a8038406fecd43f693ecc89e9197cdb8]
+Resource:
+. type: "Book"
+. name: "An Introduction to Statistical Learning with Applications in R"
+. author: "Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani"
+. homepage: "http://faculty.marshall.usc.edu/gareth-james/ISL/"
+. url: "http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/statistical-and-machine-learning/an-introduction-to-statistical-learning-with-applications-in-r-by-gareth-james-and-daniela-witten-and-trevor-hastie-and-robert-tibshirani"
+Metadata:
+. tag: "Statistical & Machine Learning"
+. id: "5ed493cc98316306ebe1786f"
+
+
+

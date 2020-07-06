@@ -1,0 +1,54 @@
+[3c1d841d256749d680aabc7acec19ef4]
+Resource:
+. type: "Lecture Notes"
+. name: "Galois Theory"
+. author: "Richard Koch"
+. url: "https://pages.uoregon.edu/koch/Galois.pdf"
+. related: "https://realnotcomplex.com/algebra/galois-theory/galois-theory-by-richard-koch"
+Metadata:
+. tag: "Galois Theory"
+. id: "5ed493cc98316306ebe17849"
+
+
+
+[8c848f670a3b464b814b0854bdf2bca2]
+Resource:
+. type: "Book"
+. name: "Galois Theory Through Exercises"
+. author: "Juliusz Brzezinski"
+. url: "https://web.archive.org/web/20181123162205/http://www.math.chalmers.se/Math/Grundutb/GU/MMA310/A15/GaloisBookAug2015Student.pdf"
+. related: "https://realnotcomplex.com/algebra/galois-theory/galois-theory-through-exercises-by-juliusz-brzezinski"
+Metadata:
+. tag: "Galois Theory"
+. id: "5ed493cc98316306ebe17847"
+
+
+
+[67f97f3b0fc243cdbfd32e74a045f0d7]
+Resource:
+. type: "Book"
+. name: "Fields and Galois Theory"
+. author: "J.S. Milne"
+. homepage: "https://www.jmilne.org/math/CourseNotes/ft.html"
+. url: "https://www.jmilne.org/math/CourseNotes/FT.pdf"
+. related: "https://realnotcomplex.com/algebra/galois-theory/fields-and-galois-theory-by-js-milne"
+Metadata:
+. tag: "Galois Theory"
+. id: "5ed493cc98316306ebe17846"
+
+
+
+[5eded2eb303a4574bcc21a3cd95bd819]
+Resource:
+. type: "Book"
+. name: "Galois Theory - A First Course"
+. author: "Brent Everitt"
+. homepage: "https://arxiv.org/abs/1804.04657"
+. url: "https://arxiv.org/pdf/1804.04657.pdf"
+. related: "https://realnotcomplex.com/algebra/galois-theory/galois-theory---a-first-course-by-brent-everitt"
+Metadata:
+. tag: "Galois Theory"
+. id: "5ed493cc98316306ebe17848"
+
+
+

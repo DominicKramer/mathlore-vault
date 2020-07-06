@@ -1,0 +1,82 @@
+[5ea55120e0a94835be2a46da87fdab31]
+Resource:
+. type: "Article"
+. name: "Weierstrass Theorems and Rings of Holomorphic Functions"
+. author: "Yifei Zhao"
+. url: "http://people.math.harvard.edu/~yifei/Weierstrass_theorems.pdf"
+. offset: "1"
+Metadata:
+. id: "5ee3e56a8026ba6dd099fa8f"
+. tag:
+  . "Real Analysis"
+  . "Complex Analysis"
+
+
+
+[eae961f512ad47f59e3134f71c7b08d4]
+Resource:
+. type: "Book"
+. name: "A First Course in Complex Analysis"
+. author: "Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka"
+. homepage: "http://math.sfsu.edu/beck/complex.html"
+. url: "http://math.sfsu.edu/beck/papers/complex.pdf"
+. related: "https://realnotcomplex.com/analysis/complex-analysis/a-first-course-in-complex-analysis-by-matthias-beck-and-gerald-marchesi-and-dennis-pixton-and-lucas-sabalka"
+Metadata:
+. tag: "Complex Analysis"
+. id: "5ed493cc98316306ebe1780a"
+
+
+
+[936ab53d0ae84a2d93410b84f436ddfb]
+Resource:
+. type: "Video"
+. name: "Analysis of a Complex Kind"
+. author: "Petra Bonfert-Taylor"
+. homepage: "https://www.coursera.org/learn/complex-analysis"
+. url: "https://www.youtube.com/playlist?list=PLi7yHjesblV0sSfZzWdSUXGO683n_nJdQ"
+. related: "https://realnotcomplex.com/analysis/complex-analysis/analysis-of-a-complex-kind-by-petra-bonfert-taylor"
+Metadata:
+. tag: "Complex Analysis"
+. id: "5ed493cc98316306ebe1780e"
+
+
+
+[b8d176899b964eae9717315e168e5a3a]
+Resource:
+. type: "Lecture Notes"
+. name: "Complex Analysis"
+. author: "Donald E. Marshall"
+. url: "https://web.archive.org/web/20150620124453/https://www.math.washington.edu/~marshall/math_536/Notes.pdf"
+. related: "https://realnotcomplex.com/analysis/complex-analysis/complex-analysis-by-donald-e-marshall"
+Metadata:
+. tag: "Complex Analysis"
+. id: "5ed493cc98316306ebe1780b"
+
+
+
+[f7e5d8f13d644622a0d01886205a2699]
+Resource:
+. type: "Lecture Notes"
+. name: "Complex Variables"
+. author: "Richard Koch"
+. url: "https://pages.uoregon.edu/koch/ComplexVariables.pdf"
+. related: "https://realnotcomplex.com/analysis/complex-analysis/complex-variables-by-richard-koch"
+Metadata:
+. tag: "Complex Analysis"
+. id: "5ed493cc98316306ebe1780c"
+
+
+
+[6fbb5816a5f4403d8e529cbc5011a6ca]
+Resource:
+. type: "Lecture Notes"
+. name: "An Introduction to Complex Analysis and Geometry"
+. author: "John P. D’Angelo"
+. url: "https://faculty.math.illinois.edu/~jpda/jpd-complex-geometry-book-5-refs-bip.pdf"
+. related: "https://realnotcomplex.com/analysis/complex-analysis/an-introduction-to-complex-analysis-and-geometry-by-john-p-dangelo"
+Metadata:
+. tag: "Complex Analysis"
+. id: "5ed493cc98316306ebe1780d"
+
+
+

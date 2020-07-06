@@ -1,0 +1,85 @@
+[a0a4e44ce13743309b4b6def607263fd]
+Resource:
+. type: "Video"
+. name: "Probability and Statistics"
+. author: "David Spiegelhalter"
+. homepage: "http://video-courses.aims.ac.za/"
+. url: "https://www.youtube.com/playlist?list=PLTBqohhFNBE9jRhvdtnuxj9FiOtDOnqoy"
+. related: "https://realnotcomplex.com/probability-and-statistics/probability-theory/probability-and-statistics-by-david-spiegelhalter"
+Metadata:
+. tag: "Probability Theory"
+. id: "5ed493cc98316306ebe17864"
+
+
+
+[1416240111eb434a9795972ca4e6fd15]
+Resource:
+. type: "Video"
+. name: "Probability"
+. author: "Khan Academy"
+. homepage: "https://www.khanacademy.org/math/statistics-probability"
+. url: "https://www.youtube.com/playlist?list=PLC58778F28211FA19"
+. related: "https://realnotcomplex.com/probability-and-statistics/probability-theory/probability-by-khan-academy"
+Metadata:
+. tag: "Probability Theory"
+. id: "5ed493cc98316306ebe17863"
+
+
+
+[bea1ff3e77eb47498ab3645cbb811116]
+Resource:
+. type: "Video"
+. name: "Probabilistic Systems Analysis and Applied Probability"
+. author: "MIT OCW, John Tsitsiklis, Qing He, Jimmy Li, Jagdish Ramakrishnan, Katie Szeto, Kuang Xu"
+. homepage: "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/"
+. url: "https://www.youtube.com/playlist?list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe"
+. related: "https://realnotcomplex.com/probability-and-statistics/probability-theory/probabilistic-systems-analysis-and-applied-probability-by-mit-ocw-and-john-tsitsiklis-and-qing-he-and-jimmy-li-and-jagdish-ramakrishnan-and-others"
+Metadata:
+. tag: "Probability Theory"
+. id: "5ed493cc98316306ebe17862"
+
+
+
+[be41d0a24de84ff582ceb7fb62e18cbf]
+Resource:
+. type: "Book"
+. name: "Basic Probability Theory"
+. author: "Robert B. Ash"
+. homepage: "https://faculty.math.illinois.edu/~r-ash/BPT.html"
+. url: "https://faculty.math.illinois.edu/~r-ash/BPT/BPT.pdf"
+. related:
+  . "https://realnotcomplex.com/probability-and-statistics/probability-theory/basic-probability-theory-by-robert-b-ash"
+  . "https://faculty.math.illinois.edu/~r-ash/BPT/BPTSolMan.pdf"
+Metadata:
+. tag: "Probability Theory"
+. id: "5ed493cc98316306ebe1785f"
+
+
+
+[c006e0667f454b4f80fe03af50333375]
+Resource:
+. type: "Video"
+. name: "Introduction to Probability"
+. author: "MIT OCW, John Tsitsiklis, Patrick Jaillet"
+. homepage: "https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/"
+. url: "https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6"
+. related: "https://realnotcomplex.com/probability-and-statistics/probability-theory/introduction-to-probability-by-mit-ocw-and-john-tsitsiklis-and-patrick-jaillet"
+Metadata:
+. tag: "Probability Theory"
+. id: "5ed493cc98316306ebe17860"
+
+
+
+[7cf376870520421292f025335e52be78]
+Resource:
+. type: "Lecture Notes"
+. name: "A Short Introduction to Probability"
+. author: "Dirk P. Kroese"
+. url: "https://people.smp.uq.edu.au/DirkKroese/asitp.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/probability-theory/a-short-introduction-to-probability-by-dirk-p-kroese"
+Metadata:
+. tag: "Probability Theory"
+. id: "5ed493cc98316306ebe17861"
+
+
+

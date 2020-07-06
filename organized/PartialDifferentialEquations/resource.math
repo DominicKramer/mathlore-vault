@@ -1,0 +1,41 @@
+[f314cf9a29e14aad82a298230d5bcebf]
+Resource:
+. type: "Lecture Notes"
+. name: "Partial Differential Equations"
+. author: "Erich Miersemann"
+. url: "http://www.math.uni-leipzig.de/~miersemann/pdebook.pdf"
+. related: "https://realnotcomplex.com/differential-equations/partial-differential-equations/partial-differential-equations-by-erich-miersemann"
+Metadata:
+. tag: "Partial Differential Equations"
+. id: "5ed493cc98316306ebe178b0"
+
+
+
+[570e1b402d074535bf4f1d1127f1e026]
+Resource:
+. type: "Book"
+. name: "An Introduction to Partial Differential Equations"
+. author: "Per Kristen Jakobsen"
+. homepage: "https://arxiv.org/abs/1901.03022"
+. url: "https://arxiv.org/pdf/1901.03022.pdf"
+. related: "https://realnotcomplex.com/differential-equations/partial-differential-equations/an-introduction-to-partial-differential-equations-by-per-kristen-jakobsen"
+Metadata:
+. tag: "Partial Differential Equations"
+. id: "5ed493cc98316306ebe178af"
+
+
+
+[b512c71e37424e719ee5b2228a40c80d]
+Resource:
+. type: "Lecture Notes"
+. name: "Notes on Partial Differential Equations"
+. author: "John K. Hunter"
+. homepage: "https://www.math.ucdavis.edu/~hunter/pdes/pdes.html"
+. url: "https://www.math.ucdavis.edu/~hunter/pdes/pde_notes.pdf"
+. related: "https://realnotcomplex.com/differential-equations/partial-differential-equations/notes-on-partial-differential-equations-by-john-k-hunter"
+Metadata:
+. tag: "Partial Differential Equations"
+. id: "5ed493cc98316306ebe178b1"
+
+
+

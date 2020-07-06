@@ -1,0 +1,244 @@
+[TrenchLagrangeMultipliers]
+Resource:
+. type: "Book"
+. name: "The Method of Lagrange Multipliers"
+. author: "William F. Trench"
+. date: "null"
+. url: "http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_LAGRANGE_MULTIPLIERS.PDF"
+. offset: "0"
+Metadata:
+. id: "5e33c07a981ec41bc6b278e5"
+. tag:
+  . "Real Analysis"
+  . "Analysis"
+  . "Lagrange Multipliers"
+
+
+
+[ElementaryDiffEqnsWithBoundaryValueProblems]
+Resource:
+. type: "Book"
+. name: "Elementary Differential Equations with Boundary Value Problems"
+. author: "William F. Trench"
+. date: "December 2013"
+. url: "https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?article=1008&context=mono"
+. offset: "10"
+Metadata:
+. id: "5e34f054ed69043973713c26"
+. tag:
+  . "Analysis"
+  . "Real Analysis"
+  . "Differential Equations"
+
+
+
+[de9e49fb2c3041df9a45ae38ec255354]
+Resource:
+. type: "Lecture Notes"
+. name: "Lecture Notes in Real Analysis"
+. author: "Eric T. Sawyer"
+. url: "http://ms.mcmaster.ca/~sawyer/Publications/Real_Analysis.pdf"
+. related: "https://realnotcomplex.com/analysis/real-analysis/lecture-notes-in-real-analysis-by-eric-t-sawyer"
+Metadata:
+. tag: "Real Analysis"
+. id: "5ed493cc98316306ebe17808"
+
+
+
+[058b8a8e214344a984f5eae4313a0fa2]
+Resource:
+. type: "Lecture Notes"
+. name: "Introduction to Real Analysis"
+. author: "John K. Hunter"
+. homepage: "https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.html"
+. url: "https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.pdf"
+. related: "https://realnotcomplex.com/analysis/real-analysis/introduction-to-real-analysis-by-john-k-hunter"
+Metadata:
+. tag: "Real Analysis"
+. id: "5ed493cc98316306ebe177fd"
+
+
+
+[c968c1a2be6e4399b146fe7744f4c4b5]
+Resource:
+. type: "Book"
+. name: "Modern Real Analysis"
+. author: "William P. Ziemer, Monica Torres"
+. url: "https://www.math.purdue.edu/~torresm/pubs/Modern-real-analysis.pdf"
+. related: "https://realnotcomplex.com/analysis/real-analysis/modern-real-analysis-by-william-p-ziemer-and-monica-torres"
+Metadata:
+. tag: "Real Analysis"
+. id: "5ed493cc98316306ebe17806"
+
+
+
+[bee2e76ed6304f44b936107a58dfec61]
+Resource:
+. type: "Book"
+. name: "Introduction to Mathematical Analysis I"
+. author: "Beatriz Lafferriere, Gerardo Lafferriere, Nguyen Mau Nam"
+. homepage: "https://pdxscholar.library.pdx.edu/pdxopen/12/"
+. url: "https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1015&context=pdxopen"
+. related: "https://realnotcomplex.com/analysis/real-analysis/introduction-to-mathematical-analysis-i-by-beatriz-lafferriere-and-gerardo-lafferriere-and-nguyen-mau-nam"
+Metadata:
+. tag: "Real Analysis"
+. id: "5ed493cc98316306ebe17801"
+
+
+
+[be87853b0e744f86aa2400a0f829aec8]
+Resource:
+. type: "Book"
+. name: "Mathematical Analysis"
+. author: "Elias Zakon"
+. url: "http://www.trillia.com/dA/zakon-analysisI-a4-one.pdf"
+. related: "https://realnotcomplex.com/analysis/real-analysis/mathematical-analysis-by-elias-zakon"
+Metadata:
+. tag: "Real Analysis"
+. id: "5ed493cc98316306ebe17800"
+
+
+
+[c63e4b496973483ba0423833d72c963d]
+Resource:
+. type: "Book"
+. name: "Real analysis for Graduate Students"
+. author: "Richard F. Bass"
+. homepage: "http://bass.math.uconn.edu/real.html"
+. url: "http://bass.math.uconn.edu/v41.pdf"
+. related: "https://realnotcomplex.com/analysis/real-analysis/real-analysis-for-graduate-students-by-richard-f-bass"
+Metadata:
+. tag: "Real Analysis"
+. id: "5ed493cc98316306ebe17807"
+
+
+
+[87c1b78b17e442059b1963c12f8d52bf]
+Resource:
+. type: "Book"
+. name: "Basic Analysis: Introduction to Real Analysis"
+. author: "Jiří Lebl"
+. homepage: "https://www.jirka.org/ra/"
+. related: "https://realnotcomplex.com/analysis/real-analysis/basic-analysis-introduction-to-real-analysis-by-jiří-lebl"
+Metadata:
+. tag: "Real Analysis"
+. id: "5ed493cc98316306ebe177fe"
+
+
+
+[242559b5621f40c98fe19e26acb629c2]
+Resource:
+. type: "Other"
+. name: "Real Analysis"
+. author: "Curtis T. McMullen"
+. url: "http://people.math.harvard.edu/~ctm/papers/home/text/class/harvard/114/course/course.pdf"
+. related: "https://realnotcomplex.com/analysis/real-analysis/real-analysis-by-curtis-t-mcmullen"
+Metadata:
+. tag: "Real Analysis"
+. id: "5ed493cc98316306ebe17809"
+
+
+
+[TrenchRealAnalysis]
+Resource:
+. type: "Book"
+. name: "Introduction to Real Analysis"
+. author: "William F. Trench"
+. date: "December 2013"
+. url: "https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?article=1006&context=mono"
+. offset: "9"
+Metadata:
+. id: "5e33c092981ec41bc6b278e9"
+. tag:
+  . "Analysis"
+  . "Real Analysis"
+
+
+
+[TrenchImproperFunctions]
+Resource:
+. type: "Book"
+. name: "Functions Defined By Improper Integrals"
+. author: "William F. Trench"
+. date: "null"
+. url: "http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_IMPROPER_FUNCTIONS.PDF"
+. offset: "0"
+Metadata:
+. id: "5e33c04f981ec41bc6b278cf"
+. tag:
+  . "Real Analysis"
+  . "Improper Functions"
+  . "Analysis"
+
+
+
+[2683185e90a84f94a09ae9f100b423dd]
+Resource:
+. type: "Book"
+. name: "Analysis of Functions of a Single Variable"
+. author: "Lawrence Baggett"
+. homepage: "https://spot.colorado.edu/~baggett/analysis.html"
+. url: "https://spot.colorado.edu/~baggett/book.pdf"
+. related: "https://realnotcomplex.com/analysis/real-analysis/analysis-of-functions-of-a-single-variable-by-lawrence-baggett"
+Metadata:
+. tag: "Real Analysis"
+. id: "5ed493cc98316306ebe17802"
+
+
+
+[1042791c9a6947fdb2a55a6b06a1d4c1]
+Resource:
+. type: "Book"
+. name: "Advanced Real Analysis"
+. author: "Anthony W. Knapp"
+. homepage: "http://www.math.stonybrook.edu/~aknapp/download.html"
+. url: "http://www.math.stonybrook.edu/~aknapp/download/a2-1-realanal-coverandinside.pdf"
+. related: "https://realnotcomplex.com/analysis/real-analysis/advanced-real-analysis-by-anthony-w-knapp"
+Metadata:
+. tag: "Real Analysis"
+. id: "5ed493cc98316306ebe17805"
+
+
+
+[1676a56fcecb4530bef7fee4bd616611]
+Resource:
+. type: "Book"
+. name: "Basic Real Analysis"
+. author: "Anthony W. Knapp"
+. homepage: "http://www.math.stonybrook.edu/~aknapp/download.html"
+. url: "http://www.math.stonybrook.edu/~aknapp/download/b2-realanal-coverandinside.pdf"
+. related: "https://realnotcomplex.com/analysis/real-analysis/basic-real-analysis-by-anthony-w-knapp"
+Metadata:
+. tag: "Real Analysis"
+. id: "5ed493cc98316306ebe17804"
+
+
+
+[3765684d9a044a87949d7f6304170169]
+Resource:
+. type: "Book"
+. name: "How We Got from There to Here: A Story of Real Analysis"
+. author: "Eugene Boman, Robert Rogers"
+. homepage: "https://textbooks.opensuny.org/how-we-got-from-there-to-here-a-story-of-real-analysis/"
+. url: "https://textbooks.opensuny.org/download/asora_ebook-pdf/"
+. related: "https://realnotcomplex.com/analysis/real-analysis/how-we-got-from-there-to-here-a-story-of-real-analysis-by-eugene-boman-and-robert-rogers"
+Metadata:
+. tag: "Real Analysis"
+. id: "5ed493cc98316306ebe17803"
+
+
+
+[371691f4c35b4db6a1a929f05c9d2c92]
+Resource:
+. type: "Book"
+. name: "Elementary Real Analysis"
+. author: "Brian S. Thomson, Judith B. Bruckner, Andrew M. Bruckner"
+. homepage: "http://classicalrealanalysis.info/com/Elementary-Real-Analysis.php"
+. url: "http://classicalrealanalysis.info/com/documents/TBB-AllChapters-Portrait.pdf"
+. related: "https://realnotcomplex.com/analysis/real-analysis/elementary-real-analysis-by-brian-s-thomson-and-judith-b-bruckner-and-andrew-m-bruckner"
+Metadata:
+. tag: "Real Analysis"
+. id: "5ed493cc98316306ebe177ff"
+
+
+

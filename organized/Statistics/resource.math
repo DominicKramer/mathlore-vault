@@ -1,0 +1,134 @@
+[1275c1033a4f44e9ab18184c8d8f33f1]
+Resource:
+. type: "Video"
+. name: "Statistics for Applications"
+. author: "MIT OCW, Philippe Rigollet"
+. homepage: "https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/"
+. url: "https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0"
+. related: "https://realnotcomplex.com/probability-and-statistics/statistics/statistics-for-applications-by-mit-ocw-and-philippe-rigollet"
+Metadata:
+. tag: "Statistics"
+. id: "5ed493cc98316306ebe1786c"
+
+
+
+[eb7bbf434d604090aead2b22fa89e7f7]
+Resource:
+. type: "Video"
+. name: "Statistics"
+. author: "Professor Leonard"
+. url: "https://www.youtube.com/playlist?list=PL5102DFDC6790F3D0"
+. related: "https://realnotcomplex.com/probability-and-statistics/statistics/statistics-by-professor-leonard"
+Metadata:
+. tag: "Statistics"
+. id: "5ed493cc98316306ebe1786d"
+
+
+
+[7900f9c8a94f41db87c072b51898b364]
+Resource:
+. type: "Other"
+. name: "Theory of Statistics"
+. author: "Joseph C. Watkins"
+. url: "https://www.math.arizona.edu/~jwatkins/notests.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/statistics/theory-of-statistics-by-joseph-c-watkins"
+Metadata:
+. tag: "Statistics"
+. id: "5ed493cc98316306ebe17865"
+
+
+
+[abf2c9efb20949a983c910743623beed]
+Resource:
+. type: "Video"
+. name: "Probability and Statistics"
+. author: "David Spiegelhalter"
+. homepage: "http://video-courses.aims.ac.za/"
+. url: "https://www.youtube.com/playlist?list=PLTBqohhFNBE9jRhvdtnuxj9FiOtDOnqoy"
+. related: "https://realnotcomplex.com/probability-and-statistics/statistics/probability-and-statistics-by-david-spiegelhalter"
+Metadata:
+. tag: "Statistics"
+. id: "5ed493cc98316306ebe1786e"
+
+
+
+[d735404ebd3f4ddfa3ccb3fa2cd1cd27]
+Resource:
+. type: "Other"
+. name: "Statistical Theory"
+. author: "Adolfo J. Rumbos"
+. homepage: "http://pages.pomona.edu/~ajr04747/Fall2009/Math152/Notes/Math152Fall09NotesPage.html"
+. url: "http://pages.pomona.edu/~ajr04747/Fall2009/Math152/Notes/Math152NotesFall09.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/statistics/statistical-theory-by-adolfo-j-rumbos"
+Metadata:
+. tag: "Statistics"
+. id: "5ed493cc98316306ebe1786b"
+
+
+
+[83f059b2132a4a60afc646d5a7588e76]
+Resource:
+. type: "Lecture Notes"
+. name: "Lectures on Statistics"
+. author: "Robert B. Ash"
+. homepage: "https://faculty.math.illinois.edu/~r-ash/Stat.html"
+. related: "https://realnotcomplex.com/probability-and-statistics/statistics/lectures-on-statistics-by-robert-b-ash"
+Metadata:
+. tag: "Statistics"
+. id: "5ed493cc98316306ebe17869"
+
+
+
+[b59a0f2b2185402c895da1efbcfccb85]
+Resource:
+. type: "Book"
+. name: "Introduction to Statistical Thought"
+. author: "Michael Lavine"
+. homepage: "https://people.math.umass.edu/~lavine/Book/book.html"
+. url: "https://people.math.umass.edu/~lavine/Book/book.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/statistics/introduction-to-statistical-thought-by-michael-lavine"
+Metadata:
+. tag: "Statistics"
+. id: "5ed493cc98316306ebe17867"
+
+
+
+[702bea1e083a4962b05530761fe8bb75]
+Resource:
+. type: "Other"
+. name: "Lecture Notes on Statistical Theory"
+. author: "Ryan Martin"
+. url: "http://homepages.math.uic.edu/~rgmartin/Teaching/Stat411/Notes/411notes.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/statistics/lecture-notes-on-statistical-theory-by-ryan-martin"
+Metadata:
+. tag: "Statistics"
+. id: "5ed493cc98316306ebe1786a"
+
+
+
+[8f1852a330094ca19f9314abf290fd14]
+Resource:
+. type: "Other"
+. name: "Introduction to Statistics and Data Analysis for Physicists"
+. author: "Gerhard Bohm, Günter Zech"
+. url: "http://www-library.desy.de/preparch/books/vstatmp_engl.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/statistics/introduction-to-statistics-and-data-analysis-for-physicists-by-gerhard-bohm-and-günter-zech"
+Metadata:
+. tag: "Statistics"
+. id: "5ed493cc98316306ebe17866"
+
+
+
+[9d4dc670f8c4417e8ba38f2ffa0933fa]
+Resource:
+. type: "Book"
+. name: "Lies, Damned Lies, or Statistics: How to Tell the Truth with Statistics"
+. author: "Jonathan A. Poritz"
+. url: "https://www.poritz.net/jonathan/share/ldlos.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/statistics/lies-damned-lies-or-statistics-how-to-tell-the-truth-with-statistics-by-jonathan-a-poritz"
+Metadata:
+. tag: "Statistics"
+. id: "5ed493cc98316306ebe17868"
+
+
+

@@ -1,0 +1,119 @@
+[1fd514dde30f47afbff754c91735759e]
+Resource:
+. type: "Lecture Notes"
+. name: "Lectures on Stochastic Processes"
+. author: "K. Ito"
+. url: "http://www.math.tifr.res.in/~publ/ln/tifr24.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/stochastic-processes/lectures-on-stochastic-processes-by-k-ito"
+Metadata:
+. tag: "Stochastic Processes"
+. id: "5ed493cc98316306ebe1787a"
+
+
+
+[73e65f7f801347b08eacc2bd231314c9]
+Resource:
+. type: "Book"
+. name: "An Introduction to Stochastic Processes in Continuous Time"
+. author: "Flora Spieksma"
+. url: "http://pub.math.leidenuniv.nl/~spieksmafm/colleges/sp-master/sp-hvz1.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/stochastic-processes/an-introduction-to-stochastic-processes-in-continuous-time-by-flora-spieksma"
+Metadata:
+. tag: "Stochastic Processes"
+. id: "5ed493cc98316306ebe17876"
+
+
+
+[31c6f18d900b49868df385ca737eb503]
+Resource:
+. type: "Book"
+. name: "Convergence of Stochastic Processes"
+. author: "David Pollard"
+. url: "http://www.stat.yale.edu/~pollard/Books/1984book/pollard1984.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/stochastic-processes/convergence-of-stochastic-processes-by-david-pollard"
+Metadata:
+. tag: "Stochastic Processes"
+. id: "5ed493cc98316306ebe17878"
+
+
+
+[f9624ad6ca2142dea4f8c1a7328c2a5c]
+Resource:
+. type: "Lecture Notes"
+. name: "Probability and Stochastic Processes with Applications"
+. author: "Oliver Knill"
+. url: "http://people.math.harvard.edu/~knill/teaching/math144_1994/probability.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/stochastic-processes/probability-and-stochastic-processes-with-applications-by-oliver-knill"
+Metadata:
+. tag: "Stochastic Processes"
+. id: "5ed493cc98316306ebe17879"
+
+
+
+[2419affb22b546819a3fd01d63c3dfe6]
+Resource:
+. type: "Book"
+. name: "Markov Chains and Mixing Times"
+. author: "David A. Levin, Yuval Peres, Elizabeth L. Wilmer"
+. homepage: "https://pages.uoregon.edu/dlevin/MARKOV/"
+. url: "https://pages.uoregon.edu/dlevin/MARKOV/mcmt2e.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/stochastic-processes/markov-chains-and-mixing-times-by-david-a-levin-and-yuval-peres-and-elizabeth-l-wilmer"
+Metadata:
+. tag: "Stochastic Processes"
+. id: "5ed493cc98316306ebe17877"
+
+
+
+[ec4b427d751746d0b96eace7d50a7fc0]
+Resource:
+. type: "Book"
+. name: "Applied Stochastic Processes in Science and Engineering"
+. author: "Matt Scott"
+. url: "https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/stochastic-processes/applied-stochastic-processes-in-science-and-engineering-by-matt-scott"
+Metadata:
+. tag: "Stochastic Processes"
+. id: "5ed493cc98316306ebe17875"
+
+
+
+[e125ca0467dd493a939044a2b1f36e3b]
+Resource:
+. type: "Lecture Notes"
+. name: "Stochastic Processes"
+. author: "Amir Dembo, Kevin Ross"
+. homepage: "http://statweb.stanford.edu/~adembo/math-136/"
+. url: "http://statweb.stanford.edu/~adembo/math-136/nnotes.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/stochastic-processes/stochastic-processes-by-amir-dembo-and-kevin-ross"
+Metadata:
+. tag: "Stochastic Processes"
+. id: "5ed493cc98316306ebe1787b"
+
+
+
+[50938062c012480a9b741d13337a1a4b]
+Resource:
+. type: "Other"
+. name: "Lecture Notes on Stochastic Processes"
+. author: "Frank Noé, Bettina Keller, Jan-Hendrik Prinz"
+. url: "http://www.mi.fu-berlin.de/wiki/pub/CompMolBio/MarkovKetten15/stochastic_processes_2011.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/stochastic-processes/lecture-notes-on-stochastic-processes-by-frank-noé-and-bettina-keller-and-jan-hendrik-prinz"
+Metadata:
+. tag: "Stochastic Processes"
+. id: "5ed493cc98316306ebe1787c"
+
+
+
+[033f915e9f7547a08cf4f2e25b9c25a5]
+Resource:
+. type: "Other"
+. name: "Introduction to Stochastic Processes"
+. author: "Gordan Žitković"
+. url: "https://web.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf"
+. related: "https://realnotcomplex.com/probability-and-statistics/stochastic-processes/introduction-to-stochastic-processes-by-gordan-žitković"
+Metadata:
+. tag: "Stochastic Processes"
+. id: "5ed493cc98316306ebe1787d"
+
+
+

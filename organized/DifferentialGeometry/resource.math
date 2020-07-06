@@ -1,0 +1,80 @@
+[532eb143065e40d19a7261fd06ff5f2e]
+Resource:
+. type: "Book"
+. name: "Topics in Differential Geometry"
+. author: "Peter W. Michor"
+. url: "https://www.mat.univie.ac.at/~michor/dgbook.pdf"
+. related: "https://realnotcomplex.com/geometry-and-topology/differential-geometry/topics-in-differential-geometry-by-peter-w-michor"
+Metadata:
+. tag: "Differential Geometry"
+. id: "5ed493cc98316306ebe1788e"
+
+
+
+[b89692bb4db044158e78e29fda7ef7b3]
+Resource:
+. type: "Book"
+. name: "Differential Geometry and Lie Groups, I & II"
+. author: "Jean Gallier, Jocelyn Quaintance"
+. homepage: "https://www.cis.upenn.edu/~jean/gbooks/manif.html"
+. related: "https://realnotcomplex.com/geometry-and-topology/differential-geometry/differential-geometry-and-lie-groups-i-&-ii-by-jean-gallier-and-jocelyn-quaintance"
+Metadata:
+. tag: "Differential Geometry"
+. id: "5ed493cc98316306ebe1788d"
+
+
+
+[563faa7fedb04b5b8e92d712d75a9d54]
+Resource:
+. type: "Lecture Notes"
+. name: "An Introduction to Riemannian Geometry"
+. author: "Sigmundur Gudmundsson"
+. url: "http://www.matematik.lu.se/matematiklu/personal/sigma/Riemann.pdf"
+. related: "https://realnotcomplex.com/geometry-and-topology/differential-geometry/an-introduction-to-riemannian-geometry-by-sigmundur-gudmundsson"
+Metadata:
+. tag: "Differential Geometry"
+. id: "5ed493cc98316306ebe17890"
+
+
+
+[c81f9054826c41d5aefb97fb1dacdcc5]
+Resource:
+. type: "Lecture Notes"
+. name: "Introduction to Differential Geometry"
+. author: "Joel W. Robbin, Dietmar A. Salamon"
+. homepage: "https://metaphor.ethz.ch/x/2017/hs/401-3531-00L/"
+. url: "https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf"
+. related: "https://realnotcomplex.com/geometry-and-topology/differential-geometry/introduction-to-differential-geometry-by-joel-w-robbin-and-dietmar-a-salamon"
+Metadata:
+. tag: "Differential Geometry"
+. id: "5ed493cc98316306ebe17891"
+
+
+
+[6d54caf48e2f4e4fb01baa1c25e87769]
+Resource:
+. type: "Lecture Notes"
+. name: "Lectures on Differential Geometry"
+. author: "Wulf Rossmann"
+. homepage: "https://mysite.science.uottawa.ca/rossmann/Differential%20Geometry%20book.htm"
+. url: "https://mysite.science.uottawa.ca/rossmann/Differential%20Geometry%20book_files/Diffgeo.pdf"
+. related: "https://realnotcomplex.com/geometry-and-topology/differential-geometry/lectures-on-differential-geometry-by-wulf-rossmann"
+Metadata:
+. tag: "Differential Geometry"
+. id: "5ed493cc98316306ebe1788f"
+
+
+
+[cdd6995965ff47688dc899777758276b]
+Resource:
+. type: "Lecture Notes"
+. name: "Differential Geometry"
+. author: "Richard Koch"
+. url: "https://pages.uoregon.edu/koch/math433/Final.pdf"
+. related: "https://realnotcomplex.com/geometry-and-topology/differential-geometry/differential-geometry-by-richard-koch"
+Metadata:
+. tag: "Differential Geometry"
+. id: "5ed493cc98316306ebe17892"
+
+
+

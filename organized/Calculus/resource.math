@@ -1,0 +1,321 @@
+[af4604bf30344c68ba9504f2dc73002d]
+Resource:
+. type: "Book"
+. name: "Single Variable Calculus Late Transcendentals"
+. author:
+  . "David Guichard"
+  . "Neal Koblitz"
+. homepage: "https://www.whitman.edu/mathematics/multivariable/index.cgi"
+. url: "https://www.whitman.edu/mathematics/calculus_late/calculus_late.pdf"
+. offset: "1"
+Metadata:
+. tag: "Calculus"
+. id: "5e82dfc4beba194f36a25e7e"
+
+
+
+[7cecfcbd10ca4df48cae9e23e07c8ffb]
+Resource:
+. type: "Book"
+. name: "Calculus"
+. author: "Gilbert Strang"
+. homepage: "https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/"
+. url: "http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf"
+. offset: "7"
+Metadata:
+. tag: "Calculus"
+. id: "5e82dfc4beba194f36a25e7c"
+
+
+
+[328273b623de472198422c2b9f7356df]
+Resource:
+. type: "Book"
+. name: "Single Variable Calculus Early Transcendentals"
+. author:
+  . "David Guichard"
+  . "Neal Koblitz"
+. homepage: "https://www.whitman.edu/mathematics/multivariable/index.cgi"
+. url: "https://www.whitman.edu/mathematics/calculus/calculus.pdf"
+. offset: "1"
+Metadata:
+. tag: "Calculus"
+. id: "5e82dfc4beba194f36a25e7d"
+
+
+
+[504b369d96154e6fb38f3c33ed33f926]
+Resource:
+. type: "Book"
+. name: "Calculus and Linear Algebra. Vol. 1: Vectors in the Plane and One-Variable Calculus"
+. author: "Wilfred Kaplan, Donald J. Lewis"
+. homepage: "https://quod.lib.umich.edu/s/spobooks/5597602.0001.001"
+. url: "https://quod.lib.umich.edu/cgi/p/pod/dod-idx/calculus-and-linear-algebra-vol-1-vectors-in-the-plane.pdf?c=spobooks;idno=5597602.0001.001;format=pdf"
+. related: "https://realnotcomplex.com/analysis/calculus/calculus-and-linear-algebra-vol-1-vectors-in-the-plane-and-one-variable-calculus-by-wilfred-kaplan-and-donald-j-lewis"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177f4"
+
+
+
+[9b216551b8b744f295a9c344c20c6bfd]
+Resource:
+. type: "Book"
+. name: "The Calculus of Functions of Several Variables"
+. author: "Dan Sloughter"
+. homepage: "http://www.synechism.org/wp/the-calculus-of-functions-of-several-variables/"
+. url: "http://cfsv.synechism.org/cfsv.pdf"
+. related: "https://realnotcomplex.com/analysis/calculus/the-calculus-of-functions-of-several-variables-by-dan-sloughter"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177f3"
+
+
+
+[32e05829efe44937b7335db4d5dd14d5]
+Resource:
+. type: "Video"
+. name: "Highlights of Calculus"
+. author: "MIT OCW, Gilbert Strang"
+. homepage: "https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/"
+. url: "https://www.youtube.com/playlist?list=PLBE9407EA64E2C318"
+. related: "https://realnotcomplex.com/analysis/calculus/highlights-of-calculus-by-mit-ocw-and-gilbert-strang"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177fc"
+
+
+
+[35b42dbb7a554f4c80e642649d5edd99]
+Resource:
+. type: "Book"
+. name: "Introduction to Calculus I and II"
+. author: "J. H. Heinbockel"
+. homepage: "http://www.math.odu.edu/~jhh/counter10.html"
+. related: "https://realnotcomplex.com/analysis/calculus/introduction-to-calculus-i-and-ii-by-j-h-heinbockel"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177eb"
+
+
+
+[0482992afecd42e699d4e01af2b75f09]
+Resource:
+. type: "Book"
+. name: "Elementary Calculus: An Infinitesimal Approach"
+. author: "Jerome Keisler"
+. homepage: "http://www.math.wisc.edu/~keisler/calc.html"
+. url: "http://www.math.wisc.edu/~keisler/keislercalc-09-04-19.pdf"
+. related: "https://realnotcomplex.com/analysis/calculus/elementary-calculus-an-infinitesimal-approach-by-jerome-keisler"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177ee"
+
+
+
+[94197999bb8740abbcc666dd87b1cacf]
+Resource:
+. type: "Book"
+. name: "Calculus One"
+. author: "Jim Fowler, Bart Snapp"
+. homepage: "https://mooculus.osu.edu/"
+. url: "https://mooculus.osu.edu/textbook/mooculus.pdf"
+. related: "https://realnotcomplex.com/analysis/calculus/calculus-one-by-jim-fowler-and-bart-snapp"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177f2"
+
+
+
+[0c28f0d574dc47818a0ffd2e1c70d07b]
+Resource:
+. type: "Book"
+. name: "Calculus and Linear Algebra. Vol. 2: Vector Spaces, Many-Variable Calculus, and Differential Equations"
+. author: "Wilfred Kaplan, Donald J. Lewis"
+. homepage: "https://quod.lib.umich.edu/s/spobooks/5597602.0002.001"
+. url: "https://quod.lib.umich.edu/cgi/p/pod/dod-idx/calculus-and-linear-algebra-vol-2-vector-spaces-many.pdf?c=spobooks;idno=5597602.0002.001;format=pdf"
+. related: "https://realnotcomplex.com/analysis/calculus/calculus-and-linear-algebra-vol-2-vector-spaces-many-variable-calculus-and-differential-equations-by-wilfred-kaplan-and-donald-j-lewis"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177f5"
+
+
+
+[2522898eeba44abcbb363c26b1e1b42f]
+Resource:
+. type: "Book"
+. name: "Active Calculus Multivariable"
+. author: "Matthew Boelkins"
+. homepage: "https://activecalculus.org/ACM.html"
+. url: "https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1019&context=books"
+. related: "https://realnotcomplex.com/analysis/calculus/active-calculus-multivariable-by-matthew-boelkins"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177ed"
+
+
+
+[63da6cfd4e624ebd9f0ea5407290adde]
+Resource:
+. type: "Book"
+. name: "Active Calculus"
+. author: "Matthew Boelkins"
+. homepage: "https://activecalculus.org/ACS.html"
+. url: "https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1018&context=books"
+. related: "https://realnotcomplex.com/analysis/calculus/active-calculus-by-matthew-boelkins"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177ec"
+
+
+
+[4fb6976df40d4fb08d4cd49e4dd750e5]
+Resource:
+. type: "Video"
+. name: "Single Variable Calculus"
+. author: "MIT OCW, David Jerison"
+. homepage: "https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006"
+. url: "https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1"
+. related: "https://realnotcomplex.com/analysis/calculus/single-variable-calculus-by-mit-ocw-and-david-jerison"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177fb"
+
+
+
+[2b08cb904b0c4d57acc6c387adf0af3a]
+Resource:
+. type: "Book"
+. name: "Calculus: Early Transcendentals"
+. author: "Lyryx Learning, D. Guichard"
+. homepage: "https://lyryx.com/calculus-early-transcendentals/"
+. url: "https://lalg1.lyryx.com/textbooks/CALCULUS_2/marketing/Guichard-Calculus-EarlyTranscendentals-2017A.pdf"
+. related: "https://realnotcomplex.com/analysis/calculus/calculus-early-transcendentals-by-lyryx-learning-and-d-guichard"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177ef"
+
+
+
+[e4d8775063d1411ab49c5881fad33c8e]
+Resource:
+. type: "Book"
+. name: "Single and Multivariable Calculus"
+. author: "David Guichard, Neal Koblitz"
+. homepage: "https://www.whitman.edu/mathematics/multivariable/index.cgi"
+. url: "https://www.whitman.edu/mathematics/multivariable/multivariable.pdf"
+. related: "https://realnotcomplex.com/analysis/calculus/single-and-multivariable-calculus-by-david-guichard-and-neal-koblitz"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177ea"
+
+
+
+[325e24c9fcbf4b34a9c2310deedb7276]
+Resource:
+. type: "Video"
+. name: "Multivariable Calculus"
+. author: "Khan Academy"
+. homepage: "https://www.khanacademy.org/math/multivariable-calculus"
+. url: "https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7"
+. related: "https://realnotcomplex.com/analysis/calculus/multivariable-calculus-by-khan-academy"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177f0"
+
+
+
+[62bfc6cf176c4a07a013151d8613bfe2]
+Resource:
+. type: "Book"
+. name: "Calculus I, II, and III"
+. author: "Jerrold E. Marsden, Alan Weinstein"
+. homepage: "http://www.cds.caltech.edu/~marsden/volume/Calculus/"
+. related: "https://realnotcomplex.com/analysis/calculus/calculus-i-ii-and-iii-by-jerrold-e-marsden-and-alan-weinstein"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177f7"
+
+
+
+[e3cf603a9f7242e480cf9a805d2bdd20]
+Resource:
+. type: "Book"
+. name: "Advanced Calculus"
+. author: "Lynn H. Loomis, Shlomo Sternberg"
+. url: "http://people.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf"
+. related: "https://realnotcomplex.com/analysis/calculus/advanced-calculus-by-lynn-h-loomis-and-shlomo-sternberg"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177f9"
+
+
+
+[27c2dd6d60504f1f9ad64ab44f4d37a6]
+Resource:
+. type: "Video"
+. name: "Essence of Calculus"
+. author: "3Blue1Brown"
+. url: "https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr"
+. related: "https://realnotcomplex.com/analysis/calculus/essence-of-calculus-by-3blue1brown"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177fa"
+
+
+
+[caec720b80c1430bb692e11021460de0]
+Resource:
+. type: "Book"
+. name: "Vector Calculus"
+. author: "Michael Corral"
+. homepage: "http://www.mecmath.net/"
+. url: "http://www.mecmath.net/calc3book.pdf"
+. related: "https://realnotcomplex.com/analysis/calculus/vector-calculus-by-michael-corral"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177f8"
+
+
+
+[a48629b1e3fb481db8ce9a9fb5fd7b3f]
+Resource:
+. type: "Video"
+. name: "Calculus"
+. author: "Khan Academy"
+. url: "https://www.youtube.com/playlist?list=PL19E79A0638C8D449"
+. related: "https://realnotcomplex.com/analysis/calculus/calculus-by-khan-academy"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177e9"
+
+
+
+[562f6e64e42c46ca8946c233b02acf07]
+Resource:
+. type: "Book"
+. name: "Elementary Calculus"
+. author: "Michael Corral"
+. homepage: "http://www.mecmath.net/calculus/index.html"
+. url: "http://www.mecmath.net/calculus/calc12book-part1.pdf"
+. related: "https://realnotcomplex.com/analysis/calculus/elementary-calculus-by-michael-corral"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177f6"
+
+
+
+[ad162de735ab4e4d973b5941bde23ba0]
+Resource:
+. type: "Book"
+. name: "Yet Another Calculus Text"
+. author: "Dan Sloughter"
+. homepage: "http://www.synechism.org/wp/yet-another-calculus-text/"
+. url: "http://yact.synechism.org/yact-05102007.pdf"
+. related: "https://realnotcomplex.com/analysis/calculus/yet-another-calculus-text-by-dan-sloughter"
+Metadata:
+. tag: "Calculus"
+. id: "5ed493cc98316306ebe177f1"
+
+
+

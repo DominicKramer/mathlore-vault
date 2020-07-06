@@ -1,0 +1,94 @@
+[f52ec52e6b9547f390cae2d7c2b146be]
+Resource:
+. type: "Book"
+. name: "Algebraic Curves: An Introduction to Algebraic Geometry"
+. author: "William Fulton"
+. url: "http://www.math.lsa.umich.edu/~wfulton/CurveBook.pdf"
+. related: "https://realnotcomplex.com/geometry-and-topology/algebraic-geometry/algebraic-curves-an-introduction-to-algebraic-geometry-by-william-fulton"
+Metadata:
+. tag: "Algebraic Geometry"
+. id: "5ed493cc98316306ebe17897"
+
+
+
+[787806d9c0214ddea68e3b7da7c9d10c]
+Resource:
+. type: "Book"
+. name: "Advanced Algebra"
+. author: "Anthony W. Knapp"
+. homepage: "http://www.math.stonybrook.edu/~aknapp/download.html"
+. url: "http://www.math.stonybrook.edu/~aknapp/download/a2-alg-coverandinside.pdf"
+. related: "https://realnotcomplex.com/geometry-and-topology/algebraic-geometry/advanced-algebra-by-anthony-w-knapp"
+Metadata:
+. tag: "Algebraic Geometry"
+. id: "5ed493cc98316306ebe17896"
+
+
+
+[d7170858428b44ddbc62e9b6f936bb8a]
+Resource:
+. type: "Book"
+. name: "Algebraic Geometry: A Start Up Course"
+. author: "A. L. Gorodentsev"
+. homepage: "http://gorod.bogomolov-lab.ru/ps/stud/projgeom/1718/list.html"
+. url: "http://gorod.bogomolov-lab.ru/ps/stud/projgeom/1718/lec_total.pdf"
+. related: "https://realnotcomplex.com/geometry-and-topology/algebraic-geometry/algebraic-geometry-a-start-up-course-by-a-l-gorodentsev"
+Metadata:
+. tag: "Algebraic Geometry"
+. id: "5ed493cc98316306ebe17898"
+
+
+
+[93579859bb3547e0b963711f9285efab]
+Resource:
+. type: "Video"
+. name: "Topology and Geometry"
+. author: "Tadashi Tokieda"
+. url: "https://www.youtube.com/playlist?list=PLTBqohhFNBE_09L0i-lf3fYXF5woAbrzJ"
+. related: "https://realnotcomplex.com/geometry-and-topology/algebraic-topology/topology-and-geometry-by-tadashi-tokieda"
+Metadata:
+. tag: "Algebraic Topology"
+. id: "5ed493cc98316306ebe178a5"
+
+
+
+[621bcde73e2046bda505e957c8826789]
+Resource:
+. type: "Book"
+. name: "Foundations of Algebraic Geometry"
+. author: "Ravi Vakil"
+. url: "http://math.stanford.edu/~vakil/216blog/FOAGnov1817public.pdf"
+. related: "https://realnotcomplex.com/geometry-and-topology/algebraic-geometry/foundations-of-algebraic-geometry-by-ravi-vakil"
+Metadata:
+. tag: "Algebraic Geometry"
+. id: "5ed493cc98316306ebe17894"
+
+
+
+[7bb86c4d14db407ab7efd6343f93ae9b]
+Resource:
+. type: "Lecture Notes"
+. name: "Algebraic Geometry"
+. author: "Andreas Gathmann"
+. homepage: "https://www.mathematik.uni-kl.de/~gathmann/de/alggeom.php"
+. url: "https://www.mathematik.uni-kl.de/~gathmann/class/alggeom-2019/alggeom-2019.pdf"
+. related: "https://realnotcomplex.com/geometry-and-topology/algebraic-geometry/algebraic-geometry-by-andreas-gathmann"
+Metadata:
+. tag: "Algebraic Geometry"
+. id: "5ed493cc98316306ebe17893"
+
+
+
+[70ab47ee8a5b4ea68e97ba8886e8c37d]
+Resource:
+. type: "Lecture Notes"
+. name: "Introduction to Algebraic Geometry"
+. author: "Igor V. Dolgachev"
+. url: "http://www.math.lsa.umich.edu/~idolga/631.pdf"
+. related: "https://realnotcomplex.com/geometry-and-topology/algebraic-geometry/introduction-to-algebraic-geometry-by-igor-v-dolgachev"
+Metadata:
+. tag: "Algebraic Geometry"
+. id: "5ed493cc98316306ebe17895"
+
+
+

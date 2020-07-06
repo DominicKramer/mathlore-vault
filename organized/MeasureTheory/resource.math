@@ -1,0 +1,120 @@
+[8d22861e0eae479cad72688c282edf18]
+Resource:
+. type: "Lecture Notes"
+. name: "Lecture Notes on Measure Theory and Functional Analysis"
+. author: "P. Cannarsa, T. D’Aprile"
+. url: "http://www.mat.uniroma2.it/~cannarsa/cam_0607.pdf"
+. related: "https://realnotcomplex.com/analysis/measure-theory/lecture-notes-on-measure-theory-and-functional-analysis-by-p-cannarsa-and-t-daprile"
+Metadata:
+. tag: "Measure Theory"
+. id: "5ed493cc98316306ebe1781c"
+
+
+
+[d7c8147bb7ff426cb96769ed78c25d46]
+Resource:
+. type: "Video"
+. name: "Masters Program: Measure Theory"
+. author: "Claudio Landim"
+. url: "https://www.youtube.com/playlist?list=PLo4jXE-LdDTQq8ZyA8F8reSQHej3F6RFX"
+. related: "https://realnotcomplex.com/analysis/measure-theory/masters-program-measure-theory-by-claudio-landim"
+Metadata:
+. tag: "Measure Theory"
+. id: "5ed493cc98316306ebe1781d"
+
+
+
+[b1f1c4153bca43968df1016ed286156e]
+Resource:
+. type: "Book"
+. name: "A Crash Course on the Lebesgue Integral and Measure Theory"
+. author: "Steve Cheng"
+. url: "https://www.gold-saucer.org/math/lebesgue/lebesgue-new.pdf"
+. related: "https://realnotcomplex.com/analysis/measure-theory/a-crash-course-on-the-lebesgue-integral-and-measure-theory-by-steve-cheng"
+Metadata:
+. tag: "Measure Theory"
+. id: "5ed493cc98316306ebe17815"
+
+
+
+[56e0302b01314512b1e2db8a8c7ba813]
+Resource:
+. type: "Lecture Notes"
+. name: "Lecture Notes in Measure Theory"
+. author: "Christer Borell"
+. url: "http://www.math.chalmers.se/~borell/MeasureTheory.pdf"
+. related: "https://realnotcomplex.com/analysis/measure-theory/lecture-notes-in-measure-theory-by-christer-borell"
+Metadata:
+. tag: "Measure Theory"
+. id: "5ed493cc98316306ebe1781b"
+
+
+
+[b195fbb4e3fb40efa232262271c6ade2]
+Resource:
+. type: "Book"
+. name: "An Introduction to Measure Theory"
+. author: "Terrence Tao"
+. homepage: "https://terrytao.wordpress.com/books/an-introduction-to-measure-theory/"
+. url: "https://terrytao.files.wordpress.com/2012/12/gsm-126-tao5-measure-book.pdf"
+. related: "https://realnotcomplex.com/analysis/measure-theory/an-introduction-to-measure-theory-by-terrence-tao"
+Metadata:
+. tag: "Measure Theory"
+. id: "5ed493cc98316306ebe17817"
+
+
+
+[9ff5616b65664b259ec9b4d8a435fee9]
+Resource:
+. type: "Book"
+. name: "Analysis, Measure, and Probability: A Visual Introduction"
+. author: "Marcus Pivato"
+. url: "http://euclid.trentu.ca/pivato/Teaching/measure.pdf"
+. related: "https://realnotcomplex.com/analysis/measure-theory/analysis-measure-and-probability-a-visual-introduction-by-marcus-pivato"
+Metadata:
+. tag: "Measure Theory"
+. id: "5ed493cc98316306ebe17819"
+
+
+
+[0588ace917794b07a07883a9336c6892]
+Resource:
+. type: "Other"
+. name: "Measure Theory"
+. author: "Bruce K. Driver"
+. url: "http://www.math.ucsd.edu/~bdriver/240-00-01/Lecture_Notes/measurep.pdf"
+. related: "https://realnotcomplex.com/analysis/measure-theory/measure-theory-by-bruce-k-driver"
+Metadata:
+. tag: "Measure Theory"
+. id: "5ed493cc98316306ebe1781a"
+
+
+
+[ecc9fb0f941d470294559182b484e9b4]
+Resource:
+. type: "Book"
+. name: "Measure, Integration & Real Analysis"
+. author: "Sheldon Axler"
+. url: "https://link.springer.com/content/pdf/10.1007%2F978-3-030-33143-6.pdf"
+. related: "https://realnotcomplex.com/analysis/measure-theory/measure-integration-&-real-analysis-by-sheldon-axler"
+. offset: "19"
+Metadata:
+. id: "5ed493cc98316306ebe17818"
+. tag: "Measure Theory"
+
+
+
+[eefacfc3e1a641fa86c8a3f8ce4bdcb7]
+Resource:
+. type: "Book"
+. name: "Measure and Integration"
+. author: "Jose L. Menaldi"
+. homepage: "https://digitalcommons.wayne.edu/mathfrp/22/"
+. url: "https://digitalcommons.wayne.edu/cgi/viewcontent.cgi?article=1050&context=mathfrp"
+. related: "https://realnotcomplex.com/analysis/measure-theory/measure-and-integration-by-jose-l-menaldi"
+Metadata:
+. tag: "Measure Theory"
+. id: "5ed493cc98316306ebe17816"
+
+
+

@@ -1,0 +1,53 @@
+[ec9da3d0911949b7957b3c326b6e0525]
+Resource:
+. type: "Book"
+. name: "Group Theory: Birdtracks, Lie’s, and Exceptional Groups"
+. author: "Predrag Cvitanović"
+. homepage: "http://www.cns.gatech.edu/GroupTheory/index.html"
+. related: "https://realnotcomplex.com/algebra/group-theory/group-theory-birdtracks-lies-and-exceptional-groups-by-predrag-cvitanović"
+Metadata:
+. tag: "Group Theory"
+. id: "5ed493cc98316306ebe17843"
+
+
+
+[d066bf282bff49a4a4adc278e0d6aabf]
+Resource:
+. type: "Lecture Notes"
+. name: "Notes on Finite Group Theory"
+. author: "Peter J. Cameron"
+. url: "http://www.maths.qmul.ac.uk/~pjc/notes/gt.pdf"
+. related: "https://realnotcomplex.com/algebra/group-theory/notes-on-finite-group-theory-by-peter-j-cameron"
+Metadata:
+. tag: "Group Theory"
+. id: "5ed493cc98316306ebe17844"
+
+
+
+[715ec7f7e95348b7ad9142384aa91033]
+Resource:
+. type: "Lecture Notes"
+. name: "Groups and Symmetries"
+. author: "F. Oggier, A. M. Bruckstein"
+. url: "http://www1.spms.ntu.edu.sg/~frederique/groupsymmetryws.pdf"
+. related: "https://realnotcomplex.com/algebra/group-theory/groups-and-symmetries-by-f-oggier-and-a-m-bruckstein"
+Metadata:
+. tag: "Group Theory"
+. id: "5ed493cc98316306ebe17845"
+
+
+
+[bc94a3ecbc554e6faf92cf5003aba802]
+Resource:
+. type: "Book"
+. name: "Group Theory"
+. author: "J.S. Milne"
+. homepage: "https://www.jmilne.org/math/CourseNotes/gt.html"
+. url: "https://www.jmilne.org/math/CourseNotes/GT.pdf"
+. related: "https://realnotcomplex.com/algebra/group-theory/group-theory-by-js-milne"
+Metadata:
+. tag: "Group Theory"
+. id: "5ed493cc98316306ebe17842"
+
+
+

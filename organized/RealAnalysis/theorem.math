@@ -1,0 +1,4892 @@
+ProtoTheorem:
+. "If $f$ is integrable on $S$ then so is $|f|$ and $$ 
+   \left|\int_S f(\mathbf{X})\,d\mathbf{X}\right|\le\int_S 
+   |f(\mathbf{X})|\,d\mathbf{X}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "457"
+    offset: "466"
+. id: "5e33c092981ec41bc6b278ed"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "The rational numbers are dense in the reals$\,$ that is, if
+   $a$ and $b$ are real numbers with $a<b$ there is a rational 
+   number $p/q$ such that $a<p/q<b$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "5"
+    offset: "14"
+. id: "5e33c093981ec41bc6b2797f"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $\mathbf{G}: \E^n\to \R^n$ is continuously 
+   differentiable on a bounded open set $N$ containing the 
+   compact Jordan measurable set $S$ and regular on $S^0$ 
+   Suppose also that $\mathbf{G}(S)$ is Jordan measurable, $f$ 
+   is continuous on $\mathbf{G}(S)$ and $G(C)$ is Jordan 
+   measurable for every cube $C\subset N$. Then 
+   \begin{equation} \int_{\mathbf{G}(S)} 
+   f(\mathbf{X})\,d\mathbf{X}= \int_S f(\mathbf{G}(\mathbf{Y}))
+   |J\mathbf{G}(\mathbf{Y})|\,d\mathbf{Y}. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "506"
+    offset: "515"
+. id: "5e33c092981ec41bc6b2790f"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is integrable on $[a,b] \times [c,d]$ then $$ 
+   \int_a^b dx\int_c^d f(x,y)\,dy=\int_c^d dy\int_a^b 
+   f(x,y)\,dx, $$ provided that $\int_c^d f(x,y)\,dy$ exists 
+   for $a\le x\le b$ and $\int_a^b f(x,y)\,dx$ exists for $c\le
+   y\le d$ In particular, these hypotheses hold if $f$ is 
+   continuous on $[a,b]\times [c,d]$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "468"
+    offset: "477"
+. id: "5e33c093981ec41bc6b2798b"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is continuous on $$ R=[a_1,b_1]\times 
+   [a_2,b_2]\times\cdots\times [a_n,b_n], $$ then $\int_R 
+   f(\mathbf{X})\,d\mathbf{X}$ can be evaluated by iterated 
+   integrals in any of the $n!$ ways indicated in $ $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "474"
+    offset: "483"
+. id: "5e33c092981ec41bc6b278fb"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If \begin{equation} \lim_{x\to x_0} f(x)=L_1 \quad and 
+   \quad \lim_{x\to x_0} g(x)= L_2, \end{equation} then 
+   \begin{eqnarray} \lim_{x\to x_0} (f+g)(x) = L_1+L_2, \\ 
+   \lim_{x\to x_0} (f-g)(x) = L_1-L_2, \\ \lim_{x\to x_0} 
+   (fg)(x) = L_1L_2, \\ and, if $L_2\ne0$, \\ \lim_{x\to 
+   x_0}\left(\frac{f}{g}\right)(x) = \frac{L_1}{ L_2}. 
+   \end{eqnarray}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "35"
+    offset: "44"
+. id: "5e33c093981ec41bc6b2798e"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f$ $f_x$ and $f_y$ are differentiable in a 
+   neigborhood of a critical point $\mathbf{X}_0=(x_0,y_0)$ of 
+   $f$ and $f_{xx}$ $f_{yy}$ and $f_{xy}$ are continuous at 
+   $(x_0,y_0)$ Let $$ 
+   D=f_{xx}(x_0,y_0)f_{xy}(x_0,y_0)-f^2_{xy}(x_0,y_0). $$ Then 
+   \begin{alist} \item $(x_0,y_0)$ is a local extreme point of 
+   $f$ if $D>0$ $(x_0,y_0)$ is a local minimum point if 
+   $f_{xx}(x_0,y_0)>0$, or a local maximum point if 
+   $f_{xx}(x_0,y_0)<0$ \item $(x_0,y_0)$ is not a local extreme
+   point of $f$ if $D<0$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "360"
+    offset: "369"
+. id: "5e33c093981ec41bc6b27978"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "A function $f$ is continuous at $\widehat u$ if and only if
+   $$ \lim_{u\to\widehat u} f(u)=f(\widehat u). $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "545"
+    offset: "554"
+. id: "5e33c093981ec41bc6b27947"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $T$ is compact, then $T$ is closed and bounded."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "539"
+    offset: "548"
+. id: "5e33c092981ec41bc6b27937"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If \begin{equation} \sum^\infty_{n=0} 
+   a_n(x-x_0)^n=\sum^\infty_{n=0} b_n(x-x_0)^n \end{equation} 
+   for all $x$ in some interval $(x_0-r,x_0+r)$ then 
+   \begin{equation} a_n=b_n,\quad n\ge0. \end{equation}"
+Metadata:
+. name: "Uniqueness of Power Series"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "265"
+    offset: "274"
+. id: "5e33c093981ec41bc6b27971"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Let $n_0$ be any integer (positive, negative, or zero). Let
+$P_{n_0}, P_{n_0+1}, \dots, P_n \dots$ be propositions,
+one for each integer $n\ge n_0$ such that \begin{alist}
+\item $P_{n_0}$ is true$\,$ \item for $n\ge n_0$ $P_{n+1}$
+is true if $P_{n_0}, P_{n_0+1}, \dots, P_n$ are all true.
+\end{alist} Then $P_n$ is true for $n\ge n_0$"
+Metadata:
+. id: "5e33c093981ec41bc6b27985"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "13"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f$ is integrable on $$ 
+   S=\set{(x,y,z)}{u_1(y,z)\le x\le v_1(y,z),\ u_2(z)\le y\le 
+   v_2(z),\ c\le z\le d}, $$ and let $$ 
+   S(z)=\set{(x,y)}{u_1(y,z)\le x\le v_1(y,z),\ u_2(z)\le y\le 
+   v_2(z)} $$ for each $z$ in $[c,d]$ Then $$ \int_S 
+   f(x,y,z)\,d(x,y,z)=\int_c^d dz\int^{v_2(z)}_{u_2(z)} dy 
+   \int^{v_1(y,z)}_{u_1(y,z)} f(x,y,z)\,dx, $$ provided that $$
+   \int^{v_1(y,z)}_{u_1(y,z)} f(x,y,z)\,dx $$ exists for all 
+   $(y,z)$ such that $$ c\le z\le d \quad and\quad u_2(z)\le 
+   y\le v_2(z), $$ and $$ \int_{S(z)} f(x,y,z)\,d(x,y) $$ 
+   exists for all $z$ in $[c,d]$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "479"
+    offset: "488"
+. id: "5e33c092981ec41bc6b27901"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f$ is integrable on $R= [a,b]\times [c,d]$ 
+   and $$ F(y)=\int_a^b f(x,y)\,dx $$ exists for each $y$ in 
+   $[c,d]$ Then $F$ is integrable on $[c,d]$ and 
+   \begin{equation} \int_c^d F(y)\,dy=\int_R f(x,y)\,d(x,y); 
+   \end{equation} that is, \begin{equation} \int_c^d dy\int_a^b
+   f(x,y)\,dx=\int_R f(x,y)\,d(x,y). \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "465"
+    offset: "474"
+. id: "5e33c092981ec41bc6b278f2"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "A function $f$ is continuous at $\widehat u$ if and only if
+   $$ \lim_{n\to\infty} f(u_n)=f(\widehat u) $$ whenever 
+   $\{u_n\}$ is a sequence in $D_f$ that converges to $\widehat
+   u$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "545"
+    offset: "554"
+. id: "5e33c093981ec41bc6b27949"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Let $P_1$ $P_2, $\dots, $P_n$ \dots\ be propositions, one 
+   for each positive integer, such that \begin{alist} \item 
+   $P_1$ is true$$ \item for each positive integer $n$ $P_n$ 
+   implies $P_{n+1}$ \end{alist} Then $P_n$ is true for each 
+   positive integer $n$"
+Metadata:
+. name: "Principle of Mathematical Induction"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "10"
+    offset: "19"
+. id: "5e33c093981ec41bc6b27982"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\lim_{x\to x_0} f(x)$ exists, then it is unique$\,$ 
+   that is, if \begin{equation} \lim_{x\to x_0} f(x)=L_1 \quad 
+   and \quad \lim_{x\to x_0} f(x)= L_2, \end{equation} then 
+   $L_1=L_2$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "35"
+    offset: "44"
+. id: "5e33c093981ec41bc6b2798d"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f$ is integrable on
+$$
+  S=\left \{(x,y,z) \: | \: u_1(y,z)\le x\le v_1(y,z),\ u_2(z)\le y \le v_2(z),\ c\le z\le d \right \},
+$$
+and let
+$$
+  S(z)=\left \{(x,y) \: | \: u_1(y,z)\le x\le v_1(y,z),\ u_2(z)\le y\le
+v_2(z) \right \}
+$$
+for each $z$ in $[c,d]$. Then
+$$ \int_S f(x,y,z)\,d(x,y,z)=\int_c^d dz\int^{v_2(z)}_{u_2(z)} dy
+\int^{v_1(y,z)}_{u_1(y,z)} f(x,y,z)\,dx,
+$$
+provided that
+$$
+  \int^{v_1(y,z)}_{u_1(y,z)} f(x,y,z)\,dx
+$$
+exists for all $(y,z)$ such that $$ c\le z\le d \quad and\quad u_2(z)\le
+y\le v_2(z),
+$$
+and
+$$
+  \int_{S(z)} f(x,y,z)\,d(x,y)
+$$ exists for all $z$ in $[c,d]$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "476"
+. tag: "Real Analysis"
+. id: "5e8a69955d52fd7bf3ff329d"
+
+
+
+ProtoTheorem:
+. "If $f$ is bounded and continuous on a bounded Jordan 
+   measurable set $S$ then $f$ is integrable on $S$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "490"
+    offset: "499"
+. id: "5e33c093981ec41bc6b2798c"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $(A,\rho)$ is complete and $T$ is closed and totally 
+   bounded, then $T$ is compact."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "540"
+    offset: "549"
+. id: "5e33c092981ec41bc6b2793a"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ and $g$ are integrable on $S$ then so is the product
+   $fg$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "457"
+    offset: "466"
+. id: "5e33c092981ec41bc6b278ee"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is a contraction of a complete metric space 
+   $(A,\rho)$ then the equation \begin{equation} f(u)=u 
+   \end{equation} has a unique solution."
+Metadata:
+. name: "Contraction Mapping Theorem"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "545"
+    offset: "554"
+. id: "5e33c093981ec41bc6b2794f"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that ${\mathcal F}$ is an infinite uniformly 
+   bounded and equicontinuous family of functions on $[a,b]$ 
+   Then there is a sequence $\{f_n\}$ in ${\mathcal F}$ that 
+   converges uniformly to a continuous function on $[a,b]$"
+Metadata:
+. name: "Ascoli-Arzela Theorem"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "542"
+    offset: "551"
+. id: "5e33c092981ec41bc6b2793f"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $T$ is compact, then $T$ is totally bounded."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "539"
+    offset: "548"
+. id: "5e33c092981ec41bc6b27938"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f_{x_1}$ $f_{x_2}$ \dots, $f_{x_n}$ are identically 
+   zero in an open region $S$ of $\R^n$ then $f$ is constant in
+   $S$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "351"
+    offset: "360"
+. id: "5e33c093981ec41bc6b27977"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $S$ is a compact Jordan measurable subset of $\R^n$ and 
+   $\mathbf{L}:\R^n\to \R^n$ is the invertible linear 
+   transformation 
+   $\mathbf{X}=\mathbf{L}(\mathbf{Y})=\mathbf{AY}$ then 
+   \begin{equation} V(\mathbf{L}(S))=|\det(\mathbf{A})| V(S). 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "494"
+    offset: "503"
+. id: "5e33c092981ec41bc6b27907"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f:\R^{n+1}\to \R$ is continuously 
+   differentiable on an open set containing 
+   $(\mathbf{X}_0,u_0)$ with $f(\mathbf{X}_0,u_0)=0$ and 
+   $f_u(\mathbf{X}_0,u_0)\ne0$. Then there is a neighborhood 
+   $M$ of $(\mathbf{X}_0,u_0)$ contained in $S$ and a 
+   neighborhood $N$ of $\mathbf{X}_0$ in $\R^n$ on which is 
+   defined a unique continuously differentiable function 
+   $u=u(\mathbf{X}):\R^n\to \R$ such that $$ 
+   (\mathbf{X},u(\mathbf{X}))\in M \quad and \quad 
+   f_u(\mathbf{X},u(\mathbf{X}))\ne0,\quad\mathbf{X}\in N, $$ 
+   $$ u(\mathbf{X}_0)=u_0, \quad and \quad 
+   f(\mathbf{X},u(\mathbf{X}))=0,\quad\mathbf{X}\in N. $$ The 
+   partial derivatives of $u$ are given by $$ 
+   u_{x_i}(\mathbf{X})=-\frac{f_{x_i}(\mathbf{X},u(\mathbf{X}))}{
+   f_u(\mathbf{X},u(\mathbf{X}))},\quad 1\le i\le n. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "425"
+    offset: "434"
+. id: "5e33c093981ec41bc6b27983"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Let $n_0$ be any integer (positive, negative, or zero). Let
+   $P_{n_0}$ $P_{n_0+1}$ \dots, $P_n$ \dots\ be propositions, 
+   one for each integer $n\ge n_0$ such that \begin{alist} 
+   \item $P_{n_0}$ is true$\,$ \item for each integer $n\ge 
+   n_0$ $P_n$ implies $P_{n+1}$ \end{alist} Then $P_n$ is true 
+   for every integer $n\ge n_0$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "12"
+    offset: "21"
+. id: "5e33c093981ec41bc6b27984"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is integrable on the set $S$ in $ $ and the integral
+   $ $ exists for $c\le y\le d$ then \begin{equation} \int_S 
+   f(x,y) \,d(x,y)=\int_c^d dy\int^{v(y)}_{u(y)} f(x,y)\,dx. 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "475"
+    offset: "484"
+. id: "5e33c092981ec41bc6b27900"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "An infinite subset $T$ of $A$ is compact if and only if 
+   every infinite subset of $T$ has a limit point in $T$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "536"
+    offset: "545"
+. id: "5e33c092981ec41bc6b27931"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "A power series $$ f(x)=\sum_{n=0}^\infty a_n(x-x_0)^n $$ 
+   with positive radius of convergence $R$ has derivatives of 
+   all orders in its interval of convergence, which can be 
+   obtained by repeated term by term differentiation$$ thus, 
+   \begin{equation} f^{(k)}(x)=\sum^\infty_{n=k} n(n-1)\cdots 
+   (n-k+1)a_n(x-x_0)^{n-k}. \end{equation} The radius of 
+   convergence of each of these series is $R$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "263"
+    offset: "272"
+. id: "5e33c093981ec41bc6b27a1f"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "A point $\overline{x}$ is a limit point of a set $S$ if and
+   only if there is a sequence $\{x_n\}$ of points in $S$ such 
+   that $x_n\ne\overline{x}$ for $n\ge 1$ and $$ 
+   \lim_{n\to\infty}x_n=\overline{x}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "197"
+    offset: "206"
+. id: "5e33c093981ec41bc6b279f8"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ and $g$ are integrable on $[a,b]$ then so is $f+g$ 
+   and 4pt $$ \int_a^b (f+g)(x)\,dx=\int_a^b f(x)\,dx+\int_a^b 
+   g(x)\,dx. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "136"
+    offset: "145"
+. id: "5e33c093981ec41bc6b279cb"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f$ is continuous and its antiderivative 
+   $F(x)=\int_a^x f(t)\,dt$ is bounded on $[a,b)$ Let $g'$ be 
+   absolutely integrable on $[a,b)$ and suppose that 
+   \begin{equation} \lim_{x\to b-} g(x)=0. \end{equation} Then 
+   $\int_a^b f(x)g(x)\,dx$ converges."
+Metadata:
+. name: "Dirichlet's Test"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "165"
+    offset: "174"
+. id: "5e33c093981ec41bc6b279e7"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $\sum_{n=k}^\infty f_n$ converges uniformly to
+   $F$ on $S=[a,b]$ Assume that $F$ and $f_n$ $n\ge k$ are 
+   integrable on $[a,b]$ Then $$ \int_a^b 
+   F(x)\,dx=\sum_{n=k}^\infty \int_a^b f_n(x)\,dx. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "253"
+    offset: "262"
+. id: "5e33c093981ec41bc6b27a1a"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $\phi'$ is integrable and $\phi$ is monotonic 
+   on $[c,d]$ and the transformation $x=\phi(t)$ maps $[c,d]$ 
+   onto $[a,b]$ Let $f$ be bounded on $[a,b]$ Then $$ 
+   g(t)=f(\phi(t))\phi'(t) $$ is integrable on $[c,d]$ if and 
+   only if $f$ is integrable over $[a,b]$ and in this case $$ 
+   \int_a^b f(x)\,dx=\int_c^d f(\phi(t))|\phi'(t)|\,dt. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "150"
+    offset: "159"
+. id: "5e33c093981ec41bc6b279e0"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ and $g$ are integrable on $[a,b]$ and $f(x)\le g(x)$
+   for $a\le x\le b$ then \begin{equation} \int_a^b 
+   f(x)\,dx\le\int_a^b g(x)\,dx. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "137"
+    offset: "146"
+. id: "5e33c093981ec41bc6b279ce"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $g$ is monotonic on $[a,b)$ and $\int_a^b 
+   g(x)\,dx=\infty$ Let $f$ be locally integrable on $[a,b)$ 
+   and $$ \int_{x_j}^{x_{j+1}} |f(x)|\,dx\ge\rho,\quad j\ge0, 
+   $$ for some positive $\rho$ where $\{x_j\}$ is an increasing
+   infinite sequence of points in $[a,b)$ such that 
+   $\lim_{j\to\infty}x_j=b$ and $x_{j+1}-x_j\le M$ $j\ge0$ for 
+   some $M$ Then $$ \int_a^b |f(x)g(x)|\,dx=\infty. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "168"
+    offset: "177"
+. id: "5e33c093981ec41bc6b279e9"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f$ and its partial derivatives of order $\le 
+   k-1$ are differentiable in a neighborhood $N$ of a point 
+   $\mathbf{X}_0$ in $\R^n$ and all $k$th-order partial 
+   derivatives of $f$ are continuous at $\mathbf{X}_0$ Then 
+   \begin{equation} \lim_{\mathbf{X}\to\mathbf{X}_0} 
+   \frac{f(\mathbf{X})-T_k(\mathbf{X})}{ 
+   |\mathbf{X}-\mathbf{X}_0|^k}=0. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "355"
+    offset: "364"
+. id: "5e33c093981ec41bc6b27a42"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If \begin{equation} \lim_{n\to\infty}s_n=s\quad (-\infty\le
+   s\le\infty), \end{equation} then \begin{equation} 
+   \lim_{k\to\infty} s_{n_k}=s \end{equation} for every 
+   subsequence $\{s_{n_k}\}$ of $\{s_n\}$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "196"
+    offset: "205"
+. id: "5e33c093981ec41bc6b279f6"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\mathbf{A}$ $\mathbf{B}$ and $\mathbf{C}$ are $m\times 
+   n$ matrices, then $$ 
+   (\mathbf{A}+\mathbf{B})+\mathbf{C}=\mathbf{A}+(\mathbf{B} 
+   +\mathbf{C}). $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "366"
+    offset: "375"
+. id: "5e33c093981ec41bc6b27a45"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Let \begin{equation} \lim_{n\to\infty} s_n=s \quad and\quad
+   \lim_{n\to\infty} t_n=t, \end{equation} where $s$ and $t$ 
+   are finite. Then \begin{equation} \lim_{n\to\infty} 
+   (cs_n)=cs \end{equation} if $c$ is a constant$$ 
+   \begin{eqnarray} \lim_{n\to\infty}(s_n+t_n) =s+t, \\ 
+   \lim_{n\to\infty}(s_n-t_n) =s-t, \\ 
+   \lim_{n\to\infty}(s_nt_n) =st, \\ and \\ 
+   \lim_{n\to\infty}\frac{s_n}{ t_n} =\frac{s}{ t} 
+   \end{eqnarray} if $t_n$ is nonzero for all $n$ and $t\ne0$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "184"
+    offset: "193"
+. id: "5e33c093981ec41bc6b279f1"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $K$ is a bounded set with zero content and 
+   $\epsilon$ $\rho>0$ Then there are cubes $C_1$ $C_2$ \dots, 
+   $C_r$ with edge lengths $<\rho$ such that $C_j\cap 
+   K\ne\emptyset$ $1\le j\le r$ \begin{equation} 
+   K\subset\bigcup_{j=1}^r C_j, \end{equation} and $$ 
+   \sum_{j=1}^r V(C_j)<\epsilon. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "490"
+    offset: "499"
+. id: "5e33c093981ec41bc6b279c5"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "*{-.5em} A sequence of functions $\{F_n\}$ converges 
+   uniformly on a set $S$ if and only if for each $\epsilon>0$ 
+   there is an integer $N$ such that \begin{equation} 
+   \|F_n-F_m\|_S<\epsilon \quad if\quad n, m\ge N. 
+   \end{equation}"
+Metadata:
+. name: "Cauchy's Uniform Convergence Criterion"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "240"
+    offset: "249"
+. id: "5e33c093981ec41bc6b27a11"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is bounded on $[a,b]$ and \begin{equation} 
+   \underline{\int_a^b} f(x)\,dx=\overline{\int_a^b}f(x)\,dx=L,
+   \end{equation} then $f$ is integrable on $[a,b]$ and 
+   \begin{equation} \int_a^b f(x)\,dx=L. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "132"
+    offset: "141"
+. id: "5e33c093981ec41bc6b279c2"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "A sequence $\{\mathbf{X}_r\}$ in $\R^n$ converges if and 
+   only if for each $\epsilon>0$ there is an integer $K$ such 
+   that $$ |\mathbf{X}_r-\mathbf{X}_s|<\epsilon \quad if\quad 
+   r,s\ge K. $$"
+Metadata:
+. name: "Cauchy's Convergence Criterion"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "294"
+    offset: "303"
+. id: "5e33c093981ec41bc6b27a29"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "A series $\sum f_n$ converges uniformly on a set $S$ if and
+   only if for each $\epsilon>0$ there is an integer $N$ such 
+   that 0pt \begin{equation} 
+   \|f_n+f_{n+1}+\cdots+f_m\|_S<\epsilon \quad if\quad m\ge 
+   n\ge N. \end{equation}"
+Metadata:
+. name: "Cauchy's Uniform Convergence Criterion"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "248"
+    offset: "257"
+. id: "5e33c093981ec41bc6b27a16"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Let $f$ be defined on a closed interval $[a,b]$ containing 
+   $\overline{x}$ Then $f$ is continuous at $\overline{x}$ 
+   (from the right if $\overline{x}=a$ from the left if 
+   $\overline{x}=b$) if and only if \begin{equation} 
+   \lim_{n\to\infty} f(x_n)=f(\overline{x}) \end{equation} 
+   whenever $\{x_n\}$ is a sequence of points in $[a,b]$ such 
+   that \begin{equation} \lim_{n\to\infty} x_n=\overline{x}. 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "198"
+    offset: "207"
+. id: "5e33c093981ec41bc6b279fa"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "The homogeneous system $ $ of $n$ equations in $n$ unknowns
+   has a nontrivial solution if and only if 
+   $\det(\mathbf{A})=0$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "376"
+    offset: "385"
+. id: "5e33c093981ec41bc6b27a4e"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $x_1$ and $x_2$ are in the interval of convergence of $$
+   f(x)=\sum^\infty_{n=0} a_n(x-x_0)^n, $$ then $$ 
+   \int_{x_1}^{x_2} f(x)\,dx=\sum^\infty_{n=0}\frac{a_n}{ 
+   n+1}\left[(x_2-x_0)^{n+1}- (x_1-x_0)^{n+1}\right]; $$ that 
+   is, a power series may be integrated term by term between 
+   any two points in its interval of convergence."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "266"
+    offset: "275"
+. id: "5e33c093981ec41bc6b27a20"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "The series $$ \sum_{n=k}^\infty f_ng_n $$ converges 
+   uniformly on $S$ if $\{f_n\}$ converges uniformly to zero on
+   $S$ $\sum (f_{n+1}-f_n)$ converges absolutely uniformly on 
+   $S$ and \begin{equation} \|g_k+g_{k+1}+\cdots+g_n\|_S\le 
+   M,\quad n\ge k, \end{equation} for some constant $M$"
+Metadata:
+. name: "Dirichlet's Test for Uniform Convergence"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "249"
+    offset: "258"
+. id: "5e33c093981ec41bc6b27a18"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $a_n\ge0$ for $n\ge k$ then $\sum a_n$ converges if its 
+   partial sums are bounded, or diverges to $\infty$ if they 
+   are not. These are the only possibilities and, in either 
+   case, $$ \sum_{n=k}^\infty a_n =\,\sup\set{A_n}{n\ge 
+   k}\negthickspace, $$ where $$ 
+   A_n=a_k+a_{k+1}+\cdots+a_n,\quad n\ge k. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "205"
+    offset: "214"
+. id: "5e33c093981ec41bc6b279ff"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\mathbf{X}$ $\mathbf{Y}$ and $\mathbf{Z}$ are members 
+   of $\R^n$ and $a$ is a scalar, then \begin{alist} \item 
+   $|a\mathbf{X}|=|a|\,|\mathbf{X}|$ \item $|\mathbf{X}|\ge0$ 
+   with equality if and only if $\mathbf{X}= \mathbf{0}$ \item 
+   $|\mathbf{X}-\mathbf{Y}|\ge0$ with equality if and only if 
+   $\mathbf{X}=\mathbf{Y}$ \item 
+   $\mathbf{X}\cdot\mathbf{Y}=\mathbf{Y}\cdot\mathbf{X}$ \item 
+   $\mathbf{X}\cdot 
+   (\mathbf{Y}+\mathbf{Z})=\mathbf{X}\cdot\mathbf{Y}+ 
+   \mathbf{X}\cdot\mathbf{Z}$ \item 
+   $(c\mathbf{X})\cdot\mathbf{Y}=\mathbf{X}\cdot (c\mathbf{Y})=
+   c(\mathbf{X}\cdot\mathbf{Y})$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "289"
+    offset: "298"
+. id: "5e33c093981ec41bc6b27a27"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Let $\mathbf{A}$ be an $n\times n$ matrix. If 
+   $\det(\mathbf{A})=0$ then $\mathbf{A}$ is singular. If 
+   $\det(\mathbf{A})\ne0$ then $\mathbf{A}$ is nonsingular, and
+   $\mathbf{A}$ has the unique inverse \begin{equation} 
+   \mathbf{A}^{-1}=\frac{1}{\det(\mathbf{A})}\adj(\mathbf{A}). 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "373"
+    offset: "382"
+. id: "5e33c093981ec41bc6b27a4b"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "A transformation $\mathbf{L}: \R^n \to \R^m$ defined on all
+   of $\R^n$ is linear if and only if \begin{equation} 
+   \mathbf{L}(\mathbf{X})=\left[begin{array} 
+   a_{11}x_1+a_{12}x_2+ 
+   \cdots+a_{1n}x_n\\a_{21}x_1+a_{22}x_2+\cdots+a_{2n}x_n\\ 
+   \vdots\\a_{m1}x_1+a_{m2}x_2+\cdots+a_{mn}x_nend{array}\right],
+   \end{equation} where the $a_{ij}$'s are constants."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "362"
+    offset: "371"
+. id: "5e33c093981ec41bc6b27a44"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $S_1$ $S_2$ \dots\ are closed nonempty subsets of $\R^n$
+   such that \begin{equation} S_1\supset 
+   S_2\supset\cdots\supset S_r\supset\cdots \end{equation} and 
+   \begin{equation} \lim_{r\to\infty} d(S_r)=0, \end{equation} 
+   then the intersection $$ I=\bigcap^\infty_{r=1}S_r $$ 
+   contains exactly one point."
+Metadata:
+. name: "Principle of Nested Sets"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "294"
+    offset: "303"
+. id: "5e33c093981ec41bc6b27a2a"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Let $\lim_{x\to\infty} f(x)=L$ where $L$ is in the extended
+   reals, and suppose that $s_n=f(n)$ for large $n$ Then $$ 
+   \lim_{n\to\infty}s_n=L. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "183"
+    offset: "192"
+. id: "5e33c093981ec41bc6b279f0"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $\mathbf{X}_0$ is in $D_f$ and is a limit 
+   point of $D_f$ Then $f$ is continuous at $\mathbf{X}_0$ if 
+   and only if for each $\epsilon>0$ there is a $\delta>0$ such
+   that $$ \left|f(\mathbf{X})-f(\mathbf{X}_0)\right|<\epsilon 
+   $$ whenever $$ |\mathbf{X}-\mathbf{X}_0|<\delta \quad 
+   and\quad \mathbf{X}\in D_f. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "311"
+    offset: "320"
+. id: "5e33c093981ec41bc6b27a2f"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f$ satisfies the hypotheses of Theorem $ $ 
+   with $k\ge2$ and \begin{equation} d^{(r)}_{\mathbf{X}_0} 
+   f\equiv0\quad (1\le r\le k-1),\quad d^{(k)}_\mathbf{X_0} 
+   f\not\equiv0. \end{equation} Then \begin{alist} \item 
+   $\mathbf{X}_0$ is not a local extreme point of $f$ unless 
+   $d^{(k)}_{\mathbf{X}_0}f$ is semidefinite as a polynomial in
+   $\mathbf{X}-\mathbf{X}_0$ In particular, $\mathbf{X}_0$ is 
+   not a local extreme point of $f$ if $k$ is odd. \item 
+   $\mathbf{X}_0$ is a local minimum point of $f$ if 
+   $d^{(k)}_{\mathbf{X}_0} f$ is positive definite, or a local 
+   maximum point if $d^{(k)}_{\mathbf{X}_0}f$ is negative 
+   definite. \item If $d^{(k)}_{\mathbf{X}_0}f$ is 
+   semidefinite, then $\mathbf{X}_0$ may be a local extreme 
+   point of $f$ but it need not be. \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "357"
+    offset: "366"
+. id: "5e33c093981ec41bc6b27a43"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $u$ is continuous on $[a,b)$ and 
+   $\int_a^bu(x)\,dx$ diverges. Let $v$ be positive and 
+   differentiable on $[a,b)$ and suppose that $\lim_{x\to 
+   b-}v(x)=\infty$ and $v'/v^2$ is absolutely integrable on 
+   $[a,b)$ Then $\int_a^b u(x)v(x)\,dx$ diverges."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "168"
+    offset: "177"
+. id: "5e33c093981ec41bc6b279e8"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\{s_n\}$ is monotonic and has a subsequence 
+   $\{s_{n_k}\}$ such that $$ \lim_{k\to\infty} s_{n_k}=s\quad 
+   (-\infty\le s\le\infty), $$ then $$ \lim_{n\to\infty} s_n=s.
+   $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "196"
+    offset: "205"
+. id: "5e33c093981ec41bc6b279f7"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f_1$ $f_2$ \dots, $f_n$ are integrable on $[a,b]$ and 
+   $c_1$ $c_2$ \dots, $c_n$ are constants, then 
+   $c_1f_1+c_2f_2+\cdots+ c_nf_n$ is integrable on $[a,b]$ and 
+   \begin{eqnarray*} \int_a^b 
+   (c_1f_1+c_2f_2+\cdots+c_nf_n)(x)\,dx =c_1\int_a^b f_1(x)\,dx
+   +c_2\int_a^b f_2(x)\,dx\\ {}+\cdots+c_n\int_a^b f_n(x)\,dx. 
+   \end{eqnarray*}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "137"
+    offset: "146"
+. id: "5e33c093981ec41bc6b279cd"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f_1$ $f_2$ \dots, $f_n$ are locally 
+   integrable on $[a,b)$ and that $\int_a^bf_1(x)\,dx$ 
+   $\int_a^bf_2(x)\,dx$ \dots, $\int_a^bf_n(x)\,dx$ converge. 
+   Let $c_1$ $c_2$ \dots, $c_n$ be constants. Then 
+   $\int_a^b(c_1f+c_2f_1+\cdots+c_nf_n)(x)\,dx$ converges and 
+   \begin{eqnarray*} \int_a^b 
+   (c_1f_1+c_2f_2+\cdots+c_nf_n)(x)\,dx =c_1\int_a^b f_1(x)\,dx
+   +c_2\int_a^b f_2(x)\,dx\\ {}+\cdots+c_n\int_a^b f_n(x)\,dx. 
+   \end{eqnarray*}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "158"
+    offset: "167"
+. id: "5e33c093981ec41bc6b279e1"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "*{3pt} \begin{alist} \item If $\{x_n\}$ is bounded, then 
+   $\{x_n\}$ has a convergent subsequence. *{3pt} \item If 
+   $\{x_n\}$ is unbounded above, then $\{x_n\}$ has a 
+   subsequence $\{x_{n_k}\}$ such that $$ \lim_{k\to\infty} 
+   x_{n_k}=\infty. $$ *{3pt} \item If $\{x_n\}$ is unbounded 
+   below, then $\{x_n\}$ has a subsequence $\{x_{n_k}\}$ such 
+   that $$ \lim_{k\to\infty} x_{n_k}=-\infty. $$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "197"
+    offset: "206"
+. id: "5e33c093981ec41bc6b279f9"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is locally integrable on $[a,b)$ and $\int_a^b 
+   |f(x)|\,dx<\infty$ then $\int_a^b f(x)\,dx$ converges$$ that
+   is, an absolutely convergent integral is convergent."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "164"
+    offset: "173"
+. id: "5e33c093981ec41bc6b279e6"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is integrable on $[a,b]$ and $c$ is a constant, then
+   $cf$ is integrable on $[a,b]$ and $$ \int_a^b 
+   cf(x)\,dx=c\int_a^b f(x)\,dx. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "137"
+    offset: "146"
+. id: "5e33c093981ec41bc6b279cc"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\sum_{n=k}^\infty f_n$ converges uniformly to $F$ on 
+   $S$ and each $f_n$ is continuous at a point $x_0$ in $S$ 
+   then so is $F$ Similar statements hold for continuity from 
+   the right and left."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "252"
+    offset: "261"
+. id: "5e33c093981ec41bc6b27a19"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "The system $ $ has a solution $\mathbf{X}$ for any given 
+   $\mathbf{Y}$ if and only if $\mathbf{A}$ is nonsingular. In 
+   this case, the solution is unique and is given by 
+   $\mathbf{X}=\mathbf{A}^{-1}\mathbf{Y}$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "374"
+    offset: "383"
+. id: "5e33c093981ec41bc6b27a4c"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\mathbf{X}$ and $\mathbf{Y}$ are in $\R^n$ then 
+   \begin{equation} |\mathbf{X}+\mathbf{Y}|\le 
+   |\mathbf{X}|+|\mathbf{Y}|, \end{equation} with equality if 
+   and only if one of the vectors is a nonnegative multiple of 
+   the other."
+Metadata:
+. name: "Triangle Inequality"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "286"
+    offset: "295"
+. id: "5e33c093981ec41bc6b27a26"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f$ is infinitely differentiable on an 
+   interval $I$ and \begin{equation} 
+   \lim_{n\to\infty}\frac{r^n}{ n!}\|f^{(n)}\|_I=0. 
+   \end{equation} Then, if $x_0\in I^0$ the Taylor series $$ 
+   \sum^\infty_{n=0}\frac{f^{(n)}(x_0)}{ n!} (x-x_0)^n $$ 
+   converges uniformly to $f$ on $$ I_r=I\cap [x_0-r,x_0+r]. 
+   $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "267"
+    offset: "276"
+. id: "5e33c093981ec41bc6b27a21"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\mathbf{A}=[a_{ij}]$ is nonsingular, then the solution
+of the system \[\begin{aligned}
+a_{11}x_1+a_{12}x_2+\cdots+a_{1n}x_n =y_1\\
+a_{21}x_1+a_{22}x_2+\cdots+a_{2n}x_n =y_2\\ &\vdots& \\
+a_{n1}x_1+a_{n2}x_2+\cdots+a_{nn}x_n =y_n \end{aligned}\]
+(or, in matrix form, $\mathbf{AX}=\mathbf{Y}$) is given by
+$$ x_i=\frac{D_i}{\det(\mathbf{A})},\quad 1\le i\le n, $$
+where $D_i$ is the determinant of the matrix obtained by
+replacing the $i$th column of $\mathbf{A}$ with $\mathbf{Y}$
+thus, $$ D_1=\left|\begin{aligned} y_1&a_{12}&\cdots&a_{1n}\\
+y_2&a_{22}&\dots&a_{2n}\\ \vdots&\vdots&\ddots&\vdots\\
+y_n&a_{n2}&\cdots&a_{nn}\end{aligned}\right|,\quad
+D_2=\left|\begin{aligned} a_{11}&y_1&a_{13}&\cdots&a_{1n}\\
+a_{21}&y_2&a_{23}&\cdots&a_{2n}\\
+\vdots&\vdots&\vdots&\ddots&\vdots\\
+a_{n1}&y_n&a_{n3}&\cdots&a_{nn}\end{aligned}\right|,\quad\cdots,
+$$ $$ D_n=\left|\begin{aligned} a_{11}&\cdots&a_{1,n-1}&y_1\\
+a_{21}&\cdots&a_{2,n-1}&y_2\\ \vdots&\vdots&\ddots&\vdots\\
+a_{n1}&\cdots&a_{n,n-1}&y_n\end{aligned}\right|. $$"
+Metadata:
+. id: "5e33c093981ec41bc6b27a4d"
+. name: "Cramer's Rule"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "374"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Let $$ 
+   \overline{\mathbf{X}}=(\overline{x}_1,\overline{x}_2, 
+   \dots,\overline{x}_n) \quad and\quad \mathbf{X}_r=(x_{1r}, 
+   x_{2r}, \dots, x_{nr}),\quad r\ge1. $$ Then 
+   $\lim_{r\to\infty}\mathbf{X}_r=\overline{\mathbf{X}}$ if and
+   only if $$ \lim_{r\to\infty}x_{ir}=\overline{x}_i,\quad 1\le
+   i\le n; $$ that is, a sequence $\{\mathbf{X}_r\}$ of points 
+   in $\R^n$ converges to a limit $\overline{\mathbf{X}}$ if 
+   and only if the sequences of components of 
+   $\{\mathbf{X}_r\}$ converge to the respective components of 
+   $\overline{\mathbf{X}}$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "294"
+    offset: "303"
+. id: "5e33c093981ec41bc6b27a28"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "A bounded function $f$ is integrable on $[a,b]$ if and only
+   if $$ 
+   \underline{\int_a^b}f(x)\,dx=\overline{\int_a^b}f(x)\,dx. 
+   $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "133"
+    offset: "142"
+. id: "5e33c093981ec41bc6b279c3"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "\begin{alist} \item If $\{s_n\}$ is nondecreasing, then 
+   $\lim_{n\to\infty}s_n=\sup\{s_n\}$ \item If $\{s_n\}$ is 
+   nonincreasing, then $\lim_{n\to\infty}s_n= \inf\{s_n\}$ 
+   \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "182"
+    offset: "191"
+. id: "5e33c093981ec41bc6b279ef"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "The series $\sum f_n$ converges uniformly on $S$ if 
+   \begin{equation} \|f_n\|_S\le M_n,\quad n\ge k, 
+   \end{equation} where $\sum M_n<\infty$"
+Metadata:
+. name: "Weierstrass's Test"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "248"
+    offset: "257"
+. id: "5e33c093981ec41bc6b27a17"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $\phi$ is monotonic and $\phi'$ is locally 
+   integrable on either of the half-open intervals $I=[c,d)$ or
+   $(c,d]$ and let $x=\phi(t)$ map $I$ onto either of the 
+   half-open intervals $J=[a,b)$ or $J=(a,b]$ Let $f$ be 
+   locally integrable on $J$ Then the improper integrals $$ 
+   \int_a^b f(x)\,dx \quad and\quad \int_c^d 
+   f\left(\phi(t)\right)|\phi'(t)|\,dt $$ diverge or converge 
+   together, in the latter case to the same value. The same 
+   conclusion holds if $\phi$ and $\phi'$ have the stated 
+   properties only on the open interval $(a,b)$ the 
+   transformation $x=\phi(t)$ maps $(c,d)$ onto $(a,b)$ and $f$
+   is locally integrable on $(a,b)$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "168"
+    offset: "177"
+. id: "5e33c093981ec41bc6b279ea"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $S$ is contained in a bounded set $T$ and $f$ 
+   is integrable on $S$ Then $f_S$ (see $ )$ is integrable on 
+   $T$ and $$ \int_T f_S(\mathbf{X})\,d\mathbf{X}=\int_S 
+   f(\mathbf{X})\,d\mathbf{X}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "457"
+    offset: "466"
+. id: "5e33c093981ec41bc6b279c4"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\{F_n\}$ converges uniformly to $F$ on $S$ then 
+   $\{F_n\}$ converges pointwise to $F$ on $S$ The converse is 
+   false$$ that is, pointwise convergence does not imply 
+   uniform convergence."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "239"
+    offset: "248"
+. id: "5e33c093981ec41bc6b27a10"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f$ has $n$ derivatives at $x_0$ and $n$ is 
+   the smallest positive integer such that $f^{(n)}(x_0)\ne 0$ 
+   \begin{alist} \item If $n$ is odd, $x_0$ is not a local 
+   extreme point of $f$ \item If $n$ is even, $x_0$ is a local 
+   maximum of $f$ if $f^{(n)}(x_0)<0$ or a local mininum of $f$
+   if $f^{(n)}(x_0)>0$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "105"
+    offset: "114"
+. id: "5e33c093981ec41bc6b279b9"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Let $f$ be a real-valued function defined on a subset of 
+   $\R^n$ and let the vector-valued function 
+   $\mathbf{G}=(g_1,g_2, \dots,g_n)$ be defined on a domain 
+   $D_\mathbf{G}$ in $\R^m$ Let the set $$ 
+   T=\set{\mathbf{U}}{\mathbf{U}\in D_{\mathbf{G}} \quad and 
+   \quad \mathbf{G}(\mathbf{U})\in D_f} $$ , be nonempty, and 
+   define the real-valued composite function $$ 
+   h=f\circ\mathbf{G} $$ on $T$ by $$ 
+   h(\mathbf{U})=f(\mathbf{G}(\mathbf{U})),\quad \mathbf{U}\in 
+   T. $$ Now suppose that $\mathbf{U}_0$ is in $T$ and is a 
+   limit point of $T$ $\mathbf{G}$ is continuous at 
+   $\mathbf{U}_0$ and $f$ is continuous at 
+   $\mathbf{X}_0=\mathbf{G}(\mathbf{U}_0)$ Then $h$ is 
+   continuous at $\mathbf{U}_0$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "313"
+    offset: "322"
+. id: "5e33c093981ec41bc6b27a32"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\mathbf{X}$ and $\mathbf{Y}$ are any two vectors in 
+   $\R^n$ then \begin{equation} |\mathbf{X}\cdot\mathbf{Y}|\le 
+   |\mathbf{X}|\,|\mathbf{Y}|, \end{equation} with equality if 
+   and only if one of the vectors is a scalar multiple of the 
+   other."
+Metadata:
+. name: "Schwarz's Inequality"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "285"
+    offset: "294"
+. id: "5e33c093981ec41bc6b279a6"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Let $f$ be continuous on a region $S$ in $\R^n$ Suppose 
+   that $\mathbf{A}$ and $\mathbf{B}$ are in $S$ and $$ 
+   f(\mathbf{A})<u<f(\mathbf{B}). $$ Then $f(\mathbf{C})=u$ for
+   some $\mathbf{C}$ in $S$"
+Metadata:
+. name: "Intermediate Value Theorem"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "316"
+    offset: "325"
+. id: "5e33c093981ec41bc6b27a35"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that for $n$ sufficiently large (that is, for $n 
+   \ge some integer N$) the terms of $\sum_{n=k}^\infty a_n$ 
+   satisfy some condition that implies convergence of an 
+   infinite series. Then $\sum_{n=k}^\infty a_n$ converges. 
+   Similarly, suppose that for $n$ sufficiently large the terms
+   $\sum_{n=k}^\infty a_n$ satisfy some condition that implies 
+   divergence of an infinite series. Then $\sum_{n=k}^\infty 
+   a_n$ diverges."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "203"
+    offset: "212"
+. id: "5e33c093981ec41bc6b279a1"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $a_n>0$ $b_n>0$ and \begin{equation} 
+   \frac{a_{n+1}}{ a_n}\le \frac{b_{n+1}}{ b_n}. \end{equation}
+   Then \begin{alist} \item $\sum a_n<\infty$ if $\sum 
+   b_n<\infty$ \item $\sum b_n=\infty$ if $\sum a_n=\infty$ 
+   \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "210"
+    offset: "219"
+. id: "5e33c093981ec41bc6b27a03"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $g$ is differentiable at $x_0$ and $f$ is 
+   differentiable at $g(x_0)$ Then the composite function 
+   $h=f\circ g$ defined by $$ h(x)=f(g(x)), $$ is 
+   differentiable at $x_0$ with $$ h'(x_0)=f'(g(x_0))g'(x_0). 
+   $$"
+Metadata:
+. name: "The Chain Rule"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "79"
+    offset: "88"
+. id: "5e33c093981ec41bc6b279a8"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $u'$ and $v'$ are integrable on $[a,b]$ then 
+   \begin{equation} \int_a^b 
+   u(x)v'(x)\,dx=u(x)v(x)\bigg|^b_a-\int_a^b v(x)u'(x)\,dx. 
+   \end{equation}"
+Metadata:
+. name: "Integration by Parts"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "147"
+    offset: "156"
+. id: "5e33c093981ec41bc6b279db"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $|f(\mathbf{X})|\le M$ if $\mathbf{X}$ is in
+the rectangle $$ R=[a_1,b_1]\times
+[a_2,b_2]\times\cdots\times [a_n,b_n]. $$ Let ${\bf
+P}=P_1\times P_2\times\cdots\times P_n$ and ${\bf P}'=
+P_1'\times P_2'\times\cdots\times P_n'$ be partitions of $R$
+where $P_j'$ is obtained by adding $r_j$ partition points to
+$P_j$ $1\le j\le n$ Then
+\[
+  S({\bf P})\ge
+    S({\bf P}')\ge S({\bf P})-2MV(R)\left(\sum_{j=1}^n
+  \frac{r_j}{ b_j-a_j}\right)\|{\bf P}\|
+\]
+and
+\[
+  s({\bf P})\le s({\bf P}')\le s({\bf
+P})+2MV(R)\left(\sum_{j=1}^n \frac{r_j }{
+b_j-a_j}\right)\|{\bf P}\|.
+\]"
+Metadata:
+. id: "5e33c093981ec41bc6b279b7"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "446"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $a_n>0$ for $n\ge k$ Then *{5pt} \begin{alist}
+   *{5pt} \item $\sum a_n<\infty$ if\, $\limsup_{n\to\infty} 
+   a_{n+1}/a_n<1$ *{5pt} \item $\sum a_n=\infty$ if\, 
+   $\liminf_{n\to\infty} a_{n+1}/a_n>1$ \end{alist} *{5pt} If 
+   \begin{equation} \liminf_{n\to\infty}\frac{a_{n+1}}{ 
+   a_n}\le1\le \limsup_{n\to\infty}\frac{a_{n+1}}{ a_n}, 
+   \end{equation} then the test is inconclusive$$ that is, 
+   $\sum a_n$ may converge or diverge."
+Metadata:
+. name: "The Ratio Test"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "210"
+    offset: "219"
+. id: "5e33c093981ec41bc6b27a04"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is continuous on the closed interval $[a,b]$ and 
+   differentiable on the open interval $(a,b)$ then $$ 
+   f'(c)=\frac{f(b)-f(a)}{ b-a} $$ for some $c$ in $(a,b)$"
+Metadata:
+. name: "Mean Value Theorem"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "85"
+    offset: "94"
+. id: "5e33c093981ec41bc6b279b0"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $\mathbf{G}: \mathbb{E}^n\to \mathbb{R}^n$ is regular on a
+compact Jordan measurable set $S$ and $f$ is continuous and
+nonnegative on $\mathbf{G}(S)$ Let \begin{equation}
+Q(S)=\int_{\mathbf{G}(S)} f(\mathbf{X})\,d\mathbf{X}-\int_S
+f(\mathbf{G}(\mathbf{Y}))
+|J\mathbf{G}(\mathbf{Y})|\,d\mathbf{Y}. \end{equation} Then
+$Q(S)\le0$"
+Metadata:
+. id: "5e33c093981ec41bc6b279de"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "502"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is differentiable at a local extreme point $x_0\in 
+   D_{f}^{0}$ then $f'(x_0)=~0$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "83"
+    offset: "92"
+. id: "5e33c093981ec41bc6b279aa"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $\mathbf{X}_0$ is in, and a limit point of, 
+   the domain of $\mathbf{F}: \R^n\to\R^m$ Then $\mathbf{F}$ is
+   continuous at $\mathbf{X}_0$ if and only if for each 
+   $\epsilon>0$ there is a $\delta>0$ such that 
+   \begin{equation} 
+   |\mathbf{F}(\mathbf{X})-\mathbf{F}(\mathbf{X}_0)|<\epsilon 
+   \quad if \quad |\mathbf{X}-\mathbf{X}_0|<\delta \quad and 
+   \quad \mathbf{X}\in D_\mathbf{F}. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "379"
+    offset: "388"
+. id: "5e33c093981ec41bc6b27a50"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $\mathbf{F}:\R^n\to\R^m$ is continuously 
+   differentiable on a neighborhood $N$ of $\mathbf{X}_0$ Then,
+   for every $\epsilon>0$ there is a $\delta>0$ such that 
+   \begin{equation} 
+   |\mathbf{F}(\mathbf{X})-\mathbf{F}(\mathbf{Y})|< 
+   (\|\mathbf{F}'(\mathbf{X}_{0})\| +\epsilon) 
+   |\mathbf{X}-\mathbf{Y}| \quad if\quad 
+   \mathbf{A},\mathbf{Y}\in B_\delta (\mathbf{X}_0). 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "386"
+    offset: "395"
+. id: "5e33c093981ec41bc6b279af"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Let $\mathbf{F}: \R^n\to \R^n$ be continuously 
+   differentiable on an open set $S$ and suppose that 
+   $J\mathbf{F}(\mathbf{X})\ne0$ on $S$ Then, if 
+   $\mathbf{X}_0\in S$ there is an open neighborhood $N$ of 
+   $\mathbf{X}_0$ on which $\mathbf{F}$ is regular. Moreover, 
+   $\mathbf{F}(N)$ is open and $\mathbf{G}= \mathbf{F}^{-1}_N$ 
+   is continuously differentiable on $\mathbf{F}(N)$ with $$ 
+   \mathbf{G}'(\mathbf{U})=\left[\mathbf{F}'(\mathbf{X})\right]^{-1}\quad
+   (where $\mathbf{U}=\mathbf{F}(\mathbf{X})$) ,\quad 
+   \mathbf{U}\in\mathbf{F}(N). $$"
+Metadata:
+. name: "The Inverse Function Theorem"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "413"
+    offset: "422"
+. id: "5e33c093981ec41bc6b27a57"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is differentiable at $\mathbf{X}_0$ then $f$ is 
+   continuous at $\mathbf{X}_0$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "328"
+    offset: "337"
+. id: "5e33c093981ec41bc6b27a3b"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is integrable on $[a,b]$ and $a\le c\le b$ then the 
+   function $F$ defined by $$ F(x)=\int_c^x f(t)\,dt $$ 
+   satisfies a Lipschitz condition on $[a,b]$ and is therefore 
+   continuous on $[a,b]$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "143"
+    offset: "152"
+. id: "5e33c093981ec41bc6b279d5"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f$ is bounded on a rectangle \begin{equation}
+   R=[a_1,b_1]\times [a_2,b_2]\times\cdots\times [a_n,b_n] 
+   \end{equation} and continuous except on a subset $E$ of $R$ 
+   with zero content. Then $f$ is integrable on $R$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "451"
+    offset: "460"
+. id: "5e33c093981ec41bc6b27a61"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Let $$ \sum_{n=0}^\infty a_n=A \quad and\quad 
+   \sum_{n=0}^\infty b_n=B, $$ where $A$ and $B$ are finite, 
+   and at least one term of each series is nonzero. Then 
+   $\sum_{n=0}^\infty p_n=AB$ for every sequence $\{p_n\}$ 
+   obtained by ordering the products in $ $ if and only if 
+   $\sum a_n$ and $\sum b_n$ converge absolutely. Moreover, in 
+   this case, $\sum p_n$ converges absolutely."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "225"
+    offset: "234"
+. id: "5e33c093981ec41bc6b27a0d"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $\mathbf{G}:\E^n\to \R^n$ is regular on a cube
+   $C$ in $\E^n$ and let $\mathbf{A}$ be a nonsingular $n\times
+   n$ matrix. Then \begin{equation} V(\mathbf{G}(C))\le 
+   |\det(\mathbf{A})|\left[\max 
+   \set{\|\mathbf{A}^{-1}\mathbf{G}'(\mathbf{Y})\|_\infty}{\mathbf{Y}\in
+   C} \right]^n V(C). \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "500"
+    offset: "509"
+. id: "5e33c093981ec41bc6b279d2"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is unbounded on the nondegenerate rectangle $R$ in 
+   $\R^n$ then $f$ is not integrable on $R$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "441"
+    offset: "450"
+. id: "5e33c093981ec41bc6b27a59"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $\sum_{n=1}^\infty a_n$ is conditionally 
+   convergent and $\mu$ and $\nu$ are arbitrarily given in the 
+   extended reals, with $\mu\le\nu$ Then the terms of 
+   $\sum_{n=1}^\infty a_n$ can be rearranged to form a series 
+   $\sum_{n=1}^\infty b_n$ with partial sums $$ 
+   B_n=b_1+b_2+\cdots+b_n,\quad n\ge1, $$ such that 
+   \begin{equation} \limsup_{n\to\infty}B_n=\nu \quad and\quad 
+   \liminf_{n\to\infty}B_n=\mu. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "222"
+    offset: "231"
+. id: "5e33c093981ec41bc6b27a0c"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is integrable on $S$ and $c$ is a constant, then 
+   $cf$ is integrable on $S$ and $$ 
+   \int_S(cf)(\mathbf{X})\,d\mathbf{X}=c\int_S 
+   f(\mathbf{X})\,d\mathbf{X}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "457"
+    offset: "466"
+. id: "5e33c093981ec41bc6b27a66"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $a_n>0$ for large $n$ Let $$ 
+   M=\limsup_{n\to\infty} n\left(\frac{a_{n+1}}{ a_n}- 1\right)
+   \quad and\quad m=\liminf_{n\to\infty} n 
+   \left(\frac{a_{n+1}}{ a_n}-1\right). $$ Then \begin{alist} 
+   \item $\sum a_n<\infty$ if $M<-1$ \item $\sum a_n=\infty$ if
+   $m>-1$ \end{alist} The test is inconclusive if $m\le-1\le 
+   M$"
+Metadata:
+. name: "Raabe's Test"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "212"
+    offset: "221"
+. id: "5e33c093981ec41bc6b27a05"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that the transformation $x=\phi(t)$ maps the 
+   interval $c\le t\le d$ into the interval $a\le x\le b$ with 
+   $\phi(c)=\alpha$ and $\phi(d)=\beta$ and let $f$ be 
+   continuous on $[a,b]$ Let $\phi'$ be integrable on $[c,d]$ 
+   Then \begin{equation} \int_\alpha^\beta f(x)\,dx=\int_c^d 
+   f(\phi(t))\phi'(t)\,dt. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "148"
+    offset: "157"
+. id: "5e33c093981ec41bc6b279dd"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f'(x)=0$ for all $x$ in $(a,b)$ then $f$ is constant on
+   $(a,b)$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "86"
+    offset: "95"
+. id: "5e33c093981ec41bc6b279b1"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is differentiable at $\mathbf{X}_0$ then $$ 
+   f(\mathbf{X})-f(\mathbf{X}_0)=(d_{\mathbf{X}_0}f)(\mathbf{X}-\mathbf{X}_0)
+   +E(\mathbf{X})|\mathbf{X}-\mathbf{X}_0|, $$ where $E$ is 
+   defined in a neighborhood of $\mathbf{X}_0$ and $$ 
+   \lim_{\mathbf{X}\to\mathbf{X}_0}E(\mathbf{X})=E(\mathbf{X}_0)=0.
+   $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "330"
+    offset: "339"
+. id: "5e33c093981ec41bc6b279a9"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $a_n\ge0$ and $b_n>0$ for $n\ge k$ Then 
+   \begin{alist} \item $\dst{\sum a_n<\infty \quad if\quad \sum
+   b_n< \infty \quad and\quad \limsup_{n\to\infty} 
+   a_n/b_n<\infty}$ \item $\dst{\sum a_n=\infty \quad if\quad 
+   \sum b_n= \infty \quad and\quad \liminf_{n\to\infty} 
+   a_n/b_n>0}$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "209"
+    offset: "218"
+. id: "5e33c093981ec41bc6b27a02"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\mathbf{F}:\R^n\to\R^m$ is continuously differentiable 
+   on an open set containing a compact set $D$ then there is a 
+   constant $M$ such that \begin{equation} 
+   |\mathbf{F}(\mathbf{Y})-\mathbf{F}(\mathbf{X})|\le 
+   M|\mathbf{Y}-\mathbf{X}| \quad if\quad 
+   \mathbf{X},\mathbf{Y}\in D. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "388"
+    offset: "397"
+. id: "5e33c093981ec41bc6b279b6"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f'$ is nonnegative and integrable and $g$ is 
+   continuous on $[a,b]$ Then \begin{equation} \int_a^b 
+   f(x)g(x)\,dx=f(a)\int_a^c g(x)\,dx+f(b)\int_c^b g(x)\,dx 
+   \end{equation} for some $c$ in $[a,b]$"
+Metadata:
+. name: "Second Mean Value Theorem for Integrals"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "147"
+    offset: "156"
+. id: "5e33c093981ec41bc6b279dc"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Let $f$ be continuous on a compact set $S$ in $\R^n$ and $$
+   \alpha=\inf_{\mathbf{X}\in S}f(\mathbf{X}),\quad\beta= 
+   \sup_{\mathbf{X}\in S}f(\mathbf{X}). $$ Then $$ 
+   f(\mathbf{X}_1)=\alpha \quad and\quad f(\mathbf{X}_2)=\beta 
+   $$ for some $\mathbf{X}_1$ and $\mathbf{X}_2$ in $S$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "316"
+    offset: "325"
+. id: "5e33c093981ec41bc6b27a34"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Let $f$ be bounded on a rectangle $R$ and let $\mathbf{P}$ 
+   be a partition of $R$ Then \begin{alist} \item The upper sum
+   $S(\mathbf{P})$ of $f$ over $\mathbf{P}$ is the supremum of 
+   the set of all Riemann sums of $f$ over $\mathbf{P}$ \item 
+   The lower sum $s(\mathbf{P})$ of $f$ over $\mathbf{P}$ is 
+   the infimum of the set of all Riemann sums of $f$ over 
+   $\mathbf{P}$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "442"
+    offset: "451"
+. id: "5e33c093981ec41bc6b27a5a"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Let $f$ be bounded on $[a,b]$ and define $$ 
+   E_\rho=\set{x\in [a,b]}{w_f(x)\ge\rho}. $$ Then $E_\rho$ is 
+   closed, and $f$ is integrable on $[a,b]$ if and only if for 
+   every pair of positive numbers $\rho$ and $\delta$ $E_\rho$ 
+   can be covered by finitely many open intervals $I_1$ $I_2, 
+   $\dots, $I_p$ such that \begin{equation} \sum_{j=1}^p 
+   L(I_j)<\delta. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "177"
+    offset: "186"
+. id: "5e33c093981ec41bc6b279a0"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is bounded on a rectangle $R$ then $f$ is integrable
+   on $R$ if and only if for every $\epsilon>0$ there is a 
+   partition ${\bf P}$ of $R$ such that $$ S({\bf P})-s({\bf 
+   P})<\epsilon. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "448"
+    offset: "457"
+. id: "5e33c093981ec41bc6b27a5f"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is continuous on a compact set $S$ in $\R^n$ then 
+   $f$ is bounded on $S$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "316"
+    offset: "325"
+. id: "5e33c093981ec41bc6b27a33"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f^{(n)}(x_0)$ exists for some integer $n\ge1$ and $T_n$
+   is the $n$th Taylor polynomial of $f$ about $x_0$ then 
+   \begin{equation} \lim_{x\to 
+   x_0}\frac{f(x)-T_n(x)}{(x-x_0)^n}=0. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "102"
+    offset: "111"
+. id: "5e33c093981ec41bc6b279b8"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\mathbf{X}_1$ and $\mathbf{X}_2$ are in 
+   $S_r(\mathbf{X}_0)$ for some $r>0$, then so is every point 
+   on the line segment from $\mathbf{X}_1$ to $\mathbf{X}_2$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "293"
+    offset: "302"
+. id: "5e33c093981ec41bc6b279a7"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $\mathbf{F}:\R^{n+m}\to \R^m$ is continuously 
+   differentiable on an open set $S$ of $\R^{n+m}$ containing 
+   $(\mathbf{X}_0,\mathbf{U}_0)$ Let 
+   $\mathbf{F}(\mathbf{X}_0,\mathbf{U}_0)=\mathbf{0}$ and 
+   suppose that 
+   $\mathbf{F}_\mathbf{U}(\mathbf{X}_0,\mathbf{U}_0)$ is 
+   nonsingular. Then there is a neighborhood $M$ of 
+   $(\mathbf{X}_0,\mathbf{U}_{0})$ contained in $S$ on which 
+   $\mathbf{F}_\mathbf{U}(\mathbf{X},\mathbf{U})$ is 
+   nonsingular and a neighborhood $N$ of $\mathbf{X}_0$ in 
+   $\R^n$ on which a unique continuously differentiable 
+   transformation $\mathbf{G}: \R^n\to \R^m$ is defined, such 
+   that $\mathbf{G}(\mathbf{X}_0)=\mathbf{U}_0$ and 
+   \begin{equation} (\mathbf{ X},\mathbf{G}(\mathbf{X}))\in M 
+   \quad and \quad 
+   \mathbf{F}(\mathbf{X},\mathbf{G}(\mathbf{X}))=0 \quad if 
+   \quad\mathbf{X}\in N. \end{equation} Moreover, 
+   \begin{equation} 
+   \mathbf{G}'(\mathbf{X})=-[\mathbf{F}_\mathbf{U}(\mathbf{X},\mathbf{G}(\mathbf{X}))]^{-1}
+   \mathbf{F}_\mathbf{X}(\mathbf{X},\mathbf{G}(\mathbf{X})),\quad
+   \mathbf{X}\in N. \end{equation}"
+Metadata:
+. name: "The Implicit Function Theorem"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "421"
+    offset: "430"
+. id: "5e33c093981ec41bc6b27a58"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is integrable on $[a,b]$ and $a\le a_1<b_1\le b$ 
+   then $f$ is integrable on $[a_1,b_1]$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "142"
+    offset: "151"
+. id: "5e33c093981ec41bc6b279d3"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Let $f$ be bounded on $[a,b]$, and let $P$ be a partition 
+   of $[a,b]$ Then \begin{alist} \item The upper sum $S(P)$ of 
+   $f$ over $P$ is the supremum of the set of all Riemann sums 
+   of $f$ over $P$ \item The lower sum $s(P)$ of $f$ over $P$ 
+   is the infimum of the set of all Riemann sums of $f$ over 
+   $P$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "122"
+    offset: "131"
+. id: "5e33c093981ec41bc6b279bf"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $P=\{a_{n_i}\}_1^\infty$ and $Q= \{a_{m_j}\}_1^\infty$ 
+   are respectively the subsequences of all positive and 
+   negative terms in a conditionally convergent series $\sum 
+   a_n$ then \begin{equation} \sum_{i=1}^\infty a_{n_i}=\infty 
+   \quad and\quad \sum_{j=1}^\infty a_{m_j}=-\infty. 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "222"
+    offset: "231"
+. id: "5e33c093981ec41bc6b27a0b"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is bounded on a rectangle $R$ and $\epsilon>0$ there
+   is a $\delta>0$ such that $$ \overline{\int_R}\, 
+   f(\mathbf{X})\,d\mathbf{X}\le S({\bf P})<\overline{\int_R}\,
+   f(\mathbf{X})\,d\mathbf{X}+\epsilon $$ and $$ 
+   \underline{\int_R}\, f(\mathbf{X})\,d\mathbf{X}\ge s({\bf 
+   P})> \underline{\int_R}\, 
+   f(\mathbf{X})\,d\mathbf{X}-\epsilon $$ if $\|{\bf 
+   P}\|<\delta$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "448"
+    offset: "457"
+. id: "5e33c093981ec41bc6b279ba"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is integrable on $[a,b]$ and $[b,c]$ then $f$ is 
+   integrable on $[a,c]$ and \begin{equation} 
+   \int_a^cf(x)\,dx=\int_a^bf(x)\,dx+\int_b^cf(x)\,dx. 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "143"
+    offset: "152"
+. id: "5e33c093981ec41bc6b279d4"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\sum_{n=0}^\infty a_n$ and $\sum_{n=0}^\infty b_n$ 
+   converge absolutely to sums $A$ and $B$ then the Cauchy 
+   product of $\sum_{n=0}^\infty a_n$ and $\sum_{n=0}^\infty 
+   b_n$ converges absolutely to $AB$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "226"
+    offset: "235"
+. id: "5e33c093981ec41bc6b27a0e"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is continuous on a rectangle $R$ in $\R^n$ then $f$ 
+   is integrable on $R$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "448"
+    offset: "457"
+. id: "5e33c093981ec41bc6b27a60"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ and $g$ are differentiable at $\mathbf{X}_0$ then so
+   are $f+g$ and $fg$. The same is true of $f/g$ if 
+   $g(\mathbf{X}_0)\ne0$. The differentials are given by 
+   \begin{eqnarray*} d_{\mathbf{X}_0}(f+g) 
+   =d_{\mathbf{X}_0}f+d_{\mathbf{X}_0}g,\\ d_{\mathbf{X}_0}(fg)
+   =f(\mathbf{X}_0)d_{\mathbf{X}_0} g+g(\mathbf{X}_0) 
+   d_{\mathbf{X}_0}f,\\ and d_{\mathbf{X}_0}\left(\frac{f}{ 
+   g}\right) 
+   =\frac{g(\mathbf{X}_0)d_{\mathbf{X}_0}f-f(\mathbf{X}_0) 
+   d_{\mathbf{X}_0}g}{[g(\mathbf{X}_0)]^2}. \end{eqnarray*}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "330"
+    offset: "339"
+. id: "5e33c093981ec41bc6b27a3c"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $\mathbf{F}: \R^n\to \R^n$ is regular on an 
+   open set $S$ and let $\mathbf{G}=\mathbf{F}^{-1}_S$ Then 
+   $\mathbf{F}(S)$ is open, $\mathbf{G}$ is continuously 
+   differentiable on $\mathbf{F}(S)$ and $$ 
+   \mathbf{G}'(\mathbf{U})=(\mathbf{F}'(\mathbf{X}))^{-1}, 
+   \quad where\quad \mathbf{U}=\mathbf{F}(\mathbf{X}). $$ 
+   Moreover, since $\mathbf{G}$ is one-to-one on 
+   $\mathbf{F}(S)$ $\mathbf{G}$ is regular on $\mathbf{F}(S)$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "406"
+    offset: "415"
+. id: "5e33c093981ec41bc6b27a56"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "A transformation $\mathbf{F}=(f_1,f_2, \dots,f_m)$ defined 
+   in a neighborhood of $\mathbf{X}_0\in\R^n$ is differentiable
+   at $\mathbf{X}_0$ if and only if there is a constant 
+   $m\times n$ matrix $\mathbf{A}$ such that \begin{equation} 
+   \lim_{\mathbf{X}\to\mathbf{X}_0} \frac{ 
+   \mathbf{F}(\mathbf{X})-\mathbf{F}(\mathbf{X}_0)-\mathbf{A} 
+   (\mathbf{X}-\mathbf{X}_0)} 
+   {|\mathbf{X}-\mathbf{X}_0|}=\mathbf{0}. \end{equation} If $ 
+   $ holds, then $\mathbf{A}$ is given uniquely by 
+   \begin{equation} \mathbf{A}=\left[\frac{ ial 
+   f_i(\mathbf{X}_0)}{ ial x_j}\right]= 
+   \left[begin{array}\dst{\frac{ ial f_1(\mathbf{X}_0)}{ ial 
+   x_1}}& \dst{\frac{ ial f_1(\mathbf{X}_0)}{ ial x_2}}&\cdots&
+   \dst{\frac{ ial f_1(\mathbf{X}_0)}{ ial x_n}}\\ [3\jot] 
+   \dst{\frac{ ial f_2(\mathbf{X}_0)}{ ial x_1}}& \dst{\frac{ 
+   ial f_2(\mathbf{X}_0)}{ ial x_2}}& \cdots&\dst{\frac{ ial 
+   f_2(\mathbf{X}_0)}{ ial x_n}}\\ 
+   \vdots&\vdots&\ddots&\vdots\\ \dst{\frac{ ial 
+   f_m(\mathbf{X}_0)}{ ial x_1}}& \dst{\frac{ ial 
+   f_m(\mathbf{X}_0)}{ ial x _2}}& \cdots&\dst{\frac{ ial 
+   f_m(\mathbf{X}_0)}{ ial x_n}} end{array}\right]. 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "380"
+    offset: "389"
+. id: "5e33c093981ec41bc6b27a51"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f_{x_1}$ $f_{x_2}$ \dots, $f_{x_n}$ exist on a 
+   neighborhood of $\mathbf{X}_0$ and are continuous at 
+   $\mathbf{X}_0$ then $f$ is differentiable at $\mathbf{X}_0$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "331"
+    offset: "340"
+. id: "5e33c093981ec41bc6b27a3d"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\{F_n\}$ converges uniformly to $F$ on $S$ and each 
+   $F_n$ is continuous on $S$ then so is $F$ that is, a uniform
+   limit of continuous functions is continuous."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "244"
+    offset: "253"
+. id: "5e33c093981ec41bc6b27963"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is bounded on $[a,b]$ and $\epsilon>0$ there is a 
+   $\delta>0$ such that \begin{equation} 
+   \overline{\int_a^b}f(x)\,dx\le 
+   S(P)<\overline{\int_a^b}f(x)\,dx+\epsilon \end{equation} and
+   $$ \underline{\int_a^b} f(x)\,dx\ge 
+   s(P)>\underline{\int_a^b} f(x)\,dx-\epsilon $$ if 
+   $\|P\|<\delta$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "131"
+    offset: "140"
+. id: "5e33c093981ec41bc6b27997"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is differentiable at $x_0$ then \begin{equation} 
+   f(x)=f(x_0)+[f'(x_0)+E(x)](x-x_0), \end{equation} where $E$ 
+   is defined on a neighborhood of $x_0$ and $$ \lim_{x\to x_0}
+   E(x)=E(x_0)=0. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "78"
+    offset: "87"
+. id: "5e33c093981ec41bc6b27990"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $g$ is continuous at $x_0$ $g(x_0)$ is an 
+   interior point of $D_f$ and $f$ is continuous at $g(x_0)$ 
+   Then $f\circ g$ is continuous at $x_0$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "58"
+    offset: "67"
+. id: "5e33c093981ec41bc6b27999"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\sum a_n$ converges, then for each $\epsilon>0$ there 
+   is an integer $K$ such that $$ \left|\sum_{n=k}^\infty 
+   a_n\right|<\epsilon \quad if\quad k\ge K; $$ that is, $$ 
+   \lim_{k\to\infty}\sum_{n=k}^\infty a_n=0. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "205"
+    offset: "214"
+. id: "5e33c093981ec41bc6b27955"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "The series $\sum_{n=k}^\infty f_ng_n$ converges uniformly 
+   on $S$ if $$ f_{n+1}(x)\le f_n(x),\quad x\in S,\quad n\ge k,
+   $$ $\{f_n\}$ converges uniformly to zero on $S$ and $$ 
+   \|g_k+g_{k+1}+\cdots+g_n\|_S\le M,\quad n\ge k, $$ for some 
+   constant $M$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "251"
+    offset: "260"
+. id: "5e33c093981ec41bc6b2796d"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "A set is closed if and only if it contains all its limit 
+   points."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "526"
+    offset: "535"
+. id: "5e33c092981ec41bc6b2791d"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\rho$ and $\sigma$ are equivalent metrics on a set $A$ 
+   then $(A,\rho)$ and $(A,\sigma)$ have the same open sets."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "530"
+    offset: "539"
+. id: "5e33c092981ec41bc6b2792b"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\sum a_n$ converges, then $\lim_{n\to\infty}a_n=0$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "204"
+    offset: "213"
+. id: "5e33c093981ec41bc6b27954"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f'$ is integrable on $[a,b]$ then $$ \int_a^b 
+   f'(x)\,dx=f(b)-f(a). $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "146"
+    offset: "155"
+. id: "5e33c093981ec41bc6b27953"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ and $g$ are continuous on a set $S$ then so are
+$f+g$, $f-g$ and $fg$. In addition, $f/g$ is continuous at
+each $x_0$ in $S$ such that $g(x_0)\ne0$"
+Metadata:
+. id: "5e33c093981ec41bc6b27998"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "57"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\sum f_n$ converges uniformly on $S$ then 
+   $\lim_{n\to\infty}\|f_n\|_S=0$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "248"
+    offset: "257"
+. id: "5e33c093981ec41bc6b27965"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f$ is monotonic on $(a,b)$ and define $$ 
+   \alpha=\inf_{a<x<b}f(x) \quad and \quad 
+   \beta=\sup_{a<x<b}f(x). $$ \begin{alist} \item If $f$ is 
+   nondecreasing, then $f(a+)=\alpha$ and $f(b-)=\beta$ \item 
+   If $f$ is nonincreasing, then $f(a+)=\beta$ and 
+   $f(b-)=\alpha$ \\ (Here $a+=-\infty$ if $a=-\infty$ and 
+   $b-=\infty$ if $b=\infty.)$ \item If $a<x_0<b$, then 
+   $f(x_0+)$ and $f(x_0-)$ exist and are finite$\,$ moreover, 
+   $$ f(x_0-)\le f(x_0)\le f(x_0+) $$ if $f$ is nondecreasing, 
+   and $$ f(x_0-)\ge f(x_0)\ge f(x_0+) $$ if $f$ is 
+   nonincreasing. \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "46"
+    offset: "55"
+. id: "5e33c093981ec41bc6b27991"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "*{6pt} \begin{alist} \item A function $f$ is continuous at 
+   $x_0$ if and only if $f$ is defined on an open interval 
+   $(a,b)$ containing $x_0$ and for each $\epsilon>0$ there is 
+   a $\delta >0$ such that \begin{equation} 
+   |f(x)-f(x_0)|<\epsilon \end{equation} whenever 
+   $|x-x_0|<\delta$ \item A function $f$ is continuous from the
+   right at $x_0$ if and only if $f$ is defined on an interval 
+   $[x_0,b)$ and for each $\epsilon> 0$ there is a $\delta>0$ 
+   such that $ $ holds whenever $x_0\le x<x_0+ \delta$ \item A 
+   function $f$ is continuous from the left at $x_0$ if and 
+   only if $f$ is defined on an interval $(a,x_0]$ and for each
+   $\epsilon >0$ there is a $\delta>0$ such that $ $ holds 
+   whenever $x_0-\delta<x\le x_0$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "54"
+    offset: "63"
+. id: "5e33c093981ec41bc6b27996"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "The series $\sum (-1)^na_n$ converges if $0\le a_{n+1}\le 
+   a_n$ and $\lim_{n\to\infty} a_n=0$"
+Metadata:
+. name: "Alternating Series Test"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "219"
+    offset: "228"
+. id: "5e33c093981ec41bc6b27962"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $a_n>0\ (n\ge k)$ and $$ 
+   \lim_{n\to\infty}\frac{a_{n+1}}{ a_n}=L. $$ -1em Then 
+   \begin{alist} \item $\sum a_n<\infty$ if $L<1$ \item $\sum 
+   a_n=\infty$ if $L>1$ \end{alist} The test is inconclusive if
+   $L=1$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "212"
+    offset: "221"
+. id: "5e33c093981ec41bc6b2795d"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Any two norms $N_1$ and $N_2$ on $\R^n$ induce equivalent 
+   metrics on $\R^n$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "530"
+    offset: "539"
+. id: "5e33c092981ec41bc6b2792d"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $w_f(x)<\epsilon$ for $a\le x \le b$ then there is a 
+   $\delta>0$ such that $W_f[a_1,b_1]\le\epsilon$ provided that
+   $[a_1,b_1]\subset [a,b]$ and $b_1-a_1<\delta$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "176"
+    offset: "185"
+. id: "5e33c093981ec41bc6b2799f"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is continuous on a finite closed interval $[a,b]$ 
+   then $f$ is bounded on $[a,b]$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "61"
+    offset: "70"
+. id: "5e33c093981ec41bc6b2799a"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "A subset $T$ of a metric $A$ is compact if and only if 
+   every infinite sequence $\{t_n\}$ of members of $T$ has a 
+   subsequence that converges to a member of $T$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "538"
+    offset: "547"
+. id: "5e33c092981ec41bc6b27934"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f$ is integrable on sets $S_1$ and $S_2$ such
+   that $S_1\cap S_2$ has zero content. Then $f$ is integrable 
+   on $S_1\cup S_2$ and $$ \int_{S_1\cup S_2} 
+   f(\mathbf{X})\,d\mathbf{X}= \int_{S_1} 
+   f(\mathbf{X})\,d\mathbf{X}+ \int_{S_2} 
+   f(\mathbf{X})\,d\mathbf{X}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "460"
+    offset: "469"
+. id: "5e33c093981ec41bc6b27988"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is integrable on disjoint sets $S_1$ and $S_2$ then 
+   $f$ is integrable on $S_1\cup S_2$ and \begin{equation} 
+   \int_{S_1\cup S_2} f(\mathbf{X})\,d\mathbf{X}= \int_{S_1} 
+   f(\mathbf{X})\,d\mathbf{X}+ \int_{S_2} 
+   f(\mathbf{X})\,d\mathbf{X}. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "459"
+    offset: "468"
+. id: "5e33c092981ec41bc6b278f1"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $\mathbf{G}:\R^n\to \R^n$ is regular on a 
+   compact Jordan measurable set $S$ Then $\mathbf{G}(S)$ is 
+   compact and Jordan measurable."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "492"
+    offset: "501"
+. id: "5e33c092981ec41bc6b27905"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If a nonempty set $S$ of real numbers is bounded below, 
+   then $\inf S$ is the unique real number $\alpha$ such that 
+   \begin{alist} \item $x\ge\alpha$ for all $x$ in $S$ \item if
+   $\epsilon>0$ (no matter how small$\,)$, there is an $x_0$ in
+   $S$ such that $x_0< \alpha+\epsilon$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "6"
+    offset: "15"
+. id: "5e33c093981ec41bc6b27981"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Under the assumptions of Theorem $ $ \begin{equation} 
+   \frac{ ial h(\mathbf{U}_0)}{ ial u_i}=\sum_{j=1}^n \frac{ 
+   ial f(\mathbf{X}_0) }{ ial x_j} \frac{ ial 
+   g_j(\mathbf{U}_0)}{ ial u_i},\quad 1\le i \le m. 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "346"
+    offset: "355"
+. id: "5e33c093981ec41bc6b27975"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Let $I_1$, $I_2, \dots, I_n$ be closed intervals and
+suppose that $f$ is integrable on $R=I_1\times
+I_2\times\cdots\times I_n$ Suppose that there is an integer
+$p$ in $\{1,2, \dots,n-1\}$ such that $$
+F_p(x_{p+1},x_{p+2}, \dots,x_n)=\int_{I_1\times
+I_2\times\cdots\times I_p} f(x_1,x_2, \dots,x_n)\,d(x_1,x_2,
+\dots,x_p) $$ exists for each $(x_{p+1},x_{p+2}, \dots,x_n)$
+in $I_{p+1}\times I_{p+2}\times\cdots\times I_n$ Then $$
+\int_{I_{p+1}\times I_{p+2}\times\cdots\times I_n}
+F_p(x_{p+1}, x_{p+2}, \dots,x_n)\,d(x_{p+1},x_{p+2},
+\dots,x_n) $$ exists and equals $\int_R
+f(\mathbf{X})\,d\mathbf{X}$."
+Metadata:
+. id: "5e33c092981ec41bc6b278f6"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "469"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\mathbf{X}$ $\mathbf{Y}$ and $\mathbf{Z}$ are in $\R^n$
+   then $$ |\mathbf{X}-\mathbf{Z}|\le 
+   |\mathbf{X}-\mathbf{Y}|+|\mathbf{Y}-\mathbf{Z}|. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "286"
+    offset: "295"
+. id: "5e33c093981ec41bc6b27972"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "\begin{alist} \item The union of open sets is open. \item 
+   The intersection of closed sets is closed. \end{alist} These
+   statements apply to arbitrary collections, finite or 
+   infinite, of open and closed sets."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "22"
+    offset: "31"
+. id: "5e33c093981ec41bc6b27986"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "A function $f$ has a limit at $x_0$ if and only if it has 
+   left- and right-hand limits at $x_0$ and they are equal. 
+   More specifically, $$ \lim_{x\to x_0} f(x)=L $$ if and only 
+   if $$ f(x_0+)=f(x_0-)=L. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "40"
+    offset: "49"
+. id: "5e33c093981ec41bc6b2798f"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $a$ and $b$ are any two real numbers, then 
+   \begin{equation} |a+b|\le |a|+|b|. \end{equation}"
+Metadata:
+. name: "The Triangle Inequality"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "2"
+    offset: "11"
+. id: "5e33c093981ec41bc6b2797b"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\mathbf{F}$ is continuously differentiable on a 
+   neighborhood of $\mathbf{X}_0$ and 
+   $J\mathbf{F}(\mathbf{X}_0)\ne 0$ then there is an open 
+   neighborhood $N$ of $\mathbf{X}_0$ on which the conclusions 
+   of Theorem $ $ hold."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "414"
+    offset: "423"
+. id: "5e33c093981ec41bc6b2797e"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $\mathbf{G}: \mathbb{E}^n\to \mathbb{R}^n$ is regular on a
+compact Jordan measurable set $S$ and $f$ is continuous on
+$\mathbf{G}(S)$ Then \begin{equation} \int_{\mathbf{G}(S)}
+f(\mathbf{X})\,d\mathbf{X}= \int_S f(\mathbf{G}(\mathbf{Y}))
+|J\mathbf{G}(\mathbf{Y})|\,d\mathbf{Y}. \end{equation}"
+Metadata:
+. id: "5e33c092981ec41bc6b2790e"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "500"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Every bounded infinite set of real numbers has at least one
+   limit point."
+Metadata:
+. name: "Bolzano-Weierstrass Theorem"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "26"
+    offset: "35"
+. id: "5e33c093981ec41bc6b2798a"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "A set $S$ is closed if and only if no point of $S^c$ is a 
+   limit point of $S$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "24"
+    offset: "33"
+. id: "5e33c093981ec41bc6b27987"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "A bounded set $S$ is Jordan measurable if and only if the 
+   boundary of $S$ has zero content."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "489"
+    offset: "498"
+. id: "5e33c092981ec41bc6b27903"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $u_1$ $u_2$ \dots, $u_n$ and $v_1$ $v_2$ 
+   \dots, $v_n$ are nonnegative numbers and $p>1$ Then 
+   \begin{equation} \left(\sum_{i=1}^n(u_i+v_i)^p\right)^{1/p} 
+   \le\left(\sum_{i=1}^n u_i^p\right)^{1/p} +\left(\sum_{i=1}^n
+   v_i^p\right)^{1/p}. \end{equation}"
+Metadata:
+. name: "Minkowski's Inequality"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "522"
+    offset: "531"
+. id: "5e33c092981ec41bc6b278e8"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\mathbf{X}$ and $\mathbf{Y}$ are in $\R^n$ then $$ 
+   |\mathbf{X}-\mathbf{Y}|\ge\left| 
+   |\mathbf{X}|-|\mathbf{Y}|\right|. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "286"
+    offset: "295"
+. id: "5e33c093981ec41bc6b27974"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "The set of irrational numbers is dense in the reals$\,$ 
+   that is, if $a$ and $b$ are real numbers with $a<b$ there is
+   an irrational number $t$ such that $a<t<b$ }"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "5"
+    offset: "14"
+. id: "5e33c093981ec41bc6b27980"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If ${\mathcal H}$ is an open covering of a closed and 
+   bounded subset $S$ of the real line, then $S$ has an open 
+   covering $\widetilde{\mathcal H}$ consisting of finitely 
+   many open sets belonging to ${\mathcal H}$"
+Metadata:
+. name: "Heine-Borel Theorem"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "25"
+    offset: "34"
+. id: "5e33c093981ec41bc6b27989"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Let $I_j=[a_j,b_j]$ $1\le j\le n$, and suppose that $f$ is 
+   integrable on $R=I_1\times I_2 \times\cdots\times I_n$ 
+   Suppose also that the integrals $$ F_p(x_{p+1}, 
+   \dots,x_n)=\int_{I_1\times I_2\cdots\times I_p} 
+   f(\mathbf{X}) \,d(x_1,x_2, \dots,x_p),\quad1\le p\le n-1, $$
+   exist for all $$ (x_{p+1}, \dots,x_n) \quad in\quad 
+   I_{p+1}\times\cdots\times I_n. $$ Then the iterated integral
+   $$ \int^{b_n}_{a_n} dx_n\int^{b_{n-1}}_{a_{n-1}} 
+   dx_{n-1}\cdots \int^{b_2}_{a_2} dx_2\int^{b_1}_{a_1} 
+   f(\mathbf{X})\,dx_1 $$ exists and equals $\int_R 
+   f(\mathbf{X})\,d\mathbf{X}$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "471"
+    offset: "480"
+. id: "5e33c092981ec41bc6b278f9"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $T$ is compact, then every Cauchy sequence 
+   $\{t_n\}_{n=1}^\infty$ in $T$ converges to a limit in $T$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "538"
+    offset: "547"
+. id: "5e33c092981ec41bc6b27935"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $\widehat u\in\overline D_f$ Then 
+   \begin{equation} \lim_{u\to \widehat u}f(u)=\widehat v 
+   \end{equation} if and only if \begin{equation} 
+   \lim_{n\to\infty}f(u_n)=\widehat v \end{equation} for every 
+   sequence $\{u_n\}$ in $D_f$ such that \begin{equation} 
+   \lim_{n\to\infty}u_n=\widehat u. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "545"
+    offset: "554"
+. id: "5e33c093981ec41bc6b27945"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\rho$ and $\epsilon$ are positive, then 
+   $n\epsilon>\rho$ for some integer $n$"
+Metadata:
+. name: "Archimedean Property"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "4"
+    offset: "13"
+. id: "5e33c093981ec41bc6b2797d"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If a nonempty set $S$ of real numbers is bounded above, 
+   then $\sup S$ is the unique real number $\beta$ such that 
+   \begin{alist} \item $x\le\beta$ for all $x$ in $S$ \item if 
+   $\epsilon>0$ (no matter how small), there is an $x_0$ in $S$
+   such that $x_0> \beta-\epsilon$ \end{alist} }"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "3"
+    offset: "12"
+. id: "5e33c093981ec41bc6b2797c"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is continuous on a compact set $T$ then $f$ is 
+   uniformly continuous on $T$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "545"
+    offset: "554"
+. id: "5e33c093981ec41bc6b2794e"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ and $g$ are integrable on $S$ and $f(\mathbf{X})\le 
+   g(\mathbf{X})$ for $\mathbf{X}$ in $S$ then $$ \int_S 
+   f(\mathbf{X})\,d\mathbf{X}\le\int_S 
+   g(\mathbf{X})\,d\mathbf{X}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "457"
+    offset: "466"
+. id: "5e33c092981ec41bc6b278ea"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "A nonempty subset $T$ of $C[a,b]$ is compact if and only if
+   it is closed, uniformly bounded, and equicontinuous."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "541"
+    offset: "550"
+. id: "5e33c092981ec41bc6b2793b"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is continuous on a compact set $T$ then $f(T)$ is 
+   compact."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "545"
+    offset: "554"
+. id: "5e33c093981ec41bc6b2794b"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $u$ is continuous and $v$ is integrable and 
+   nonnegative on a rectangle $R$ Then $$ \int_R 
+   u(\mathbf{X})v(\mathbf{X})\,d\mathbf{X}= 
+   u(\mathbf{X}_0)\int_R v(\mathbf{X})\,d\mathbf{X} $$ for some
+   $\mathbf{X}_0$ in $R$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "457"
+    offset: "466"
+. id: "5e33c092981ec41bc6b278ef"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is integrable on $[a,b]$ then $$ 
+   \underline{\int_a^b}f(x)\,dx=\overline{\int_a^b}f(x)\,dx=\int_a^b
+   f(x)\,dx. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "130"
+    offset: "139"
+. id: "5e33c093981ec41bc6b279c1"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "The limit of a convergent sequence is unique."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "180"
+    offset: "189"
+. id: "5e33c093981ec41bc6b279ed"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $F'_n$ is continuous on $[a,b]$ for all 
+   $n\ge1$ and $\{F'_n\}$ converges uniformly on $[a,b]$ 
+   Suppose also that $\{F_n(x_0)\}$ converges for some $x_0$ in
+   $[a,b]$ Then $\{F_n\}$ converges uniformly on $[a,b]$ to a 
+   differentiable limit function $F$ and \begin{equation} 
+   F'(x)=\lim_{n\to\infty}F'_n(x),\quad a<x<b, \end{equation} 
+   while \begin{equation} F'_+(a)=\lim_{n\to\infty}F'_n(a+) 
+   \quad and\quad F'_-(b)= \lim_{n\to\infty}F'_n(b-). 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "245"
+    offset: "254"
+. id: "5e33c093981ec41bc6b27a15"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "A bounded function $f$ is integrable on a finite interval 
+   $[a,b]$ if and only if the set $S$ of discontinuities of $f$
+   in $[a,b]$ is of Lebesgue measure zero."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "180"
+    offset: "189"
+. id: "5e33c093981ec41bc6b279ec"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $\mathbf{G}: \R^n\to \R^n$ is continuously 
+   differentiable on a bounded open set $S$ and let $K$ be a 
+   closed subset of $S$ with zero content. Then $\mathbf{G}(K)$
+   has zero content."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "491"
+    offset: "500"
+. id: "5e33c093981ec41bc6b279c6"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\{F_n\}$ converges uniformly to $F$ on $S$ and each 
+   $F_n$ is continuous at a point $x_0$ in $S$ then so is $F$. 
+   Similar statements hold for continuity from the right and 
+   left."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "244"
+    offset: "253"
+. id: "5e33c093981ec41bc6b27a12"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "A series $\sum a_n$ converges if and only if for every 
+   $\epsilon>0$ there is an integer $N$ such that 
+   \begin{equation} |a_n+a_{n+1}+\cdots+a_m|<\epsilon \quad 
+   if\quad m\ge n\ge N. \end{equation}"
+Metadata:
+. name: "Cauchy's Convergence Criterion for Series"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "204"
+    offset: "213"
+. id: "5e33c093981ec41bc6b279fe"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Let $\mathbf{A}$ be an $n\times n$ matrix. \begin{alist} 
+   \item The sum of the products of the entries of a row of 
+   $\mathbf{A}$ and their cofactors equals $\det(\mathbf{A})$ 
+   while the sum of the products of the entries of a row of 
+   $\mathbf{A}$ and the cofactors of the entries of a different
+   row equals zero$$ that is, \begin{equation} \sum^n_{k=1} 
+   a_{ik}c_{jk}=\left\{ begin{array}\det(\mathbf{A}),&i=j,\\ 
+   0,&i\ne j.end{array}\right. \end{equation} \item The sum of 
+   the products of the entries of a column of $\mathbf{A}$ and 
+   their cofactors equals $\det(\mathbf{A})$ while the sum of 
+   the products of the entries of a column of $\mathbf{A}$ and 
+   the cofactors of the entries of a different column equals 
+   zero$$ that is, \begin{equation} \sum^n_{k=1} 
+   c_{ki}a_{kj}=\left\{ begin{array} \det(\mathbf{A}), &i=j,\\ 
+   0,&i\ne j.end{array}\right. \end{equation} \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "372"
+    offset: "381"
+. id: "5e33c093981ec41bc6b27a4a"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Let $f$ be defined by a power series $ $ with finite radius
+   of convergence $R$ \begin{alist} \item If $\sum^\infty_{n=0}
+   a_nR^n$ converges, then $$ \lim_{x\to 
+   (x_0+R)-}f(x)=\sum^\infty_{n=0} a_nR^n. $$ \item If 
+   $\sum^\infty_{n=0} (-1)^na_nR^n$ converges, then $$ 
+   \lim_{x\to (x_0-R)+} f(x)=\sum^\infty_{n=0} (-1)^na_nR^n. $$
+   \end{alist}"
+Metadata:
+. name: "Abel's Theorem"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "276"
+    offset: "285"
+. id: "5e33c093981ec41bc6b27a24"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is continuous on a closed interval $[a,b]$ then $f$ 
+   is bounded on $[a,b]$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "199"
+    offset: "208"
+. id: "5e33c093981ec41bc6b279fb"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is bounded on $[a,b]$ then $f$ is integrable on 
+   $[a,b]$ if and only if for each $\epsilon>0$ there is a 
+   partition $P$ of $[a,b]$ for which \begin{equation} 
+   S(P)-s(P)<\epsilon. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "133"
+    offset: "142"
+. id: "5e33c093981ec41bc6b279c8"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ and $g$ are given by $ $ and $ $ then 
+   \begin{eqnarray} f(x)g(x) =\sum^\infty_{n=0} 
+   c_n(x-x_0)^n,\quad|x-x_0|<R, \\ where c_n =\sum^n_{r=0} 
+   a_rb_{n-r}=\sum^n_{r=0} a_{n-r}b_r \end{eqnarray} and 
+   $R\ge\min\{R_1,R_2\}$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "269"
+    offset: "278"
+. id: "5e33c093981ec41bc6b27a23"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $A_1$ $A_2$ \dots, $A_k$ are nonsingular $n\times n$ 
+   matrices, then so is $A_1A_2\cdots A_k$ and $$ (A_1A_2\cdots
+   A_k)^{-1}=A_k^{-1}A_{k-1}^{-1}\cdots A_1^{-1}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "376"
+    offset: "385"
+. id: "5e33c093981ec41bc6b27a4f"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f_n$ is continuously differentiable on 
+   $[a,b]$ for each $n\ge k$ $\sum_{n=k}^\infty f_n(x_0)$ 
+   converges for some $x_0$ in $[a,b]$ and $\sum_{n=k}^\infty 
+   f'_n$ converges uniformly on $[a,b]$ Then $\sum_{n=k}^\infty
+   f_n$ converges uniformly on $[a,b]$ to a differentiable 
+   function $F$ and $$ F'(x)=\sum_{n=k}^\infty f'_n(x),\quad 
+   a<x<b, $$ while $$ F'(a+)=\sum_{n=k}^\infty f'_n(a+) \quad 
+   and\quad F'(b-)= \sum_{n=k}^\infty f'_n(b-). $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "254"
+    offset: "263"
+. id: "5e33c093981ec41bc6b27a1b"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is integrable on $[a,b]$ then so is $|f|$, and 
+   \begin{equation} \left|\int_a^b f(x)\,dx\right|\le\int_a^b 
+   |f(x)|\,dx. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "137"
+    offset: "146"
+. id: "5e33c093981ec41bc6b279cf"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "\\ \begin{alist} \item If we regard the vector $$ 
+   \mathbf{X}=\left[begin{array} x_1\\ x_2\\\vdots\\ 
+   x_nend{array}\right] $$ as an $n\times 1$ matrix, then the 
+   linear transformation $ $ can be written as $$ 
+   \mathbf{L}(\mathbf{X})=\mathbf{AX}. $$ \item If 
+   $\mathbf{L}_1$ and $\mathbf{L}_2$ are linear transformations
+   from $\R^n$ to $\R^m$ with matrices $\mathbf{A}_1$ and 
+   $\mathbf{A}_{2}$ respectively, then 
+   $c_1\mathbf{L}_1+c_2\mathbf{L}_2$ is the linear 
+   transformation from $\R^n$ to $\R^m$ with matrix 
+   $c_1\mathbf{A}_1+c_2\mathbf{A}_{2}$ \item If $\mathbf{L}_1: 
+   \R^n\to \R^p$ and $\mathbf{L}_2: \R^p\to \R^m$ are linear 
+   transformations with matrices $\mathbf{A}_1$ and 
+   $\mathbf{A}_2$ respectively, then the composite function 
+   $\mathbf{L}_3=\mathbf{L}_2\circ\mathbf{L}_1$ defined by $$ 
+   \mathbf{L}_3(\mathbf{X})=\mathbf{L}_2(\mathbf{L}_1(\mathbf{X})),
+   $$ is the linear transformation from $\R^n$ to $\R^m$ with 
+   matrix $\mathbf{A}_2\mathbf{A}_1$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "366"
+    offset: "375"
+. id: "5e33c093981ec41bc6b27a48"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "A power series $$ f(x)=\sum^\infty_{n=0} a_n(x-x_0)^n $$ 
+   with positive radius of convergence $R$ is continuous and 
+   differentiable in its interval of convergence, and its 
+   derivative can be obtained by differentiating term by term$$
+   that is, \begin{equation} f'(x)=\sum^\infty_{n=1} 
+   na_n(x-x_0)^{n-1}, \end{equation} which can also be written 
+   as \begin{equation} f'(x)=\sum^\infty_{n=0}(n+1)a_{n+1} 
+   (x-x_0)^n. \end{equation} This series also has radius of 
+   convergence $R$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "262"
+    offset: "271"
+. id: "5e33c093981ec41bc6b27a1e"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ and $g$ are locally integrable on $[a,b)$ and 
+   \begin{equation} 0\le f(x)\le g(x),\quad a\le x<b, 
+   \end{equation} then 3pt a $\dst\int_a^b f(x)\,dx<\infty 
+   \quad if\quad \dst\int_a^b g(x)\,dx<\infty$ \\ 3pt and\\ 3pt
+   b $\dst\int_a^b g(x)\,dx= \infty \quad if\quad \dst\int_a^b 
+   f(x)\,dx=\infty$."
+Metadata:
+. name: "Comparison Test"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "159"
+    offset: "168"
+. id: "5e33c093981ec41bc6b279e4"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is monotonic on $[a,b]$ then $f$ is integrable on 
+   $[a,b]$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "134"
+    offset: "143"
+. id: "5e33c093981ec41bc6b279ca"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\mathbf{A}$ and $\mathbf{B}$ are $m\times n$ matrices 
+   and $r$ and $s$ are real numbers, then a $r(s\mathbf{A}) 
+   =(rs)\mathbf{A}$ b $(r+s)\mathbf{A}=r\mathbf{A}+s\mathbf{A}$
+   c $r(\mathbf{A}+\mathbf{B})=r\mathbf{A}+r\mathbf{B}$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "366"
+    offset: "375"
+. id: "5e33c093981ec41bc6b27a46"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "An open set $S$ in $\R^n$ is connected if and only if it is
+   polygonally connected."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "298"
+    offset: "307"
+. id: "5e33c093981ec41bc6b27a2c"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "\begin{alist} \item If $\{s_n\}$ is bounded above and does 
+   not diverge to $-\infty$ then there is a unique real number 
+   $\overline{s}$ such that, if $\epsilon>0$ \begin{equation} 
+   s_n<\overline{s}+\epsilon \quad for large $n$ \end{equation}
+   and \begin{equation} s_n>\overline{s}-\epsilon \quad for 
+   infinitely many $n$ . \end{equation} \item If $\{s_n\}$ is 
+   bounded below and does not diverge to $\infty$ then there is
+   a unique real number $\underline{s}$ such that, if $\epsilon
+   >0$ \begin{equation} s_n>\underline{s}-\epsilon \quad for 
+   large $n$ \end{equation} and \begin{equation} 
+   s_n<\underline{s}+\epsilon \quad for infinitely many $n$ . 
+   \end{equation} \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "187"
+    offset: "196"
+. id: "5e33c093981ec41bc6b279f2"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\lim_{\mathbf{X}\to\mathbf{X}_0} f(\mathbf{X})$ exists,
+   then it is unique."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "307"
+    offset: "316"
+. id: "5e33c093981ec41bc6b27a2d"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "[Taylor's Theorem for Functions of $\mathbf n$ Variables] 
+   Suppose \\that $f$ and its partial derivatives of order $\le
+   k$ are differentiable at $\mathbf{X}_0$ and $\mathbf{X}$ in 
+   $\R^n$ and on the line segment $L$ connecting them. Then 
+   \begin{equation} f(\mathbf{X})=\sum_{r=0}^k\frac{1}{ r!} 
+   (d^{(r)}_{\mathbf{X}_0}f) 
+   (\mathbf{X}-\mathbf{X})+\frac{1}{(k+1)!} 
+   (d^{(k+1)}_{\widetilde{\mathbf{X}}} 
+   f)(\mathbf{X}-{\mathbf{X}_0}) \end{equation} for some 
+   $\widetilde{\mathbf{X}}$ on $L$ distinct from $\mathbf{X}_0$
+   and $\mathbf{X}$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "354"
+    offset: "363"
+. id: "5e33c093981ec41bc6b27a41"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "A sequence $\{s_n\}$ of real numbers converges if and only 
+   if, for every $\epsilon>0$ there is an integer $N$ such that
+   \begin{equation} |s_n-s_m|<\epsilon \quad if\quad m,n\ge N. 
+   \end{equation}"
+Metadata:
+. name: "Cauchy's Convergence Criterion"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "189"
+    offset: "198"
+. id: "5e33c093981ec41bc6b279f5"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "The sum of a convergent series is unique."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "202"
+    offset: "211"
+. id: "5e33c093981ec41bc6b279fc"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If \begin{equation} f(x)=\sum^\infty_{n=0} 
+   a_n(x-x_0)^n,\quad |x-x_0|<R_1, \end{equation} 
+   \begin{equation} g(x)=\sum^\infty_{n=0} b_n(x-x_0)^n,\quad 
+   |x-x_0|<R_2, \end{equation} and $\alpha$ and $\beta$ are 
+   constants, then $$ \alpha f(x)+\beta g(x)=\sum^\infty_{n=0} 
+   (\alpha a_n+\beta b_n)(x-x_0)^n,\quad |x-x_0|<R, $$ where 
+   $R\ge\min\{R_1,R_2\}$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "269"
+    offset: "278"
+. id: "5e33c093981ec41bc6b27a22"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is continuous on $[a,b]$ then $f$ is integrable on 
+   $[a,b]$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "134"
+    offset: "143"
+. id: "5e33c093981ec41bc6b279c9"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Let $$ \sum_{n=k}^\infty a_n=A \quad and\quad 
+   \sum_{n=k}^\infty b_n=B, $$ where $A$ and $B$ are finite. 
+   Then $$ \sum_{n=k}^\infty (ca_n)=cA $$ if $c$ is a constant,
+   $$ \sum_{n=k}^\infty (a_n+b_n)=A+B, $$ and $$ 
+   \sum_{n=k}^\infty (a_n-b_n)=A-B. $$ These relations also 
+   hold if one or both of $A$ and $B$ is infinite, provided 
+   that the right sides are not indeterminate."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "202"
+    offset: "211"
+. id: "5e33c093981ec41bc6b279fd"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\mathbf{X}$ $\mathbf{Y}$ and $\mathbf{Z}$ are in $\R^n$
+   and $a$ and $b$ are real numbers, then \begin{alist} \item 
+   $\mathbf{X}+\mathbf{Y}=\mathbf{Y}+\mathbf{X}$ (vector 
+   addition is commutative$)$ \item 
+   $(\mathbf{X}+\mathbf{Y})+\mathbf{Z}=\mathbf{X}+(\mathbf{Y}+\mathbf{Z})$
+   (vector addition is associative$)$ \item There is a unique 
+   vector $\mathbf{0}$ called the zero vector, such that 
+   $\mathbf{X}+\mathbf{0}=\mathbf{X}$ for all $\mathbf{X}$ in 
+   $\R^n$ \item For each $\mathbf{X}$ in $\R^n$ there is a 
+   unique vector $-\mathbf{X}$ such that 
+   $\mathbf{X}+(-\mathbf{X})=\mathbf{0}$ \item 
+   $a(b\mathbf{X})=(ab)\mathbf{X}$ \item 
+   $(a+b)\mathbf{X}=a\mathbf{X}+b\mathbf{X}$ \item 
+   $a(\mathbf{X}+\mathbf{Y})=a\mathbf{X}+a\mathbf{Y}$ \item 
+   $1\mathbf{X}=\mathbf{X}$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "282"
+    offset: "291"
+. id: "5e33c093981ec41bc6b27a25"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "A nonsingular $n\times n$ matrix $\mathbf{A}$ can be 
+   written as \begin{equation} 
+   \mathbf{A}=\mathbf{E}_k\mathbf{E}_{k-1}\cdots\mathbf{E}_1, 
+   \end{equation} where each $\mathbf{E}_i$ is a matrix that 
+   can be obtained from the $n\times n$ identity matrix 
+   $\mathbf{I}$ by one of the following operations$:$ 
+   \begin{alist} \item interchanging two rows of $\mathbf{I}$ 
+   \item multiplying a row of $\mathbf{I}$ by a nonzero 
+   constant$$ \item adding a multiple of one row of 
+   $\mathbf{I}$ to another. \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "492"
+    offset: "501"
+. id: "5e33c093981ec41bc6b279c7"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Let $f$ be defined on $[a,b]$ Then $f$ is continuous at 
+   $x_0$ in $[a,b]$ if and only if $w_f(x_0)=0$ (Continuity at 
+   $a$ or $b$ means continuity from the right or left, 
+   respectively.)"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "176"
+    offset: "185"
+. id: "5e33c093981ec41bc6b279eb"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $\{F_n\}$ converges uniformly to $F$ on 
+   $S=[a,b]$. Assume that $F$ and all $F_n$ are integrable on 
+   $[a,b]$ Then \begin{equation} \int_a^b 
+   F(x)\,dx=\lim_{n\to\infty}\int_a^b F_n(x)\,dx. 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "244"
+    offset: "253"
+. id: "5e33c093981ec41bc6b27a13"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "A convergent sequence is bounded."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "182"
+    offset: "191"
+. id: "5e33c093981ec41bc6b279ee"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is bounded on $[a,b]$ then \begin{equation} 
+   \underline{\int_a^b}f(x)\,dx\le\overline{\int_a^b}f(x)\,dx. 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "130"
+    offset: "139"
+. id: "5e33c093981ec41bc6b279c0"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $\{F_n\}$ converges pointwise to $F$ and each 
+   $F_n$ is integrable on $[a,b]$ \begin{alist} \item If the 
+   convergence is uniform, then $F$ is integrable on $[a,b]$ 
+   and $ $ holds. \item If the sequence $\{\|F_n\|_{[a,b]}\}$ 
+   is bounded and $F$ is integrable on $[a,b]$ then $ $ holds. 
+   \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "244"
+    offset: "253"
+. id: "5e33c093981ec41bc6b27a14"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "[Mean Value Theorem for Functions of $\mathbf n$ Variables]
+   Let $f$ be continuous at $\mathbf{X}_1=(x_{11},x_{21}, 
+   \dots, x_{n1})$ and $\mathbf{X}_2=(x_{12},x_{22}, 
+   \dots,x_{n2})$ and differentiable on the line segment $L$ 
+   from $\mathbf{X}_1$ to $\mathbf{X}_2$ Then \begin{equation} 
+   f(\mathbf{X}_2)-f(\mathbf{X}_1)=\sum_{i=1}^n f_{x_i} 
+   (\mathbf{X}_0)(x_{i2}-x_{i1})=(d_{\mathbf{X}_0}f)(\mathbf{X}_2
+   -\mathbf{X}_1) \end{equation} for some $\mathbf{X}_0$ on $L$
+   distinct from $\mathbf{X}_1$ and $\mathbf{X}_2$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "351"
+    offset: "360"
+. id: "5e33c093981ec41bc6b27a40"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\{s_n\}$ is a sequence of real numbers, then 
+   \begin{equation} \lim_{n\to\infty} s_n=s \end{equation} if 
+   and only if \begin{equation} 
+   \limsup_{n\to\infty}s_n=\liminf_{n\to\infty} s_n=s. 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "189"
+    offset: "198"
+. id: "5e33c093981ec41bc6b279f4"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If ${\mathcal H}$ is an open covering of a compact subset 
+   $S$ then $S$ can be covered by finitely many sets from 
+   ${\mathcal H}$"
+Metadata:
+. name: "Heine-Borel Theorem"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "295"
+    offset: "304"
+. id: "5e33c093981ec41bc6b27a2b"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\mathbf{A}$ $\mathbf{B}$ and $\mathbf{C}$ are $m\times 
+   p$ $p\times q$ and $q\times n$ matrices, respectively, then 
+   $(\mathbf{AB})\mathbf{C}=\mathbf{A}(\mathbf{BC})$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "366"
+    offset: "375"
+. id: "5e33c093981ec41bc6b27a47"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Every sequence $\{s_n\}$ of real numbers has a unique limit
+   superior, $\overline{s}$ and a unique limit inferior, 
+   $\underline{s}$, in the extended reals, and \begin{equation}
+   \underline{s}\le \overline{s}. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "188"
+    offset: "197"
+. id: "5e33c093981ec41bc6b279f3"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "The radius of convergence of $\sum a_n(x-x_0)^n$ is given 
+   by $$ \frac{1}{ 
+   R}=\lim_{n\to\infty}\left|\frac{a_{n+1}}{a_n}\right| $$ if 
+   the limit exists in the extended reals."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "261"
+    offset: "270"
+. id: "5e33c093981ec41bc6b27a1d"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f$ and $g$ are locally integrable on $[a,b)$ 
+   $g(x)>0$ and $f(x)\ge0$ on some subinterval $[a_1,b)$ of 
+   $[a,b)$ and \begin{equation} \lim_{x\to b-}\frac{f(x)}{ 
+   g(x)}=M. \end{equation} \begin{alist} \item If $0<M<\infty$ 
+   then $\int_a^b f(x)\,dx$ and $\int_a^b g(x)\,dx$ converge or
+   diverge together. \item If $M=\infty$ and $\int_a^b 
+   g(x)\,dx=\infty$ then $\int_a^b f(x)\,dx=\infty$. \item If 
+   $M=0$ and $\int_a^b g(x)\,dx<\infty$ then $\int_a^b 
+   f(x)\,dx<\infty$. \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "161"
+    offset: "170"
+. id: "5e33c093981ec41bc6b279e5"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "In connection with the power series $ $ define $R$ in the 
+   extended reals by \begin{equation} \frac{1}{ 
+   R}=\limsup_{n\to\infty} |a_n|^{1/n}. \end{equation} In 
+   particular, $R=0$ if $\limsup_{n\to\infty} |a_n|^{1/n}= 
+   \infty$, and $R=\infty$ if $\limsup_{n\to\infty} 
+   |a_n|^{1/n}=0$ Then the power series converges \begin{alist}
+   \item only for $x=x_0$ if $R=0$ \item for all $x$ if 
+   $R=\infty$ and absolutely uniformly in every bounded set$$ 
+   \item for $x$ in $(x_0-R, x_0+R)$ if $0<R<\infty$ and 
+   absolutely uniformly in every closed subset of this 
+   interval. \end{alist} The series diverges if $|x-x_0|>R$ No 
+   general statement can be made concerning convergence at the 
+   endpoints $x=x_0+R$ and $x=x_0-R:$ the series may converge 
+   absolutely or conditionally at both, converge conditionally 
+   at one and diverge at the other, or diverge at both."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "259"
+    offset: "268"
+. id: "5e33c093981ec41bc6b27a1c"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\mathbf{A}$ and $\mathbf{B}$ are $n\times n$ matrices, 
+   then $$ 
+   \det(\mathbf{A}\mathbf{B})=\det(\mathbf{A})\det(\mathbf{B}).
+   $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "371"
+    offset: "380"
+. id: "5e33c093981ec41bc6b27a49"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is nonnegative and locally integrable on $[a,b)$ 
+   then $\int_a^b f(x)\,dx$ converges if the function $$ 
+   F(x)=\int_a^x f(t)\,dt $$ is bounded on $[a,b)$, and 
+   $\int_a^b f(x)\,dx=\infty$ if it is not. These are the only 
+   possibilities, and $$ \int_a^b f(t)\,dt=\sup_{a\le x<b}F(x) 
+   $$ in either case."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "159"
+    offset: "168"
+. id: "5e33c093981ec41bc6b279e2"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ and $g$ are continuous on the closed interval 
+   $[a,b]$ and differentiable on the open interval $(a,b)$ then
+   \begin{equation} [g(b)-g(a)]f'(c)=[f(b)-f(a)]g'(c) 
+   \end{equation} for some $c$ in $(a,b)$"
+Metadata:
+. name: "Generalized Mean Value Theorem"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "85"
+    offset: "94"
+. id: "5e33c093981ec41bc6b279ae"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is differentiable at $\mathbf{X}_0=(x_{10},x_{20}, 
+   \dots,x_{n0})$ then $f_{x_1}(\mathbf{X}_0)$ 
+   $f_{x_2}(\mathbf{X}_{0})$ \dots, $f_{x_n}(\mathbf{X}_0)$ 
+   exist and the constants $m_1$ $m_2$ \dots, $m_n$ in $ $ are 
+   given by \begin{equation} m_i=f_{x_i}(\mathbf{X}_0),\quad 
+   1\le i\le n; \end{equation} that is, $$ 
+   \lim_{\mathbf{X}\to\mathbf{X}_0} 
+   \frac{f(\mathbf{X})-f(\mathbf{X}_0)- \dst{\sum^n_{i=1}}\, 
+   f_{x_i}(\mathbf{X}_0) (x_i-x_{i0})} { 
+   |\mathbf{X}-\mathbf{X}_0|}=0. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "327"
+    offset: "336"
+. id: "5e33c093981ec41bc6b27a3a"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $\mathbf{F}: \R^n\to\R^m$ is differentiable at
+   $\mathbf{X}_0$ $\mathbf{G}:\R^k\to\R^n$ is differentiable at
+   $\mathbf{U}_0$ and $\mathbf{X}_0=\mathbf{G}(\mathbf{U}_0)$ 
+   Then the composite function 
+   $\mathbf{H}=\mathbf{F}\circ\mathbf{G}:\R^k\to\R^m$ defined 
+   by $$ 
+   \mathbf{H}(\mathbf{U})=\mathbf{F}(\mathbf{G}(\mathbf{U})), 
+   $$ is differentiable at $\mathbf{U}_0$ Moreover, 
+   \begin{equation} 
+   \mathbf{H}'(\mathbf{U}_0)=\mathbf{F}'(\mathbf{G}(\mathbf{U}_0))
+   \mathbf{G}'(\mathbf{U}_0) \end{equation} and 
+   \begin{equation} 
+   d_{\mathbf{U}_0}\mathbf{H}=d_{\mathbf{X}_0}\mathbf{F}\circ 
+   d_{\mathbf{U}_0}\mathbf{G}, \end{equation} where $\circ$ 
+   denotes composition."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "389"
+    offset: "398"
+. id: "5e33c093981ec41bc6b27a54"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f$ is continuous on the closed interval 
+   $[a,b]$ and differentiable on the open interval $(a,b)$ and 
+   $f(a)=f(b)$ Then $f'(c)=0$ for some $c$ in the open interval
+   $(a,b)$"
+Metadata:
+. name: "Rolle's Theorem"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "84"
+    offset: "93"
+. id: "5e33c093981ec41bc6b279ab"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $F$ is continuous on the closed interval 
+   $[a,b]$ and differentiable on the open interval $(a,b)$ and 
+   $f$ is integrable on $[a,b]$ Suppose also that $$ 
+   F'(x)=f(x),\quad a<x<b. $$ Then \begin{equation} \int_a^b 
+   f(x)\,dx=F(b)-F(a). \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "144"
+    offset: "153"
+. id: "5e33c093981ec41bc6b279d8"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Let $\mathbf{F}=(f_1,f_2, \dots,f_m):\R^n\to\R^m$ and 
+   suppose that the partial derivatives \begin{equation} \frac{
+   ial f_i}{ ial x_j},\quad 1\le i\le m,\quad 1\le j\le n, 
+   \end{equation} exist on a neighborhood of $\mathbf{X}_0$ and
+   are continuous at $\mathbf{X}_0$ Then $\mathbf{F}$ is 
+   differentiable at $\mathbf{X}_0$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "386"
+    offset: "395"
+. id: "5e33c093981ec41bc6b27a53"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that the real-valued function $f$ is differentiable
+   at $\mathbf{X}_0$ in $\R^n$ the vector-valued function 
+   $\mathbf{G} =(g_1,g_2, \dots,g_n)$ is differentiable at 
+   $\mathbf{U}_0$ in $\R^m$ and $\mathbf{X}_{0} = 
+   \mathbf{G}(\mathbf{U}_0)$ Then the real-valued composite 
+   function $h=f\circ\mathbf{G}$ defined by \begin{equation} 
+   h(\mathbf{U})=f(\mathbf{G}(\mathbf{U})) \end{equation} is 
+   differentiable at $\mathbf{U}_0$ and \begin{equation} 
+   d_{\mathbf{U}_0}h=f_{x_1}(\mathbf{X}_0) 
+   d_{\mathbf{U}_0}g_1+f_{x_2} (\mathbf{X}_0) 
+   d_{\mathbf{U}_0}g_2+\cdots +f_{x_n} (\mathbf{X}_0) 
+   d_{\mathbf{U}_0}g_n. \end{equation}"
+Metadata:
+. name: "The Chain Rule"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "344"
+    offset: "353"
+. id: "5e33c093981ec41bc6b27a3f"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $u$ is continuous and $v$ is integrable and 
+   nonnegative on $[a,b]$ Then \begin{equation} \int_a^b 
+   u(x)v(x)\,dx=u(c)\int_a^b v(x)\,dx \end{equation} for some 
+   $c$ in $[a,b]$."
+Metadata:
+. name: "First Mean Value Theorem for Integrals"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "140"
+    offset: "149"
+. id: "5e33c093981ec41bc6b279d1"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "The union of finitely many sets with zero content has zero 
+   content."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "451"
+    offset: "460"
+. id: "5e33c093981ec41bc6b279bd"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ and $g$ are integrable on $S$ then so is $f+g$ and 
+   $$ \int_S(f+g)(\mathbf{X})\,d\mathbf{X}=\int_S 
+   f(\mathbf{X})\,d\mathbf{X}+ \int_S 
+   g(\mathbf{X})\,d\mathbf{X}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "457"
+    offset: "466"
+. id: "5e33c093981ec41bc6b27a65"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f$ is continuous on a finite closed interval 
+   $I$ with endpoints $a$ and $b$ (that is, either $I=(a,b)$ or
+   $I=(b,a))$ $f^{(n+1)}$ exists on the open interval $I^0$ 
+   and, if $n>0$ that $f'$, \dots, $f^{(n)}$ exist and are 
+   continuous at $a$ Then \begin{equation} 
+   f(b)-\sum_{r=0}^n\frac{f^{(r)}(a)}{ 
+   r!}(b-a)^r=\frac{f^{(n+1)}(c)}{(n+1)!} (b-a)^{n+1} 
+   \end{equation} for some $c$ in $I^0$"
+Metadata:
+. name: "Extended Mean Value Theorem"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "109"
+    offset: "118"
+. id: "5e33c093981ec41bc6b279bc"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\mathbf{G}:\E^n\rightarrow \R^n$ is regular on a cube 
+   $C$ in $\R^n$ then \begin{equation} 
+   V(\mathbf{G}(C))\le\int_C |JG(\mathbf{Y})|\,d\mathbf{Y}. 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "501"
+    offset: "510"
+. id: "5e33c093981ec41bc6b279d6"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f$ is bounded on a bounded set $S$ and 
+   continuous except on a subset $E$ of $S$ with zero content. 
+   Suppose also that $ ial S$ has zero content. Then $f$ is 
+   integrable on $S$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "455"
+    offset: "464"
+. id: "5e33c093981ec41bc6b27a62"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is continuous on a compact set $S$ in $\R^n$ then 
+   $f$ is uniformly continuous on $S$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "317"
+    offset: "326"
+. id: "5e33c093981ec41bc6b27a36"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is integrable on a rectangle $R$ then $$ 
+   \underline{\int_R}\, f(\mathbf{X})\,d\mathbf{X}= 
+   \overline{\int_R}\, f(\mathbf{X})\,d\mathbf{X} =\int_R 
+   f(\mathbf{X})\,d\mathbf{X}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "447"
+    offset: "456"
+. id: "5e33c093981ec41bc6b27a5c"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $\sum_{n=k}^\infty a_n=A$ where $-\infty \le 
+   A\le\infty$ Let $\{n_j\}_1^\infty$ be an increasing sequence
+   of integers, with $n_1\ge k$. Define \begin{eqnarray*} b_1 
+   =a_k+\cdots+a_{n_1},\\ b_2 =a_{{n_1}+1}+\cdots+a_{n_2},\\ 
+   &\vdots\\ b_r =a_{n_{r-1}+1}+\cdots+a_{n_r}. \end{eqnarray*}
+   Then $$ \sum_{j=1}^\infty b_{n_j}=A. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "220"
+    offset: "229"
+. id: "5e33c093981ec41bc6b27a09"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is differentiable at $x_0$ then $f$ is continuous at
+   $x_0$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "78"
+    offset: "87"
+. id: "5e33c093981ec41bc6b279a2"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is bounded on a rectangle $R$ and $$ 
+   \underline{\int_R}\, f(\mathbf{X})\,d\mathbf{X}= 
+   \overline{\int_R}\, f(\mathbf{X})\,d\mathbf{X}=L, $$ then 
+   $f$ is integrable on $R$ and $$ \int_R 
+   f(\mathbf{X})\,d\mathbf{X}=L. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "448"
+    offset: "457"
+. id: "5e33c093981ec41bc6b27a5d"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "For a vector-valued function $\mathbf{G}$ $$ 
+   \lim_{\mathbf{U}\to\mathbf{U}_0}\mathbf{G}(\mathbf{U})=\mathbf{L}
+   $$ if and only if for each $\epsilon>0$ there is a 
+   $\delta>0$ such that $$ 
+   |\mathbf{G}(\mathbf{U})-\mathbf{L}|<\epsilon \quad 
+   whenever\quad 0<|\mathbf{U}-\mathbf{U}_0|<\delta \quad 
+   and\quad \mathbf{U}\in D_{\mathbf{G}}. $$ Similarly, 
+   $\mathbf{G}$ is continuous at $\mathbf{U}_0$ if and only if 
+   for each $\epsilon> 0$ there is a $\delta>0$ such that $$ 
+   |\mathbf{G}(\mathbf{U})-\mathbf{G}(\mathbf{U}_0)|<\epsilon 
+   \quad whenever\quad |\mathbf{U}-\mathbf{U}_0|<\delta \quad 
+   and\quad \mathbf{U}\in D_{\mathbf{G}}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "313"
+    offset: "322"
+. id: "5e33c093981ec41bc6b27a31"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ and $g$ are differentiable at $x_0$ then so are 
+   $f+g$ $f-g$ and $fg$ with \begin{alist} \item 
+   $(f+g)'(x_0)=f'(x_0)+g'(x_0)$ \item 
+   $(f-g)'(x_0)=f'(x_0)-g(x_0)$ \item 
+   $(fg)'(x_0)=f'(x_0)g(x_0)+f(x_0)g'(x_0)$ \end{alist} The 
+   quotient $f/g$ is differentiable at $x_0$ if $g(x_0)\ne0$ 
+   with \begin{alist} \setcounter{lcal}{3} \item 
+   $\dst{\left(\frac{f}{g}\right)' (x_0)= 
+   \frac{f'(x_0)g(x_0)-f(x_0)g'(x_0)}{\left[g(x_0)\right]^2}}$ 
+   \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "79"
+    offset: "88"
+. id: "5e33c093981ec41bc6b279a5"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\sum a_n$ converges absolutely, then $\sum a_n$ 
+   converges."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "217"
+    offset: "226"
+. id: "5e33c093981ec41bc6b27a07"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Under the assumptions of Lemma $ $ $Q(S)\ge0$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "504"
+    offset: "513"
+. id: "5e33c093981ec41bc6b279df"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $$ |f'(x)|\le M,\quad a<x<b, $$ then \begin{equation} 
+   |f(x)-f(x')|\le M |x-x'|,\quad x, x'\in (a,b). 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "86"
+    offset: "95"
+. id: "5e33c093981ec41bc6b279b3"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f$ $f_x$ $f_y$ and $f_{xy}$ exist on a 
+   neighborhood $N$ of $(x_0,y_0)$ and $f_{xy}$ is continuous 
+   at $(x_0,y_0)$ Then $f_{yx}(x_0,y_0)$ exists, and 
+   \begin{equation} f_{yx}(x_0,y_0)=f_{xy}(x_0,y_0). 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "323"
+    offset: "332"
+. id: "5e33c093981ec41bc6b27a38"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that \begin{equation} 0\le a_n\le b_n,\quad n\ge k.
+   \end{equation} Then \begin{alist} \item $\sum a_n<\infty$ if
+   $\sum b_n<\infty$. \item $\sum b_n=\infty$ if $\sum 
+   a_n=\infty$ \end{alist}"
+Metadata:
+. name: "The Comparison Test"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "206"
+    offset: "215"
+. id: "5e33c093981ec41bc6b27a00"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $\mathbf{F}:\R^n\to\R^n$ is continuously 
+   differentiable on a neighborhood of $\mathbf{X}_0$ and 
+   $\mathbf{F}'(\mathbf{X}_0)$ is nonsingular. Let 
+   \begin{equation} 
+   r=\frac{1}{\|(\mathbf{F}'(\mathbf{X}_0))^{-1}\|}. 
+   \end{equation} Then, for every $\epsilon>0$ there is a 
+   $\delta>0$ such that \begin{equation} 
+   |\mathbf{F}(\mathbf{X})-\mathbf{F}(\mathbf{Y})|\ge 
+   (r-\epsilon) |\mathbf{X}-\mathbf{Y}| \quad if\quad 
+   \mathbf{X},\mathbf{Y}\in B_\delta(\mathbf{X}_{0}). 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "387"
+    offset: "396"
+. id: "5e33c093981ec41bc6b279b4"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is continuous on $[a,b]$ then $f$ has an 
+   antiderivative on $[a,b]$ Moreover, if $F$ is any 
+   antiderivative of $f$ on $[a,b]$ then $$ \int_a^b 
+   f(x)\,dx=F(b)-F(a). $$"
+Metadata:
+. name: "Fundamental Theorem of Calculus"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "146"
+    offset: "155"
+. id: "5e33c093981ec41bc6b279da"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is integrable on $[a,b]$ and $a\le c\le b$ then 
+   $F(x)=\int_c^x f(t)\,dt$ is differentiable at any point 
+   $x_0$ in $(a,b)$ where $f$ is continuous, with 
+   $F'(x_0)=f(x_0)$ If $f$ is continuous from the right at $a$ 
+   then $F_+'(a)=f(a)$. If $f$ is continuous from the left at 
+   $b$ then $F_-'(b)=f(b)$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "144"
+    offset: "153"
+. id: "5e33c093981ec41bc6b279d7"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f^{(n+1)}$ exists on an open interval $I$ 
+   about $x_0$ and let $x$ be in $I$ Then the remainder $$ 
+   R_n(x)=f(x)-T_n(x) $$ can be written as $$ 
+   R_n(x)=\frac{f^{(n+1)}(c)}{(n+1)!}(x-x_0)^{n+1}, $$ where 
+   $c$ depends upon $x$ and is between $x$ and $x_0$"
+Metadata:
+. name: "Taylor's Theorem"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "107"
+    offset: "116"
+. id: "5e33c093981ec41bc6b279bb"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "A differentiable surface in $\R^n$ has zero content."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "456"
+    offset: "465"
+. id: "5e33c093981ec41bc6b27a63"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Let $\{F_n\}$ be defined on $S$ Then \begin{alist} \item 
+   $\{F_n\}$ converges pointwise to $F$ on $S$ if and only if 
+   there is, for each $\epsilon>0$ and $x\in S$, an integer $N$
+   (which may depend on $x$ as well as $\epsilon)$ such that $$
+   |F_n(x)-F(x)|<\epsilon \quad if\quad \ n\ge N. $$ \item 
+   $\{F_n\}$ converges uniformly to $F$ on $S$ if and only if 
+   there is for each $\epsilon>0$ an integer $N$ (which depends
+   only on $\epsilon$ and not on any particular $x$ in $S)$ 
+   such that $$ |F_n(x)-F(x)|<\epsilon \quad for all $x$ in $S$
+   if $n\ge N$ . $$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "239"
+    offset: "248"
+. id: "5e33c093981ec41bc6b27a0f"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is unbounded on $[a,b]$ then $f$ is not integrable 
+   on $[a,b]$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "118"
+    offset: "127"
+. id: "5e33c093981ec41bc6b279be"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ and $g$ are integrable on $[a,b]$ then so is the 
+   product $fg$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "140"
+    offset: "149"
+. id: "5e33c093981ec41bc6b279d0"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\sum_{n=1}^\infty b_n$ is a rearrangement of an 
+   absolutely convergent series $\sum_{n=1}^\infty a_n$ then 
+   $\sum_{n=1}^\infty b_n$ also converges absolutely, and to 
+   the same sum."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "221"
+    offset: "230"
+. id: "5e33c093981ec41bc6b27a0a"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $S$ is a bounded set in $\R^n$ with boundary 
+   consisting of a finite number of differentiable surfaces. 
+   Let $f$ be bounded on $S$ and continuous except on a set of 
+   zero content. Then $f$ is integrable on $S$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "457"
+    offset: "466"
+. id: "5e33c093981ec41bc6b27a64"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $\mathbf{G}=(g_1,g_2, \dots,g_n)$ is 
+   differentiable at $$ \mathbf{U}_0=(u_{10}, u_{20}, 
+   \dots,u_{m0}), $$ and define $$ 
+   M=\left(\sum_{i=1}^n\sum_{j=1}^m\left(\frac{ ial 
+   g_i(\mathbf{U}_0} { ial u_j}\right)^2\right)^{1/2}. $$ Then,
+   if $\epsilon>0$ there is a $\delta>0$ such that $$ 
+   \frac{|\mathbf{G}(\mathbf{U})-\mathbf{G}(\mathbf{U}_0)|} 
+   {|\mathbf{U}-\mathbf{U}_{0}|} <M+\epsilon \quad if \quad 
+   0<|\mathbf{U}-\mathbf{U}_0|<\delta. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "342"
+    offset: "351"
+. id: "5e33c093981ec41bc6b279ac"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\mathbf{F}: \R^n\to\R^m$ is differentiable at 
+   $\mathbf{X}_0$ then $\mathbf{F}$ is continuous at 
+   $\mathbf{X}_0$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "386"
+    offset: "395"
+. id: "5e33c093981ec41bc6b27a52"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $S$ is Jordan measurable and $\epsilon$ 
+   $\rho>0$ Then there are cubes $C_1$ $C_2$ \dots, $C_r$ in 
+   $S$ with edge lengths $<\rho$ such that $C_j\subset S$ $1\le
+   j\le r$ $C_i^0\cap C_j^0=\emptyset$ if $i\ne j$ and 
+   \begin{equation} V(S)\le\sum_{j=1}^r V(C_j)+\epsilon. 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "502"
+    offset: "511"
+. id: "5e33c093981ec41bc6b279d9"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f$ is differentiable on $[a,b]$ $f'(a)\ne 
+   f'(b)$ and $\mu$ is between $f'(a)$ and $f'(b)$ Then 
+   $f'(c)=\mu$ for some $c$ in $(a,b)$"
+Metadata:
+. name: "Intermediate Value Theorem for Derivatives"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "84"
+    offset: "93"
+. id: "5e33c093981ec41bc6b279ad"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "The linear transformation $$ 
+   \mathbf{U}=\mathbf{L}(\mathbf{X})=\mathbf{A}\mathbf{X}\quad 
+   (\R^n\to \R^n) $$ is invertible if and only if $\mathbf{A}$ 
+   is nonsingular, in which case $R(\mathbf{L})= \R^n$ and $$ 
+   \mathbf{L}^{-1}(\mathbf{U})=\mathbf{A}^{-1}\mathbf{U}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "398"
+    offset: "407"
+. id: "5e33c093981ec41bc6b27a55"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Let \begin{equation} c_n=f(n),\quad n\ge k, \end{equation} 
+   where $f$ is positive, nonincreasing, and locally integrable
+   on $[k,\infty)$ Then \begin{equation} \sum c_n<\infty 
+   \end{equation} if and only if \begin{equation} \int^\infty_k
+   f(x)\,dx<\infty. \end{equation}"
+Metadata:
+. name: "The Integral Test"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "207"
+    offset: "216"
+. id: "5e33c093981ec41bc6b27a01"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f$ and $g$ are differentiable and $g'$ has no
+   zeros on $(a,b)$ Let \begin{equation} \lim_{x\to 
+   b-}f(x)=\lim_{x\to b-}g(x)=0 \end{equation} or 
+   \begin{equation} \lim_{x\to b-}f(x)=\pm\infty \quad and 
+   \quad \lim_{x\to b-}g(x)=\pm\infty, \end{equation} and 
+   suppose that \begin{equation} \lim_{x\to b-}\frac{f'(x)}{ 
+   g'(x)}=L\quad (finite or $\pm \infty)$ . \end{equation} Then
+   \begin{equation} \lim_{x\to b-}\frac{f(x)}{ g(x)}=L. 
+   \end{equation}"
+Metadata:
+. name: "L'Hospital's Rule"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "91"
+    offset: "100"
+. id: "5e33c093981ec41bc6b279b5"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $a_n\ge 0$ for $n\ge k$ then \begin{alist} \item $\sum 
+   a_n<\infty$ if $\limsup_{n\to\infty} a^{1/n}_n<1$ \item 
+   $\sum a_n=\infty$ if $\limsup_{n\to\infty} a^{1/n}_n>1$ 
+   \end{alist} The test is inconclusive if 
+   $\limsup_{n\to\infty} a^{1/n}_n= 1$"
+Metadata:
+. name: "Cauchy's Root Test"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "215"
+    offset: "224"
+. id: "5e33c093981ec41bc6b27a06"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f$ and all its partial derivatives of order 
+   $\le r$ are continuous on an open subset $S$ of $\R^n$ Then 
+   \begin{equation} f_{x_{i_1}x_{i_2}, \dots, 
+   x_{i_r}}(\mathbf{X})=f_{x_{j_1}x_{j_2}, \dots, 
+   x_{j_r}}(\mathbf{X}),\quad \mathbf{X}\in S, \end{equation} 
+   if each of the variables $x_1$ $x_2$ \dots, $x_n$ appears 
+   the same number of times in $$ \{x_{i_1}, x_{i_2}, 
+   \dots,x_{i_r}\} \quad and \quad \{x_{j_1},x_{j_2}, 
+   \dots,x_{j_r}\}. $$ If this number is $r_k$ we denote the 
+   common value of the two sides of $ $ by \begin{equation} 
+   \frac{ ial^r f(\mathbf{X})}{ ial x^{r_1}_1 ial 
+   x^{r_2}_2\cdots ial x^{r_n}_n}, \end{equation} it being 
+   understood that \begin{equation} 0\le r_k\le r,\quad 1\le 
+   k\le n, \end{equation} \begin{equation} 
+   r_1+r_2+\cdots+r_n=r, \end{equation} and, if $r_k=0$ we omit
+   the symbol $ ial x_k^0$ from the ``denominator'' of $ $"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "325"
+    offset: "334"
+. id: "5e33c093981ec41bc6b27a39"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f'$ exists and does not change sign on $(a,b)$ then $f$
+   is monotonic on $(a,b):$ increasing, nondecreasing, 
+   decreasing, or nonincreasing as $$ f'(x)>0,\quad 
+   f'(x)\ge0,\quad f'(x)<0, \quad or\quad f'(x) \le0, $$ 
+   respectively, for all $x$ in $(a,b)$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "86"
+    offset: "95"
+. id: "5e33c093981ec41bc6b279b2"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ and $g$ are continuous on a set $S$ in $\R^n$ then 
+   so are $f+g$ $f-g$ and $fg$ Also, $f/g$ is continuous at 
+   each $\mathbf{X}_0$ in $S$ such that $g(\mathbf{X}_0)\ne0$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "312"
+    offset: "321"
+. id: "5e33c093981ec41bc6b27a30"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "A bounded function $f$ is integrable on a rectangle $R$ if 
+   and only if $$ \underline{\int_R}\, 
+   f(\mathbf{X})\,d\mathbf{X}=\overline{\int_R}\, 
+   f(\mathbf{X})\, d\mathbf{X}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "448"
+    offset: "457"
+. id: "5e33c093981ec41bc6b27a5e"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $g$ and $h$ are defined on $S$ then
+\[
+  \|g+h\|_S \le\|g\|_S+\|h\|_S
+\]
+and
+\[
+  \|gh\|_S \le\|g\|_S\|h\|_S.
+\]
+Moroever, if either $g$ or $h$ is bounded on $S$ then $$
+\|g-h\|_S\ge\left|\|g\|_S-\|h\|_S\|\right|. $$"
+Metadata:
+. id: "5e33c093981ec41bc6b279a4"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "237"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is bounded on a rectangle $R$ then $$ 
+   \underline{\int_R}\, f(\mathbf{X})\,d\mathbf{X} 
+   \le\overline{\int_R}\, f(\mathbf{X})\,d\mathbf{X}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "447"
+    offset: "456"
+. id: "5e33c093981ec41bc6b27a5b"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f_{x_i} (\mathbf{X})$ and $g_{x_i} (\mathbf{X})$ exist,
+   then \begin{eqnarray*} \frac{ ial (f+g)(\mathbf{X})}{ ial 
+   x_i} =f_{x_i}(\mathbf{X})+ g_{x_i}(\mathbf{X}),\\ \frac{ ial
+   (fg)(\mathbf{X})}{ ial x_i} =f_{x_i}(\mathbf{X}) 
+   g(\mathbf{X})+f(\mathbf{X})g_{x_i} (\mathbf{X}), 
+   \end{eqnarray*} and, if $g(\mathbf{X})\ne0$ $$ \frac{ ial 
+   (f/g)(\mathbf{X})}{ ial x_i}=\frac{g(\mathbf{X})f_{x_i} 
+   (\mathbf{X})- 
+   f(\mathbf{X})g_{x_i}(\mathbf{X})}{[g(\mathbf{X})]^2}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "321"
+    offset: "330"
+. id: "5e33c093981ec41bc6b27a37"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f$ is increasing and continuous on $[a,b]$ 
+   and let $f(a)=c$ and $f(b)=d$ Then there is a unique 
+   function $g$ defined on $[c,d]$ such that \begin{equation} 
+   g(f(x))=x,\quad a\le x\le b, \end{equation} and 
+   \begin{equation} f(g(y))=y,\quad c\le y\le d. \end{equation}
+   Moreover, $g$ is continuous and increasing on $[c,d]$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "69"
+    offset: "78"
+. id: "5e33c093981ec41bc6b279a3"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "The series $\sum ^\infty_{n=k} a_nb_n$ converges if 
+   $\lim_{n\to\infty} a_n= 0$ \begin{equation} \sum 
+   |a_{n+1}-a_n|<\infty, \end{equation} and \begin{equation} 
+   |b_k+b_{k+1}+\cdots+b_n|\le M,\quad n\ge k, \end{equation} 
+   for some constant $M$"
+Metadata:
+. name: "Dirichlet's Test for Series"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "217"
+    offset: "226"
+. id: "5e33c093981ec41bc6b27a08"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is continuous on a closed and bounded interval 
+   $[a,b]$ then $f$ is uniformly continuous on $[a,b]$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "67"
+    offset: "76"
+. id: "5e33c093981ec41bc6b2799d"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f$ is continuous on $[a,b]$ $f(a)\ne f(b)$ 
+   and $\mu$ is between $f(a)$ and $f(b)$ Then $f(c)=\mu$ for 
+   some $c$ in $(a,b)$"
+Metadata:
+. name: "Intermediate Value Theorem"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "64"
+    offset: "73"
+. id: "5e33c093981ec41bc6b2799c"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $\rho$ and $\sigma$ are equivalent metrics on 
+   $A$ Then \begin{alist} \item A sequence $\{u_n\}$ converges 
+   to $u$ in $(A,\rho)$ if and only if it converges to $u$ in 
+   $(A,\sigma)$ \item A sequence $\{u_n\}$ is a Cauchy sequence
+   in $(A,\rho)$ if and only if it is a Cauchy sequence in 
+   $(A,\sigma)$ \item $(A,\rho)$ is complete if and only if 
+   $(A,\sigma)$ is complete. \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "532"
+    offset: "541"
+. id: "5e33c092981ec41bc6b2792f"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is bounded on $[a,x_0)$ then $\alpha=\liminf_{x\to 
+   x_0-}f(x)$ exists and is the unique real number with the 
+   following properties: \begin{alist} \item If $\epsilon>0$ 
+   there is an $a_1$ in $[a,x_0)$ such that $$ 
+   f(x)>\alpha-\epsilon \quad if \quad a_1\le x<x_0. $$ \item 
+   If $\epsilon>0$ and $a_1$ is in $[a,x_0)$ then $$ 
+   f(\overline x)<\alpha+\epsilon \quad for some \overline 
+   x\in[a_1,x_0). $$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "48"
+    offset: "57"
+. id: "5e33c093981ec41bc6b27993"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $\mathbf{X}\in\R^n$ and $p_2>p_1\ge1$ then 
+   \begin{equation} 
+   \|\mathbf{X}\|_{p_2}\le\|\mathbf{X}\|_{p_1}; \end{equation} 
+   moreover, \begin{equation} 
+   \lim_{p\to\infty}\|\mathbf{X}\|_{p}=\max\set{|x_i|}{1\le 
+   i\le n}. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "523"
+    offset: "532"
+. id: "5e33c092981ec41bc6b27917"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "The series $\sum a_nb_n$ converges if $a_{n+1}\le a_n$ for 
+   $n\ge k$ $\lim_{n\to\infty}a_n=0$ and $$ 
+   |b_k+b_{k+1}+\cdots+b_n|\le M,\quad n\ge k, $$ for some 
+   constant $M$"
+Metadata:
+. name: "Abel's Test"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "219"
+    offset: "228"
+. id: "5e33c093981ec41bc6b27960"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f^{(n)}(x_0)$ exists, then \begin{equation} 
+   f(x)=\sum_{r=0}^n\frac{f^{(r)}(x_0)}{ r!} 
+   (x-x_0)^r+E_n(x)(x-x_0)^n, \end{equation} where $$ 
+   \lim_{x\to x_0} E_n(x)=E_n(x_0)=0. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "103"
+    offset: "112"
+. id: "5e33c093981ec41bc6b27994"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If a sequence $\{u_n\}$ in a metric space $(A,\rho)$ is 
+   convergent, then it is a Cauchy sequence."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "527"
+    offset: "536"
+. id: "5e33c092981ec41bc6b27926"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "\begin{alist} \item The union of open sets is open. \item 
+   The intersection of closed sets is closed. \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "526"
+    offset: "535"
+. id: "5e33c092981ec41bc6b27919"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "The limit of a convergent sequence is unique.  Also, if $\lim_{n\to\infty}u_n=u$ then every subsequence of $\{u_n\}$ converges to $u$."
+Metadata:
+. id: "5e33c092981ec41bc6b27921"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "526"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is continuous on a set $T$ then $f$ is uniformly 
+   continuous on any finite closed interval contained in $T$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "68"
+    offset: "77"
+. id: "5e33c093981ec41bc6b27951"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $f$ is continuous on a finite closed interval 
+   $[a,b]$ Let $$ \alpha=\inf_{a\le x\le b}f(x) \quad and \quad
+   \beta=\sup_{a\le x\le b}f(x). $$ Then $\alpha$ and $\beta$ 
+   are respectively the minimum and maximum of $f$ on $[a,b]$ 
+   that is, there are points $x_1$ and $x_2$ in $[a,b]$ such 
+   that $$ f(x_1)=\alpha \quad and \quad f(x_2)=\beta. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "62"
+    offset: "71"
+. id: "5e33c093981ec41bc6b2799b"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $$ f(x)=\sum^\infty_{n=0} a_n(x-x_0)^n,\quad |x-x_0|<R, 
+   $$ then $$ a_n=\frac{f^{(n)}(x_0)}{ n!}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "265"
+    offset: "274"
+. id: "5e33c093981ec41bc6b2796f"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is monotonic and nonconstant on $[a,b]$ then $f$ is 
+   continuous on $[a,b]$ if and only if its range 
+   $R_f=\set{f(x)}{x\in[a,b]}$ is the closed interval with 
+   endpoints $f(a)$ and $f(b)$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "69"
+    offset: "78"
+. id: "5e33c093981ec41bc6b2799e"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "A set is closed if and only if it contains all its limit 
+   points."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "24"
+    offset: "33"
+. id: "5e33c093981ec41bc6b27950"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "A metric space $(A,\rho)$ is complete if and only if every 
+   nested sequence $\{T_n\}$ of nonempty closed subsets of $A$ 
+   such that $\lim_{n\to\infty}d(T_n)=0$ has a nonempty 
+   intersection."
+Metadata:
+. name: "The Principle of Nested Sets"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "530"
+    offset: "539"
+. id: "5e33c092981ec41bc6b27927"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that $a_n\ge0$ and $b_n>0$ for $n\ge k$ and $$ 
+   \lim_{n\to\infty}\frac{a_n}{ b_n}=L, $$ where $0<L<\infty$ 
+   Then $\sum a_n$ and $\sum b_n$ converge or diverge 
+   together."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "209"
+    offset: "218"
+. id: "5e33c093981ec41bc6b27957"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $(A,N)$ is a normed vector space, then \begin{equation} 
+   \rho(x,y)=N(x-y) \end{equation} is a metric on $A$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "520"
+    offset: "529"
+. id: "5e33c092981ec41bc6b27911"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "Suppose that \begin{equation} |f(x)|\le M,\quad a\le x\le 
+   b, \end{equation} and let $P'$ be a partition of $[a,b]$ 
+   obtained by adding $r$ points to a partition $P=\{x_0,x_1, 
+   \dots,x_n\}$ of $[a,b]$ Then \begin{eqnarray} S(P)\ge S(P') 
+   \ge S(P)-2Mr\|P\| \\ and \\ s(P)\le s(P') \le s(P)+2Mr\|P\| 
+   . \end{eqnarray}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "129"
+    offset: "138"
+. id: "5e33c093981ec41bc6b27995"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $f$ is bounded on $[a,x_0)$ then $\beta=\limsup_{x\to 
+   x_0-}f(x)$ exists and is the unique real number with the 
+   following properties$\,:$ \begin{alist} \item If 
+   $\epsilon>0$, there is an $a_1$ in $[a,x_0)$ such that 
+   \begin{equation} f(x)<\beta+\epsilon \quad if \quad a_1\le 
+   x<x_0. \end{equation} \item If $\epsilon>0$ and $a_1$ is in 
+   $[a,x_0)$ then $$ f(\overline x)>\beta-\epsilon \quad for 
+   some \overline x\in[a_1,x_0). $$ \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "47"
+    offset: "56"
+. id: "5e33c093981ec41bc6b27992"
+. tag: "Real Analysis"
+
+
+
+ProtoTheorem:
+. "If $x$ and $y$ are vectors in a normed vector space $(A,N)$
+   then \begin{equation} |N(x)-N(y)|\le N(x-y). \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "520"
+    offset: "529"
+. id: "5e33c092981ec41bc6b27916"
+. tag: "Real Analysis"
+
+
+

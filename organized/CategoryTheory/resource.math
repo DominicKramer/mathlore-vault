@@ -1,0 +1,81 @@
+[dafb2a4990414480b29763084781c057]
+Resource:
+. type: "Book"
+. name: "Category Theory in Context"
+. author: "Emily Riehl"
+. url: "http://www.math.jhu.edu/~eriehl/context.pdf"
+. related: "https://realnotcomplex.com/logic-and-foundations/category-theory/category-theory-in-context-by-emily-riehl"
+Metadata:
+. tag: "Category Theory"
+. id: "5ed493cc98316306ebe1785b"
+
+
+
+[fe5141bcc5f14ddc92c86bea9d0fdbef]
+Resource:
+. type: "Video"
+. name: "Applied Category Theory"
+. author: "MIT OCW, David I. Spivak, Brendan Fong"
+. homepage: "https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/"
+. url: "https://www.youtube.com/playlist?list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5"
+. related: "https://realnotcomplex.com/logic-and-foundations/category-theory/applied-category-theory-by-mit-ocw-and-david-i-spivak-and-brendan-fong"
+Metadata:
+. tag: "Category Theory"
+. id: "5ed493cc98316306ebe1785e"
+
+
+
+[d8268c38f28640e2a95fa63aaa73ab30]
+Resource:
+. type: "Other"
+. name: "Category Theory"
+. author: "Bodo Pareigis"
+. url: "http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf"
+. related: "https://realnotcomplex.com/logic-and-foundations/category-theory/category-theory-by-bodo-pareigis"
+Metadata:
+. tag: "Category Theory"
+. id: "5ed493cc98316306ebe1785d"
+
+
+
+[01680a2a7f21430fb7244c8a19a04fe7]
+Resource:
+. type: "Book"
+. name: "Seven Sketches in Compositionality: An Invitation to Applied Category Theory"
+. author: "Brendan Fong, David I. Spivak"
+. homepage: "http://math.mit.edu/~dspivak/teaching/sp18/"
+. url: "http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf"
+. related: "https://realnotcomplex.com/logic-and-foundations/category-theory/seven-sketches-in-compositionality-an-invitation-to-applied-category-theory-by-brendan-fong-and-david-i-spivak"
+Metadata:
+. tag: "Category Theory"
+. id: "5ed493cc98316306ebe1785c"
+
+
+
+[caf0e8199d874393b9eec9cc8acac52d]
+Resource:
+. type: "Book"
+. name: "Category Theory for Computing Science"
+. author: "Michael Barr, Charles Wells"
+. url: "http://www.math.mcgill.ca/barr/papers/ctcs.pdf"
+. related: "https://realnotcomplex.com/logic-and-foundations/category-theory/category-theory-for-computing-science-by-michael-barr-and-charles-wells"
+Metadata:
+. tag: "Category Theory"
+. id: "5ed493cc98316306ebe1785a"
+
+
+
+[f0032f2ac0334a2c9df05594aec23872]
+Resource:
+. type: "Book"
+. name: "Basic Category Theory"
+. author: "Tom Leinster"
+. homepage: "https://arxiv.org/abs/1612.09375"
+. url: "https://arxiv.org/pdf/1612.09375.pdf"
+. related: "https://realnotcomplex.com/logic-and-foundations/category-theory/basic-category-theory-by-tom-leinster"
+Metadata:
+. tag: "Category Theory"
+. id: "5ed493cc98316306ebe17859"
+
+
+

@@ -1,0 +1,68 @@
+[d21d1949579b4835b6321ec8a040a38a]
+Resource:
+. type: "Book"
+. name: "College Algebra & Trigonometry"
+. author: "Richard W. Beveridge"
+. url: "https://www.clatsopcc.edu/wp-content/uploads/2019/11/CollegeAlgebraTrigOCT2019.pdf"
+. related: "https://realnotcomplex.com/basics/trigonometry/college-algebra-&-trigonometry-by-richard-w-beveridge"
+Metadata:
+. tag: "Trigonometry"
+. id: "5ed493cc98316306ebe177df"
+
+
+
+[e009f5c5fd604be293c6a7f3f89bed0a]
+Resource:
+. type: "Book"
+. name: "College Trigonometry"
+. author: "Carl Stitz, Jeff Zeager"
+. homepage: "https://stitz-zeager.com/"
+. url: "https://stitz-zeager.com/szct07042013.pdf"
+. related: "https://realnotcomplex.com/basics/trigonometry/college-trigonometry-by-carl-stitz-and-jeff-zeager"
+Metadata:
+. tag: "Trigonometry"
+. id: "5ed493cc98316306ebe177dd"
+
+
+
+[c18229dd9fdd46a096eb0a6463fddcf0]
+Resource:
+. type: "Video"
+. name: "Trigonometry"
+. author: "Khan Academy"
+. homepage: "https://www.khanacademy.org/math/trigonometry"
+. url: "https://www.youtube.com/playlist?list=PLD6DA74C1DBF770E7"
+. related: "https://realnotcomplex.com/basics/trigonometry/trigonometry-by-khan-academy"
+Metadata:
+. tag: "Trigonometry"
+. id: "5ed493cc98316306ebe177dc"
+
+
+
+[73527128f60c4cc09cb3db195a424b92]
+Resource:
+. type: "Book"
+. name: "Algebra and Trigonometry"
+. author: "Open Stax"
+. homepage: "https://openstax.org/details/books/algebra-and-trigonometry"
+. url: "https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/AlgebraAndTrigonometry-OP_NpLRuqX.pdf"
+. related: "https://realnotcomplex.com/basics/trigonometry/algebra-and-trigonometry-by-open-stax"
+Metadata:
+. tag: "Trigonometry"
+. id: "5ed493cc98316306ebe177de"
+
+
+
+[efd6a9c5c4504f74bfc3bb3e94e3db3c]
+Resource:
+. type: "Video"
+. name: "Precalculus: College Algebra & Trigonometry"
+. author: "Professor Leonard"
+. url: "https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP"
+. related: "https://realnotcomplex.com/basics/trigonometry/precalculus-college-algebra-&-trigonometry-by-professor-leonard"
+Metadata:
+. tag: "Trigonometry"
+. id: "5ed493cc98316306ebe177e0"
+
+
+

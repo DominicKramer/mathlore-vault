@@ -1,0 +1,128 @@
+[23fbd85b2a3e49978f3e26f682ae8835]
+Resource:
+. type: "Book"
+. name: "Elementary Number Theory"
+. author: "W. Edwin Clark"
+. homepage: "http://shell.cas.usf.edu/~wclark/#ELEMENTARY_NUMBER_THEORY"
+. url: "http://shell.cas.usf.edu/~wclark/elem_num_th_book.pdf"
+. related: "https://realnotcomplex.com/number-theory/number-theory/elementary-number-theory-by-w-edwin-clark"
+Metadata:
+. tag: "Number Theory"
+. id: "5ed493cc98316306ebe1787f"
+
+
+
+[ae14601840164a018c545623d2b8136c]
+Resource:
+. type: "Book"
+. name: "Olympiad Number Theory Through Challenging Problems"
+. author: "Justin Stevens"
+. homepage: "https://numbertheoryguy.com/publications/olympiad-number-theory-book/"
+. url: "https://s3.amazonaws.com/aops-cdn.artofproblemsolving.com/resources/articles/olympiad-number-theory.pdf"
+. related: "https://realnotcomplex.com/number-theory/number-theory/olympiad-number-theory-through-challenging-problems-by-justin-stevens"
+Metadata:
+. tag: "Number Theory"
+. id: "5ed493cc98316306ebe17882"
+
+
+
+[eea5b43c8a6e48de9f93bd6f51020f88]
+Resource:
+. type: "Lecture Notes"
+. name: "Number Theory: A Contemporary Introduction"
+. author: "Pete L. Clark"
+. homepage: "http://math.uga.edu/~pete/MATH4400S18.html"
+. url: "http://math.uga.edu/~pete/4400FULL2018.pdf"
+. related: "https://realnotcomplex.com/number-theory/number-theory/number-theory--a-contemporary-introduction-by-pete-l-clark"
+Metadata:
+. tag: "Number Theory"
+. id: "5ed493cc98316306ebe17885"
+
+
+
+[c4c17440b4b147ddb59c4581fd8fad37]
+Resource:
+. type: "Lecture Notes"
+. name: "A Course on Number Theory"
+. author: "Peter J. Cameron"
+. url: "http://www.maths.qmul.ac.uk/~pjc/notes/nt.pdf"
+. related: "https://realnotcomplex.com/number-theory/number-theory/a-course-on-number-theory-by-peter-j-cameron"
+Metadata:
+. tag: "Number Theory"
+. id: "5ed493cc98316306ebe17884"
+
+
+
+[4e1b1886cd6e45b480a2434ff4d96931]
+Resource:
+. type: "Book"
+. name: "An Introduction to the Theory of Numbers"
+. author: "Leo Moser"
+. homepage: "http://www.trillia.com/moser-number.html"
+. url: "http://www.trillia.com/dA/moser-number-us-one.pdf"
+. related: "https://realnotcomplex.com/number-theory/number-theory/an-introduction-to-the-theory-of-numbers-by-leo-moser"
+Metadata:
+. tag: "Number Theory"
+. id: "5ed493cc98316306ebe17883"
+
+
+
+[ElementaryNumberTheoryPrimesCongruencesAndSecrets]
+Resource:
+. type: "Book"
+. name: "Elementary Number Theory: Primes, Congruences, and Secrets"
+. author: "William Stein"
+. date: "January 23, 2017"
+. url: "https://wstein.org/ent/ent.pdf"
+. offset: "7"
+Metadata:
+. id: "5e33c0f8981ec41bc6b27b7e"
+. tag:
+  . "Abstract Algebra"
+  . "Number Theory"
+  . "Algebra"
+
+
+
+[37f9fdb5c21d40ae9323bc4701c7b982]
+Resource:
+. type: "Book"
+. name: "Yet Another Introductory Number Theory Textbook"
+. author: "Jonathan A. Poritz"
+. homepage: "https://www.poritz.net/jonathan/share/yaintt/"
+. url: "https://www.poritz.net/jonathan/share/yaintt.pdf"
+. related: "https://realnotcomplex.com/number-theory/number-theory/yet-another-introductory-number-theory-textbook-by-jonathan-a-poritz"
+Metadata:
+. tag: "Number Theory"
+. id: "5ed493cc98316306ebe17881"
+
+
+
+[bec204b75a624fe6a091029c9bb218c9]
+Resource:
+. type: "Book"
+. name: "Elementary Number Theory: Primes, Congruences, and Secrets"
+. author: "William Stein"
+. homepage: "https://wstein.org/ent/"
+. url: "https://wstein.org/ent/ent.pdf"
+. related: "https://realnotcomplex.com/number-theory/number-theory/elementary-number-theory-primes-congruences-and-secrets-by-william-stein"
+Metadata:
+. tag: "Number Theory"
+. id: "5ed493cc98316306ebe1787e"
+
+
+
+[4439c87305744e30a7115543b24fb49d]
+Resource:
+. type: "Book"
+. name: "A Computational Introduction to Number Theory and Algebra"
+. author: "Victor Shoup"
+. homepage: "https://shoup.net/ntb/"
+. url: "https://shoup.net/ntb/ntb-v2.pdf"
+. related: "https://realnotcomplex.com/number-theory/number-theory/a-computational-introduction-to-number-theory-and-algebra-by-victor-shoup"
+Metadata:
+. tag: "Number Theory"
+. id: "5ed493cc98316306ebe17880"
+
+
+

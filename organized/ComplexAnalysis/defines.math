@@ -1,0 +1,16 @@
+ProtoDefines:
+. "For any nonnegative integer $p$, define the $p$th \term{elementary function} $E_p$ on $\mathbb{C}$ as
+\[
+E_p(z) = (1-z)\textrm{exp}\left ( z + \frac{z^2}{2} + \ldots + \frac{z^p}{p} \right)
+\]"
+Metadata:
+. id: "5ee3e89f8026ba6dd099fa92"
+. reference:
+  . source: "@5ea55120e0a94835be2a46da87fdab31"
+    page: "0"
+. tag:
+  . "Real Analysis"
+  . "Complex Analysis"
+
+
+

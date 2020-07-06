@@ -1,0 +1,1595 @@
+ProtoDefines:
+. "Let $S$ and $T$ be sets. \begin{alist} \item $S$ \term{ 
+   contains } $T$, and we write $S\supset T$ or $T\subset S$, 
+   if every member of $T$ is also in $S$. In this case, $T$ is 
+   a \term{ subset } of $S$. \item $S-T$ is the set of elements 
+   that are in $S$ but not in $T$. \item $S$ \term{ equals } $T$,
+   and we write $S=T$, if $S$ contains $T$ and $T$ contains 
+   $S$; thus, $S=T$ if and only if $S$ and $T$ have the same 
+   members. \item $S$ \term{ strictly contains } $T$ if $S$ 
+   contains $T$ but $T$ does not contain $S$; that is, if every
+   member of $T$ is also in $S$, but at least one member of $S$
+   is not in $T$ . \item The \term{ complement } of $S$, denoted 
+   by $S^c$, is the set of elements in the universal set that 
+   are not in $S$. \item The \term{ union } of $S$ and $T$, 
+   denoted by $S\cup T$, is the set of elements in at least one
+   of $S$ and $T$ b ). \item The \term{ intersection } of $S$ and
+   $T$, denoted by $S\,\cap\, T$, is the set of elements in 
+   both $S$ and $T$ c ). If $S\cap T=\emptyset$ (the empty 
+   set), then $S$ and $T$ are \term{ disjoint sets } d ). \item A
+   set with only one member $x_0$ is a \term{ singleton set }, 
+   denoted by $\{x_0\}$. \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "19"
+    offset: "28"
+. id: "5e33c092981ec41bc6b278ec"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A subset $S$ of $\R^n$ is \term{ connected } if it is
+impossible to represent $S$ as the union of two disjoint
+nonempty sets such that neither contains a limit point of
+the other; that is, if $S$ cannot be expressed as $S=A\cup
+B$, where \begin{equation} A\ne\emptyset,\quad
+B\ne\emptyset,\quad\overline{A}\cap B= \emptyset, \quad
+\textrm{and}\quad A\cap\overline{B}=\emptyset. \end{equation} If $S$
+can be expressed in this way, then $S$ is \term{ disconnected
+}."
+Metadata:
+. id: "5e33c092981ec41bc6b2790a"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "297"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "If $f:(A,\rho)\to (A,\rho)$ is defined on all of $A$ and 
+   there is a constant $\alpha$ in $(0,1)$ such that 
+   \begin{equation} \rho(f(u),f(v))\le\alpha\rho(u,v) \quad for
+   all\quad (u,v)\in A\times A, \end{equation} then $f$ is a 
+   \term{ contraction } of $(A,\rho)$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "545"
+    offset: "554"
+. id: "5e33c093981ec41bc6b2797a"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "If $\epsilon>0$, the \term{ $\epsilon$-neighborhood of a 
+   point } $\mathbf{X}_{0}$ in $\R^n$ is the set $$ 
+   N_\epsilon(\mathbf{X}_0)|=\set{\mathbf{X}}{|\mathbf{X}-\mathbf{X}_0|<\epsilon}.
+   $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "291"
+    offset: "300"
+. id: "5e33c092981ec41bc6b278fe"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "\begin{alist} \item If $c$ is a real number and 
+   $\mathbf{A}=[a_{ij}]$ is an $m\times n$ matrix, then 
+   $c\mathbf{A}$ is the $m\times n$ matrix defined by $$ 
+   c\mathbf{A}=[ca_{ij}]; $$ that is, $c\mathbf{A}$ is obtained
+   by multiplying every entry of $\mathbf{A}$ by $c$. \item If 
+   $\mathbf{A}=[a_{ij}]$ and $\mathbf{B}=[b_{ij}]$ are $m\times
+   n$ matrices, then the \term{ sum } $\mathbf{A}+ \mathbf{B}$ is
+   the $m\times n$ matrix $$ 
+   \mathbf{A}+\mathbf{B}=[a_{ij}+b_{ij}]; $$ that is, the sum 
+   of two $m\times n$ matrices is obtained by adding 
+   corresponding entries. The sum of two matrices is not 
+   defined unless they have the same number of rows and the 
+   same number of columns. \item If $\mathbf{A}=[a_{ij}]$ is an
+   $m\times p$ matrix and $\mathbf{B}= [b_{ij}]$ is a $p\times 
+   n$ matrix, then the \term{ product } $\mathbf{C}=\mathbf{AB}$ 
+   is the $m\times n$ matrix with $$ 
+   c_{ij}=a_{i1}b_{1j}+a_{i2}b_{2j}+\cdots+a_{ip}b_{pj}=\sum^p_{k=1}
+   a_{ik}b_{kj},\quad 1\le i\le m,\ 1\le j\le n. $$ Thus, the 
+   $(i,j)$th entry of $\mathbf{AB}$ is obtained by multiplying 
+   each entry in the $i$th row of $\mathbf{A}$ by the 
+   corresponding entry in the $j$th column of $\mathbf{B}$ and 
+   adding the products. This definition requires that 
+   $\mathbf{A}$ have the same number of columns as $\mathbf{B}$
+   has rows. Otherwise, $\mathbf{AB}$ is undefined. 
+   \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "365"
+    offset: "374"
+. id: "5e33c092981ec41bc6b27930"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "Suppose that $f$ is bounded on $[a,x_0)$, where $x_0$ may
+be finite or $\infty$. For $a\le x<x_0$, define
+$$
+  S_f(x;x_0) = \sup_{x\le t<x_0}f(t)
+$$
+and
+$$
+  I_f(x;x_0) = \inf_{x\le t<x_0}f(t).
+$$
+Then the \term{ left limit superior of $f$ at $x_0$} is defined to
+be $$ \limsup_{x\to x_0-} f(x)=\lim_{x\to x_0-}S_f(x;x_0),
+$$ and the \term{ left limit inferior of $f$ at $x_0$} is
+defined to be $$ \liminf_{x\to x_0-}f(x)=\lim_{x\to
+x_0-}I_f(x;x_0). $$ (If $x_0=\infty$, we define
+$x_0-=\infty$.)"
+Metadata:
+. id: "5e33c092981ec41bc6b27908"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "47"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "The \term{ vector sum } of $$ \mathbf{X}=(x_1,x_2, \dots,x_n)
+   \quad and\quad \mathbf{Y}= (y_1,y_2, \dots,y_n) $$ is 
+   \begin{equation} \mathbf{X}+\mathbf{Y}=(x_1+y_1,x_2+y_2, 
+   \dots,x_n+y_n). \end{equation} If $a$ is a real number, the 
+   \term{ scalar multiple of $\mathbf{X }$ by } $a$ is 
+   \begin{equation} a\mathbf{X}=(ax_1,ax_2, \dots,ax_n). 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "282"
+    offset: "291"
+. id: "5e33c092981ec41bc6b278f5"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A subset $S$ of the real line is \term{ of Lebesgue measure 
+   zero } if for every $\epsilon>0$ there is a finite or 
+   infinite sequence of open intervals $I_1$, $I_2$, \dots\ 
+   such that \begin{equation} S\subset\bigcup_j I_j 
+   \end{equation} and \begin{equation} \sum_{j=1}^n 
+   L(I_j)<\epsilon,\quad n\ge1. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "179"
+    offset: "188"
+. id: "5e33c092981ec41bc6b27939"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "We say that $f(x)$ \term{ approaches $\infty$ as $x$ 
+   approaches $x_0$ from the left }, and write $$ \lim_{x\to 
+   x_0-} f(x)=\infty \quad or \quad f(x_0-)=\infty, $$ if $f$ 
+   is defined on an interval $(a,x_0)$ and, for each real 
+   number $M$, there is a $\delta>0$ such that $$ f(x)>M \quad 
+   if \quad x_0-\delta<x<x_0. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "42"
+    offset: "51"
+. id: "5e33c092981ec41bc6b27906"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "We say that $f$ is \term{ continuous } at $\widehat u$ if 
+   $\widehat u\in D_f$ and for each $\epsilon>0$ there is a 
+   $\delta>0$ such that \begin{equation} \sigma(f(u),f(\widehat
+   u))<\epsilon \quad if \quad u\in D_f\cap N_\delta(\widehat 
+   u). \end{equation} If $f$ is continuous at every point of a 
+   set $S$, then $f$ is \term{ continuous on } S."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "544"
+    offset: "553"
+. id: "5e33c093981ec41bc6b27976"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "We say that $f(x)$ \term{ approaches the limit $L$ as $x$ 
+   approaches } $x_0$, and write $$ \lim_{x\to x_0} f(x)=L, $$ 
+   if $f$ is defined on some deleted neighborhood of $x_0$ and,
+   for every $\epsilon>0$, there is a $\delta>0$ such that 
+   \begin{equation} |f(x)-L|<\epsilon \end{equation} if 
+   \begin{equation} 0<|x-x_0|<\delta. \end{equation} depicts 
+   the graph of a function for which $\lim_{x \to x_0}f(x)$ 
+   exists."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "33"
+    offset: "42"
+. id: "5e33c092981ec41bc6b278fd"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "Suppose that $\mathbf{X}_0$ and $\mathbf{U}$ are in $\R^n$ 
+   and $\mathbf{U}\ne\mathbf{0}$. Then \term{ the line through 
+   $\mathbf{X}_0$ in the direction of } $\mathbf{U}$ is the set
+   of all points in $\R^n$ of the form $$ 
+   \mathbf{X}=\mathbf{X}_0+t\mathbf{U},\quad -\infty<t<\infty. 
+   $$ A set of points of the form $$ 
+   \mathbf{X}=\mathbf{X}_0+t\mathbf{U},\quad t_1\le t\le t_2, 
+   $$ is called a \term{ line segment }. In particular, the line 
+   segment from $\mathbf{X}_0$ to $\mathbf{X}_1$ is the set of 
+   points of the form $$ 
+   \mathbf{X}=\mathbf{X}_0+t(\mathbf{X}_1-\mathbf{X}_0)=t\mathbf{X}_1+(1-t)\mathbf{X}_0,
+   \quad 0\le t\le1. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "291"
+    offset: "300"
+. id: "5e33c092981ec41bc6b278fc"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "Suppose that $f$ is bounded on a bounded subset of $S$ of 
+   $\R^n$, and let \begin{equation} f_S(\mathbf{X})=\left\{ 
+   begin{array} f(\mathbf{X}),&\mathbf{X}\in S,\\[2\jot] 
+   0,&\mathbf{X}\not\in S.end{array}\right. \end{equation} Let 
+   $R$ be a rectangle containing $S$. Then \term{ the integral of
+   $f$ over $S$ } is defined to be $$ \int_S 
+   f(\mathbf{X})\,d\mathbf{X}=\int_R 
+   f_S(\mathbf{X})\,d\mathbf{X} $$ if $\int_R f_S(\mathbf{X})\,
+   d\mathbf{X}$ exists."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "454"
+    offset: "463"
+. id: "5e33c093981ec41bc6b2794a"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A set $D$ is \term{ dense in the reals } if every open 
+   interval $(a,b)$ contains a member of $D$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "5"
+    offset: "14"
+. id: "5e33c092981ec41bc6b278eb"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A sequence $\{t_k\}$ is a \term{ subsequence } of a sequence 
+   $\{s_n\}$ if $$ t_k=s_{n_k},\quad k\ge0, $$ where $\{n_k\}$ 
+   is an increasing infinite sequence of integers in the domain
+   of $\{s_n\}$. We denote the subsequence $\{t_k\}$ by 
+   $\{s_{n_k}\}$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "195"
+    offset: "204"
+. id: "5e33c093981ec41bc6b27948"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "If $x_0$ is a real number and $\epsilon>0$, then the open 
+   interval $(x_0-\epsilon, x_0+\epsilon)$ is an \term{ 
+   $\epsilon$-neighborhood } of $x_0$. If a set $S$ contains an
+   $\epsilon$-neighborhood of $x_0$, then $S$ is a \term{ 
+   neighborhood } of $x_0$, and $x_0$ is an \term{ interior point
+   } of $S$ . The set of interior points of $S$ is the \term{ 
+   interior } of $S$, denoted by $S^0$. If every point of $S$ 
+   is an interior point (that is, $S^0=S$), then $S$ is \term{ 
+   open }. A set $S$ is \emph{closed} if $S^c$ is open."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "21"
+    offset: "30"
+. id: "5e33c092981ec41bc6b278f3"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A subset $T$ of $C[a,b]$ is \term{ uniformly bounded } if 
+   there is a constant $M$ such that \begin{equation} |f(x)|\le
+   M \quad if \quad a\le x\le b \quad and \quad f\in T. 
+   \end{equation} A subset $T$ of $C[a,b]$ is \term{ 
+   equicontinuous } if for each $\epsilon>0$ there is a 
+   $\delta>0$ such that \begin{equation} |f(x_1)-f(x_2)|\le 
+   \epsilon \quad if \quad x_1,x_2\in [a,b],\quad 
+   |x_1-x_2|<\delta, \quad and \quad f\in T. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "540"
+    offset: "549"
+. id: "5e33c093981ec41bc6b27970"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "If $S$ is a nonempty subset of $\R^n$, then
+$$
+  d(S)=\sup_{\mathbf{X}, \mathbf{Y} \in S} \left \{ |\mathbf{X}-\mathbf{Y}| \right \}
+$$ is the \term{ diameter } of $S$.
+If $d(S) < \infty$ then $S$ is \term{ bounded }. If $d(S)=\infty$, then $S$ is \term{ unbounded }."
+Metadata:
+. id: "5e33c092981ec41bc6b27909"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "294"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A function $f$ is \term{ uniformly continuous } on a subset 
+   $S$ of $D_f$ if for each $\epsilon>0$ there is a $\delta>0$ 
+   such that $$ \sigma(f(u),f(v))<\epsilon \quad whenever \quad
+   \rho(u,v)<\delta \quad and \quad u,v\in S. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "545"
+    offset: "554"
+. id: "5e33c093981ec41bc6b27979"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "If $f$ is bounded on $[a,b]$, the \term{ oscillation of $f$ 
+   on } $[a,b]$ is defined by $$ W_f[a,b]=\sup_{a\le x,x'\le 
+   b}|f(x)-f(x')|, $$ which can also be written as $$ 
+   W_f[a,b]=\sup_{a\le x\le b}f(x)-\inf_{a\le x\le b}f(x) $$ ( 
+   Exercise~ ). If $a<x<b$, the \term{ oscillation of $f$ at $x$ 
+   } is defined by $$ w_f(x)=\lim_{h\to0+}W_f(x-h,x+h). $$ The 
+   corresponding definitions for $x=a$ and $x=b$ are $$ 
+   w_f(a)=\lim_{h\to0+}W_f(a,a+h) \quad and \quad 
+   w_f(b)=\lim_{h\to0+}W_f(b-h,b). $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "175"
+    offset: "184"
+. id: "5e33c092981ec41bc6b27936"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A subset $E$ of $\R^n$ has zero content if for each
+$\epsilon>0$ there is a finite set of rectangles $T_1, T_2, \dots, T_m$ such that \[
+E\subset\bigcup_{j=1}^m T_j \] and
+\[ \sum_{j=1}^m V(T_j)<\epsilon.
+\]"
+Metadata:
+. id: "5e33c093981ec41bc6b27946"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "449"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "We say that $f(\mathbf{X})$ \term{ approaches $\infty$ as
+$\mathbf{X }$ approaches $\mathbf{X}_0$ } and write $$
+\lim_{\mathbf{X}\to\mathbf{X}_0} f(\mathbf{X})=\infty $$ if
+$\mathbf{X}_0$ is a limit point of $D_f$ and, for every real
+number $M$, there is a $\delta>0$ such that $$
+f(\mathbf{X})>M \quad \textrm{whenever} \quad
+0<|\mathbf{X}-\mathbf{X}_0|<\delta \quad \textrm{and} \quad
+\mathbf{X}\in D_f. $$ We say that
+$$
+  \lim_{\mathbf{X}\to\mathbf{X}_0} f(\mathbf{X}) = -\infty
+$$
+if
+$$
+  \lim_{{\mathbf{X}}\to\mathbf{X}_0} (-f)(\mathbf{X}) = \infty.
+$$"
+Metadata:
+. id: "5e33c092981ec41bc6b27913"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "308"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "Suppose that $f$ and $g$ are functions with domains $D_f$ 
+   and $D_g$. If $D_g$ has a nonempty subset $T$ such that 
+   $g(x)\in D_f$ whenever $x\in T$, then the \term{ composite 
+   function } $f\circ g$ is defined on $T$ by $$ (f\circ 
+   g)(x)=f(g(x)). $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "58"
+    offset: "67"
+. id: "5e33c092981ec41bc6b27914"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A sequence $\{F_n\}$ of functions defined on a set $S$ \term{
+   converges uniformly to the limit function $F$ on } $S$ if $$
+   \lim_{n\to\infty} || F_n-F\|_S=0. $$ Thus, $\{F_n\}$ 
+   converges uniformly to $F$ on $S$ if for each $\epsilon> 0$ 
+   there is an integer $N$ such that \begin{equation} 
+   \|F_n-F\|_S<\epsilon \quad if\quad n\ge N. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "238"
+    offset: "247"
+. id: "5e33c093981ec41bc6b27964"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A vector-valued function $\mathbf{G}=(g_1,g_2, \dots,g_n)$ 
+   is \term{ differentiable } at $$ \mathbf{U}_0=(u_{10},u_{20}, 
+   \dots,u_{m0}) $$ if its component functions $g_1$, $g_2$, 
+   \dots, $g_n$ are differentiable at $\mathbf{U}_0$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "342"
+    offset: "351"
+. id: "5e33c092981ec41bc6b27922"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A \term{ differentiable surface } $S$ in $\R^n\ (n>1)$ is the
+   image of a compact subset $D$ of $\R^m$, where $m< n$, under
+   a continuously differentiable transformation $\mathbf{G}: 
+   \R^m\to \R^n$. If $m=1$, $S$ is also called a \term{ 
+   differentiable curve }."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "455"
+    offset: "464"
+. id: "5e33c093981ec41bc6b27952"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A function $f$ is \term{ differentiable } at an interior 
+   point $x_0$ of its domain if the difference quotient $$ 
+   \frac{f(x)-f(x_0)}{ x-x_0},\quad x\ne x_0, $$ approaches a 
+   limit as $x$ approaches $x_0$, in which case the limit is 
+   called the \term{ derivative of $f$ at $x_0$ }, and is denoted
+   by $f'(x_0)$; thus, \begin{equation} f'(x_0)=\lim_{x\to 
+   x_0}\frac{f(x)-f(x_0)}{ x-x_0}. \end{equation} It is 
+   sometimes convenient to let $x=x_0+h$ and write as $$ 
+   f'(x_0)=\lim_{h\to 0}\frac{f(x_0+h)-f(x_0)}{ h}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "75"
+    offset: "84"
+. id: "5e33c092981ec41bc6b2791c"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A set $T$ is \term{ compact } if it has the Heine-Borel 
+   property."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "536"
+    offset: "545"
+. id: "5e33c093981ec41bc6b2796c"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "We say that $f$ is \term{ absolutely integrable on } $[a,b)$ 
+   if $f$ is locally integrable on $[a,b)$ and 
+   $\int_a^b|f(x)|\,dx<\infty$. In this case we also say that 
+   $\int_a^b f(x)\,dx$ \term{ converges absolutely } or \term{ is 
+   absolutely convergent }."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "163"
+    offset: "172"
+. id: "5e33c092981ec41bc6b2792e"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A \term{ coordinate rectangle } $R$ in $\R^n$ is the 
+   Cartesian product of $n$ closed intervals; that is, $$ 
+   R=[a_1,b_1]\times [a_2,b_2]\times\cdots\times [a_n,b_n]. $$ 
+   The \term{ content } of $R$ is $$ 
+   V(R)=(b_1-a_1)(b_2-a_2)\cdots (b_n-a_n). $$ The numbers 
+   $b_1-a_1$, $b_2-a_2$, \dots, $b_n-a_n$ are the \term{ edge 
+   lengths } of $R$. If they are equal, then $R$ is a \term{ 
+   coordinate cube }. If $a_r=b_r$ for some $r$, then $V(R)=0$ 
+   and we say that $R$ is \term{ degenerate }; otherwise, $R$ is 
+   \term{ nondegenerate }."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "437"
+    offset: "446"
+. id: "5e33c092981ec41bc6b27940"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "If $p\ge 1$ and $\mathbf{X}=(x_1,x_2, \dots,x_n)$, let 
+   \begin{equation} \|\mathbf{X}\|_p 
+   =\left(\sum_{i=1}^n|x_i|^p\right)^{1/p}. \end{equation} The 
+   metric induced on $\R^n$ by this norm is $$ 
+   \rho_p(\mathbf{X},\mathbf{Y}) 
+   =\left(\sum_{i=1}^n|x_i-y_i|^p\right)^{1/p}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "521"
+    offset: "530"
+. id: "5e33c093981ec41bc6b2795e"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A series $\sum a_n$ \term{ converges absolutely }, or is \term{
+   absolutely convergent }, if $\sum|a_n|<\infty$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "215"
+    offset: "224"
+. id: "5e33c093981ec41bc6b2795b"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "Suppose that $r\ge1$ and all partial derivatives of $f$ of
+order $\le r-1$ are differentiable in a neighborhood of
+$\mathbf{X}_0$. Then the $r$th \term{ differential of $f$ at }
+$\mathbf{X}_0$, denoted by $d^{(r)}_{\mathbf{X}_0}f$, is
+defined by \begin{equation}
+d^{(r)}_{\mathbf{X}_0}f=\sum_{i_1,i_2, \dots,i_r=1}^n \frac{
+\partial^rf(\mathbf{X}_0) }{\partial x_{i_r} \partial x_{i_{r-1}}\cdots
+\partial x_{i_1}} dx_{i_1}dx_{i_2}\cdots dx_{i_r}, \end{equation}
+where $dx_1, dx_2, \dots, dx_n$ are the differentials
+introduced in Section 5.3; that is, $dx_i$ is the function
+whose value at a point in $\mathbb{R}^n$ is the $i$th coordinate of
+the point. For convenience, we define $$
+(d^{(0)}_{\mathbf{X}_0}f)=f(\mathbf{X}_0). $$ Notice that
+$d^{(1)}_{\mathbf{X}_0}f=d_{\mathbf{X}_0}f$."
+Metadata:
+. id: "5e33c092981ec41bc6b27924"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "352"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "If $f$ is bounded on $[a,b]$ and $P=\{x_0,x_1, \dots,x_n\}$
+   is a partition of $[a,b]$, let \begin{eqnarray*} M_j 
+   =\sup_{x_{j-1}\le x\le x_j}f(x)\\ and \\ m_j 
+   =\inf_{x_{j-1}\le x\le x_j}f(x). \end{eqnarray*} The \term{ 
+   upper sum of $f$ over $P$ } is $$ S(P)=\sum_{j=1}^n 
+   M_j(x_j-x_{j-1}), $$ and the \term{ upper integral of $f$ over
+   }, $[a,b]$, denoted by $$ \overline{\int_a^b} f(x)\,dx, $$ 
+   is the infimum of all upper sums. The \term{ lower sum of $f$ 
+   over $P$ } is $$ s(P)=\sum_{j=1}^n m_j(x_j-x_{j-1}), $$ and 
+   the \term{ lower integral of $f$ over } $[a,b]$, denoted by $$
+   \underline{\int_a^b}f(x)\,dx, $$ is the supremum of all 
+   lower sums."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "121"
+    offset: "130"
+. id: "5e33c092981ec41bc6b27923"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A function $f$ is \term{ uniformly continuous } on a subset 
+   $S$ of its domain if, for every $\epsilon >0$, there is a 
+   $\delta>0$ such that $$ |f(x)-f(x')|<\epsilon \ whenever \ 
+   |x-x'|<\delta \ and \ x,x'\in S. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "65"
+    offset: "74"
+. id: "5e33c092981ec41bc6b27915"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A function $f$ is \term{ piecewise continuous } on $[a,b]$ if
+   \begin{alist} \item $f(x_0+)$ exists for all $x_0$ in 
+   $[a,b)$; \item $f(x_0-)$ exists for all $x_0$ in $(a,b]$; 
+   \item $f(x_0+)=f(x_0-)=f(x_0)$ for all but finitely many 
+   points $x_0$ in $(a,b)$. \end{alist} If c fails to hold at 
+   some $x_0$ in $(a,b)$, $f$ has a \term{ jump discontinuity at 
+   $x_0$ }. Also, $f$ has a \term{ jump discontinuity at $a$ } if
+   $f(a+)\ne f(a)$ or \term{ at } $b$ if $f(b-)\ne f(b)$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "56"
+    offset: "65"
+. id: "5e33c092981ec41bc6b27912"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "If $f$ is locally integrable on $(a,b)$ we define $$ 
+   \int_a^b f(x)\,dx=\int_a^\alpha f(x)\,dx+\int_\alpha^b 
+   f(x)\,dx, $$ where $a<\alpha<b$, provided that both improper
+   integrals on the right exist (finite)."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "156"
+    offset: "165"
+. id: "5e33c092981ec41bc6b2792c"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "The \term{ Cauchy product of $\sum_{n=0 }^\infty a_n$ and } 
+   $\sum_{n=0}^\infty b_n$ is $\sum_{n=0}^\infty c_n$, where 
+   \begin{equation} 
+   c_n=a_0b_n+a_1b_{n-1}+\cdots+a_{n-1}b_1+a_nb_0. 
+   \end{equation} Thus, $c_n$ is the sum of all products 
+   $a_ib_j$, where $i\ge0$, $j\ge0$, and $i+j=n$; thus, 
+   \begin{equation} c_n=\sum_{r=0}^n a_rb_{n-r}=\sum_{r=0}^n 
+   b_ra_{n-r}. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "226"
+    offset: "235"
+. id: "5e33c093981ec41bc6b2795c"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "Let $f$ be a real-valued function defined on a rectangle 
+   $R$ in $\R^n$. We say that $f$ is \term{ Riemann integrable on
+   } $R$ if there is a number $L$ with the following property: 
+   For every $\epsilon>0$, there is a $\delta>0$ such that $$ 
+   \left|\sigma-L\right|<\epsilon $$ if $\sigma$ is any Riemann
+   sum of $f$ over a partition ${\bf P}$ of $R$ such that 
+   $\|{\bf P}\|<\delta$. In this case, we say that $L$ is the 
+   \term{ Riemann integral of $f$ over } $R$, and write $$ \int_R
+   f(\mathbf{X})\,d\mathbf{X}=L. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "438"
+    offset: "447"
+. id: "5e33c092981ec41bc6b27941"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "The \term{ diameter } of a nonempty subset $S$ of $A$ is $$ 
+   d(S)=\sup\set{\rho(u,v)}{u,\, v\in T}. $$ If $d(S)<\infty$ 
+   then $S$ is \term{ bounded }."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "536"
+    offset: "545"
+. id: "5e33c093981ec41bc6b2796b"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "Let $\boldsymbol{\Phi}$ be a unit vector and $\mathbf{X}$ a
+point in $\R^n$. \term{ The directional derivative of $f$ at
+$\mathbf{X}$ in the direction of } $\boldsymbol{\Phi}$ is
+defined by $$ \frac{\partial f(\mathbf{X})}{
+\partial\boldsymbol{\Phi}}=\lim_{t\to 0}\frac {f(\mathbf{X}+
+t\boldsymbol{\Phi})-f(\mathbf{X})}{ t} $$ if the limit
+exists. That is, $\partial f(\mathbf{X})/\partial\boldsymbol{\Phi}$
+is the ordinary derivative of the function $$
+h(t)=f(\mathbf{X}+t\boldsymbol{\Phi}) $$ at $t=0$, if
+$h'(0)$ exists."
+Metadata:
+. id: "5e33c092981ec41bc6b2791b"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "319"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "\begin{alist} \item We say that $f$ is \term{ differentiable 
+   on the closed interval } $[a,b]$ if $f$ is differentiable on
+   the open interval $(a,b)$ and $f_+'(a)$ and $f_-'(b)$ both 
+   exist. \item We say that $f$ is \term{ continuously 
+   differentiable on } $[a,b]$ if $f$ is differentiable on 
+   $[a,b]$, $f'$ is continuous on $(a,b)$, $f_+'(a)=f'(a+)$, 
+   and $f_-'(b)=f'(b-)$. \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "82"
+    offset: "91"
+. id: "5e33c092981ec41bc6b2791e"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A set $T$ is \term{ totally bounded } if for every 
+   $\epsilon>0$ there is a finite set $T_\epsilon$ with the 
+   following property: if $t\in T$, there is an $s\in 
+   T_\epsilon$ such that $\rho(s,t)<\epsilon$. We say that 
+   $T_\epsilon$ is a \term{ finite $\epsilon$-net for $T$ }."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "539"
+    offset: "548"
+. id: "5e33c093981ec41bc6b2796e"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "If $\{f_j\}^\infty_k$ is a sequence of real-valued 
+   functions defined on a set $D$ of reals, then 
+   $\sum_{j=k}^\infty f_j$ is an \term{ infinite series } (or 
+   simply a \term{ series }) of functions on $D$. The \term{ 
+   partial sums of }, $\sum_{j=k}^\infty f_j$ are defined by $$
+   F_n=\sum^n_{j=k} f_j,\quad n\ge k. $$ If $\{F_n\}^\infty_k$ 
+   converges pointwise to a function $F$ on a subset $S$ of 
+   $D$, we say that $\sum_{j=k}^\infty f_j$ \term{ converges 
+   pointwise to the sum $F$ on } $S$, and write $$ 
+   F=\sum_{j=k}^\infty f_j,\quad x\in S. $$ If $\{F_n\}$ 
+   converges uniformly to $F$ on $S$, we say that 
+   $\sum_{j=k}^\infty f_j$ \term{ converges uniformly to $F$ on 
+   $S$ }."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "246"
+    offset: "255"
+. id: "5e33c092981ec41bc6b278e7"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "The \term{ length } of the vector $\mathbf{X}=(x_1,x_2, 
+   \dots, x_n)$ is $$ 
+   |\mathbf{X}|=(x^2_1+x^2_2+\cdots+x^2_n)^{1/2}. $$ The \term{ 
+   distance between points $\mathbf{X }$ and } $\mathbf{Y}$ is 
+   $|\mathbf{X}-\mathbf{Y}|$; in particular, $|\mathbf{X}|$ is 
+   the distance between $\mathbf{X}$ and the origin. If 
+   $|\mathbf{X}|=1$, then $\mathbf{X}$ is a \term{ unit vector 
+   }."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "283"
+    offset: "292"
+. id: "5e33c092981ec41bc6b278f8"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "Let $\mathbf{A}=[a_{ij}]$ be an $n\times n$ matrix, with 
+   $n\ge2$ The \term{ cofactor } of an entry $a_{ij}$ is $$ 
+   c_{ij}=(-1)^{i+j}\det(\mathbf{A}_{ij}), $$ where 
+   $\mathbf{A}_{ij}$ is the $(n-1)\times(n-1)$ matrix obtained 
+   by deleting the $i$th row and $j$th column of $\mathbf{A}$ 
+   The \term{ adjoint } of $\mathbf{A}$ denoted by 
+   $\adj(\mathbf{A})$ is the $n\times n$ matrix whose $(i,j)$th
+   entry is $c_{ji}$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "371"
+    offset: "380"
+. id: "5e33c092981ec41bc6b27933"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "We say that $f(x)$ \term{ approaches the limit $L$ as $x$ 
+   approaches } $\infty$, and write $$ \lim_{x\to\infty} 
+   f(x)=L, $$ if $f$ is defined on an interval $(a,\infty)$ 
+   and, for each $\epsilon>0$, there is a number $\beta$ such 
+   that $$ |f(x)-L|<\epsilon\quad \quad if \quad x>\beta. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "40"
+    offset: "49"
+. id: "5e33c092981ec41bc6b27902"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "If $S$ is a bounded subset of $\R^n$ and the integral 
+   $\int_S\,d\mathbf{X}$ (with integrand $f\equiv1$) exists, we
+   call $\int_S\,d\mathbf{X}$ the \term{ content } (also, \term{ 
+   area } if $n=2$ or \term{ volume } if $n=3$) of $S$, and 
+   denote it by $V(S)$; thus, $$ V(S)=\int_S\,d\mathbf{X}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "455"
+    offset: "464"
+. id: "5e33c093981ec41bc6b2794c"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A sequence $\{s_n\}$ \term{ converges to a limit $s$ } if for
+   every $\epsilon>0$ there is an integer $N$ such that 
+   \begin{equation} |s_n-s|<\epsilon \quad if\quad n\ge N. 
+   \end{equation} In this case we say that $\{s_n\}$ is \term{ 
+   convergent } and write $$ \lim_{n\to\infty}s_n=s. $$ A 
+   sequence that does not converge \term{ diverges }, or is \term{ 
+   divergent }"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "179"
+    offset: "188"
+. id: "5e33c092981ec41bc6b2793c"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A transformation $\mathbf{F}: \R^n\to \R^n$ is \term{ regular
+   } on an open set $S$ if $\mathbf{F}$ is one-to-one and 
+   continuously differentiable on $S$, and 
+   $J\mathbf{F}(\mathbf{X})\ne0$ if $\mathbf{X}\in S$. We will 
+   also say that $\mathbf{F}$ is regular on an arbitrary set 
+   $S$ if $\mathbf{F}$ is regular on an open set containing 
+   $S$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "406"
+    offset: "415"
+. id: "5e33c092981ec41bc6b2793d"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "If $\{a_n\}_k^\infty$ is an infinite sequence of real 
+   numbers, the symbol $$ \sum_{n=k}^\infty a_n $$ is an \term{ 
+   infinite series }, and $a_n$ is the \term{ $n$th term } of the
+   series. We say that $\sum_{n=k}^\infty a_n$ \term{ converges 
+   to the sum $A$ }, and write $$ \sum_{n=k}^\infty a_n=A, $$ 
+   if the sequence $\{A_n\}_k^\infty$ defined by $$ 
+   A_n=a_k+a_{k+1}+\cdots+a_n,\quad n\ge k, $$ converges to 
+   $A$. The finite sum $A_n$ is the \term{ $n$th partial sum of }
+   $\sum_{n=k}^\infty a_n$. If $\{A_n\}_k^\infty$ diverges, we 
+   say that $\sum_{n=k}^\infty a_n$ \term{ diverges }; in 
+   particular, if $\lim_{n\to\infty}A_n =\infty$ or $-\infty$, 
+   we say that $\sum_{n=k}^\infty a_n$ \term{ diverges to 
+   $\infty$ or $-\infty$ }, and write $$ \sum_{n=k}^\infty 
+   a_n=\infty \quad or\quad \sum_{n=k}^\infty a_n= -\infty. $$ 
+   A divergent infinite series that does not diverge to 
+   $\pm\infty$ is said to \term{ oscillate }, or \term{ be 
+   oscillatory }."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "200"
+    offset: "209"
+. id: "5e33c093981ec41bc6b2794d"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "\begin{alist} \item We say that $f$ is \term{ continuous at 
+   $x_0$ } if $f$ is defined on an open interval $(a,b)$ 
+   containing $x_0$ and $\lim_{x\to x_0}f(x)=f(x_0)$. \item We 
+   say that $f$ is \term{ continuous from the left at $x_0$ } if 
+   $f$ is defined on an open interval $(a,x_0)$ and 
+   $f(x_0-)=f(x_0)$. \item We say that $f$ is \term{ continuous 
+   from the right at $x_0$ } if $f$ is defined on an open 
+   interval $(x_0,b)$ and $f(x_0+)=f(x_0)$. \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "54"
+    offset: "63"
+. id: "5e33c092981ec41bc6b2790b"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "\begin{alist} \item We say that $f(x)$ \term{ approaches the 
+   left-hand limit $L$ as $x$ approaches $x_0$ from the left },
+   and write $$ \lim_{x\to x_0-} f(x)=L, $$ if $f$ is defined 
+   on some open interval $(a,x_0)$ and, for each $\epsilon>0$, 
+   there is a $\delta>0$ such that $$ |f(x)-L|<\epsilon \quad 
+   if \quad x_0-\delta<x<x_0. $$ \item We say that $f(x)$ \term{ 
+   approaches the right-hand limit $L$ as $x$ approaches $x_0$ 
+   from the right }, and write $$ \lim_{x\to x_0+} f(x)=L, $$ 
+   if $f$ is defined on some open interval $(x_0,b)$ and, for 
+   each $\epsilon>0$, there is a $\delta>0$ such that $$ 
+   |f(x)-L|<\epsilon \quad if \quad x_0<x<x_0+\delta. $$ 
+   \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "38"
+    offset: "47"
+. id: "5e33c092981ec41bc6b278ff"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "The \term{ inner product } $\mathbf{X}\cdot \mathbf{Y}$ of 
+   $\mathbf{X}=(x_1,x_2, \dots,x_n)$ and $\mathbf{Y}= (y_1,y_2,
+   \dots,y_n)$ is $$ 
+   \mathbf{X}\cdot\mathbf{Y}=x_1y_1+x_2y_2+\cdots+x_ny_n. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "285"
+    offset: "294"
+. id: "5e33c092981ec41bc6b278fa"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "If $D_f\cap D_g\ne \emptyset$ then $f+g$ $f-g$ and $fg$ are
+defined on $D_f\cap D_g$ by
+$$
+  (f+g)(x) = f(x)+g(x),
+$$
+$$
+  (f-g)(x) = f(x)-g(x)
+$$
+and
+$$
+  (fg)(x) = f(x)g(x)
+$$
+The quotient $f/g$ is defined by $$
+\left(\frac{f}{ g}\right) (x)=\frac{f(x)}{ g(x)} $$ for $x$
+in $D_f\cap D_g$ such that $g(x)\ne0$"
+Metadata:
+. id: "5e33c092981ec41bc6b278f7"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "32"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "We say that $$ \lim_{u\to \widehat u}f(u)=\widehat v $$ if 
+   $\widehat u\in\overline D_f$ and for each $\epsilon>0$ there
+   is a $\delta>0$ such that \begin{equation} 
+   \sigma(f(u),\widehat v)<\epsilon \quad if \quad u\in D_f 
+   \quad and \quad 0<\rho(u,\widehat u)<\delta. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "544"
+    offset: "553"
+. id: "5e33c093981ec41bc6b27973"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "An infinite series of the form \begin{equation} 
+   \sum^\infty_{n=0} a_n(x-x_0)^n, \end{equation} where $x_0$ 
+   and $a_0$, $a_1$, \dots, are constants, is called a \term{ 
+   power series in $x-x_0$ }."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "259"
+    offset: "268"
+. id: "5e33c092981ec41bc6b278f0"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A sequence of points $\{\mathbf{X}_r\}$ in $\R^n$ \term{ 
+   converges to the limit } $\overline{\mathbf{X}}$ if $$ 
+   \lim_{r\to\infty} |\mathbf{X}_r-\overline{\mathbf{X}}|=0. $$
+   In this case we write $$ 
+   \lim_{r\to\infty}\mathbf{X}_r=\overline{\mathbf{X}}. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "294"
+    offset: "303"
+. id: "5e33c092981ec41bc6b27904"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "The \term{ norm }, $\|\mathbf{A}\|$ of an $m\times n$ matrix 
+   $\mathbf{A}=[a_{ij}]$ is the smallest number such that $$ 
+   |\mathbf{AX}|\le\|\mathbf{A}\|\,|\mathbf{X}| $$ for all 
+   $\mathbf{X}$ in $\R^n$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "369"
+    offset: "378"
+. id: "5e33c092981ec41bc6b27932"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A function $f$ is \term{ continuous on an open interval }
+$(a,b)$ if it is continuous at every point in $(a,b)$. If,
+in addition,
+\[
+    f(b-)=f(b)
+\]
+or
+\[
+    f(a+)=f(a)
+\]
+then $f$ is \term{ continuous on $(a,b]$ or
+$[a,b)$ }, respectively. If $f$ is continuous on $(a,b)$ and
+and both hold, then \term{ $f$ is continuous on $[a,b]$ }.
+More generally, if $S$ is a subset of $D_f$ consisting of
+finitely or infinitely many disjoint intervals, then $f$ is
+\term{ continuous on $S$ } if $f$ is continuous on every
+interval in $S$. (Henceforth, in connection with functions
+of one variable, whenever we say ''$f$ is continuous on
+$S$'' we mean that $S$ is a set of this kind.)"
+Metadata:
+. id: "5e33c092981ec41bc6b2790d"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "55"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A \term{ region } $S$ in $\R^n$ is the union of an open
+connected set with some, all, or none of its boundary. Thus,
+$S^0$ is connected, and every point of $S$ is a limit point
+of $S^0$."
+Metadata:
+. id: "5e33c092981ec41bc6b2790c"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "298"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A sequence $\{s_n\}$ is \term{ bounded above } if there is a 
+   real number $b$ such that $$ s_n\le b \quad for all $n$ , $$
+   \term{ bounded below } if there is a real number $a$ such that
+   $$ s_n\ge a \quad for all $n$ , $$ or \term{ bounded } if 
+   there is a real number $r$ such that $$ |s_n|\le r \quad for
+   all $n$ . $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "181"
+    offset: "190"
+. id: "5e33c092981ec41bc6b2793e"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A subset $S$ of the real line is \term{ of Lebesgue measure
+zero } if for every $\epsilon>0$ there is a finite or
+infinite sequence of open intervals $\{I_1, I_2, \dots\}$
+such that \begin{equation} S\subset\bigcup_j I_j
+\end{equation} and \begin{equation} \sum_{j=1}^n
+L(I_j)<\epsilon,\quad n\ge1. \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "179"
+. tag: "Real Analysis"
+. id: "5e8a6cbe5d52fd7bf3ff32a0"
+
+
+
+ProtoDefines:
+. "If $D_f$ is unbounded, we say that $$
+\lim_{|\mathbf{X}|\to\infty} f(\mathbf{X})=L \quad
+\textrm{(finite)}\quad $$ if for every $\epsilon>0$, there is a
+number $R$ such that $$ |f(\mathbf{X})-L|<\epsilon \quad
+\textrm{whenever}\quad \ |\mathbf{X}|\ge R \quad \textrm{and}\quad
+\mathbf{X}\in D_f. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "309"
+. tag: "Real Analysis"
+. id: "5e8a6b4c5d52fd7bf3ff329f"
+
+
+
+ProtoDefines:
+. "A \term{ normed vector space } is a vector space $A$ together
+   with a real-valued function $N$ defined on $A$, such that if
+   $u$ and $v$ are arbitrary vectors in $A$ and $a$ is a real 
+   number, then \begin{alist} \item $N(u)\ge 0$ with equality 
+   if and only if $u=0$; \item $N(au)=|a|N(u)$; \item 
+   $N(u+v)\le N(u)+N(v)$. \end{alist} We say that $N$ is a \term{
+   norm } on $A$, and $(A,N)$ is a \term{ normed vector space }."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "519"
+    offset: "528"
+. id: "5e33c093981ec41bc6b2795a"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "If $f$ is locally integrable on $(a,b]$, we define $$ 
+   \int_a^b f(x)\,dx=\lim_{c\to a+}\int_c^b f(x)\,dx $$ 
+   provided that the limit exists (finite). To include the case
+   where $a=-\infty$, we adopt the convention that 
+   $-\infty+=-\infty$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "156"
+    offset: "165"
+. id: "5e33c092981ec41bc6b2792a"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "The numbers $\overline{s}$ and $\underline{s}$ defined in 
+   Theorem~ are called the \term{ limit superior } and \term{ limit
+   inferior }, respectively, of $\{s_n\}$, and denoted by $$ 
+   \overline{s}=\limsup_{n\to\infty} s_n \quad and\quad 
+   \underline{s}=\liminf_{n\to\infty} s_n. $$ We also define 
+   \begin{eqnarray*} \limsup_{n\to\infty}s_n = \infty\quad if 
+   $\{s_n\}$ is not bounded above ,\\ \limsup_{n\to\infty}s_n 
+   =-\infty\quad if \lim_{n\to \infty}s_n=-\infty,\\ 
+   \liminf_{n\to\infty} s_n =-\infty\quad if $\{s_n\}$ is not 
+   bounded below ,\\ and [2\jot] \liminf_{n\to\infty} s_n = 
+   \infty\quad if \lim_{n\to\infty} s_n=\infty. 
+   \end{eqnarray*}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "188"
+    offset: "197"
+. id: "5e33c092981ec41bc6b27944"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "If $f$ is bounded on a rectangle $R$ in $\R^n$ and ${\bf 
+   P}=\{R_1,R_2, \dots,R_k\}$ is a partition of $R$, let $$ 
+   M_j=\sup_{\mathbf{X}\in R_j}f(\mathbf{X}),\quad m_j= 
+   \inf_{\mathbf{X}\in R_j}f(\mathbf{X}). $$ The \term{ upper sum
+   } of $f$ over ${\bf P}$ is $$ S({\bf P})=\sum_{j=1}^k 
+   M_jV(R_j), $$ and the \term{ upper integral of $f$ over } $R$,
+   denoted by $$ \overline{\int_R}\,f(\mathbf{X})\,d\mathbf{X},
+   $$ is the infimum of all upper sums. The \term{ lower sum of 
+   $f$ over } ${\bf P}$ is $$ s({\bf P})=\sum_{j=1}^k 
+   m_jV(R_j), $$ and the \term{ lower integral of $f$ over }$R$, 
+   denoted by $$ \underline{\int_R}\, 
+   f(\mathbf{X})\,d\mathbf{X}, $$ is the supremum of all lower 
+   sums."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "442"
+    offset: "451"
+. id: "5e33c092981ec41bc6b27943"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "Suppose that $\{F_n\}$ is a sequence of functions on $D$ 
+   and the sequence of values $\{F_n(x)\}$ converges for each 
+   $x$ in some subset $S$ of $D$. Then we say that $\{F_n\}$ 
+   \term{ converges pointwise on $S$ to the limit function } $F$,
+   defined by $$ F(x)=\lim_{n\to\infty}F_n(x),\quad x\in S. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "235"
+    offset: "244"
+. id: "5e33c093981ec41bc6b2795f"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A sequence $\{u_n\}$ in a metric space $(A,\rho)$ \term{ 
+   converges } to $u\in A$ if \begin{equation} 
+   \lim_{n\to\infty}\rho(u_n,u)=0. \end{equation} In this case 
+   we say that $\lim_{n\to\infty}u_n=u$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "526"
+    offset: "535"
+. id: "5e33c093981ec41bc6b27967"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "If $f$ is locally integrable on $[a,b)$, we define 
+   \begin{equation} \int_a^b f(x)\,dx= \lim_{c\to b-}\int_a^c 
+   f(x)\,dx \end{equation} if the limit exists (finite). To 
+   include the case where $b=\infty$, we adopt the convention 
+   that $\infty-=\infty$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "155"
+    offset: "164"
+. id: "5e33c092981ec41bc6b27928"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A \term{ metric space } is a nonempty set $A$ together with a
+   real-valued function $\rho$ defined on $A\times A$ such that
+   if $u$, $v$, and $w$ are arbitrary members of $A$, then 
+   \begin{alist} \item $\rho(u,v)\ge 0$, with equality if and 
+   only if $u=v$; \item $\rho(u,v)=\rho(v,u)$; \item 
+   $\rho(u,v)\le\rho(u,w)+\rho(w,v)$. \end{alist} We say that 
+   $\rho$ is a \term{ metric } on $A$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "518"
+    offset: "527"
+. id: "5e33c093981ec41bc6b27958"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "We say that $f(\mathbf{X})$ \term{ approaches the limit $L$ 
+   as $\mathbf{X }$ approaches } $\mathbf{X}_0$ and write $$ 
+   \lim_{\mathbf{X}\to\mathbf{X}_0} f(\mathbf{X})=L $$ if 
+   $\mathbf{X}_0$ is a limit point of $D_f$ and, for every 
+   $\epsilon>0$, there is a $\delta>0$ such that $$ 
+   |f(\mathbf{X})-L|<\epsilon $$ for all $\mathbf{X}$ in $D_f$ 
+   such that $$ 0<|\mathbf{X}-\mathbf{X}_0|<\delta. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "304"
+    offset: "313"
+. id: "5e33c092981ec41bc6b27910"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "If $\mathbf{A}=[a_{ij}]$ is an $n \times n$ matrix, then $$
+   \max\set{\sum_{j=1}^n |a_{ij}|}{1\le i\le n} $$ is the \term{ 
+   infinity norm of } $A$ denoted by $\|A\|_\infty$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "500"
+    offset: "509"
+. id: "5e33c093981ec41bc6b27956"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A metric space $(A,\rho)$ is \term{ complete } if every 
+   Cauchy sequence in $A$ has a limit."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "527"
+    offset: "536"
+. id: "5e33c093981ec41bc6b27969"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A sequence $\{s_n\}$ is \term{ nondecreasing } if $s_n\ge 
+   s_{n-1}$ for all $n$, or \term{ nonincreasing } if $s_n\le 
+   s_{n-1}$ for all $n$ A \term{ monotonic sequence } is a 
+   sequence that is either nonincreasing or nondecreasing. If 
+   $s_n>s_{n-1}$ for all $n$, then $\{s_n\}$ is \term{ increasing
+   }, while if $s_n<s_{n-1}$ for all $n$, $\{s_n\}$ is \term{ 
+   decreasing }."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "182"
+    offset: "191"
+. id: "5e33c092981ec41bc6b27942"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A function $f$ is \term{ differentiable } at $$ 
+   \mathbf{X}_0=(x_{10},x_{20}, \dots,x_{n0})) $$ if 
+   $\mathbf{X}_0\in D_f^0$ and there are constants $m_1$, 
+   $m_2$, \dots, $m_n$ such that \begin{equation} 
+   \lim_{\mathbf{X}\to\mathbf{X}_0} 
+   \frac{f(\mathbf{X})-f(\mathbf{X}_0)- \dst{\sum^n_{i=1}}\, 
+   m_i (x_i-x_{i0})}{ |\mathbf{X}-\mathbf{X}_0|}=0. 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "326"
+    offset: "335"
+. id: "5e33c092981ec41bc6b2791f"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "If $\rho$ and $\sigma$ are both metrics on a set $A$, then
+$\rho$ and $\sigma$ are \term{ equivalent } if
+there are positive constants $\alpha$ and $\beta$ such that
+\begin{equation}
+\alpha\le\frac{\rho(x,y)}{\sigma(x,y)}\le\beta \quad \textrm{for all}
+\quad x,y\in A \quad \textrm{such that} \quad x\ne y. \end{equation}"
+Metadata:
+. id: "5e33c093981ec41bc6b2796a"
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "530"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "If $\mathbf{X}_0$ is in $D_f$ and is a limit point of 
+   $D_f$, then we say that $f$ is \term{ continuous at $\mathbf{X
+   }_0$ } if $$ \lim_{\mathbf{X}\to\mathbf{X}_0} 
+   f(\mathbf{X})=f(\mathbf{X}_0). $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "311"
+    offset: "320"
+. id: "5e33c092981ec41bc6b2791a"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "Let $f$ be defined on $[a,b]$. We say that $f$ is \term{ 
+   Riemann integrable on } $[a,b]$ if there is a number $L$ 
+   with the following property: For every $\epsilon>0$, there 
+   is a $\delta>0$ such that $$ \left|\sigma-L \right|<\epsilon
+   $$ if $\sigma$ is any Riemann sum of $f$ over a partition 
+   $P$ of $[a,b]$ such that $\|P\|<\delta$. In this case, we 
+   say that $L$ is \term{ the Riemann integral of $f$ over } 
+   $[a,b]$, and write $$ \int_a^b f(x)\,dx=L. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "114"
+    offset: "123"
+. id: "5e33c092981ec41bc6b27920"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "If $D_f$ is unbounded, we say that $$ 
+   \lim_{|\mathbf{X}|\to\infty} f(\mathbf{X})=L \quad 
+   (finite)\quad $$ if for every $\epsilon>0$, there is a 
+   number $R$ such that $$ |f(\mathbf{X})-L|<\epsilon \quad 
+   whenever\quad \ |\mathbf{X}|\ge R \quad and\quad 
+   \mathbf{X}\in D_f. $$"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "309"
+    offset: "318"
+. id: "5e33c092981ec41bc6b27918"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A sequence $\{u_n\}$ in a metric space $(A,\rho)$ is a \term{
+   Cauchy sequence } if for every $\epsilon>0$ there is an 
+   integer $N$ such that \begin{equation} 
+   \rho(u_n,u_m)<\epsilon \quad and \quad m,n>N. 
+   \end{equation}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "526"
+    offset: "535"
+. id: "5e33c093981ec41bc6b27968"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "If $u_0\in A$ and $\epsilon>0$, the set $$ 
+   N_\epsilon(u_0)=\set{u\in A}{\rho(u_0,u)<\epsilon} $$ is 
+   called an \term{ $\epsilon$-neighborhood } of $u_0$. 
+   (Sometimes we call $S_\epsilon$ the \term{ open ball of radius
+   $\epsilon$ centered at $u_0$ }.) If a subset $S$ of $A$ 
+   contains an $\epsilon$-neighborhood of $u_0$, then $S$ is a 
+   \term{ neighborhood } of $u_0$, and $u_0$ is an \term{ interior 
+   point } of $S$. The set of interior points of $S$ is the 
+   \term{ interior } of $S$, denoted by $S^0$. If every point of 
+   $S$ is an interior point (that is, $S^0=S$), then $S$ is 
+   \term{ open }. A set $S$ is \term{ closed } if $S^c$ is open."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "525"
+    offset: "534"
+. id: "5e33c093981ec41bc6b27961"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "Let $S$ be a subset of $A$. Then \begin{alist} \item $u_0$ 
+   is a \term{ limit point } of $S$ if every deleted neighborhood
+   of $u_0$ contains a point of $S$. \item $u_0$ is a \term{ 
+   boundary point } of $S$ if every neighborhood of $u_0$ 
+   contains at least one point in $S$ and one not in $S$. The 
+   set of boundary points of $S$ is the \term{ boundary } of $S$,
+   denoted by $ ial S$. The \term{ closure } of $S$, denoted by 
+   $\overline{S}$, is defined by $\overline{S}=S\cup ial S$. 
+   \item $u_0$ is an \term{ isolated point } of $S$ if $u_0\in S$
+   and there is a neighborhood of $u_0$ that contains no other 
+   point of $S$. \item $u_0$ is \term{ exterior } to $S$ if $u_0$
+   is in the interior of $S^c$. The collection of such points 
+   is the \term{ exterior } of $S$. \end{alist}"
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "526"
+    offset: "535"
+. id: "5e33c093981ec41bc6b27966"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A \term{ vector space } $A$ is a nonempty set of elements 
+   called \term{ vectors } on which two operations, vector 
+   addition and scalar multiplication (multiplication by real 
+   numbers) are defined, such that the following assertions are
+   true for all $\mathbf{U}$, $\mathbf{V}$, and $\mathbf{W}$ in
+   $A$ and all real numbers $r$ and $s$:\\ 1. 
+   $\mathbf{U}+\mathbf{V}\in A$;\\ 2. 
+   $\mathbf{U}+\mathbf{V}=\mathbf{V}+\mathbf{U}$;\\ 3. 
+   $\mathbf{U}+(\mathbf{V}+\mathbf{W})=(\mathbf{U}+\mathbf{V})+\mathbf{W}$;\\
+   4. There is a vector $\mathbf{0}$ in $A$ such that 
+   $\mathbf{U}+\mathbf{0}=\mathbf{U}$;\\ 5. There is a vector 
+   $-\mathbf{U}$ in $A$ such that 
+   $\mathbf{U}+(-\mathbf{U})=\mathbf{0}$;\\ 6. $r\mathbf{U}\in 
+   A$;\\ 7. 
+   $r(\mathbf{U}+\mathbf{V})=r\mathbf{U}+r\mathbf{V}$;\\ 8. 
+   $(r+s)\mathbf{U}=r\mathbf{U}+s\mathbf{U}$;\\ 9. 
+   $r(s\mathbf{U})=(rs)\mathbf{U}$; \\ 10. 
+   $1\mathbf{U}=\mathbf{U}$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "519"
+    offset: "528"
+. id: "5e33c093981ec41bc6b27959"
+. tag: "Real Analysis"
+
+
+
+ProtoDefines:
+. "A transformation $\mathbf{L}: \R^n \to \R^m$ defined on all
+   of $\R^n$ is \term{ linear } if $$ 
+   \mathbf{L}(\mathbf{X}+\mathbf{Y})=\mathbf{L}(\mathbf{X})+\mathbf{L}(\mathbf{Y})
+   $$ for all $\mathbf{X}$ and $\mathbf{Y}$ in $\R^n$ and $$ 
+   \mathbf{L}(a\mathbf{X})=a\mathbf{L}(\mathbf{X}) $$ for all 
+   $\mathbf{X}$ in $\R^n$ and real numbers $a$."
+Metadata:
+. reference:
+  . source: "@TrenchRealAnalysis"
+    page: "362"
+    offset: "371"
+. id: "5e33c092981ec41bc6b27929"
+. tag: "Real Analysis"
+
+
+

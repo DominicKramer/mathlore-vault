@@ -1,0 +1,95 @@
+[d711be7e9cd44498b1b863291cd47322]
+Resource:
+. type: "Book"
+. name: "generatingfunctionology"
+. author: "Herbert S. Wilf"
+. homepage: "https://www.math.upenn.edu/~wilf/DownldGF.html"
+. url: "https://www.math.upenn.edu/~wilf/gfology2.pdf"
+. related: "https://realnotcomplex.com/discrete-mathematics/combinatorics/generatingfunctionology-by-herbert-s-wilf"
+Metadata:
+. tag: "Combinatorics"
+. id: "5ed493cc98316306ebe178b7"
+
+
+
+[226e0d6cda334bfdab6443ae579c6ba0]
+Resource:
+. type: "Book"
+. name: "Combinatorics: The Art of Counting"
+. author: "Bruce Sagan"
+. url: "https://users.math.msu.edu/users/bsagan/Books/Aoc/aoc.pdf"
+. related: "https://realnotcomplex.com/discrete-mathematics/combinatorics/combinatorics-the-art-of-counting-by-bruce-sagan"
+Metadata:
+. tag: "Combinatorics"
+. id: "5ed493cc98316306ebe178b9"
+
+
+
+[f7dae9c3fb444833b50e056422009414]
+Resource:
+. type: "Other"
+. name: "Analytic Combinatorics"
+. author: "Philippe Flajolet, Robert Sedgewick"
+. homepage: "http://algo.inria.fr/flajolet/Publications/AnaCombi/anacombi.html"
+. url: "http://algo.inria.fr/flajolet/Publications/AnaCombi/book.pd"
+. related: "https://realnotcomplex.com/discrete-mathematics/combinatorics/analytic-combinatorics-by-philippe-flajolet-and-robert-sedgewick"
+Metadata:
+. tag: "Combinatorics"
+. id: "5ed493cc98316306ebe178b8"
+
+
+
+[22cb91f80c704fc4b6aabc1ba48ebfb7]
+Resource:
+. type: "Book"
+. name: "Combinatorics Through Guided Discovery"
+. author: "Kenneth P. Bogart"
+. homepage: "https://bogart.openmathbooks.org/"
+. url: "https://bogart.openmathbooks.org/pdf/ctgd.pdf"
+. related: "https://realnotcomplex.com/discrete-mathematics/combinatorics/combinatorics-through-guided-discovery-by-kenneth-p-bogart"
+Metadata:
+. tag: "Combinatorics"
+. id: "5ed493cc98316306ebe178b6"
+
+
+
+[877bd2091a0d474da33d72afbc8a67e9]
+Resource:
+. type: "Lecture Notes"
+. name: "Notes on Combinatorics"
+. author: "Peter J. Cameron"
+. url: "http://www.maths.qmul.ac.uk/~pjc/notes/comb.pdf"
+. related: "https://realnotcomplex.com/discrete-mathematics/combinatorics/notes-on-combinatorics-by-peter-j-cameron"
+Metadata:
+. tag: "Combinatorics"
+. id: "5ed493cc98316306ebe178ba"
+
+
+
+[257b8e6316db4521b96ce722a938d493]
+Resource:
+. type: "Lecture Notes"
+. name: "Basic Combinatorics"
+. author: "Carl G. Wagner"
+. url: "http://www.math.utk.edu/~wagner/papers/comb.pdf"
+. related: "https://realnotcomplex.com/discrete-mathematics/combinatorics/basic-combinatorics-by-carl-g-wagner"
+Metadata:
+. tag: "Combinatorics"
+. id: "5ed493cc98316306ebe178bb"
+
+
+
+[0dc60fc5f9bd4389b847c5bb1f0ae7f5]
+Resource:
+. type: "Book"
+. name: "Applied Combinatorics"
+. author: "Mitchel T. Keller, William T. Trotter"
+. homepage: "http://people.math.gatech.edu/~trotter/math-3012/toppage.html"
+. url: "http://people.math.gatech.edu/~trotter/book.pdf"
+. related: "https://realnotcomplex.com/discrete-mathematics/combinatorics/applied-combinatorics-by-mitchel-t-keller-and-william-t-trotter"
+Metadata:
+. tag: "Combinatorics"
+. id: "5ed493cc98316306ebe178b5"
+
+
+

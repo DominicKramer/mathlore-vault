@@ -1,0 +1,80 @@
+[d36ab4b8313641dabbea6d66c86325c3]
+Resource:
+. type: "Video"
+. name: "Doctorate program: Functional Analysis"
+. author: "Claudio Landim"
+. url: "https://www.youtube.com/playlist?list=PLo4jXE-LdDTTIIIRwqK35CbFJieSJEcVR"
+. related: "https://realnotcomplex.com/analysis/functional-analysis/doctorate-program-functional-analysis-by-claudio-landim"
+Metadata:
+. tag: "Functional Analysis"
+. id: "5ed493cc98316306ebe17814"
+
+
+
+[6b81cbf96ea64a2aa0022f7f311fd318]
+Resource:
+. type: "Lecture Notes"
+. name: "Lecture Notes on Measure Theory and Functional Analysis"
+. author: "P. Cannarsa, T. D’Aprile"
+. url: "http://www.mat.uniroma2.it/~cannarsa/cam_0607.pdf"
+. related: "https://realnotcomplex.com/analysis/functional-analysis/lecture-notes-on-measure-theory-and-functional-analysis-by-p-cannarsa-and-t-daprile"
+Metadata:
+. tag: "Functional Analysis"
+. id: "5ed493cc98316306ebe17813"
+
+
+
+[36a89b41022b4399a3fae89031c9ca4c]
+Resource:
+. type: "Other"
+. name: "Theory of Functions of a Real Variable"
+. author: "Shlomo Sternberg"
+. url: "http://people.math.harvard.edu/~shlomo/docs/Real_Variables.pdf"
+. related: "https://realnotcomplex.com/analysis/functional-analysis/theory-of-functions-of-a-real-variable-by-shlomo-sternberg"
+Metadata:
+. tag: "Functional Analysis"
+. id: "5ed493cc98316306ebe17812"
+
+
+
+[73c41cb33662402398d86b6664a7ab7c]
+Resource:
+. type: "Book"
+. name: "An Introduction to Functional Analysis"
+. author: "Laurent W. Marcoux"
+. url: "https://www.math.uwaterloo.ca/~lwmarcou/notes/pmath453.pdf"
+. related: "https://realnotcomplex.com/analysis/functional-analysis/an-introduction-to-functional-analysis-by-laurent-w-marcoux"
+Metadata:
+. tag: "Functional Analysis"
+. id: "5ed493cc98316306ebe1780f"
+
+
+
+[3f70bf6d43184d9c9ecac597773ed74c]
+Resource:
+. type: "Lecture Notes"
+. name: "Functional Analysis"
+. author: "Jeff Schenker"
+. homepage: "https://users.math.msu.edu/users/schenke6/920/"
+. url: "https://users.math.msu.edu/users/schenke6/920/920notes.pdf"
+. related: "https://realnotcomplex.com/analysis/functional-analysis/functional-analysis-by-jeff-schenker"
+Metadata:
+. tag: "Functional Analysis"
+. id: "5ed493cc98316306ebe17810"
+
+
+
+[c0e9c9e8f0014a65b28d0be639e3caab]
+Resource:
+. type: "Book"
+. name: "Topics in Linear and Nonlinear Functional Analysis"
+. author: "Gerald Teschl"
+. homepage: "https://www.mat.univie.ac.at/~gerald/ftp/book-fa/index.html"
+. url: "https://www.mat.univie.ac.at/~gerald/ftp/book-fa/fa.pdf"
+. related: "https://realnotcomplex.com/analysis/functional-analysis/topics-in-linear-and-nonlinear-functional-analysis-by-gerald-teschl"
+Metadata:
+. tag: "Functional Analysis"
+. id: "5ed493cc98316306ebe17811"
+
+
+

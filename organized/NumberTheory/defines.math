@@ -1,0 +1,463 @@
+ProtoDefines:
+. "Let $n\in\mathbf{N}$ and $x\in\mathbf{Z}$ and suppose that 
+   $\gcd(x,n)=1$. The \term{order} of $x$ modulo $n$ is the 
+   smallest $m\in\mathbf{N}$ such that $$ x^m \equiv 1\pmod{n}.
+   $$"
+Metadata:
+. name: "Order of an Element"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "25"
+    offset: "32"
+. id: "5e33c0f8981ec41bc6b27b95"
+. tag: "Number Theory"
+
+
+
+ProtoDefines:
+. "We call a subset $R\subset\mathbf{Z}$ of size $n$ whose 
+   reductions modulo $n$ are pairwise distinct a \term{complete 
+   set of residues} modulo $n$. In other words, a complete set 
+   of residues is a choice of representative for each 
+   equivalence class in $\Z/n\Z{}$."
+Metadata:
+. name: "Complete Set of Residues"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "24"
+    offset: "31"
+. id: "5e33c0f8981ec41bc6b27b93"
+. tag: "Number Theory"
+
+
+
+ProtoDefines:
+. "Let $G$ and $H$ be groups. A map $\varphi:G \to H$ is a 
+   \term{group homomorphism} if for all $a,b\in G$ we have 
+   $\varphi(ab) = \varphi(a) \varphi(b)$. A group homomorphism 
+   is called \term{ surjective} if for every $c\in H$ there is 
+   $a\in G$ such that $\varphi(a) = c$. The \term{ kernel} of a 
+   group homomorphism $\varphi:G\to H$ is the set 
+   $\ker(\varphi)$ of elements $a\in G$ such that $\varphi(a) =
+   1$. A group homomorphism is \term{ injective} if 
+   $\ker(\varphi) = \{1\}$."
+Metadata:
+. name: "Group Homomorphism"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "64"
+    offset: "71"
+. id: "5e33c0f8981ec41bc6b27b9d"
+. tag: "Number Theory"
+
+
+
+ProtoDefines:
+. "An \term{ elliptic curve} over a field $K$ is a curve defined
+   by an equation of the form $$ y^2 = x^3 + ax+b, $$ where $a,
+   b\in{}K$ and $-16(4a^3+27b^2)\neq 0$."
+Metadata:
+. name: "Elliptic Curve"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "124"
+    offset: "131"
+. id: "5e33c0f8981ec41bc6b27bbe"
+. tag: "Number Theory"
+
+
+
+ProtoDefines:
+. "Fix a prime $p$. An integer $a$ not divisible by $p$ is a 
+   \term{quadratic residue} modulo $p$ if $a$ is a square modulo
+   $p$; otherwise, $a$ is a \term{ quadratic nonresidue} ."
+Metadata:
+. name: "Quadratic Residue"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "70"
+    offset: "77"
+. id: "5e33c0f8981ec41bc6b27ba2"
+. tag: "Number Theory"
+
+
+
+ProtoDefines:
+. "For $0\leq n\leq m$, the $n$th \term{convergent} of the 
+   continued fraction $[a_0,\ldots,a_m]$ is $[a_0,\ldots, 
+   a_n]$. These convergents for $n<m$ are also called \term{ 
+   partial convergents} ."
+Metadata:
+. name: "Partial Convergents"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "97"
+    offset: "104"
+. id: "5e33c0f8981ec41bc6b27bb3"
+. tag: "Number Theory"
+
+
+
+ProtoDefines:
+. "A \term{finite continued fraction} is an expression $$ a_0 +
+   \frac{1}{\displaystyle a_1+\frac{1}{\displaystyle a_2 + 
+   \displaystyle \frac{1}{ \cdots +\frac{1}{a_n}}}} $$ where 
+   each $a_m$ is a real number and $a_m>0$ for all $m\geq 1$."
+Metadata:
+. name: "Finite Continued Fraction"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "95"
+    offset: "102"
+. id: "5e33c0f8981ec41bc6b27bae"
+. tag: "Number Theory"
+
+
+
+ProtoDefines:
+. "Let $R$ and $S$ be rings. A \term{homomorphism} of rings
+   $\varphi:R\to S$ is a map such that for all $a,b\in R$, we 
+   have \begin{itemize} \item $\varphi(ab) 
+   =\varphi(a)\varphi(b)$, \item $\varphi(a+b) = \varphi(a) + 
+   \varphi(b)$, and \item $\varphi(1) = 1$. \end{itemize} An 
+   \term{ isomorphism} $\varphi:R\to S$ of rings is a ring 
+   homomorphism that is bijective."
+Metadata:
+. name: "Homomorphism of Rings"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "87"
+    offset: "94"
+. id: "5e33c0f8981ec41bc6b27bab"
+. tag: "Number Theory"
+
+
+
+ProtoDefines:
+. "A representation $n=x^2 + y^2$ is \term{ primitive} if $x$ 
+   and $y$ are coprime."
+Metadata:
+. name: "Primitive"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "118"
+    offset: "125"
+. id: "5e33c0f8981ec41bc6b27bbd"
+. tag: "Number Theory"
+
+
+
+ProtoDefines:
+. "An \term{ algebraic number} is a root of a polynomial 
+   $f\in\mathbf{Q} $."
+Metadata:
+. name: "Algebraic Number"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "114"
+    offset: "121"
+. id: "5e33c0f8981ec41bc6b27bbc"
+. tag: "Number Theory"
+
+
+
+ProtoDefines:
+. "An integer $n>1$ is \term{prime} if the only positive 
+   divisors of $n$ are $1$ and $n$. We call $n$ \term{ composite}
+   if $n$ is not prime."
+Metadata:
+. name: "Prime and Composite"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "2"
+    offset: "9"
+. id: "5e33c0f8981ec41bc6b27b80"
+. tag: "Number Theory"
+
+
+
+ProtoDefines:
+. "A \term{field} $K$ is a ring such that for every nonzero
+element $a\in K$ there is an element $b\in K$ such that
+$ab=1$."
+Metadata:
+. id: "5e33c0f8981ec41bc6b27b8f"
+. name: "Field"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "23"
+. tag:
+  . "Number Theory"
+  . "Abstract Algebra"
+
+
+
+ProtoDefines:
+. "A \term{ring} $R$ is a set equipped with binary operations 
+   $+$ and $\times$ and elements $0,1\in R$ such that $R$ is an
+   abelian group under $+$, and for all $a,b,c \in R$ we have 
+   \begin{itemize} \item $1a = a1 = a$ \item $(ab)c = a(bc)$ 
+   \item $a(b+c) = ab + ac$. \end{itemize} If, in addition, 
+   $ab=ba$ for all $a,b\in R$, then we call $R$ a \term{ 
+   commutative ring} ."
+Metadata:
+. name: "Ring"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "22"
+    offset: "29"
+. id: "5e33c0f8981ec41bc6b27b8a"
+. tag: "Number Theory"
+
+
+
+ProtoDefines:
+. "An \term{abelian group} is a group $G$ such that $ab=ba$ for
+   every $a,b\in G$."
+Metadata:
+. name: "Abelian Group"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "22"
+    offset: "29"
+. id: "5e33c0f8981ec41bc6b27b86"
+. tag: "Number Theory"
+
+
+
+ProtoDefines:
+. "A \term{primitive root} modulo an integer $n$ is an element 
+   of $(\Z/n\Z{})^*$ of order $\varphi(n)$."
+Metadata:
+. name: "Primitive Root"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "39"
+    offset: "46"
+. id: "5e33c0f8981ec41bc6b27b9a"
+. tag: "Number Theory"
+
+
+
+ProtoDefines:
+. "A function $f:\mathbf{N}\rightarrow \mathbf{C}$ is \term{ 
+   multiplicative} if, whenever $m, n\in\mathbf{N}$ and 
+   $\gcd(m,n)=1$, we have $$ f(mn) = f(m)\cdot f(n). $$"
+Metadata:
+. name: "Multiplicative Function"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "31"
+    offset: "38"
+. id: "5e33c0f8981ec41bc6b27b98"
+. tag: "Number Theory"
+
+
+
+ProtoDefines:
+. "We call the natural reduction map $\mathbf{Z} \to 
+   \Z/n\Z{}$, which sends $a$ to $a+n\mathbf{Z}$, \term{ 
+   reduction modulo} $n$. We also say that $a$ is a \term{lift}
+   of $a+n\mathbf{Z}$. Thus, e.g., $7$ is a lift of $1$ mod 
+   $3$, since $7+3\mathbf{Z} = 1+3\mathbf{Z}$."
+Metadata:
+. name: "Reduction Map and Lift"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "23"
+    offset: "30"
+. id: "5e33c0f8981ec41bc6b27b91"
+. tag: "Number Theory"
+
+
+
+ProtoDefines:
+. "For $n\in\mathbf{N}$, let $$ 
+   \varphi(n) = \#\{a \in \mathbf{N} : a \leq n and 
+   \gcd(a,n)=1\}. $$  This is called \term{Euler's $\varphi$-function}."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "26"
+    offset: "33"
+. id: "5e33c0f8981ec41bc6b27b96"
+. tag: "Number Theory"
+
+
+
+ProtoDefines:
+. "Let $B$ be a positive integer. If $n$ is a positive integer
+   with prime factorization $n=\prod p_i^{e_i}$, then $n$ is 
+   \term{ $B$-power smooth} if $p_i^{e_i}\leq B$ for all $i$."
+Metadata:
+. name: "Power Smooth"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "129"
+    offset: "136"
+. id: "5e33c0f8981ec41bc6b27bbf"
+. tag: "Number Theory"
+
+
+
+ProtoDefines:
+. "Fix an odd prime $p$. The \term{Gauss sum} associated to an 
+   integer $a$ is $$ g_a = \sum_{n=1}^{p-1} 
+   \left(\frac{n}{p}\right) \zeta^{an}, $$ where $\zeta=\zeta_p
+   = \cos(2\pi{} /p) + i \sin(2\pi{}/p) = e^{2\pi i/p}$."
+Metadata:
+. name: "Gauss Sum"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "81"
+    offset: "88"
+. id: "5e33c0f8981ec41bc6b27ba9"
+. tag: "Number Theory"
+
+
+
+ProtoDefines:
+. "A \term{quadratic irrational} is a real number 
+   $\alpha\in\mathbf{R}$ that is irrational and satisfies a 
+   quadratic polynomial with coefficients in $\mathbf{Q}$."
+Metadata:
+. name: "Quadratic Irrational"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "111"
+    offset: "118"
+. id: "5e33c0f8981ec41bc6b27bb6"
+. tag: "Number Theory"
+
+
+
+ProtoDefines:
+. "If $G$ is a group and $H$ is a subset of $G$, then $H$ is a
+   \term{subgroup} if $H$ is a group under the group operation 
+   on $G$."
+Metadata:
+. name: "Subgroup"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "64"
+    offset: "71"
+. id: "5e33c0f8981ec41bc6b27ba0"
+. tag: "Number Theory"
+
+
+
+ProtoDefines:
+. "An $n$th \term{root of unity} is a complex number $\zeta$ 
+   such that $\zeta^n=1$. A root of unity $\zeta$ is a \term{ 
+   primitive} $n$th root of unity if $n$ is the smallest 
+   positive integer such that $\zeta^n=1$."
+Metadata:
+. name: "Root of Unity"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "81"
+    offset: "88"
+. id: "5e33c0f8981ec41bc6b27ba7"
+. tag: "Number Theory"
+
+
+
+ProtoDefines:
+. "A \term{periodic continued fraction} is a continued fraction
+   $[a_0, a_1, \ldots, a_n, \ldots]$ such that $$ a_n = a_{n+h}
+   $$ for some fixed positive integer $h$ and all sufficiently 
+   large $n$. We call the minimal such $h$ the \term{ period of 
+   the continued fraction} ."
+Metadata:
+. name: "Periodic Continued Fraction"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "111"
+    offset: "118"
+. id: "5e33c0f8981ec41bc6b27bb7"
+. tag: "Number Theory"
+
+
+
+ProtoDefines:
+. "A \term{simple continued fraction} is a finite or infinite 
+   continued fraction in which the $a_i$ are all integers."
+Metadata:
+. name: "Simple Continued Fraction"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "95"
+    offset: "102"
+. id: "5e33c0f8981ec41bc6b27bb0"
+. tag: "Number Theory"
+
+
+
+ProtoDefines:
+. "A \term{group} is a set $G$ equipped with a binary operation
+   $G \times G \to G$ (denoted by multiplication below) and an 
+   identity element $1\in G$ such that: \begin{enumerate} \item
+   For all $a,b,c\in G$, we have $(ab)c = a(bc)$. \item For 
+   each $a\in G$, we have $1a=a1=a$, and there exists $b\in G$ 
+   such that $ab = 1$. \end{enumerate}"
+Metadata:
+. name: "Group"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "21"
+    offset: "28"
+. id: "5e33c0f8981ec41bc6b27b83"
+. tag: "Number Theory"
+
+
+
+ProtoDefines:
+. "[Integers Modulo $n$] The ring $\Z/n\Z{}$ of \term{integers 
+   modulo} $n$ is the set of equivalence classes of integers 
+   modulo $n$. It is equipped with its natural ring structure: 
+   $$ (a + n\mathbf{Z}) + (b + n\mathbf{Z}) = (a+b) + 
+   n\mathbf{Z} $$ $$ (a + n\mathbf{Z}) \cdot (b + n\mathbf{Z}) 
+   = (a\cdot b) + n\mathbf{Z}. $$"
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "22"
+    offset: "29"
+. id: "5e33c0f8981ec41bc6b27b8d"
+. tag: "Number Theory"
+
+
+
+ProtoDefines:
+. "The \term{greatest common divisor} of $a$ and $b$ is defined
+   as $$ \gcd(a,b)=\max\left\{d\in \mathbf{Z} : d \mid a and 
+   d\mid b\right\}, $$ unless both $a$ and $b$ are $0$ in which
+   case $\gcd(0,0)=0$."
+Metadata:
+. name: "Greatest Common Divisor"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "3"
+    offset: "10"
+. id: "5e33c0f8981ec41bc6b27b82"
+. tag: "Number Theory"
+
+
+
+ProtoDefines:
+. "If $a, b\in \mathbf{Z}$ we say that $a$ \term{divides} $b$, 
+   written $a\mid b$, if $ac=b$ for some $c\in \mathbf{Z}$. In 
+   this case, we say $a$ is a \term{ divisor} of $b$. We say that
+   $a$ \term{ does not divide} $b$, written $a\nmid b$, if there 
+   is no $c\in \mathbf{Z}$ such that $ac=b$."
+Metadata:
+. name: "Divides"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "2"
+    offset: "9"
+. id: "5e33c0f8981ec41bc6b27b7f"
+. tag: "Number Theory"
+
+
+

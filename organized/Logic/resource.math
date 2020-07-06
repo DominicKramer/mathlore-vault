@@ -1,0 +1,125 @@
+[fc3016921c4b497884da4a7e580ec1aa]
+Resource:
+. type: "Book"
+. name: "Incompleteness and Computability"
+. author: "Open Logic Project"
+. homepage: "https://ic.openlogicproject.org/"
+. url: "https://ic.openlogicproject.org/ic-screen.pdf"
+. related: "https://realnotcomplex.com/logic-and-foundations/logic/incompleteness-and-computability-by-open-logic-project"
+Metadata:
+. tag: "Logic"
+. id: "5ed493cc98316306ebe1784f"
+
+
+
+[0c35736d527249dea5dd9c5d19f82c03]
+Resource:
+. type: "Book"
+. name: "forall x"
+. author: "P. D. Magnus"
+. homepage: "https://www.fecundity.com/logic/"
+. url: "https://www.fecundity.com/codex/forallx.pdf"
+. related: "https://realnotcomplex.com/logic-and-foundations/logic/forall-x-by-p-d-magnus"
+Metadata:
+. tag: "Logic"
+. id: "5ed493cc98316306ebe1784a"
+
+
+
+[6ce9e559cda44e5ebb754fc86a8cc373]
+Resource:
+. type: "Other"
+. name: "Mathematical Logic"
+. author: "Helmut Schwichtenberg"
+. url: "http://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ws03/ml.pdf"
+. related: "https://realnotcomplex.com/logic-and-foundations/logic/mathematical-logic-by-helmut-schwichtenberg"
+Metadata:
+. tag: "Logic"
+. id: "5ed493cc98316306ebe17852"
+
+
+
+[b83e369773844321a40d6b5dade37d5a]
+Resource:
+. type: "Book"
+. name: "A Friendly Introduction to Mathematical Logic"
+. author: "Christopher Leary, Lars Kristiansen"
+. homepage: "https://textbooks.opensuny.org/a-friendly-introduction-to-mathematical-logic/"
+. url: "https://textbooks.opensuny.org/download/friendly-intro-2e-update19-pdf/"
+. related: "https://realnotcomplex.com/logic-and-foundations/logic/a-friendly-introduction-to-mathematical-logic-by-christopher-leary-and-lars-kristiansen"
+Metadata:
+. tag: "Logic"
+. id: "5ed493cc98316306ebe1784d"
+
+
+
+[6c2fb67628664d76b63ed3d3f82e0669]
+Resource:
+. type: "Book"
+. name: "A Problem Course in Mathematical Logic"
+. author: "Stefan Bilaniuk"
+. homepage: "http://euclid.trentu.ca/math/sb/pcml/pcml.html"
+. url: "http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf"
+. related: "https://realnotcomplex.com/logic-and-foundations/logic/a-problem-course-in-mathematical-logic-by-stefan-bilaniuk"
+Metadata:
+. tag: "Logic"
+. id: "5ed493cc98316306ebe1784c"
+
+
+
+[f87bba167ebb44d4b794b7a862eaa4d3]
+Resource:
+. type: "Book"
+. name: "Proofs and Concepts"
+. author: "Dave Witte Morris, Joy Morris"
+. homepage: "http://people.uleth.ca/~dave.morris/books/proofs+concepts.html"
+. url: "http://people.uleth.ca/~dave.morris/books/proofs+concepts.pdf"
+. related: "https://realnotcomplex.com/logic-and-foundations/logic/proofs-and-concepts-by-dave-witte-morris-and-joy-morris"
+Metadata:
+. tag: "Logic"
+. id: "5ed493cc98316306ebe1784b"
+
+
+
+[b578238821b94067975815bf10de0b58]
+Resource:
+. type: "Book"
+. name: "Sets, Logic, Computation"
+. author: "Open Logic Project"
+. homepage: "https://slc.openlogicproject.org/"
+. url: "https://slc.openlogicproject.org/slc-screen.pdf"
+. related: "https://realnotcomplex.com/logic-and-foundations/logic/sets-logic-computation-by-open-logic-project"
+Metadata:
+. tag: "Logic"
+. id: "5ed493cc98316306ebe1784e"
+
+
+
+[c41f60803d0d428099aa366f66157dee]
+Resource:
+. type: "Book"
+. name: "Logic in Action"
+. author: "Johan van Benthem, Hans van Ditmarsch, Jan van Eijck, Jan Jaspars"
+. homepage: "http://www.logicinaction.org/"
+. url: "http://www.logicinaction.org/docs/lia.pdf"
+. related: "https://realnotcomplex.com/logic-and-foundations/logic/logic-in-action-by-johan-van-benthem-and-hans-van-ditmarsch-and-jan-van-eijck-and-jan-jaspars"
+Metadata:
+. tag: "Logic"
+. id: "5ed493cc98316306ebe17851"
+
+
+
+[044f507e15c54e8e94ce2b892a41e083]
+Resource:
+. type: "Book"
+. name: "Boxes and Diamonds"
+. author: "Open Logic Project"
+. homepage: "https://bd.openlogicproject.org/"
+. url: "https://bd.openlogicproject.org/bd-screen.pdf"
+. related: "https://realnotcomplex.com/logic-and-foundations/logic/boxes-and-diamonds-by-open-logic-project"
+Metadata:
+. tag: "Logic"
+. id: "5ed493cc98316306ebe17850"
+
+
+

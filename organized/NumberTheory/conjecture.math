@@ -1,0 +1,64 @@
+ProtoConjecture:
+. "\newline{}For all $x\geq 2.01$, $$ |\pi(x)- rm{Li}(x)| \leq
+   \sqrt{x}\log(x). $$"
+Metadata:
+. name: "Equivalent to the Riemann Hypothesis"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "18"
+    offset: "25"
+. id: "5e33c0f8981ec41bc6b27bd8"
+. tag: "Number Theory"
+
+
+
+ProtoConjecture:
+. "Suppose $a\in\mathbf{Z}$ is not $-1$ or a perfect square. 
+   Then there are infinitely many primes $p$ such that $a$ is a
+   primitive root modulo $p$."
+Metadata:
+. name: "Emil Artin"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "43"
+    offset: "50"
+. id: "5e33c0f8981ec41bc6b27bdc"
+. tag: "Number Theory"
+
+
+
+ProtoConjecture:
+. "There are elliptic curves over $\mathbf{Q}$ of arbitrarily 
+   large rank."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "142"
+    offset: "149"
+. id: "5e33c0f8981ec41bc6b27bde"
+. tag: "Number Theory"
+
+
+
+ProtoConjecture:
+. "Let $a,b,c$ denote integers. If $n$ is an even square-free 
+   integer, then $n$ is a congruent number if and only if $$ 
+   \#\left\{(a,b,c)\in\mathbf{Z}^3 : 4a^2 + b^2 + 8c^2 = 
+   \frac{n}{2} : c {} is even \right\}$$ $$ 
+   \qquad\qquad\qquad\qquad\qquad = \#\left\{(a,b,c) : 4a^2 + 
+   b^2 + 8c^2 = \frac{n}{2}: c {} is odd \right\}$$ If $n$ is 
+   odd and square free then $n$ is a congruent number if and 
+   only if $$\#\left\{(a,b,c) : 2a^2 + b^2 + 8c^2 = n : c {} is
+   even \right\}$$ $$ \qquad\qquad\qquad\qquad\qquad = 
+   \#\left\{(a,b,c) : 2a^2 + b^2 + 8c^2 = n: c {} is odd 
+   \right\}$$"
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "145"
+    offset: "152"
+. id: "5e33c0f8981ec41bc6b27b7a"
+. tag: "Number Theory"
+
+
+

@@ -1,0 +1,262 @@
+[4d822a31a5204853955e1bc5e4eed3c1]
+Resource:
+. type: "Lecture Notes"
+. name: "Linear Algebra Notes"
+. author: "Terrence Tao"
+. url: "https://terrytao.files.wordpress.com/2016/12/linear-algebra-notes.pdf"
+. related: "https://realnotcomplex.com/algebra/linear-algebra/linear-algebra-notes-by-terrence-tao"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe17840"
+
+
+
+[e842e5f86eb146b48998d526d8130e0e]
+Resource:
+. type: "Video"
+. name: "Essence of Linear Algebra"
+. author: "3Blue1Brown"
+. url: "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab"
+. related: "https://realnotcomplex.com/algebra/linear-algebra/essence-of-linear-algebra-by-3blue1brown"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe17841"
+
+
+
+[b2e68b93dd1e4d6bbade6a383298fb53]
+Resource:
+. type: "Book"
+. name: "An Intuitive Overview of Linear Algebra Fundamentals"
+. author: "Nikola Miljkovic"
+. homepage: "https://github.com/photonlines/Intuitive-Overview-of-Linear-Algebra-Fundamentals"
+. url: "https://github.com/photonlines/Intuitive-Overview-of-Linear-Algebra-Fundamentals/raw/master/PDF/An%20Intuitive%20Overview%20of%20Linear%20Algebra%20Fundamentals.pdf"
+. related: "https://realnotcomplex.com/algebra/linear-algebra/an-intuitive-overview-of-linear-algebra-fundamentals-by-nikola-miljkovic"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe17837"
+
+
+
+[01f77664379a4d73a886a94b6841d1ea]
+Resource:
+. type: "Book"
+. name: "A First Course in Linear Algebra"
+. author: "Lyryx Learning, K. Kuttler"
+. homepage: "https://lyryx.com/first-course-linear-algebra/"
+. url: "https://lila1.lyryx.com/textbooks/KUTTLER_1/marketing/Kuttler-LinearAlgebra-AFirstCourse-2017A.pdf"
+. related: "https://realnotcomplex.com/algebra/linear-algebra/a-first-course-in-linear-algebra-by-lyryx-learning-and-k-kuttler"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe17830"
+
+
+
+[f4b2a0e5f16b4e73a29c0272147c9b8c]
+Resource:
+. type: "Book"
+. name: "Linear Algebra Review and Reference"
+. author: "Zico Kolter, Chuong Do"
+. homepage: "https://www.cs.cmu.edu/~zkolter/course/linalg/index.html"
+. url: "https://www.cs.cmu.edu/~zkolter/course/linalg/linalg_notes.pdf"
+. related: "https://realnotcomplex.com/algebra/linear-algebra/linear-algebra-review-and-reference-by-zico-kolter-and-chuong-do"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe17839"
+
+
+
+[170c48500b7942768fb330bba0f4fb4b]
+Resource:
+. type: "Other"
+. name: "Linear Algebra and Matrices"
+. author: "Martin Fluch"
+. url: "https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf"
+. related: "https://realnotcomplex.com/algebra/linear-algebra/linear-algebra-and-matrices-by-martin-fluch"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe1783f"
+
+
+
+[19578170f4e745b99ed474f4fefa5447]
+Resource:
+. type: "Book"
+. name: "Introduction to Vector Spaces, Vector Algebras, and Vector Geometries"
+. author: "Richard A. Smith"
+. homepage: "https://arxiv.org/abs/1110.3350"
+. url: "https://arxiv.org/pdf/1110.3350.pdf"
+. related: "https://realnotcomplex.com/algebra/linear-algebra/introduction-to-vector-spaces-vector-algebras-and-vector-geometries-by-richard-a-smith"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe1783a"
+
+
+
+[68f5a449bfa84b31ad584cb02ad1cac9]
+Resource:
+. type: "Book"
+. name: "Linear Algebra via Exterior Products"
+. author: "Sergei Winitzki"
+. homepage: "https://sites.google.com/site/winitzki/linalg"
+. url: "https://drive.google.com/file/d/0B2Mt7luZYBrwWE16VEc5NEtUOVE/view"
+. related: "https://realnotcomplex.com/algebra/linear-algebra/linear-algebra-via-exterior-products-by-sergei-winitzki"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe17838"
+
+
+
+[b77adf9ed3f4438ab8068a05d012d41e]
+Resource:
+. type: "Book"
+. name: "Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares"
+. author: "Stephen Boyd, Lieven Vandenberghe"
+. homepage: "https://web.stanford.edu/~boyd/vmls/"
+. url: "https://web.stanford.edu/~boyd/vmls/vmls.pdf"
+. related: "https://realnotcomplex.com/algebra/linear-algebra/introduction-to-applied-linear-algebra-–-vectors-matrices-and-least-squares-by-stephen-boyd-and-lieven-vandenberghe"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe17831"
+
+
+
+[7019013feefd4197af15db147af8dbb5]
+Resource:
+. type: "Book"
+. name: "Fundamentals of Matrix Algebra"
+. author: "Gregory Hartman"
+. url: "https://drive.google.com/file/d/18m2ZaPfomgYTQ3LQxSwu9YlFy3-JvwVw/view"
+. related: "https://realnotcomplex.com/algebra/linear-algebra/fundamentals-of-matrix-algebra-by-gregory-hartman"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe17836"
+
+
+
+[c977376175424a2c88ee57397abbe755]
+Resource:
+. type: "Video"
+. name: "Linear Algebra"
+. author: "Khan Academy"
+. homepage: "https://www.khanacademy.org/math/linear-algebra"
+. url: "https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0"
+. related: "https://realnotcomplex.com/algebra/linear-algebra/linear-algebra-by-khan-academy"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe1782f"
+
+
+
+[18ed1b71f6224b45b842827f32b71194]
+Resource:
+. type: "Book"
+. name: "Linear Algebra Done Wrong"
+. author: "Sergei Treil"
+. homepage: "https://sites.google.com/a/brown.edu/sergei-treil-homepage/linear-algebra-done-wrong"
+. url: "https://www.math.brown.edu/~treil/papers/LADW/LADW_2017-09-04.pdf"
+. related: "https://realnotcomplex.com/algebra/linear-algebra/linear-algebra-done-wrong-by-sergei-treil"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe17833"
+
+
+
+[ea50028533844b5f98c68d1644ab29de]
+Resource:
+. type: "Book"
+. name: "Linear Algebra with Applications"
+. author: "W. Keith Nicholson"
+. homepage: "https://lyryx.com/linear-algebra-applications/"
+. url: "https://lila1.lyryx.com/textbooks/OPEN_LAWA_1/marketing/Nicholson-OpenLAWA-2019A.pdf"
+. related: "https://realnotcomplex.com/algebra/linear-algebra/linear-algebra-with-applications-by-w-keith-nicholson"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe17834"
+
+
+
+[24af2f43430b49e38cecee8bc57001f4]
+Resource:
+. type: "Lecture Notes"
+. name: "Fundamentals Of Linear Algebra"
+. author: "James B. Carrell"
+. url: "http://www.math.ubc.ca/~carrell/NB.pdf"
+. related: "https://realnotcomplex.com/algebra/linear-algebra/fundamentals-of-linear-algebra-by-james-b-carrell"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe1783d"
+
+
+
+[b693fc96e02045cc9379c8ecbeb3cb4c]
+Resource:
+. type: "Book"
+. name: "Interactive Linear Algebra"
+. author: "Dan Margalit, Joseph Rabinoff"
+. homepage: "https://textbooks.math.gatech.edu/ila/"
+. url: "https://textbooks.math.gatech.edu/ila/ila.pdf"
+. related: "https://realnotcomplex.com/algebra/linear-algebra/interactive-linear-algebra-by-dan-margalit-and-joseph-rabinoff"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe1783c"
+
+
+
+[135dcf27f4d948b9b540df7ca69451bb]
+Resource:
+. type: "Book"
+. name: "Linear Algebra: Theory And Applications"
+. author: "Kenneth Kuttler"
+. url: "https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf"
+. related: "https://realnotcomplex.com/algebra/linear-algebra/linear-algebra-theory-and-applications-by-kenneth-kuttler"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe17835"
+
+
+
+[c3693801343440279e19c136164cb5cb]
+Resource:
+. type: "Book"
+. name: "Elements of Abstract and Linear Algebra"
+. author: "Edwin H. Connell"
+. homepage: "https://www.math.miami.edu/~ec/book/"
+. url: "https://www.math.miami.edu/~ec/book/book.pdf"
+. related: "https://realnotcomplex.com/algebra/linear-algebra/elements-of-abstract-and-linear-algebra-by-edwin-h-connell"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe17832"
+
+
+
+[029e2ffecceb40d396ba556d4c246975]
+Resource:
+. type: "Book"
+. name: "Linear Algebra As an Introduction to Abstract Mathematics"
+. author: "Isaiah Lankham, Bruno Nachtergaele, Anne Schilling"
+. homepage: "https://www.math.ucdavis.edu/~anne/linear_algebra/index.html"
+. url: "https://www.math.ucdavis.edu/~anne/linear_algebra/mat67_course_notes.pdf"
+. related: "https://realnotcomplex.com/algebra/linear-algebra/linear-algebra-as-an-introduction-to-abstract-mathematics-by-isaiah-lankham-and-bruno-nachtergaele-and-anne-schilling"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe1783b"
+
+
+
+[d54dd8ab8b1e4a1d9dd2213ac471502c]
+Resource:
+. type: "Lecture Notes"
+. name: "Elementary Linear Algebra"
+. author: "Keith Matthews"
+. homepage: "http://www.numbertheory.org/book/"
+. url: "http://www.numbertheory.org/book/mp103.pdf"
+. related:
+  . "https://realnotcomplex.com/algebra/linear-algebra/elementary-linear-algebra-by-keith-matthews"
+  . "http://www.numbertheory.org/book/sol.pdf"
+Metadata:
+. tag: "Linear Algebra"
+. id: "5ed493cc98316306ebe1783e"
+
+
+

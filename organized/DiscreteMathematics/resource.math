@@ -1,0 +1,40 @@
+[8c4678d9f4b042738e329d22bb088d04]
+Resource:
+. type: "Lecture Notes"
+. name: "Discrete Mathematics"
+. author: "Frédérique Oggier"
+. url: "http://www1.spms.ntu.edu.sg/~frederique/DiscreteMathws.pdf"
+. related: "https://realnotcomplex.com/discrete-mathematics/discrete-mathematics/discrete-mathematics-by-frédérique-oggier"
+Metadata:
+. tag: "Discrete Mathematics"
+. id: "5ed493cc98316306ebe178b4"
+
+
+
+[818f4e027895499da11918777acc5d01]
+Resource:
+. type: "Book"
+. name: "Notes on Discrete Mathematics"
+. author: "James Aspnes"
+. url: "https://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf"
+. related: "https://realnotcomplex.com/discrete-mathematics/discrete-mathematics/notes-on-discrete-mathematics-by-james-aspnes"
+Metadata:
+. tag: "Discrete Mathematics"
+. id: "5ed493cc98316306ebe178b3"
+
+
+
+[e472b1acb80247a49906bf616cc511e6]
+Resource:
+. type: "Book"
+. name: "Discrete Mathematics: An Open Introduction"
+. author: "Oscar Levin"
+. homepage: "http://discrete.openmathbooks.org/dmoi3.html"
+. url: "http://discrete.openmathbooks.org/pdfs/dmoi-tablet.pdf"
+. related: "https://realnotcomplex.com/discrete-mathematics/discrete-mathematics/discrete-mathematics-an-open-introduction-by-oscar-levin"
+Metadata:
+. tag: "Discrete Mathematics"
+. id: "5ed493cc98316306ebe178b2"
+
+
+

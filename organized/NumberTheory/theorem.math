@@ -1,0 +1,984 @@
+ProtoTheorem:
+. "Let $p$ be an odd prime and let $a$ be an integer 
+   $\not\equiv 0\pmod{p}$. Form the numbers $$ a,\, 2a,\, 3a,\,
+   \ldots,\, \frac{p-1}{2} a $$ and reduce them modulo $p$ to 
+   lie in the interval $(-\frac{p}{2},\,\, \frac{p}{2})$, i.e.,
+   for each of the above products $k\cdot a$ find a number in 
+   the interval $(-\frac{p}{2},\,\, \frac{p}{2})$ that is 
+   congruent to $k\cdot a$ modulo $p$. Let $\nu$ be the number 
+   of negative numbers in the resulting set. Then $$ 
+   \left(\frac{a}{p}\right) = (-1)^{\nu}. $$"
+Metadata:
+. name: "Gauss's Lemma"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "75"
+    offset: "82"
+. id: "5e33c0f8981ec41bc6b27b92"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "We have $g_0=0$."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "84"
+    offset: "91"
+. id: "5e33c0f8981ec41bc6b27b9b"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "For every $n$ such that $a_n$ is defined, we have $$x = 
+   [a_0, a_1, \ldots, a_{n}+t_n]$$ and if $t_{n}\neq 0$, then $
+   x = [a_0, a_1, \ldots, a_{n}, \frac{1}{t_n}]. $"
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "104"
+    offset: "111"
+. id: "5e33c0f8981ec41bc6b27b9e"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "Let $a, b\in\mathbf{Q}$. Then for any integer $n$, 
+   $$\#\left((a,b)\cap \mathbf{Z}\right) \equiv 
+   \#\left((a,b+2n)\cap \mathbf{Z}\right) \pmod{2}$$ and $$ 
+   \#\left((a,b)\cap \mathbf{Z}\right) \equiv 
+   \#\left((a-2n,b)\cap \mathbf{Z}\right) \pmod{2}, $$ provided
+   that each interval involved in the congruence is nonempty."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "77"
+    offset: "84"
+. id: "5e33c0f8981ec41bc6b27b94"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "For any integer $a$, $$ g_a = \left(\frac{a}{p}\right)g_1. 
+   $$"
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "84"
+    offset: "91"
+. id: "5e33c0f8981ec41bc6b27b9c"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "Let $p$ be a prime number and let $d$ be a divisor of 
+   $p-1$. Then $f = x^d-1\in(\Z/p\Z{}) $ has exactly $d$ roots 
+   in $\Z/p\Z{}$."
+Metadata:
+. name: "x"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "41"
+    offset: "48"
+. id: "5e33c0f8981ec41bc6b27bb5"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "Suppose $a,b\in\mathbf{Z}$ and let $g=\gcd(a,b)$. Then 
+   there exists $x,y\in\mathbf{Z}$ such that $$ ax + by = g. 
+   $$"
+Metadata:
+. name: "Extended Euclidean Representation"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "32"
+    offset: "39"
+. id: "5e33c0f8981ec41bc6b27bb2"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "Suppose that $a$ and $b$ are integers with $b\neq 0$. Then 
+   there exists unique integers $q$ and $r$ such that $0\leq r<
+   |b|$ and $a = bq + r$."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "4"
+    offset: "11"
+. id: "5e33c0f8981ec41bc6b27ba3"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "The rational number $n$ is a congruent number if and only 
+   if there is a point $P=(x,y)\in E_n(\mathbf{Q})$ with $y\neq
+   0$."
+Metadata:
+. name: "Congruent Number Criterion"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "144"
+    offset: "151"
+. id: "5e33c0f8981ec41bc6b27bd7"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "We have $\left(\frac{a}{p}\right)=1$ if and only if $$ 
+   a^{(p-1)/2}\equiv 1\pmod{p}. $$"
+Metadata:
+. name: "Euler's Criterion"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "73"
+    offset: "80"
+. id: "5e33c0f8981ec41bc6b27bbb"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "An integer $p>1$ is prime if and only if for \term{ every} 
+   $a\not\equiv 0\pmod{p}$, $$ a^{p-1}\equiv 1\pmod{p}. $$"
+Metadata:
+. name: "Pseudoprimality"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "36"
+    offset: "43"
+. id: "5e33c0f8981ec41bc6b27bd0"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "If $\gcd(a,n)=1$, then the equation $ ax\equiv b\pmod{n} $ 
+   has a solution, and that solution is unique modulo $n$."
+Metadata:
+. name: "Units"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "24"
+    offset: "31"
+. id: "5e33c0f8981ec41bc6b27bac"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "Let $a_0, a_1, \ldots $ be a sequence of integers such that
+   $a_n > 0$ for all $n\geq 1$, and for each $n\geq 0$, set 
+   $c_n = [a_0, a_1, \ldots a_n]$ Then 
+   $\displaystyle\lim_{n\rightarrow \infty} c_n$ exists."
+Metadata:
+. name: "Continued Fraction Limit"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "104"
+    offset: "111"
+. id: "5e33c0f8981ec41bc6b27bd9"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "The equation $ax\equiv b\pmod{n}$ has a solution if and 
+   only if $\gcd(a,n)$ divides $b$."
+Metadata:
+. name: "Solvability"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "24"
+    offset: "31"
+. id: "5e33c0f8981ec41bc6b27bad"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "Every natural number is a product of primes."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "7"
+    offset: "14"
+. id: "5e33c0f8981ec41bc6b27ba5"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "A positive integer $n$ is a sum of two squares if and only 
+   if all prime factors of $p\mid n$ such that $p\equiv 
+   3\pmod{4}$ have even exponent in the prime factorization of 
+   $n$."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "117"
+    offset: "124"
+. id: "5e33c0f8981ec41bc6b27bdf"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "Let $f\in k $ be a nonzero polynomial over a field $k$. 
+   Then there are at most $\deg(f)$ elements $\alpha\in k$ such
+   that $f(\alpha)=0$."
+Metadata:
+. name: "Root Bound"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "40"
+    offset: "47"
+. id: "5e33c0f8981ec41bc6b27bb4"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "Let $a_0, a_1, a_2, \ldots $ be a sequence of real numbers 
+   such that $a_n > 0$ for all $n\geq 1$, and for each $n\geq 
+   0$, set $c_n = [a_0, a_1, \ldots a_n]$ Then 
+   $\displaystyle\lim_{n\rightarrow \infty} c_n$ exists if and 
+   only if the sum $\sum_{n=0}^{\infty} a_n$ diverges."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "105"
+    offset: "112"
+. id: "5e33c0f8981ec41bc6b27bda"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "Suppose $P_i=(x_i,y_i)$, $i=1,2$ are distinct points on an 
+   elliptic curve $y^2=x^3+ax+b$, and that $x_1\neq x_2$. Let 
+   $L$ be the unique line through $P_1$ and $P_2$. Then $L$ 
+   intersects the graph of $E$ at exactly one other point $$ Q 
+   = \left(\lambda^2 -x_1 - x_2,\quad \lambda x_3 + \nu\right),
+   $$ where $\lambda = (y_1-y_2)/(x_1-x_2)$ and $\nu = y_1 - 
+   \lambda x_1$."
+Metadata:
+. name: "Geometric Group Law"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "126"
+    offset: "133"
+. id: "5e33c0f8981ec41bc6b27bd1"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "Suppose $p$ and $q$ are distinct odd primes. Then $$ 
+   \left(\frac{p}{q}\right) = (-1)^{\frac{p-1}{2}\cdot 
+   \frac{q-1}{2}}\left(\frac{q}{p}\right). $$ Also $$ 
+   \left(\frac{-1}{p}\right) = (-1)^{(p-1)/2}\qquad and \qquad 
+   \left(\frac{2}{p}\right) = \begin{cases} 1 & if p\equiv \pm 
+   1\pmod{8}\\ -1 & if p \equiv \pm 3\pmod{8}. \end{cases} $$"
+Metadata:
+. name: "Gauss's Quadratic Reciprocity Law"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "72"
+    offset: "79"
+. id: "5e33c0f8981ec41bc6b27bd6"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "Let $a$ and $b$ be integers with $\gcd(a,b)=1$. Then there 
+   are infinitely many primes of the form $ax+b$."
+Metadata:
+. name: "Dirichlet"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "14"
+    offset: "21"
+. id: "5e33c0f8981ec41bc6b27bc9"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "There are infinitely many primes."
+Metadata:
+. name: "Euclid"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "11"
+    offset: "18"
+. id: "5e33c0f8981ec41bc6b27bc7"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "Let $p$ be an odd prime and let $a$ be a positive integer 
+   with $p\nmid a$. If $q$ is a prime with $q\equiv \pm 
+   p\pmod{4a}$, then $\left(\frac{a}{p}\right) = 
+   \left(\frac{a}{q}\right)$."
+Metadata:
+. name: "Euler"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "78"
+    offset: "85"
+. id: "5e33c0f8981ec41bc6b27bc0"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "If $x$ is a rational number, then the sequence $a_0, a_1, 
+   \ldots $ produced by the continued fraction procedure 
+   terminates."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "107"
+    offset: "114"
+. id: "5e33c0f8981ec41bc6b27bcf"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "The function $\pi(x)$ is asymptotic to $x/\log(x)$, in the 
+   sense that $$\lim_{x\rightarrow \infty} \frac{\pi(x)}{ 
+   x/\log(x)} = 1$$"
+Metadata:
+. name: "Prime Number Theorem"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "16"
+    offset: "23"
+. id: "5e33c0f8981ec41bc6b27bca"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "For $n\geq 0$ with $n\leq m$ we have $$ [a_0, \ldots, a_n] 
+   = \frac{p_n}{q_n}$$"
+Metadata:
+. name: "Partial Convergents"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "97"
+    offset: "104"
+. id: "5e33c0f8981ec41bc6b27bc6"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "For $n\geq 0$ with $n\leq m$ we have \begin{equation} p_n 
+   q_{n-1} - q_n p_{n-1} = (-1)^{n-1} \end{equation} and 
+   \begin{equation} p_nq_{n-2} - q_n p_{n-2} = (-1)^n a_n. 
+   \end{equation} Equivalently, $$\frac{p_n}{q_n} - 
+   \frac{p_{n-1}}{q_{n-1}} = (-1)^{n-1}\cdot\frac{1}{q_n 
+   q_{n-1}}$$ and $$\frac{p_n}{q_n} - \frac{p_{n-2}}{q_{n-2}} =
+   (-1)^{n}\cdot\frac{a_n}{q_n q_{n-2}}$$"
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "97"
+    offset: "104"
+. id: "5e33c0f8981ec41bc6b27bc8"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "The equation $x^2\equiv a\pmod{p}$ has no solution if and 
+   only if $a^{(p-1)/2}\equiv -1\pmod{p}$. Thus 
+   $\left(\frac{a}{p}\right) \equiv a^{(p-1)/2}\pmod{p}$."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "74"
+    offset: "81"
+. id: "5e33c0f8981ec41bc6b27b7d"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "If $n$ is a congruent number, then there are infinitely 
+   many distinct right triangles with rational side lengths and
+   area $n$."
+Metadata:
+. name: "Infinitely Many Triangles"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "145"
+    offset: "152"
+. id: "5e33c0f8981ec41bc6b27b7c"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "Suppose $a,b,n\in\mathbf{Z}$. Then $\gcd(a,b) = 
+   \gcd(a,b-an)$."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "4"
+    offset: "11"
+. id: "5e33c0f8981ec41bc6b27b87"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "Suppose $a,b,n\in\mathbf{Z}$ are such that $n\mid a$ and 
+   $n\mid b$. Then $n\mid \gcd(a,b)$."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "6"
+    offset: "13"
+. id: "5e33c0f8981ec41bc6b27b89"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "[Mazur, 1976] Let $E$ be an elliptic curve over 
+   $\mathbf{Q}$. Then $E(\mathbf{Q})_{ rm{tor}}$ is isomorphic 
+   to one of the following 15 groups: \begin{align*} \Z/n\Z{} &
+   \qquad for n\leq 10 or n=12,\\ \mathbf{Z}/2\mathbf{Z}\times 
+   \mathbf{Z}/2n &\qquad for n \leq 4. \end{align*}"
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "141"
+    offset: "148"
+. id: "5e33c0f8981ec41bc6b27b7b"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "For any integers $a,b,n$, we have $$\gcd(an,bn) = 
+   \gcd(a,b)\cdot |n|$$"
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "6"
+    offset: "13"
+. id: "5e33c0f8981ec41bc6b27b88"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "If $[a_0,a_1,\ldots,a_m]$ is a simple continued fraction, 
+   so each $a_i$ is an integer, then the $p_n$ and $q_n$ are 
+   integers and the fraction $p_n/q_n$ is in lowest terms."
+Metadata:
+. name: "Convergents in lowest terms"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "98"
+    offset: "105"
+. id: "5e33c0f8981ec41bc6b27b81"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "If $n$ is divisible by a prime $p\equiv 3\pmod{4}$, then 
+   $n$ has no primitive representations."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "118"
+    offset: "125"
+. id: "5e33c0f8981ec41bc6b27b9f"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "For any integer $a$, $$ \sum_{n=0}^{p-1} \zeta^{an} = 
+   \begin{cases} p & if $a \equiv 0\pmod{p}$, \\ 0 & otherwise.
+   \end{cases} $$"
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "83"
+    offset: "90"
+. id: "5e33c0f8981ec41bc6b27b97"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "The map $\psi:(\Z/p\Z{})^*\to \{\pm 1\}$ given by $\psi(a) 
+   = \left(\frac{a}{p}\right)$ is a surjective group 
+   homomorphism."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "71"
+    offset: "78"
+. id: "5e33c0f8981ec41bc6b27b90"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "If $x$ and $y$ are arbitrary integers, then $$ 
+   \sum_{n=0}^{p-1} \zeta^{(x-y)n} = \begin{cases} p & if 
+   $x\equiv y\pmod{p}$ ,\\ 0 & otherwise . \end{cases} $$"
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "83"
+    offset: "90"
+. id: "5e33c0f8981ec41bc6b27b99"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "Suppose $n$ is the area of a right triangle with rational 
+   side lengths $a, b, c$, with $a\leq b<c$. Let $A=(c/2)^2$. 
+   Then $$A-n, \quad A,\, and A+n$$ are all perfect squares of 
+   rational numbers."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "143"
+    offset: "150"
+. id: "5e33c0f8981ec41bc6b27bd3"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "Let $n$ be an integer that is a product of distinct primes 
+   and let $d,e\in\mathbf{N}$ be such that $p-1\mid de-1$ for 
+   each prime $p\mid n$. Then $a^{de} \equiv a\pmod{n}$ for all
+   $a\in\mathbf{Z}$."
+Metadata:
+. name: "Decryption Key"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "57"
+    offset: "64"
+. id: "5e33c0f8981ec41bc6b27bba"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "[Primitive Roots mod $p^n$] Let $p^n$ be a power of an odd 
+   prime. Then there is a primitive root modulo $p^n$."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "43"
+    offset: "50"
+. id: "5e33c0f8981ec41bc6b27bd4"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "An infinite simple continued fraction is periodic if and 
+   only if it represents a quadratic irrational."
+Metadata:
+. name: "Periodic Characterization"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "112"
+    offset: "119"
+. id: "5e33c0f8981ec41bc6b27bdd"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "[Multiplicativity of $\varphi$] The function $\varphi$ is 
+   multiplicative."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "31"
+    offset: "38"
+. id: "5e33c0f8981ec41bc6b27bb1"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "If there is a primitive root modulo $n$, then there are 
+   exactly $\varphi(\varphi(n))$ primitive roots modulo $n$."
+Metadata:
+. name: "Number of Primitive Roots"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "43"
+    offset: "50"
+. id: "5e33c0f8981ec41bc6b27bb8"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "If $\gcd(c,n)=1$ and $$ ac\equiv bc\pmod{n}, $$ then $a 
+   \equiv b\pmod{n}$."
+Metadata:
+. name: "Cancellation"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "23"
+    offset: "30"
+. id: "5e33c0f8981ec41bc6b27baa"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "An integer $p>1$ is prime if and only if $(p-1)! \equiv -1 
+   \pmod{p}$"
+Metadata:
+. name: "Wilson's Theorem"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "27"
+    offset: "34"
+. id: "5e33c0f8981ec41bc6b27baf"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "Let $n$ be a rational number. There is a bijection between 
+   $$ A = \left\{(a,b,c) \in \mathbf{Q}^3 \,:\, \frac{ab}{2} = 
+   n,\, a^2 + b^2 = c^2\right\} $$ and $$ B = \left\{(x,y) \in 
+   \mathbf{Q}^2 \,:\, y^2 = x^3 - n^2 x, \,\, with y \neq 
+   0\right\} $$ given explicitly by the maps $$ f(a,b,c) = 
+   \left(-\frac{nb}{a+c},\,\, \frac{2n^2}{a+c}\right) $$ and $$
+   g(x,y) = \left(\frac{n^2-x^2}{y},\,\, -\frac{2xn}{y},\,\, 
+   \frac{n^2+x^2}{y}\right). $$"
+Metadata:
+. name: "Congruent Numbers and Elliptic Curves"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "143"
+    offset: "150"
+. id: "5e33c0f8981ec41bc6b27bd5"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "There is a primitive root modulo any prime $p$. In 
+   particular, the group $(\Z/p\Z{})^*$ is cyclic."
+Metadata:
+. name: "Primitive Roots"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "42"
+    offset: "49"
+. id: "5e33c0f8981ec41bc6b27bd2"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "Suppose $p$ is a prime such that $(p-1)/2$ is also prime. 
+   Then each element of $(\Z/p\Z{})^*$ has order one of $1$, 
+   $2$, $(p-1)/2$, or $p-1$."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "54"
+    offset: "61"
+. id: "5e33c0f8981ec41bc6b27bb9"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "There are infinitely many primes of the form $4x-1$."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "13"
+    offset: "20"
+. id: "5e33c0f8981ec41bc6b27ba6"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "If $x\in\mathbf{R}$ and $n\in\mathbf{N}$, then there is a 
+   fraction $\displaystyle\frac{a}{b}$ in lowest terms such 
+   that $0<b\leq n$ and $$\left| x - \frac{a}{b} \right| \leq 
+   \frac{1}{b(n+1)}$$"
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "119"
+    offset: "126"
+. id: "5e33c0f8981ec41bc6b27ba1"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "A number $n\in\mathbf{Z}$ is divisible by $3$ if and only 
+   if the sum of the digits of $n$ is divisible by $3$."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "23"
+    offset: "30"
+. id: "5e33c0f8981ec41bc6b27ba8"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "Let $x\in\mathbf{R}$ be a real number. Then $x$ is the 
+   value of the (possibly infinite) simple continued fraction $
+   [a_0, a_1, a_2, \ldots] $ produced by the continued fraction
+   procedure."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "106"
+    offset: "113"
+. id: "5e33c0f8981ec41bc6b27bdb"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "Every natural number can be written as a product of primes 
+   uniquely up to order."
+Metadata:
+. name: "Fundamental Theorem of Arithmetic"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "3"
+    offset: "10"
+. id: "5e33c0f8981ec41bc6b27bc3"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "For any $a$ not divisible by $p$, $$ \displaystyle g_a^2 = 
+   (-1)^{(p-1)/2}p. $$"
+Metadata:
+. name: "Gauss Sum"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "82"
+    offset: "89"
+. id: "5e33c0f8981ec41bc6b27bc4"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "Every nonzero rational number can be represented by a 
+   simple continued fraction."
+Metadata:
+. name: "Rational Continued Fractions"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "100"
+    offset: "107"
+. id: "5e33c0f8981ec41bc6b27bcd"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "The group $E(\mathbf{Q})$ is finitely generated. That is, 
+   there are points $P_1,\ldots, P_s \in E(\mathbf{Q})$ such 
+   that every element of $E(\mathbf{Q})$ is of the form $n_1 
+   P_1 + \cdots + n_s P_s$ for integers $n_1, \ldots 
+   n_s\in\mathbf{Z}$."
+Metadata:
+. name: "Mordell"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "140"
+    offset: "147"
+. id: "5e33c0f8981ec41bc6b27be1"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "If $\gcd(x,n)=1$, then $$ x^{\varphi(n)} \equiv 1\pmod{n}. 
+   $$"
+Metadata:
+. name: "Euler's Theorem"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "26"
+    offset: "33"
+. id: "5e33c0f8981ec41bc6b27bcc"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "Let $p$ be a prime and $a, b\in \mathbf{N}$. If $p\mid ab$ 
+   then $p\mid a$ or $p\mid b$."
+Metadata:
+. name: "Euclid"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "7"
+    offset: "14"
+. id: "5e33c0f8981ec41bc6b27bc5"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "The even indexed convergents $c_{2n}$ increase strictly 
+   with $n$, and the odd indexed convergents $c_{2n+1}$ 
+   decrease strictly with $n$. Also, the odd indexed 
+   convergents $c_{2n+1}$ are greater than all of the even 
+   indexed convergents $c_{2m}$."
+Metadata:
+. name: "How Convergents Converge"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "99"
+    offset: "106"
+. id: "5e33c0f8981ec41bc6b27bcb"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "The binary operation $+$ defined in Algorithm~ endows the 
+   set $E(K)$ with an abelian group structure, with identity 
+   $\mathcal{O}$."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "126"
+    offset: "133"
+. id: "5e33c0f8981ec41bc6b27be0"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "Let $a, b\in\mathbf{Z}$ and $n,m\in\mathbf{N}$ such that 
+   $\gcd(n,m)=1$. Then there exists $x\in\mathbf{Z}$ such that 
+   \begin{align*} x&\equiv a\pmod{m},\\ x&\equiv b\pmod{n}. 
+   \end{align*} Moreover $x$ is unique modulo $mn$."
+Metadata:
+. name: "Chinese Remainder Theorem"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "29"
+    offset: "36"
+. id: "5e33c0f8981ec41bc6b27bce"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "Let $a_0,a_1,\ldots$ define a simple continued fraction, 
+   and let $x=[a_0,a_1,\ldots]\in\mathbf{R}$ be its value. Then
+   for all $m$, $$ \left| x - \frac{p_m}{q_m}\right| < 
+   \frac{1}{q_m \cdot q_{m+1}}. $$"
+Metadata:
+. name: "Convergence of continued fraction"
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "107"
+    offset: "114"
+. id: "5e33c0f8981ec41bc6b27b84"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "Suppose that $m,n\in\mathbf{N}$ and $\gcd(m,n)=1$. Then the
+   map \begin{equation} \psi: (\Z/mn\Z{})^* \rightarrow 
+   (\Z/m\Z{})^* \times (\Z/n\Z{})^*. \end{equation} defined by 
+   $$ \psi(c) = (c mod m, \,\,c mod n) $$ is a bijection."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "30"
+    offset: "37"
+. id: "5e33c0f8981ec41bc6b27b8c"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "For any integers $a$ and $b$, we have $$ \gcd(a,b)= 
+   \gcd(b,a) = \gcd(\pm a, \pm b) = \gcd(a,b-a) = \gcd(a,b+a). 
+   $$"
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "3"
+    offset: "10"
+. id: "5e33c0f8981ec41bc6b27b85"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "If $R$ is a complete set of residues modulo $n$ and 
+   $a\in\mathbf{Z}$ with $\gcd(a,n)=1$, then $aR = \{ax : x \in
+   R\}$ is also a complete set of residues modulo $n$."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "24"
+    offset: "31"
+. id: "5e33c0f8981ec41bc6b27b8b"
+. tag: "Number Theory"
+
+
+
+ProtoTheorem:
+. "Suppose $a,b\in(\Z/n\Z{})^*$ have orders $r$ and $s$, 
+   respectively, and that $\gcd(r,s)=1$. Then $ab$ has order 
+   $rs$."
+Metadata:
+. reference:
+  . source: "@ElementaryNumberTheoryPrimesCongruencesAndSecrets"
+    page: "42"
+    offset: "49"
+. id: "5e33c0f8981ec41bc6b27b8e"
+. tag: "Number Theory"
+
+
+
