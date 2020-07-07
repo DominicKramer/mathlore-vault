@@ -3,8 +3,10 @@ Represents:
 that:
 . or:
   . expands: X...
-    as: X
+    as:
+    . X
 Metadata:
+. id: "5f03f6322515352ee6235631"
 . written: "X{...\text{ or }...}?"
 
 
@@ -15,6 +17,8 @@ that:
 . exists: x...
   suchThat:
   . expands: y...
-    as: y
+    as:
+    . y
 Metadata:
+. id: "5f03f6322515352ee6235630"
 . written: "\exists \: x{...,...}? \: \text{ such that } y{...\text{ and }...}?"
