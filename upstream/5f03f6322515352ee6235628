@@ -1,0 +1,16 @@
+[x \noncommutative.binary.operator:on{S} y]
+Defines: *
+assuming:
+. 'S is \set'
+means:
+. '* is \binary.operator:on{S}'
+. exists: x, y
+  suchThat:
+  . 'x, y \in S'
+  . 'x * y \neq y * x'
+Metadata:
+. id: "5f03f6322515352ee6235628"
+. reference:
+  . source: "@FriendlyIntroToAbstractAlgebra"
+    page: "11"
+

@@ -1,0 +1,17 @@
+[x \commutative.binary.operator:on{S} y]
+Defines: *
+assuming:
+. 'S is \set'
+means:
+. '* is \binary.operator:on{S}'
+. for: x, y
+  where:
+  . 'x, y \in S'
+  then:
+  . 'x * y = y * x'
+Metadata:
+. id: "5f03f6322515352ee6235627"
+. reference:
+  . source: "@FriendlyIntroToAbstractAlgebra"
+    page: "11"
+

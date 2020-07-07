@@ -1,0 +1,12 @@
+[x \binary.operator:on{S} y]
+Defines: *
+assuming:
+. 'S is \set'
+means:
+. 'S is \function:on{S \cartesian.set.product S}to{S}'
+Metadata:
+. id: "5f03f6322515352ee6235626"
+. reference:
+  . source: "@FriendlyIntroToAbstractAlgebra"
+    page: "9"
+

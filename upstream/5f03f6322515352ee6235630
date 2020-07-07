@@ -1,0 +1,12 @@
+[\exsts{x...}:suchThat{y}...]
+Represents:
+that:
+. exists: x...
+  suchThat:
+  . expands: y...
+    as:
+    . y
+Metadata:
+. id: "5f03f6322515352ee6235630"
+. written: "\exists \: x{...,...}? \: \text{ such that } y{...\text{ and }...}?"
+

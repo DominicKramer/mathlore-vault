@@ -1,0 +1,14 @@
+[x \associative.binary.operator:on{S} y]
+Defines: *
+assuming:
+. 'S is \set'
+means:
+. '* is \binary.operator:on{S}'
+. for: x, y, z
+  where:
+  . 'x, y, z \in S'
+  then:
+  . 'x * (y * z) = (x * y) * z'
+Metadata:
+. id: "5f03f6322515352ee623562a"
+
