@@ -7,11 +7,16 @@ means:
   where:
   . 'a \in A'
   then:
-  . exists: b
-    suchThat:
-    . 'b is \unique'
-    . 'f(a) = b'
+  . 'f(a) \in B'
+. for: a, b1, b2
+  where:
+  . 'a \in A'
+  . 'b, b2 \in B'
+  . 'f(a) = b1'
+  . 'f(a) = b2'
+  then:
+  . 'b1 = b2'
 Metadata:
 . id: "5e05ac2cb664bf5c9580608e"
-. written: "\cdot \: : \: A?? \rightarrow B??"
+. written: "\cdot : A? \rightarrow B?"
 

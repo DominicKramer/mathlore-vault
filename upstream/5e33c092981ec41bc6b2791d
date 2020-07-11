@@ -4,6 +4,9 @@ ProtoTheorem:
 Metadata:
 . reference:
   . source: "@TrenchRealAnalysis"
+    page: "24"
+    offset: "33"
+  . source: "@TrenchRealAnalysis"
     page: "526"
     offset: "535"
 . id: "5e33c092981ec41bc6b2791d"

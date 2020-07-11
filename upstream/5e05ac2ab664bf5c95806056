@@ -1,10 +1,13 @@
 [\function.range:of{f}]
-Defines: X
+Defines: R
 assuming:
-. 'f is \function'
+. exists: X, Y
+  suchThat:
+  . 'f is \function:on{X}to{Y}'
 means:
-. 'X = \set[x]{f(x)}{f \in \function.domain:of{f}}'
+. 'R := \set[y]:of{y}where{y \in Y}{\exsts{x}:suchThat{x \in X}{f(x) = y}}'
 Metadata:
+. written: "\text{Range}(f?)"
 . reference:
   . source: "@AATA"
     page: "7"
