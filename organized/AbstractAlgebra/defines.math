@@ -439,32 +439,15 @@ Metadata:
 
 [x \binary.operator:on{S} y]
 Defines: *
-assuming: 'S is \set'
-means:
-. 'S is \function:on{S \cartesian.set.product S}to{S}'
-Metadata:
-. reference:
-  . source: "@FriendlyIntroToAbstractAlgebra"
-    page: "9"
-
-
-
-[x \commutative.binary.operator:on{S} y]
-Defines: *
 assuming:
 . 'S is \set'
 means:
-. '* is \binary.operator:on{S}'
-. for: x, y
-  where:
-  . 'x, y \in S'
-  then:
-  . 'x * y = y * x'
+. 'S is \function:on{S \cartesian.set.product S}to{S}'
 Metadata:
-. id: "5f03f6322515352ee6235622"
+. id: "5f03f6322515352ee6235626"
 . reference:
   . source: "@FriendlyIntroToAbstractAlgebra"
-    page: "11"
+    page: "9"
 
 
 
@@ -494,7 +477,7 @@ assuming:
 means:
 . 'Zn := \finite.set:of{0...(n-1)}'
 Metadata:
-. id: "5f03f6322515352ee6235624"
+. id: "5f03f6322515352ee6235629"
 
 
 
@@ -510,4 +493,4 @@ means:
   then:
   . 'x * (y * z) = (x * y) * z'
 Metadata:
-. id: "5f03f6322515352ee6235625"
+. id: "5f03f6322515352ee623562a"

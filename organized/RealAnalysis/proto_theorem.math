@@ -2276,6 +2276,9 @@ ProtoTheorem:
 Metadata:
 . reference:
   . source: "@TrenchRealAnalysis"
+    page: "24"
+    offset: "33"
+  . source: "@TrenchRealAnalysis"
     page: "526"
     offset: "535"
 . id: "5e33c092981ec41bc6b2791d"
@@ -4780,19 +4783,6 @@ Metadata:
     page: "69"
     offset: "78"
 . id: "5e33c093981ec41bc6b2799e"
-. tag: "Real Analysis"
-
-
-
-ProtoTheorem:
-. "A set is closed if and only if it contains all its limit 
-   points."
-Metadata:
-. reference:
-  . source: "@TrenchRealAnalysis"
-    page: "24"
-    offset: "33"
-. id: "5e33c093981ec41bc6b27950"
 . tag: "Real Analysis"
 
 

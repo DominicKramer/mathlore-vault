@@ -29,20 +29,6 @@ means:
 
 
 
-[\function.domain:of{f}]
-Defines: D
-assuming:
-. exists: X, Y
-  suchThat:
-  . 'f is \function:on{X}to{Y}'
-means:
-. 'D is \set'
-. 'D = X'
-Metadata:
-. written: "\text{Dom}(f?)"
-
-
-
 [\function.range:of{f}]
 Defines: R
 assuming:
