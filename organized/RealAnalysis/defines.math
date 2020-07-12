@@ -188,8 +188,7 @@ means:
 . 'X is \set[x]{x}{x \geq a}'
 Metadata:
 . written:
-  . "[a&"
-  . " \infty)"
+  . "[a?, \infty)"
 . tag:
   . "Analysis"
   . "Real Analysis"
@@ -332,7 +331,7 @@ means:
   . 'H is \finite.hilbert.space{n}:over{\complexes}'
 Metadata:
 . name: "Real or Complex $N$-dimensional Hilbert Space"
-. written: "\mathcal{H}^{N&}"
+. written: "\mathcal{H}^{N??}"
 . reference:
   . source: "@9dbff6446e1a4aeaaea5ab251569b173"
     page: "5"
