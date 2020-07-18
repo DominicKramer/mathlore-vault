@@ -1,0 +1,144 @@
+
+[\sigmaalgebra]
+Defines: B
+means: "TODO"
+Metadata:
+. written: "\textrm{sigma algebra}"
+
+
+[\measurable.space]
+Defines: (X, B)
+means:
+. 'X is \set'
+. 'B is \sigmaalgebra'
+Metadata:
+. written: "\textrm{measurable space}"
+
+
+
+[\measurable.function:on{A}to{B}]
+Defines: f(x)
+means: "TODO"
+Metadata:
+. written: "\textrm{mesureable function on } A? \textrm{ to } B?"
+
+
+[\random.variable:on{Q := (Omega, F, P)}]
+Defines: X
+assuming:
+. 'Q is \probability.space'
+means:
+. exists: S, B
+  suchThat:
+  . '(S, B) is \measurable.space'
+  . 'X is \measurable.function:on{Omega}to{S}'
+Metadata:
+. note:
+  . "$\Omega?$ is the sample space.  That is, it
+     denotes all of the possible outcomes of an
+     experiment.  A random variable associates
+     each possible outcome $\omega$ to an element of
+     $S?$ (called the $realization$ of $\omega$)."
+  . "$S?$ is the state space (and is often $\mathbb{R}$).
+     For example $X?$ might be a random variable that
+     describes when the sum of the roll of two dice is
+     even.  Then
+     \[
+       \Omega? = \{ (i,j) \: : \: i,j=1,\ldots,6 \}
+     \]
+     represents all possible rolls of two dice and
+     \[
+       E? = \{ i + j \: : \: i,j=1,\ldots,6 \}
+     \]
+     represents the sum of the two dice."
+  . "$P(X = a)$, which is the probablity that the random
+     variable $X$ has the value $a$ is short for
+     \[
+       P(\{ \omega \in \Omega \: : \: X(\omega) = a \})
+     \]"
+
+
+[\binomial.coefficient{n, k}]
+Defines: x
+means:
+. 'x := \frac{n!}{k!*(n-k)!}'
+Metadata:
+. written: "\binom{n}{k}"
+
+
+
+[\event]
+Defines: E
+means: "$E?$ is a possible outcome from an experiment"
+Metadata:
+. written: "\textrm{event}"
+
+
+[\random.variable{X}:equals{a}]
+Defines: E
+assuming:
+. 'X is \random.variable:on{Q := (Omega, F, P)}'
+means:
+. 'E is \event'
+. "The event where the random variable $X?$ equals $a?$."
+Metadata:
+. written: "X? = a?"
+
+
+
+[\probability(X)]
+Defines: P(X)
+assuming: 'X is \event'
+means: "$P?$ maps to any event the probability of that event ocuring."
+Metadata:
+. written: "P(X?)"
+
+
+
+[\probability{X}:given{Y}]
+Defines: P(X)
+assuming: 'X, Y is \event'
+means:
+. "Specifies the probability of $X?$ ocurring knowing that $Y?$ has occured."
+Metadata:
+. written: "P(X? | Y?)"
+
+
+
+[A \probability.and B]
+Defines: C
+assuming:
+. 'A, B is \event'
+means:
+. "The event where both $A?$ and $B?$ occur"
+Metadata:
+. written: "A?? \cap B??"
+
+
+
+[A \probability.or B]
+Defines: C
+assuming:
+. 'A, B is \event'
+means:
+. "The event where $A?$ or $B?$ occurs"
+Metadata:
+. written: "A?? \cup B??"
+
+
+
+[\probability(X):and{Y}]
+Defines: P(X)
+means:
+. 'P := \probability(X \probability.and Y)'
+Metadata:
+. written: "P(X?? \cap Y??)"
+
+
+
+[\probability{X}:or{Y}]
+Defines: P
+means:
+. 'P := \probability(X \probability.or Y)'
+Metadata:
+. written: "P(X?? \cup Y??)"

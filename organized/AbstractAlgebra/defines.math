@@ -2,14 +2,13 @@
 [\finite.group]
 Defines: G := (X, *, e)
 means:
-. 'G is \group'
-. 'X is \finite \set'
+. 'X is \finite.set'
 Metadata:
+. id: "5e05ac2bb664bf5c9580606d"
 . reference:
   . source: "@AATA"
     page: "36"
     offset: "50"
-. id: "5e05ac2bb664bf5c9580606d"
 
 
 
@@ -17,13 +16,13 @@ Metadata:
 Defines: G := (X, *, e)
 means:
 . 'G is \group'
-. 'X is \infinite \set'
+. 'X is \infinite.set'
 Metadata:
+. id: "5e05ac2bb664bf5c9580606e"
 . reference:
   . source: "@AATA"
     page: "36"
     offset: "50"
-. id: "5e05ac2bb664bf5c9580606e"
 
 
 
@@ -33,7 +32,7 @@ means:
 . 'n is \integer'
 . 'n > 0'
 Metadata:
-. written: "\mathbb{Z}^+"
+. written: "\textrm{a positive integer}"
 . id: "5e05ac2ab664bf5c95806060"
 
 
@@ -50,7 +49,7 @@ Metadata:
 [\identity.matrix{n}]
 Defines: M(i, j)
 assuming:
-. 'i, j is \positive \integer'
+. 'i, j is \positive.integer'
 means:
 . 'M is \matrix'
 . if:
@@ -59,11 +58,11 @@ means:
   . 'M(i, j) = 0'
 . 'M(i, i) = 1'
 Metadata:
+. id: "5e05ac2ab664bf5c95806066"
 . reference:
   . source: "@AATA"
     page: "35"
     offset: "49"
-. id: "5e05ac2ab664bf5c95806066"
 
 
 
@@ -84,11 +83,11 @@ means:
   suchThat:
   . 'M * A = \identity.matrix'
 Metadata:
+. id: "5e05ac2ab664bf5c95806068"
 . reference:
   . source: "@AATA"
     page: "35"
     offset: "49"
-. id: "5e05ac2ab664bf5c95806068"
 
 
 
@@ -103,11 +102,11 @@ means:
   then:
   . 'x is \ring.unit:in{R}'
 Metadata:
+. id: "5e05ac2bb664bf5c95806076"
 . reference:
   . source: "@AATA"
     page: "200"
     offset: "214"
-. id: "5e05ac2bb664bf5c95806076"
 
 
 
@@ -144,11 +143,11 @@ means:
 . '(X, +, *, 0) is \commutative \ring'
 . '(X, +, *, 0, 1) is \division \with.identity.ring'
 Metadata:
+. id: "5e05ac2bb664bf5c95806077"
 . reference:
   . source: "@AATA"
     page: "200"
     offset: "214"
-. id: "5e05ac2bb664bf5c95806077"
 
 
 
@@ -185,12 +184,12 @@ means:
     then:
     . 'a * c < b * c'
 Metadata:
+. id: "5e05ac2bb664bf5c95806079"
+. tag: "Real Analysis"
 . reference:
   . source: "@TrenchRealAnalysis"
     page: "2"
     offset: "11"
-. id: "5e05ac2bb664bf5c95806079"
-. tag: "Real Analysis"
 
 
 
@@ -204,11 +203,11 @@ assuming:
 means:
 . 'X = \set[M]{M}{M is \invertible.matrix}'
 Metadata:
+. id: "5e05ac2bb664bf5c95806069"
 . reference:
   . source: "@AATA"
     page: "35"
     offset: "49"
-. id: "5e05ac2bb664bf5c95806069"
 
 
 
@@ -219,11 +218,11 @@ assuming:
 means:
 . 'n = \set.cardinality:of{X}'
 Metadata:
+. id: "5e05ac2bb664bf5c9580606f"
 . reference:
   . source: "@AATA"
     page: "36"
     offset: "50"
-. id: "5e05ac2bb664bf5c9580606f"
 
 
 
@@ -234,11 +233,11 @@ assuming:
 means:
 . 'f is \bijective \function:on{S}to{S}'
 Metadata:
+. id: "5e05ac2ab664bf5c9580605b"
 . reference:
   . source: "@AATA"
     page: "9"
     offset: "23"
-. id: "5e05ac2ab664bf5c9580605b"
 
 
 
@@ -271,11 +270,11 @@ means:
     then:
     . '(x, z) \in R'
 Metadata:
+. id: "5e05ac2ab664bf5c9580605e"
 . reference:
   . source: "@AATA"
     page: "11"
     offset: "25"
-. id: "5e05ac2ab664bf5c9580605e"
 
 
 
@@ -289,11 +288,11 @@ means:
   then:
   . 'a * b = b * a'
 Metadata:
+. id: "5e05ac2ab664bf5c95806064"
 . reference:
   . source: "@AATA"
     page: "34"
     offset: "48"
-. id: "5e05ac2ab664bf5c95806064"
 
 
 
@@ -323,11 +322,11 @@ means:
     . 'b \in X'
     . 'a * b = b * a = e'
 Metadata:
+. id: "5e05ac2ab664bf5c95806063"
 . reference:
   . source: "@AATA"
     page: "34"
     offset: "48"
-. id: "5e05ac2ab664bf5c95806063"
 
 
 
@@ -338,11 +337,11 @@ assuming:
 means:
 . '* is \function:on{G \set.cartesian.product G}to{G}'
 Metadata:
+. id: "5e05ac2ab664bf5c95806062"
 . reference:
   . source: "@AATA"
     page: "33"
     offset: "47"
-. id: "5e05ac2ab664bf5c95806062"
 
 
 
@@ -368,11 +367,11 @@ means:
   then:
   . '1*x = x*1 = x'
 Metadata:
+. id: "5e05ac2bb664bf5c95806072"
 . reference:
   . source: "@AATA"
     page: "199"
     offset: "213"
-. id: "5e05ac2bb664bf5c95806072"
 
 
 
@@ -387,11 +386,11 @@ means:
   . 'b is \unique'
   . 'u*b = b*u = 1'
 Metadata:
+. id: "5e05ac2bb664bf5c95806075"
 . reference:
   . source: "@AATA"
     page: "200"
     offset: "214"
-. id: "5e05ac2bb664bf5c95806075"
 
 
 
@@ -411,11 +410,11 @@ means:
       . 'x = 0'
       . 'y = 0'
 Metadata:
+. id: "5e05ac2bb664bf5c95806074"
 . reference:
   . source: "@AATA"
     page: "200"
     offset: "214"
-. id: "5e05ac2bb664bf5c95806074"
 
 
 
@@ -429,11 +428,11 @@ means:
   then:
   . 'x*y = y*x'
 Metadata:
+. id: "5e05ac2bb664bf5c95806073"
 . reference:
   . source: "@AATA"
     page: "199"
     offset: "213"
-. id: "5e05ac2bb664bf5c95806073"
 
 
 

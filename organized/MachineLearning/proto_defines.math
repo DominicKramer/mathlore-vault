@@ -1,0 +1,39 @@
+
+ProtoDefines:
+. "\term{Supervised learning} defines problems where you know the
+   ground truth label for your data in advance."
+Metadata:
+. note:
+  . "For example, this could include a problem where you need to
+     identify if an image is of a cat and you already have a
+     collection of images with the correct labels of whether or
+     not each image is a cat."
+
+
+ProtoDefines:
+. "With \term{unsupervised learning}, you do not know the labels for
+   your data in advance, and the goal is to build a model that can
+   find natural groupings of your data (called clustering), compress
+   the information content (dimensionality reduction) or find association
+   rules."
+
+
+
+ProtoDefines:
+. "\term{Classification models} assign your input data a label (or labels)
+   from a discrete, predefined set of categories."
+Metadata:
+. note:
+  . "Examples of classification problems include determining the type of
+     pet breed in an image, tagging a document, or predicting whether or
+     not a transaction is fraudulent."
+
+
+
+ProtoDefines:
+. "\term{Regression models} assign continuous, numerical values to your
+   inputs."
+Metadata:
+. note:
+  . "Examples of regression models include predicting the duration of a bike
+     trip, a company’s future revenue, or the price of a product."
