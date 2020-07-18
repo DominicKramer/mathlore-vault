@@ -1,14 +1,9 @@
-
-[\set]
-Defines: X
-means:
-. "$X?$ is well defined collection of objects"
+[\powerset{X}]
+Defines: P
+means: 'P := \set[Y]:of{Y}where{Y \subset X}'
 Metadata:
-. id: "5e05ac29b664bf5c9580604d"
-. reference:
-  . source: "@AATA"
-    page: "3"
-    offset: "17"
+. id: "5f12666ff305ea0d2f4ff543"
+. written: "\mathcal{P}(X?)"
 
 
 

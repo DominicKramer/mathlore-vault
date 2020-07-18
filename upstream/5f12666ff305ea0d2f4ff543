@@ -1,0 +1,8 @@
+[\powerset{X}]
+Defines: P
+means:
+. 'P := \set[Y]:of{Y}where{Y \subset X}'
+Metadata:
+. id: "5f12666ff305ea0d2f4ff543"
+. written: "\mathcal{P}(X?)"
+

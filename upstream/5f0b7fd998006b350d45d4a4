@@ -1,0 +1,14 @@
+[e60297f8cbad431cb25924b0238bc761]
+Resource:
+. type: "Book"
+. name: "Introductory Statistics"
+. author:
+  . "Barbara Illowsky"
+  . "Susan Dean"
+. homepage: "https://openstax.org/details/books/introductory-statistics"
+. url: "https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/IntroductoryStatistics-OP_LXn0jei.pdf"
+. offset: "9"
+Metadata:
+. id: "5f0b7fd998006b350d45d4a4"
+. tag: "Statistics"
+

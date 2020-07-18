@@ -4,7 +4,7 @@ assuming:
 . 'F is \set'
 . 'm, n is \positive \integer'
 means:
-. "an $m&$ by $n&$ grid of elements from the set $F&$"
+. "an $m?$ by $n?$ grid of elements from the set $F?$"
 Metadata:
 . id: "5e05ac2ab664bf5c95806065"
 

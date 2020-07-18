@@ -3,9 +3,9 @@ Represents:
 assuming:
 . 'X is \set'
 that:
-. "$a&$ is an element of $X&$"
+. "$a?$ is an element of $X?$"
 Metadata:
-. written: "a& \in X&"
+. written: "a? \in X?"
 . reference:
   . source: "@AATA"
     page: "4"

@@ -5,9 +5,7 @@ assuming:
 means:
 . 'X is \set[x]{x}{x \geq a}'
 Metadata:
-. written:
-  . "[a&"
-  . " \infty)"
+. written: "[a?, \infty)"
 . tag:
   . "Analysis"
   . "Real Analysis"

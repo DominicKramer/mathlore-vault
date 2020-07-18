@@ -2,7 +2,7 @@
 Defines: X
 means:
 . 'X is \set'
-. "$X&$ has a finite number of elements"
+. "$X?$ has a finite number of elements"
 Metadata:
 . reference:
   . source: "@AATA"

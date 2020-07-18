@@ -6,7 +6,7 @@ that:
 . 'A \subset B'
 . 'A \neq B'
 Metadata:
-. written: "A& \subsetneq B&"
+. written: "A? \subsetneq B?"
 . reference:
   . source: "@AATA"
     page: "4"

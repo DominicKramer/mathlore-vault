@@ -9,7 +9,7 @@ that:
   then:
   . 'a \in B'
 Metadata:
-. written: "A& \subset B&"
+. written: "A? \subset B?"
 . reference:
   . source: "@AATA"
     page: "4"
