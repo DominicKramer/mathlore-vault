@@ -184,11 +184,3 @@ Metadata:
 . reference:
   . source: "@AATA"
     page: "5"
-
-
-
-[\powerset{X}]
-Defines: P
-means: 'P := \set[Y]:of{Y}where{Y \subset X}'
-Metadata:
-. written: "\mathcal{P}(X?)"
